@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Recipe_AdministerSuppository_Immunity.label>[Raven] administer Suppository (Immunity)</Raven_Recipe_AdministerSuppository_Immunity.label>
+  <Raven_Recipe_AdministerSuppository_Immunity.label>(Raven) administer Suppository (Immunity)</Raven_Recipe_AdministerSuppository_Immunity.label>
   <Raven_Recipe_AdministerSuppository_Immunity.description>Surgically implant a specially-made raven suppository into the patient. This method is more reliable than self-administration and has no risk of failure.</Raven_Recipe_AdministerSuppository_Immunity.description>
-  <Raven_Recipe_AdministerSuppository_Emergency.label>[Raven] administer Suppository (Emergency)</Raven_Recipe_AdministerSuppository_Emergency.label>
+  <Raven_Recipe_AdministerSuppository_Emergency.label>(Raven) administer Suppository (Emergency)</Raven_Recipe_AdministerSuppository_Emergency.label>
   <Raven_Recipe_AdministerSuppository_Emergency.description>Implant an emergency suppository into the target to temporarily slow blood loss and maintain consciousness.</Raven_Recipe_AdministerSuppository_Emergency.description>
-  <Raven_Recipe_AdministerMiracleHeal.label>[Raven] inject Potential-Extraction Serum</Raven_Recipe_AdministerMiracleHeal.label>
+  <Raven_Recipe_AdministerMiracleHeal.label>(Raven) inject Potential-Extraction Serum</Raven_Recipe_AdministerMiracleHeal.label>
   <Raven_Recipe_AdministerMiracleHeal.description>Inject this dangerous drug to instantly heal all wounds. Warning: the subject will immediately lose combat capability and fall into a prolonged abnormal state.</Raven_Recipe_AdministerMiracleHeal.description>
 </LanguageData>

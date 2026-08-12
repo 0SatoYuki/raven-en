@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Item_HypnosisApp.label>[Raven] Hypnosis App Device</Raven_Item_HypnosisApp.label>
+  <Raven_Item_HypnosisApp.label>(Raven) Hypnosis App Device</Raven_Item_HypnosisApp.label>
   <Raven_Item_HypnosisApp.description>A portable terminal loaded with an illegal software called "Crimson Dream". It is a single-use consumable.\n\nWhen used, aim it at the target to perform a "biometric lock". Once successfully locked, the user's biological waves will establish a permanent "Hypnotic Link" with the target's subconscious.\n\nAfterward, the user can use the terminal's background privileges to force the target to execute specific physical commands anytime, anywhere.</Raven_Item_HypnosisApp.description>
 </LanguageData>

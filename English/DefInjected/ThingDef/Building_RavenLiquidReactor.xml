@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Building_LiquidReactor.label>[Raven] High-Pressure Liquid Reactor</Raven_Building_LiquidReactor.label>
+  <Raven_Building_LiquidReactor.label>(Raven) High-Pressure Liquid Reactor</Raven_Building_LiquidReactor.label>
   <Raven_Building_LiquidReactor.description>Raven industrial equipment used for processing high-temperature and high-pressure liquid reactions. The reactor can receive various liquids through pipe input ports, and react lava and clean water into obsidian.</Raven_Building_LiquidReactor.description>
 </LanguageData>

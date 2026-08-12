@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Apparel_ScoutArmor.label>[Raven] Scout Armor</Raven_Apparel_ScoutArmor.label>
+  <Raven_Apparel_ScoutArmor.label>(Raven) Scout Armor</Raven_Apparel_ScoutArmor.label>
   <Raven_Apparel_ScoutArmor.description>The standard scout armor of the Raven Fusang organization.</Raven_Apparel_ScoutArmor.description>
-  <Raven_Apparel_ScoutHelmet.label>[Raven] Scout Helmet</Raven_Apparel_ScoutHelmet.label>
+  <Raven_Apparel_ScoutHelmet.label>(Raven) Scout Helmet</Raven_Apparel_ScoutHelmet.label>
   <Raven_Apparel_ScoutHelmet.description>The standard scout helmet of the Raven Fusang organization.</Raven_Apparel_ScoutHelmet.description>
 </LanguageData>

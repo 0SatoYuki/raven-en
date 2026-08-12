@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Bullet_WishdaleShell.label>[Raven] Wishdale Heavy Shell</Raven_Bullet_WishdaleShell.label>
-  <Raven_Bullet_WeedyCannonShell.label>[Raven] Weedy Liquid Nitrogen Shell</Raven_Bullet_WeedyCannonShell.label>
-  <Raven_Bullet_FlameTurretShell.label>[Raven] Flame Incendiary Shell</Raven_Bullet_FlameTurretShell.label>
+  <Raven_Bullet_WishdaleShell.label>(Raven) Wishdale Heavy Shell</Raven_Bullet_WishdaleShell.label>
+  <Raven_Bullet_WeedyCannonShell.label>(Raven) Weedy Liquid Nitrogen Shell</Raven_Bullet_WeedyCannonShell.label>
+  <Raven_Bullet_FlameTurretShell.label>(Raven) Flame Incendiary Shell</Raven_Bullet_FlameTurretShell.label>
 </LanguageData>

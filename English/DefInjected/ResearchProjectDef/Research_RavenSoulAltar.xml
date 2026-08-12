@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RavenResearch_Cradle.label>[Raven] Primitive Cradle</RavenResearch_Cradle.label>
+  <RavenResearch_Cradle.label>(Raven) Primitive Cradle</RavenResearch_Cradle.label>
   <RavenResearch_Cradle.description>Unlocks the primitive cradle, the basic infrastructure for incubating Raven spirit eggs.</RavenResearch_Cradle.description>
-  <RavenResearch_Altar_Core.label>[Raven] Ancient Hatching Ritual</RavenResearch_Altar_Core.label>
+  <RavenResearch_Altar_Core.label>(Raven) Ancient Hatching Ritual</RavenResearch_Altar_Core.label>
   <RavenResearch_Altar_Core.description>Unlocks the core cradle for the Raven Fusang Birth Altar.</RavenResearch_Altar_Core.description>
-  <RavenResearch_Altar_Infusion.label>[Raven] External Infusion</RavenResearch_Altar_Infusion.label>
+  <RavenResearch_Altar_Infusion.label>(Raven) External Infusion</RavenResearch_Altar_Infusion.label>
   <RavenResearch_Altar_Infusion.description>Unlocks the Infuser Base.</RavenResearch_Altar_Infusion.description>
-  <RavenResearch_Altar_Resonance.label>[Raven] Radiance Resonance Principle</RavenResearch_Altar_Resonance.label>
+  <RavenResearch_Altar_Resonance.label>(Raven) Radiance Resonance Principle</RavenResearch_Altar_Resonance.label>
   <RavenResearch_Altar_Resonance.description>Unlocks the Radiance Resonance Pile.</RavenResearch_Altar_Resonance.description>
-  <RavenResearch_Altar_Transformation.label>[Raven] Bloodline Refinement</RavenResearch_Altar_Transformation.label>
+  <RavenResearch_Altar_Transformation.label>(Raven) Bloodline Refinement</RavenResearch_Altar_Transformation.label>
   <RavenResearch_Altar_Transformation.description>Unlocks the Transcendent Infuser.</RavenResearch_Altar_Transformation.description>
 </LanguageData>

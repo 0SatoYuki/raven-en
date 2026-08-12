@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Hediff_ShadowAttackCooldown.label>[Raven] Shadow Cooldown</Raven_Hediff_ShadowAttackCooldown.label>
+  <Raven_Hediff_ShadowAttackCooldown.label>(Raven) Shadow Cooldown</Raven_Hediff_ShadowAttackCooldown.label>
   <Raven_Hediff_ShadowAttackCooldown.description>The bearer just unleashed a lethal strike and is now regrouping. Movement speed is extremely fast during this time, but no further attacks can be launched.</Raven_Hediff_ShadowAttackCooldown.description>
 </LanguageData>

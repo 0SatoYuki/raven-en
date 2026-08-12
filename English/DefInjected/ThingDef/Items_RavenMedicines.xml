@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Item_Suppository_Immunity.label>[Raven] Immunity Suppository</Raven_Item_Suppository_Immunity.label>
+  <Raven_Item_Suppository_Immunity.label>(Raven) Immunity Suppository</Raven_Item_Suppository_Immunity.label>
   <Raven_Item_Suppository_Immunity.description>A special suppository made from a mix of Raven Seven-Emotions Herb leaves, herbal medicine, and unfertilized Raven Spirit Eggs. Although it sounds like medicine, its shape and usage method are closer to a certain.... toy...\n\nOnce used, it slowly heals wounds across the body and boosts immunity, but it comes with a noticeable foreign body sensation and side effects.\n\nIt can be administered via surgery or directly inserted into a target. It cannot be swallowed like normal medicine.</Raven_Item_Suppository_Immunity.description>
-  <Raven_Item_Suppository_Emergency.label>[Raven] Emergency Suppository</Raven_Item_Suppository_Emergency.label>
+  <Raven_Item_Suppository_Emergency.label>(Raven) Emergency Suppository</Raven_Item_Suppository_Emergency.label>
   <Raven_Item_Suppository_Emergency.description>A battlefield emergency suppository used by Raven medics. Once absorbed, it slows blood loss and improves consciousness at the cost of movement speed, buying time for severely injured patients to receive proper treatment.</Raven_Item_Suppository_Emergency.description>
-  <Raven_Item_MiracleHeal.label>[Raven] Miracle Serum</Raven_Item_MiracleHeal.label>
+  <Raven_Item_MiracleHeal.label>(Raven) Miracle Serum</Raven_Item_MiracleHeal.label>
   <Raven_Item_MiracleHeal.description>An extremely dangerous but highly effective mixed serum. It combines highly concentrated Raven Aphrodisiac Extract, glitterworld medicine, and Raven Oxytocin.\n\nIt works by instantly awakening the body's potential to accelerate cell regeneration, instantly healing all wounds except for missing body parts.\n\nSide effect: The patient will fall into a state of intense excitement and delirium that lasts for a whole day. It can only be administered via surgery.</Raven_Item_MiracleHeal.description>
 </LanguageData>

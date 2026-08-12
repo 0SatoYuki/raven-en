@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Hediff_PurificationBonus_Stage1.label>[Raven] Nascent Sunfire</Raven_Hediff_PurificationBonus_Stage1.label>
+  <Raven_Hediff_PurificationBonus_Stage1.label>(Raven) Nascent Sunfire</Raven_Hediff_PurificationBonus_Stage1.label>
   <Raven_Hediff_PurificationBonus_Stage1.description>Pushing past mortal limits, the Raven Golden Crow bloodline begins to awaken. This warm power permanently improves the physique.\n\nEffects:\n- Move speed +0.2\n- Max comfortable temperature +10C\n- Unlocks ability: Golden Crow Fireball</Raven_Hediff_PurificationBonus_Stage1.description>
-  <Raven_Hediff_PurificationBonus_Stage2.label>[Raven] Flaming Plumage</Raven_Hediff_PurificationBonus_Stage2.label>
+  <Raven_Hediff_PurificationBonus_Stage2.label>(Raven) Flaming Plumage</Raven_Hediff_PurificationBonus_Stage2.label>
   <Raven_Hediff_PurificationBonus_Stage2.description>As the Raven Golden Crow blood thickens, the body's feathers flicker with a faint firelight, and their blood flows as hot as magma.\n\nEffects:\n- Move speed +0.5\n- Max comfortable temperature +25C\n- Unlocks ability: Mass Ignite (keeps Golden Crow Fireball)</Raven_Hediff_PurificationBonus_Stage2.description>
-  <Raven_Hediff_PurificationBonus_Stage3.label>[Raven] Proto-Sun</Raven_Hediff_PurificationBonus_Stage3.label>
+  <Raven_Hediff_PurificationBonus_Stage3.label>(Raven) Proto-Sun</Raven_Hediff_PurificationBonus_Stage3.label>
   <Raven_Hediff_PurificationBonus_Stage3.description>The body's energy circuits have been completely remodeled, allowing them to directly absorb heat from the environment.\n\nEffects:\n- Move speed +0.8\n- Max comfortable temperature +50C</Raven_Hediff_PurificationBonus_Stage3.description>
 </LanguageData>

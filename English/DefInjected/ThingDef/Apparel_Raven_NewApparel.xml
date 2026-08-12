@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Apparel_CatUnderwear.label>[Raven] Cat Underwear</Raven_Apparel_CatUnderwear.label>
+  <Raven_Apparel_CatUnderwear.label>(Raven) Cat Underwear</Raven_Apparel_CatUnderwear.label>
   <Raven_Apparel_CatUnderwear.description>Lightweight underwear featuring a cat-style design.</Raven_Apparel_CatUnderwear.description>
-  <Raven_Apparel_SuccubusNunHabit.label>[Raven] Succubus Nun Habit</Raven_Apparel_SuccubusNunHabit.label>
+  <Raven_Apparel_SuccubusNunHabit.label>(Raven) Succubus Nun Habit</Raven_Apparel_SuccubusNunHabit.label>
   <Raven_Apparel_SuccubusNunHabit.description>A lightweight outerwear piece that blends a succubus style with a nun's habit cut.</Raven_Apparel_SuccubusNunHabit.description>
-  <Raven_Apparel_RavenCape.label>[Raven] Cape</Raven_Apparel_RavenCape.label>
+  <Raven_Apparel_RavenCape.label>(Raven) Cape</Raven_Apparel_RavenCape.label>
   <Raven_Apparel_RavenCape.description>A lightweight Raven-style cape, featuring separate tailored cuts for male and female wearers.</Raven_Apparel_RavenCape.description>
 </LanguageData>

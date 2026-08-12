@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Building_Conveyor.label>[Raven] Conveyor Belt</Raven_Building_Conveyor.label>
+  <Raven_Building_Conveyor.label>(Raven) Conveyor Belt</Raven_Building_Conveyor.label>
   <Raven_Building_Conveyor.description>Transports virtual items on the logic layer selected by the current build icon, and does not connect with other layers.</Raven_Building_Conveyor.description>
-  <Raven_Building_ConveyorSplitter.label>[Raven] Conveyor Splitter</Raven_Building_ConveyorSplitter.label>
+  <Raven_Building_ConveyorSplitter.label>(Raven) Conveyor Splitter</Raven_Building_ConveyorSplitter.label>
   <Raven_Building_ConveyorSplitter.description>Receives items from the yellow direction and splits them fairly among up to three other actually connected directions on the current logic layer.</Raven_Building_ConveyorSplitter.description>
-  <Raven_Building_ConveyorMerger.label>[Raven] Conveyor Merger</Raven_Building_ConveyorMerger.label>
+  <Raven_Building_ConveyorMerger.label>(Raven) Conveyor Merger</Raven_Building_ConveyorMerger.label>
   <Raven_Building_ConveyorMerger.description>Receives items from up to three same-layer conveyors from the yellow directions, merges them fairly, and outputs them from the green direction.</Raven_Building_ConveyorMerger.description>
 </LanguageData>

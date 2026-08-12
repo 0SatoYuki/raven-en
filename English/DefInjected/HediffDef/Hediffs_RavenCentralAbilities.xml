@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_CentralAbility_NeuralResonance_I.label>[Raven] Neural Resonance I</Raven_CentralAbility_NeuralResonance_I.label>
+  <Raven_CentralAbility_NeuralResonance_I.label>(Raven) Neural Resonance I</Raven_CentralAbility_NeuralResonance_I.label>
   <Raven_CentralAbility_NeuralResonance_I.description>The Sunlit Nexus is synchronizing this person's perception and motor nerves at low power.</Raven_CentralAbility_NeuralResonance_I.description>
-  <Raven_CentralAbility_NeuralResonance_II.label>[Raven] Neural Resonance Ii</Raven_CentralAbility_NeuralResonance_II.label>
+  <Raven_CentralAbility_NeuralResonance_II.label>(Raven) Neural Resonance Ii</Raven_CentralAbility_NeuralResonance_II.label>
   <Raven_CentralAbility_NeuralResonance_II.description>The Sunlit Nexus is synchronizing this person's learning circuits and motor nerves with stable pulses.</Raven_CentralAbility_NeuralResonance_II.description>
-  <Raven_CentralAbility_NeuralResonance_III.label>[Raven] Neural Resonance Iii</Raven_CentralAbility_NeuralResonance_III.label>
+  <Raven_CentralAbility_NeuralResonance_III.label>(Raven) Neural Resonance Iii</Raven_CentralAbility_NeuralResonance_III.label>
   <Raven_CentralAbility_NeuralResonance_III.description>The Sunlit Nexus is restructuring this person's learning circuits and motor nerves with dense corona pulses.</Raven_CentralAbility_NeuralResonance_III.description>
-  <Raven_CentralAbility_RavenConstructionResonance_I.label>[Raven] Construction Resonance I</Raven_CentralAbility_RavenConstructionResonance_I.label>
+  <Raven_CentralAbility_RavenConstructionResonance_I.label>(Raven) Construction Resonance I</Raven_CentralAbility_RavenConstructionResonance_I.label>
   <Raven_CentralAbility_RavenConstructionResonance_I.description>The nexus is converting a young Raven building network into a collective neural enhancement for this colonist.</Raven_CentralAbility_RavenConstructionResonance_I.description>
-  <Raven_CentralAbility_RavenConstructionResonance_II.label>[Raven] Construction Resonance Ii</Raven_CentralAbility_RavenConstructionResonance_II.label>
+  <Raven_CentralAbility_RavenConstructionResonance_II.label>(Raven) Construction Resonance Ii</Raven_CentralAbility_RavenConstructionResonance_II.label>
   <Raven_CentralAbility_RavenConstructionResonance_II.description>The expanded Raven building network is steadily amplifying this colonist's work, learning, and mobility.</Raven_CentralAbility_RavenConstructionResonance_II.description>
-  <Raven_CentralAbility_RavenConstructionResonance_III.label>[Raven] Construction Resonance Iii</Raven_CentralAbility_RavenConstructionResonance_III.label>
+  <Raven_CentralAbility_RavenConstructionResonance_III.label>(Raven) Construction Resonance Iii</Raven_CentralAbility_RavenConstructionResonance_III.label>
   <Raven_CentralAbility_RavenConstructionResonance_III.description>The extensive Raven settlement has become an external body for the collective neural network, granting this colonist an intense enhancement.</Raven_CentralAbility_RavenConstructionResonance_III.description>
 </LanguageData>

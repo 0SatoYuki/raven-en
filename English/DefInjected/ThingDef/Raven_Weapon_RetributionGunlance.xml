@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Projectile_RetributionBullet.label>[Raven] Retribution Bullet</Raven_Projectile_RetributionBullet.label>
-  <Raven_Weapon_RetributionGunlance.label>[Raven] Retribution Gunlance</Raven_Weapon_RetributionGunlance.label>
+  <Raven_Projectile_RetributionBullet.label>(Raven) Retribution Bullet</Raven_Projectile_RetributionBullet.label>
+  <Raven_Weapon_RetributionGunlance.label>(Raven) Retribution Gunlance</Raven_Weapon_RetributionGunlance.label>
   <Raven_Weapon_RetributionGunlance.description>A uniquely designed special weapon resembling an ancient gunlance. It can fire lethal golden explosive rounds from a distance, while its sharp and heavy blade can easily tear through enemy armor in close combat. It is a fierce weapon that dominates at both long and short ranges.</Raven_Weapon_RetributionGunlance.description>
 </LanguageData>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Item_Cream.label>[Raven] Cream</Raven_Item_Cream.label>
+  <Raven_Item_Cream.label>(Raven) Cream</Raven_Item_Cream.label>
   <Raven_Item_Cream.description>A rich cream made by mixing unfertilized Raven Spirit Eggs with fresh milk in a special ratio, followed by high-speed stirring and low-temperature fermentation. It emits a unique fragrance and is an essential ingredient for making high-end Raven desserts.</Raven_Item_Cream.description>
-  <Raven_Food_CreamPuff.label>[Raven] Cream Puff</Raven_Food_CreamPuff.label>
+  <Raven_Food_CreamPuff.label>(Raven) Cream Puff</Raven_Food_CreamPuff.label>
   <Raven_Food_CreamPuff.description>A crispy outer shell enveloping a generous amount of Raven cream. With one bite, the sweet cream bursts in the mouth, bringing unparalleled satisfaction. A delicious and exquisite meal.</Raven_Food_CreamPuff.description>
-  <Raven_Food_ExquisiteCake.label>[Raven] Exquisite Cake</Raven_Food_ExquisiteCake.label>
+  <Raven_Food_ExquisiteCake.label>(Raven) Exquisite Cake</Raven_Food_ExquisiteCake.label>
   <Raven_Food_ExquisiteCake.description>A carefully baked small cake made with plenty of Raven cream and rare ingredients. It is beautifully decorated with a silky smooth texture. Tasting it is a luxurious enjoyment that greatly lifts one's mood.</Raven_Food_ExquisiteCake.description>
 </LanguageData>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Apparel_ShieldBelt.label>[Raven] Shield Belt</Raven_Apparel_ShieldBelt.label>
+  <Raven_Apparel_ShieldBelt.label>(Raven) Shield Belt</Raven_Apparel_ShieldBelt.label>
   <Raven_Apparel_ShieldBelt.description>A projectile-repulsion device modified with Raven technology. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP.</Raven_Apparel_ShieldBelt.description>
 </LanguageData>

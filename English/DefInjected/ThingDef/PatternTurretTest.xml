@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Projectile_YanShuangYa.label>[Raven] Yan Shuangya Bending Bullet</Raven_Projectile_YanShuangYa.label>
-  <Raven_Gun_YanShuangYa.label>[Raven] Yan Shuangya Bending Gun</Raven_Gun_YanShuangYa.label>
-  <Raven_HubTurret_YanShuangYa.label>[Raven] Defense Hub "Yan Shuangya"</Raven_HubTurret_YanShuangYa.label>
+  <Raven_Projectile_YanShuangYa.label>(Raven) Yan Shuangya Bending Bullet</Raven_Projectile_YanShuangYa.label>
+  <Raven_Gun_YanShuangYa.label>(Raven) Yan Shuangya Bending Gun</Raven_Gun_YanShuangYa.label>
+  <Raven_HubTurret_YanShuangYa.label>(Raven) Defense Hub "Yan Shuangya"</Raven_HubTurret_YanShuangYa.label>
   <Raven_HubTurret_YanShuangYa.description>A bending-bullet turret controlled by the defense hub. The bullets will fly along an L-shaped attack area and turn at the corner to attack targets hiding behind obstacles.</Raven_HubTurret_YanShuangYa.description>
 </LanguageData>

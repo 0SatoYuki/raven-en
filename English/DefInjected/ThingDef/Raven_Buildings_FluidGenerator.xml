@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Building_FluidGenerator.label>[Raven] Fluid-Energy Generator</Raven_Building_FluidGenerator.label>
+  <Raven_Building_FluidGenerator.label>(Raven) Fluid-Energy Generator</Raven_Building_FluidGenerator.label>
   <Raven_Building_FluidGenerator.description>A highly efficient power generator utilizing unique Raven biotechnology. It produces an astonishing amount of electricity by converting highly concentrated Raven fluid.\n\nThanks to the incredible energy density of Raven fluid, its power output far exceeds that of a standard wood-fired generator. Furthermore, its combustion process produces no black smoke, but instead releases a faint, exotic fragrance. When running with sufficient fuel, the machine emits a distinct pink glow.</Raven_Building_FluidGenerator.description>
 </LanguageData>

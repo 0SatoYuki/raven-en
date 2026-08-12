@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Building_TrashCan.label>[Raven] Trash Can</Raven_Building_TrashCan.label>
+  <Raven_Building_TrashCan.label>(Raven) Trash Can</Raven_Building_TrashCan.label>
   <Raven_Building_TrashCan.description>A special trash can made from Raven Darkfeather Steel and absorbent materials. The miniature singularity inside can instantly decompose any organic matter, toxic waste, and other items thrown into it.\n\nBy default, it only destroys rotten items and wastepacks. Switches for destroying apparel, weapons, and general items can be toggled via the control panel.</Raven_Building_TrashCan.description>
 </LanguageData>

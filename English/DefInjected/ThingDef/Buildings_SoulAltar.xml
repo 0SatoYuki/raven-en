@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_SoulAltar_Core.label>[Raven] Soul Altar Core</Raven_SoulAltar_Core.label>
+  <Raven_SoulAltar_Core.label>(Raven) Soul Altar Core</Raven_SoulAltar_Core.label>
   <Raven_SoulAltar_Core.description>The core structure of the Raven Golden Crow ascension ritual. It features precise construction, with its surface engraved with star charts and bloodline circuits.\n\nFunctions:\n- Incubates Raven spirit eggs.\n- Links with surrounding infusers and resonance pylons.\n- Must be placed in the center of the ritual floor.</Raven_SoulAltar_Core.description>
-  <Raven_Altar_Infuser.label>[Raven] Infuser</Raven_Altar_Infuser.label>
+  <Raven_Altar_Infuser.label>(Raven) Infuser</Raven_Altar_Infuser.label>
   <Raven_Altar_Infuser.description>An inner ring component of the altar. Placing specific materials inside can enhance the attributes of the Raven Spirit Egg.</Raven_Altar_Infuser.description>
-  <Raven_Altar_Pylon.label>[Raven] Pylon</Raven_Altar_Pylon.label>
+  <Raven_Altar_Pylon.label>(Raven) Pylon</Raven_Altar_Pylon.label>
   <Raven_Altar_Pylon.description>An outer ring component of the altar. When powered, it accelerates the incubation process.</Raven_Altar_Pylon.description>
-  <Raven_Altar_Injector.label>[Raven] Injector</Raven_Altar_Injector.label>
+  <Raven_Altar_Injector.label>(Raven) Injector</Raven_Altar_Injector.label>
   <Raven_Altar_Injector.description>An advanced enhancement module for the altar. Used to inject special substances to acquire powerful traits.</Raven_Altar_Injector.description>
 </LanguageData>

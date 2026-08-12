@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Item_DroneBasic.label>[Raven] Basic Hauling Drone</Raven_Item_DroneBasic.label>
+  <Raven_Item_DroneBasic.label>(Raven) Basic Hauling Drone</Raven_Item_DroneBasic.label>
   <Raven_Item_DroneBasic.description>A basic hauling drone stored in a drone station. When the station has a logistics task, it consumes a drone item and spawns an active drone. Upon returning, the drone converts back into the station's inventory.</Raven_Item_DroneBasic.description>
-  <Raven_Item_DroneHeavyJetMkI.label>[Raven] Heavy Jet Drone Mk I</Raven_Item_DroneHeavyJetMkI.label>
+  <Raven_Item_DroneHeavyJetMkI.label>(Raven) Heavy Jet Drone Mk I</Raven_Item_DroneHeavyJetMkI.label>
   <Raven_Item_DroneHeavyJetMkI.description>A heavy combat drone stored in a drone station. It automatically launches when enemies or fires enter the network coverage. It prioritizes suppressing enemies, uses continuous Raven fluid jets to extinguish fires while idle, and returns to inventory after its mission.</Raven_Item_DroneHeavyJetMkI.description>
-  <Raven_Item_DroneHeavyRescueMedical.label>[Raven] Heavy Medical Rescue Drone</Raven_Item_DroneHeavyRescueMedical.label>
+  <Raven_Item_DroneHeavyRescueMedical.label>(Raven) Heavy Medical Rescue Drone</Raven_Item_DroneHeavyRescueMedical.label>
   <Raven_Item_DroneHeavyRescueMedical.description>A heavy medical drone stored in a drone station. If an ally goes down within network coverage, it automatically launches to spray Raven fluid to stop bleeding and carries the patient to a suitable bed. Once the rescue is complete, it returns to inventory.</Raven_Item_DroneHeavyRescueMedical.description>
 </LanguageData>

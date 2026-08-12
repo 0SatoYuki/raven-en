@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Raven DarkfeatherSteel.label>[Raven] Darkfeather Steel</Raven_Raven DarkfeatherSteel.label>
+  <Raven_Raven DarkfeatherSteel.label>(Raven) Darkfeather Steel</Raven_Raven DarkfeatherSteel.label>
   <Raven_Raven DarkfeatherSteel.description>A composite structure made by mixing molten iron with crushed obsidian, infused with a special alkaline ash from burning wood. This creates a material rich in micro-pores and light-absorbing carbon particles. It is lighter than normal steel and has excellent energy absorption properties.</Raven_Raven DarkfeatherSteel.description>
-  <Raven_CoronaSteel.label>[Raven] Corona Steel</Raven_CoronaSteel.label>
+  <Raven_CoronaSteel.label>(Raven) Corona Steel</Raven_CoronaSteel.label>
   <Raven_CoronaSteel.description>A fusion of technology and divinity. It uses Raven Darkfeather Steel as a base, wraps it in molten silver to form energy pathways, and embeds jade as a soul stabilizer. It constantly emits a faint golden glow.</Raven_CoronaSteel.description>
 </LanguageData>

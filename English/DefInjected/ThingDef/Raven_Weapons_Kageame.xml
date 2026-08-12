@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Projectile_KageameBullet.label>[Raven] Kageame Bullet</Raven_Projectile_KageameBullet.label>
-  <Raven_Weapon_Kageame.label>[Raven] Kageame</Raven_Weapon_Kageame.label>
+  <Raven_Projectile_KageameBullet.label>(Raven) Kageame Bullet</Raven_Projectile_KageameBullet.label>
+  <Raven_Weapon_Kageame.label>(Raven) Kageame</Raven_Weapon_Kageame.label>
   <Raven_Weapon_Kageame.description>A uniquely designed special weapon resembling an ancient gunlance. It can fire lethal purple-black armor-piercing rounds from a distance, while its sharp and heavy blade can easily tear through enemy armor in close combat. It is a fierce weapon that dominates at both long and short ranges.</Raven_Weapon_Kageame.description>
 </LanguageData>

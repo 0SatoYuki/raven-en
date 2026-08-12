@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Make_Raven_DarkSunLens.label>[Raven] craft Dark-Sun Lens</Make_Raven_DarkSunLens.label>
+  <Make_Raven_DarkSunLens.label>(Raven) craft Dark-Sun Lens</Make_Raven_DarkSunLens.label>
   <Make_Raven_DarkSunLens.description>Cut darkfeather steel and inject trace amounts of goldenfeather powder under high pressure, then calibrate its refractive index using optical equipment. This requires exceptional craftsmanship.</Make_Raven_DarkSunLens.description>
   <Make_Raven_DarkSunLens.jobString>crafting Dark Sun Lens.</Make_Raven_DarkSunLens.jobString>
 </LanguageData>

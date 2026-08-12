@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Hediff_MechanoidBloodline.label>[Raven] Mechanoid Bloodline</Raven_Hediff_MechanoidBloodline.label>
+  <Raven_Hediff_MechanoidBloodline.label>(Raven) Mechanoid Bloodline</Raven_Hediff_MechanoidBloodline.label>
   <Raven_Hediff_MechanoidBloodline.description>A cold bloodline derived from mechanoids. The cellular structure is infused with nanomachines and synthetic materials, rendering the skin as hard as iron and completely fireproof.\n\nEffects:\n- Flammability forced to 0%\n- Sharp armor +20%\n- Blunt armor +10%\n- Grants resistance to toxins and heat.</Raven_Hediff_MechanoidBloodline.description>
 </LanguageData>

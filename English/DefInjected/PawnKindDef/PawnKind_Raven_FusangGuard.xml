@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_FusangGuard.label>[Raven] Fusang Guard</Raven_FusangGuard.label>
-  <Raven_FusangAssassin.label>[Raven] Fusang Assassin</Raven_FusangAssassin.label>
-  <Raven_FusangImperialGuard.label>[Raven] Fusang Imperial Guard</Raven_FusangImperialGuard.label>
+  <Raven_FusangGuard.label>(Raven) Fusang Guard</Raven_FusangGuard.label>
+  <Raven_FusangAssassin.label>(Raven) Fusang Assassin</Raven_FusangAssassin.label>
+  <Raven_FusangImperialGuard.label>(Raven) Fusang Imperial Guard</Raven_FusangImperialGuard.label>
 </LanguageData>

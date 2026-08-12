@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Item_RavenLiquidFertilizer.label>[Raven] Fluid Fertilizer</Raven_Item_RavenLiquidFertilizer.label>
+  <Raven_Item_RavenLiquidFertilizer.label>(Raven) Fluid Fertilizer</Raven_Item_RavenLiquidFertilizer.label>
   <Raven_Item_RavenLiquidFertilizer.description>Nutritious residue extracted and dried from Raven fluid waste. After completing the "Raven Fluid Terrain Modification" research, you can select the apply Raven fluid fertilizer command in the Raven architect menu to enrich natural terrain into Raven fluid rich soil with 140% fertility. Currently using placeholder textures.</Raven_Item_RavenLiquidFertilizer.description>
-  <Raven_Item_HighConcentrationRavenCrystal.label>[Raven] High-Concentration Crystal</Raven_Item_HighConcentrationRavenCrystal.label>
+  <Raven_Item_HighConcentrationRavenCrystal.label>(Raven) High-Concentration Crystal</Raven_Item_HighConcentrationRavenCrystal.label>
   <Raven_Item_HighConcentrationRavenCrystal.description>A crystal core precipitated from concentrated Raven fluid during high-pressure extraction, sealing highly active energy and pheromones inside. Currently using placeholder textures.</Raven_Item_HighConcentrationRavenCrystal.description>
-  <Raven_Item_RefinedRavenGem.label>[Raven] Refined Gem</Raven_Item_RefinedRavenGem.label>
+  <Raven_Item_RefinedRavenGem.label>(Raven) Refined Gem</Raven_Item_RefinedRavenGem.label>
   <Raven_Item_RefinedRavenGem.description>A stable gem made by repeatedly purifying high-concentration Raven crystals. It is the basic medium leading to tricolor alchemy.</Raven_Item_RefinedRavenGem.description>
-  <Raven_Item_TricolorAlchemyRavenGem.label>[Raven] Tricolor Alchemy Gem</Raven_Item_TricolorAlchemyRavenGem.label>
+  <Raven_Item_TricolorAlchemyRavenGem.label>(Raven) Tricolor Alchemy Gem</Raven_Item_TricolorAlchemyRavenGem.label>
   <Raven_Item_TricolorAlchemyRavenGem.description>A gem forged with a high-concentration Raven crystal as the core, magma, and three precious materials. It refracts golden, emerald, and silver glows.</Raven_Item_TricolorAlchemyRavenGem.description>
-  <Raven_Item_HexachromeAlchemyRavenGem.label>[Raven] Hexachrome Alchemy Gem</Raven_Item_HexachromeAlchemyRavenGem.label>
+  <Raven_Item_HexachromeAlchemyRavenGem.label>(Raven) Hexachrome Alchemy Gem</Raven_Item_HexachromeAlchemyRavenGem.label>
   <Raven_Item_HexachromeAlchemyRavenGem.description>A six-phase crystal forged with a tricolor alchemy Raven gem as the core, mixed with pink meat broth, stimulation extract, and an unfertilized Raven Spirit Egg. A six-colored Raven fluid glow flows within the gem.</Raven_Item_HexachromeAlchemyRavenGem.description>
-  <Raven_Item_PhilosophersStone.label>[Raven] Philosopher's Stone</Raven_Item_PhilosophersStone.label>
+  <Raven_Item_PhilosophersStone.label>(Raven) Philosopher's Stone</Raven_Item_PhilosophersStone.label>
   <Raven_Item_PhilosophersStone.description>The ultimate alchemy crystal born from the Philosopher's Stone creation ritual. It condenses Raven Golden Crow relics, Raven gems, and the resonant desires of the entire colony into an eternal core.</Raven_Item_PhilosophersStone.description>
 </LanguageData>

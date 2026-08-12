@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Ability_BuddhaPalm.label>[Raven] Buddha Palm</Raven_Ability_BuddhaPalm.label>
+  <Raven_Ability_BuddhaPalm.label>(Raven) Buddha Palm</Raven_Ability_BuddhaPalm.label>
   <Raven_Ability_BuddhaPalm.description>Thrusts a palm forward to unleash an overwhelming blast of force. The force pierces through the entire enemy formation along the chosen direction, launching every enemy in its path into the air. The denser the formation, the more devastating the impact.</Raven_Ability_BuddhaPalm.description>
-  <Raven_Ability_StarSuckAura.label>[Raven] Blackhole Aura</Raven_Ability_StarSuckAura.label>
+  <Raven_Ability_StarSuckAura.label>(Raven) Blackhole Aura</Raven_Ability_StarSuckAura.label>
   <Raven_Ability_StarSuckAura.description>Opens a continuous gravitational field centered on the caster. While active, all surrounding enemies are constantly dragged toward the caster - the harder they try to flee, the harder they are pulled back. Ideal for clustering enemies together before executing them en masse.</Raven_Ability_StarSuckAura.description>
 </LanguageData>

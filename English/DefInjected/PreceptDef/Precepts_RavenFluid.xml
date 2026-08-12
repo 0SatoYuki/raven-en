@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RavenFluidEating_Despised.label>[Raven] Despised</RavenFluidEating_Despised.label>
+  <RavenFluidEating_Despised.label>(Raven) Despised</RavenFluidEating_Despised.label>
   <RavenFluidEating_Despised.description>Swallowing the bodily fluids of others is an obscene and degenerate act. It is absolutely unforgivable.</RavenFluidEating_Despised.description>
-  <RavenFluidEating_DontCare.label>[Raven] Normalised</RavenFluidEating_DontCare.label>
+  <RavenFluidEating_DontCare.label>(Raven) Normalised</RavenFluidEating_DontCare.label>
   <RavenFluidEating_DontCare.description>Raven fluid is just a special nutrient source, no different from other foods.</RavenFluidEating_DontCare.description>
-  <RavenFluidEating_Loved.label>[Raven] Loved</RavenFluidEating_Loved.label>
+  <RavenFluidEating_Loved.label>(Raven) Loved</RavenFluidEating_Loved.label>
   <RavenFluidEating_Loved.description>Raven fluid is the pure crystallization of life's essence. Drinking this supreme nectar brings ultimate pleasure.</RavenFluidEating_Loved.description>
 </LanguageData>

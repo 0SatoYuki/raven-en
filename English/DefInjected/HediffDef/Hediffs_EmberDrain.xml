@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Hediff_EmberDrain.label>[Raven] Ember Drain</Raven_Hediff_EmberDrain.label>
-  <Raven_Hediff_EmberDrain.description>This person's [Raven] Golden Crow bloodline essence has just been extracted by the "Ember Residue" extractor. The energy circuits within the body are in a state of extreme depletion and instability.\n\nUntil this condition clears, ember extraction cannot be performed again, as doing so would cause immediate death (safety protocols will prevent the device from activating).\n\nThis causes mild confusion and physical weakness.</Raven_Hediff_EmberDrain.description>
+  <Raven_Hediff_EmberDrain.label>(Raven) Ember Drain</Raven_Hediff_EmberDrain.label>
+  <Raven_Hediff_EmberDrain.description>This person's (Raven) Golden Crow bloodline essence has just been extracted by the "Ember Residue" extractor. The energy circuits within the body are in a state of extreme depletion and instability.\n\nUntil this condition clears, ember extraction cannot be performed again, as doing so would cause immediate death (safety protocols will prevent the device from activating).\n\nThis causes mild confusion and physical weakness.</Raven_Hediff_EmberDrain.description>
 </LanguageData>

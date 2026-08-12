@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Hediff_HiddenBladePrep.label>[Raven] Assassination Prep</Raven_Hediff_HiddenBladePrep.label>
+  <Raven_Hediff_HiddenBladePrep.label>(Raven) Assassination Prep</Raven_Hediff_HiddenBladePrep.label>
   <Raven_Hediff_HiddenBladePrep.description>The blade is ready for a lethal strike.</Raven_Hediff_HiddenBladePrep.description>
-  <Raven_Hediff_SteadyAim.label>[Raven] Steady Aim</Raven_Hediff_SteadyAim.label>
+  <Raven_Hediff_SteadyAim.label>(Raven) Steady Aim</Raven_Hediff_SteadyAim.label>
   <Raven_Hediff_SteadyAim.description>Focusing aim due to stillness.</Raven_Hediff_SteadyAim.description>
-  <Raven_Hediff_SteadyAim.stages.0.label>[Raven] Focus I</Raven_Hediff_SteadyAim.stages.0.label>
-  <Raven_Hediff_SteadyAim.stages.1.label>[Raven] Focus V</Raven_Hediff_SteadyAim.stages.1.label>
-  <Raven_Hediff_SteadyAim.stages.2.label>[Raven] One With The Gun</Raven_Hediff_SteadyAim.stages.2.label>
+  <Raven_Hediff_SteadyAim.stages.0.label>(Raven) Focus I</Raven_Hediff_SteadyAim.stages.0.label>
+  <Raven_Hediff_SteadyAim.stages.1.label>(Raven) Focus V</Raven_Hediff_SteadyAim.stages.1.label>
+  <Raven_Hediff_SteadyAim.stages.2.label>(Raven) One With The Gun</Raven_Hediff_SteadyAim.stages.2.label>
 </LanguageData>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Weapon_PipeWrench.label>[Raven] Pipe Wrench</Raven_Weapon_PipeWrench.label>
+  <Raven_Weapon_PipeWrench.label>(Raven) Pipe Wrench</Raven_Weapon_PipeWrench.label>
   <Raven_Weapon_PipeWrench.description>A wrench used for maintaining Raven fluid pipes. When equipped as a melee weapon, it significantly increases construction speed and success chance, making it an indispensable portable tool for Raven industrial colonies.</Raven_Weapon_PipeWrench.description>
 </LanguageData>

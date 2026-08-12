@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Building_ComputerDesk.label>[Raven] Computer Desk</Raven_Building_ComputerDesk.label>
+  <Raven_Building_ComputerDesk.label>(Raven) Computer Desk</Raven_Building_ComputerDesk.label>
   <Raven_Building_ComputerDesk.description>An entertainment desk equipped with a high-end computer. You can play "RimWorld Squared" or surf the internet. The former brings the joy of cerebral gaming, while the latter provides relaxation equivalent to watching TV, and is compatible with video channel recognition.</Raven_Building_ComputerDesk.description>
-  <Raven_Building_ComputerDesk_Variant.label>[Raven] Computer Desk (Variant)</Raven_Building_ComputerDesk_Variant.label>
+  <Raven_Building_ComputerDesk_Variant.label>(Raven) Computer Desk (Variant)</Raven_Building_ComputerDesk_Variant.label>
   <Raven_Building_ComputerDesk_Variant.description>An upgraded version of the Raven drawing tablet, featuring faster processing speeds. It has the exact same functions as the drawing tablet, but with a 50% increase in work speed.</Raven_Building_ComputerDesk_Variant.description>
 </LanguageData>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Floor_01f.label>[Raven] Stone Floor 1</Raven_Floor_01f.label>
+  <Raven_Floor_01f.label>(Raven) Stone Floor 1</Raven_Floor_01f.label>
   <Raven_Floor_01f.description>Raven stone floor 1.</Raven_Floor_01f.description>
-  <Raven_Floor_02f.label>[Raven] Stone Floor 2</Raven_Floor_02f.label>
+  <Raven_Floor_02f.label>(Raven) Stone Floor 2</Raven_Floor_02f.label>
   <Raven_Floor_02f.description>Raven stone floor 2.</Raven_Floor_02f.description>
-  <Raven_Floor_03f.label>[Raven] Stone Floor 3</Raven_Floor_03f.label>
+  <Raven_Floor_03f.label>(Raven) Stone Floor 3</Raven_Floor_03f.label>
   <Raven_Floor_03f.description>Raven stone floor 3.</Raven_Floor_03f.description>
-  <Raven_Floor_04f.label>[Raven] Stone Floor 4</Raven_Floor_04f.label>
+  <Raven_Floor_04f.label>(Raven) Stone Floor 4</Raven_Floor_04f.label>
   <Raven_Floor_04f.description>Raven stone floor 4.</Raven_Floor_04f.description>
-  <Raven_Floor_05f.label>[Raven] Stone Floor 5</Raven_Floor_05f.label>
+  <Raven_Floor_05f.label>(Raven) Stone Floor 5</Raven_Floor_05f.label>
   <Raven_Floor_05f.description>Raven stone floor 5.</Raven_Floor_05f.description>
-  <Raven_Floor_06f.label>[Raven] Wood Floor</Raven_Floor_06f.label>
+  <Raven_Floor_06f.label>(Raven) Wood Floor</Raven_Floor_06f.label>
   <Raven_Floor_06f.description>Raven wood floor.</Raven_Floor_06f.description>
-  <Raven_Floor_07f.label>[Raven] Stone Floor 6</Raven_Floor_07f.label>
+  <Raven_Floor_07f.label>(Raven) Stone Floor 6</Raven_Floor_07f.label>
   <Raven_Floor_07f.description>Raven stone floor 6.</Raven_Floor_07f.description>
-  <Raven_Floor_08f.label>[Raven] Track Floor</Raven_Floor_08f.label>
+  <Raven_Floor_08f.label>(Raven) Track Floor</Raven_Floor_08f.label>
   <Raven_Floor_08f.description>A shock-absorbing track floor.</Raven_Floor_08f.description>
-  <Raven_Floor_09f.label>[Raven] Stone Floor 7</Raven_Floor_09f.label>
+  <Raven_Floor_09f.label>(Raven) Stone Floor 7</Raven_Floor_09f.label>
   <Raven_Floor_09f.description>Raven stone floor 7.</Raven_Floor_09f.description>
-  <Raven_IndustrialFloor_Dotted.label>[Raven] Dotted Industrial Floor</Raven_IndustrialFloor_Dotted.label>
+  <Raven_IndustrialFloor_Dotted.label>(Raven) Dotted Industrial Floor</Raven_IndustrialFloor_Dotted.label>
   <Raven_IndustrialFloor_Dotted.description>Steel anti-slip flooring covered in dense raised dots for secure footing around wet or oily machinery.</Raven_IndustrialFloor_Dotted.description>
-  <Raven_IndustrialFloor_Grating.label>[Raven] Grated Industrial Floor</Raven_IndustrialFloor_Grating.label>
+  <Raven_IndustrialFloor_Grating.label>(Raven) Grated Industrial Floor</Raven_IndustrialFloor_Grating.label>
   <Raven_IndustrialFloor_Grating.description>High-strength steel grating designed for drainage, ventilation and access to utility lines below.</Raven_IndustrialFloor_Grating.description>
-  <Raven_IndustrialFloor_Block.label>[Raven] Block Industrial Floor</Raven_IndustrialFloor_Block.label>
+  <Raven_IndustrialFloor_Block.label>(Raven) Block Industrial Floor</Raven_IndustrialFloor_Block.label>
   <Raven_IndustrialFloor_Block.description>Heavy segmented steel plates suited to supporting large industrial machinery.</Raven_IndustrialFloor_Block.description>
-  <Raven_IndustrialHeavyBridge.label>[Raven] Industrial Heavy Bridge</Raven_IndustrialHeavyBridge.label>
+  <Raven_IndustrialHeavyBridge.label>(Raven) Industrial Heavy Bridge</Raven_IndustrialHeavyBridge.label>
   <Raven_IndustrialHeavyBridge.description>A reinforced industrial bridge combining grated flooring with heavy steel supports. It can carry heavy structures over water and other bridgeable terrain.</Raven_IndustrialHeavyBridge.description>
 </LanguageData>

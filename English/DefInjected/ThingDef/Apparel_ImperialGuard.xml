@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Apparel_ImperialGuardArmor.label>[Raven] Imperial Guard Armor</Raven_Apparel_ImperialGuardArmor.label>
+  <Raven_Apparel_ImperialGuardArmor.label>(Raven) Imperial Guard Armor</Raven_Apparel_ImperialGuardArmor.label>
   <Raven_Apparel_ImperialGuardArmor.description>The exclusive uniform of the Raven Fusang organization's elite frontline force, the Imperial Guard. It is equipped with a unique module that reflects melee attacks, with the reflection chance increasing based on the viscosity of Raven fluid covering the attacker.</Raven_Apparel_ImperialGuardArmor.description>
-  <Raven_Apparel_ImperialGuardHelmet.label>[Raven] Imperial Guard Helmet</Raven_Apparel_ImperialGuardHelmet.label>
+  <Raven_Apparel_ImperialGuardHelmet.label>(Raven) Imperial Guard Helmet</Raven_Apparel_ImperialGuardHelmet.label>
   <Raven_Apparel_ImperialGuardHelmet.description>The exclusive helmet of the Raven Fusang organization's elite frontline force, the Imperial Guard. It is equipped with a unique module that reflects melee attacks, with the reflection chance increasing based on the viscosity of Raven fluid covering the attacker.</Raven_Apparel_ImperialGuardHelmet.description>
 </LanguageData>

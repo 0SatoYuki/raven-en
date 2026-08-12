@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Terrain_RavenLiquidLakeShallow.label>[Raven] Shallow Raven Fluid Lake</Raven_Terrain_RavenLiquidLakeShallow.label>
+  <Raven_Terrain_RavenLiquidLakeShallow.label>(Raven) Shallow Raven Fluid Lake</Raven_Terrain_RavenLiquidLakeShallow.label>
   <Raven_Terrain_RavenLiquidLakeShallow.description>A shallow lake of thick, milky raven fluid with a slowly undulating surface; wading into it noticeably slows movement.</Raven_Terrain_RavenLiquidLakeShallow.description>
-  <Raven_Terrain_RavenLiquidLakeDeep.label>[Raven] Deep Raven Fluid Lake</Raven_Terrain_RavenLiquidLakeDeep.label>
+  <Raven_Terrain_RavenLiquidLakeDeep.label>(Raven) Deep Raven Fluid Lake</Raven_Terrain_RavenLiquidLakeDeep.label>
   <Raven_Terrain_RavenLiquidLakeDeep.description>Heavy raven fluid pools into a deep lake here, the surface gleaming softly while the depths glow with a dim milky white.</Raven_Terrain_RavenLiquidLakeDeep.description>
-  <Raven_Terrain_RavenLiquidFertileSoil.label>[Raven] Fluid Fertile Soil</Raven_Terrain_RavenLiquidFertileSoil.label>
+  <Raven_Terrain_RavenLiquidFertileSoil.label>(Raven) Fluid Fertile Soil</Raven_Terrain_RavenLiquidFertileSoil.label>
   <Raven_Terrain_RavenLiquidFertileSoil.description>Soil thoroughly saturated with concentrated raven fluid fertilizer, steadily releasing nutrients; its fertility is notably higher than ordinary rich soil.</Raven_Terrain_RavenLiquidFertileSoil.description>
-  <Raven_Terrain_RavenLiquidContaminatedSoil.label>[Raven] Fluid-Contaminated Soil</Raven_Terrain_RavenLiquidContaminatedSoil.label>
+  <Raven_Terrain_RavenLiquidContaminatedSoil.label>(Raven) Fluid-Contaminated Soil</Raven_Terrain_RavenLiquidContaminatedSoil.label>
   <Raven_Terrain_RavenLiquidContaminatedSoil.description>Ordinary soil permeated by raven fluid that still supports normal crop growth.</Raven_Terrain_RavenLiquidContaminatedSoil.description>
-  <Raven_Terrain_RavenLiquidContaminatedFertileSoil.label>[Raven] Fluid-Contaminated Rich Soil</Raven_Terrain_RavenLiquidContaminatedFertileSoil.label>
+  <Raven_Terrain_RavenLiquidContaminatedFertileSoil.label>(Raven) Fluid-Contaminated Rich Soil</Raven_Terrain_RavenLiquidContaminatedFertileSoil.label>
   <Raven_Terrain_RavenLiquidContaminatedFertileSoil.description>Nutrient-rich soil stained white by raven fluid that remains suitable for efficient farming.</Raven_Terrain_RavenLiquidContaminatedFertileSoil.description>
-  <Raven_Terrain_RavenLiquidContaminatedGravel.label>[Raven] Fluid-Contaminated Gravel</Raven_Terrain_RavenLiquidContaminatedGravel.label>
+  <Raven_Terrain_RavenLiquidContaminatedGravel.label>(Raven) Fluid-Contaminated Gravel</Raven_Terrain_RavenLiquidContaminatedGravel.label>
   <Raven_Terrain_RavenLiquidContaminatedGravel.description>Raven fluid has congealed between the stones, but the ground remains firm.</Raven_Terrain_RavenLiquidContaminatedGravel.description>
-  <Raven_Terrain_RavenLiquidContaminatedMud.label>[Raven] Fluid-Contaminated Mud</Raven_Terrain_RavenLiquidContaminatedMud.label>
+  <Raven_Terrain_RavenLiquidContaminatedMud.label>(Raven) Fluid-Contaminated Mud</Raven_Terrain_RavenLiquidContaminatedMud.label>
   <Raven_Terrain_RavenLiquidContaminatedMud.description>Thick raven fluid mixed into wet mud slows every step.</Raven_Terrain_RavenLiquidContaminatedMud.description>
-  <Raven_Terrain_RavenLiquidContaminatedSand.label>[Raven] Fluid-Contaminated Sand</Raven_Terrain_RavenLiquidContaminatedSand.label>
+  <Raven_Terrain_RavenLiquidContaminatedSand.label>(Raven) Fluid-Contaminated Sand</Raven_Terrain_RavenLiquidContaminatedSand.label>
   <Raven_Terrain_RavenLiquidContaminatedSand.description>Dry sand saturated with raven fluid, its fine grains glinting unnaturally.</Raven_Terrain_RavenLiquidContaminatedSand.description>
-  <Raven_Terrain_RavenLiquidContaminatedSoftSand.label>[Raven] Fluid-Contaminated Soft Sand</Raven_Terrain_RavenLiquidContaminatedSoftSand.label>
+  <Raven_Terrain_RavenLiquidContaminatedSoftSand.label>(Raven) Fluid-Contaminated Soft Sand</Raven_Terrain_RavenLiquidContaminatedSoftSand.label>
   <Raven_Terrain_RavenLiquidContaminatedSoftSand.description>Soft sand holds raven fluid and gives way beneath every step.</Raven_Terrain_RavenLiquidContaminatedSoftSand.description>
-  <Raven_Terrain_Tile.label>[Raven] Tile</Raven_Terrain_Tile.label>
+  <Raven_Terrain_Tile.label>(Raven) Tile</Raven_Terrain_Tile.label>
   <Raven_Terrain_Tile.description>Tiles made of highly polished raven alloy. Their surface is extremely smooth, naturally stain-resistant, very easy to clean, and highly decorative.</Raven_Terrain_Tile.description>
 </LanguageData>

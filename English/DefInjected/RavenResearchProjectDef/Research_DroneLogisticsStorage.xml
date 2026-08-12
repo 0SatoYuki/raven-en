@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RavenResearch_DroneLogisticsStorage.label>[Raven] Logistics Storage Expansion</RavenResearch_DroneLogisticsStorage.label>
+  <RavenResearch_DroneLogisticsStorage.label>(Raven) Logistics Storage Expansion</RavenResearch_DroneLogisticsStorage.label>
   <RavenResearch_DroneLogisticsStorage.description>Expands the virtual addressing space of drone logistics boxes. Each completed level adds 10 independent storage cells to every existing and newly built logistics box.</RavenResearch_DroneLogisticsStorage.description>
 </LanguageData>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Ability_GrandClimax.label>[Raven] Grand Release</Raven_Ability_GrandClimax.label>
+  <Raven_Ability_GrandClimax.label>(Raven) Grand Release</Raven_Ability_GrandClimax.label>
   <Raven_Ability_GrandClimax.description>Consumes all spirit bead energy to instantly force every hostile creature on the map into an irresistibly intense stunned state.\n\nMust be enabled in the mod settings.</Raven_Ability_GrandClimax.description>
 </LanguageData>

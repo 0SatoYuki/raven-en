@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Drone_HeavyJetMkI.label>[Raven] Heavy Jet Drone Mk I</Raven_Drone_HeavyJetMkI.label>
+  <Raven_Drone_HeavyJetMkI.label>(Raven) Heavy Jet Drone Mk I</Raven_Drone_HeavyJetMkI.label>
   <Raven_Drone_HeavyJetMkI.description>A combat drone that prioritizes hostile targets within its station's coverage. If no enemies are present, it automatically uses its jet to extinguish nearby fires.</Raven_Drone_HeavyJetMkI.description>
-  <Raven_Drone_HeavyRescueMedical.label>[Raven] Heavy Medical Rescue Drone</Raven_Drone_HeavyRescueMedical.label>
+  <Raven_Drone_HeavyRescueMedical.label>(Raven) Heavy Medical Rescue Drone</Raven_Drone_HeavyRescueMedical.label>
   <Raven_Drone_HeavyRescueMedical.description>A medical rescue drone designed to stabilize downed allies within its station's coverage and carry them to the nearest available bed.</Raven_Drone_HeavyRescueMedical.description>
 </LanguageData>

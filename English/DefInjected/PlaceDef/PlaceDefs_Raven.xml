@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RavenPlace_TangGu.label>[Raven] Tanggu</RavenPlace_TangGu.label>
+  <RavenPlace_TangGu.label>(Raven) Tanggu</RavenPlace_TangGu.label>
   <RavenPlace_TangGu.description>A sacred valley where Raven Golden Crows roost. It is the legendary birthplace of the rising sun.</RavenPlace_TangGu.description>
-  <RavenPlace_YangGu.label>[Raven] Yanggu</RavenPlace_YangGu.label>
+  <RavenPlace_YangGu.label>(Raven) Yanggu</RavenPlace_YangGu.label>
   <RavenPlace_YangGu.description>An ancient holy site of the Raven Golden Crows. Legends say it is the bathing place of the morning sun.</RavenPlace_YangGu.description>
-  <RavenPlace_FusangTree.label>[Raven] Fusang Tree</RavenPlace_FusangTree.label>
+  <RavenPlace_FusangTree.label>(Raven) Fusang Tree</RavenPlace_FusangTree.label>
   <RavenPlace_FusangTree.description>A colossal tree that serves as a passage between heaven and earth. A holy site for the Raven Golden Crows.</RavenPlace_FusangTree.description>
-  <RavenPlace_RuoTree.label>[Raven] Ruo Tree</RavenPlace_RuoTree.label>
+  <RavenPlace_RuoTree.label>(Raven) Ruo Tree</RavenPlace_RuoTree.label>
   <RavenPlace_RuoTree.description>A colossal tree marking the western edge of the world. It is the endpoint of the Raven Golden Crow's daily journey, where the evening sun sinks beneath its canopy.</RavenPlace_RuoTree.description>
-  <RavenPlace_SunPalace.label>[Raven] Sun Palace</RavenPlace_SunPalace.label>
+  <RavenPlace_SunPalace.label>(Raven) Sun Palace</RavenPlace_SunPalace.label>
   <RavenPlace_SunPalace.description>The palace of the Raven Golden Crow Emperor, located at the highest peak of the sky.</RavenPlace_SunPalace.description>
-  <RavenPlace_XianChi.label>[Raven] Xianchi Pool</RavenPlace_XianChi.label>
+  <RavenPlace_XianChi.label>(Raven) Xianchi Pool</RavenPlace_XianChi.label>
   <RavenPlace_XianChi.description>A solar bathhouse in the sky where Raven Golden Crows wash away mortal dust every patrol.</RavenPlace_XianChi.description>
-  <RavenPlace_YanZi.label>[Raven] Mount Yanzi</RavenPlace_YanZi.label>
+  <RavenPlace_YanZi.label>(Raven) Mount Yanzi</RavenPlace_YanZi.label>
   <RavenPlace_YanZi.description>The mountain of sunset. Raven Golden Crows sink here into the west every day, spreading twilight across the world.</RavenPlace_YanZi.description>
-  <RavenPlace_ShadowValley.label>[Raven] Shadow Valley</RavenPlace_ShadowValley.label>
+  <RavenPlace_ShadowValley.label>(Raven) Shadow Valley</RavenPlace_ShadowValley.label>
   <RavenPlace_ShadowValley.description>A traditional settlement of the Raven faction, hidden deep within the mountain shadows.</RavenPlace_ShadowValley.description>
-  <RavenPlace_EmberShrine.label>[Raven] Ember Shrine</RavenPlace_EmberShrine.label>
+  <RavenPlace_EmberShrine.label>(Raven) Ember Shrine</RavenPlace_EmberShrine.label>
   <RavenPlace_EmberShrine.description>A shrine dedicated to the embers of the Raven Golden Crow, where Ravens conduct their dark rituals.</RavenPlace_EmberShrine.description>
 </LanguageData>

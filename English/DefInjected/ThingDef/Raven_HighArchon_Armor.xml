@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_ArchonArmor_RegenerativeHarness.label>[Raven] Regenerative Harness</Raven_ArchonArmor_RegenerativeHarness.label>
+  <Raven_ArchonArmor_RegenerativeHarness.label>(Raven) Regenerative Harness</Raven_ArchonArmor_RegenerativeHarness.label>
   <Raven_ArchonArmor_RegenerativeHarness.description>Specialized armor designed for the Raven High Archon. It continuously heals wounds, increases movement speed, and stabilizes the rider's hunger and sleep needs while mounted.</Raven_ArchonArmor_RegenerativeHarness.description>
-  <Raven_ArchonArmor_GoldenAegisSaddle.label>[Raven] Golden Aegis Saddle</Raven_ArchonArmor_GoldenAegisSaddle.label>
+  <Raven_ArchonArmor_GoldenAegisSaddle.label>(Raven) Golden Aegis Saddle</Raven_ArchonArmor_GoldenAegisSaddle.label>
   <Raven_ArchonArmor_GoldenAegisSaddle.description>A heavy external saddle forged for the Raven High Archon. Leaning more towards mobility and protection than the regenerative harness, it provides the rider with more stable protection during high-speed flight and mounted assaults.</Raven_ArchonArmor_GoldenAegisSaddle.description>
 </LanguageData>

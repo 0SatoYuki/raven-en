@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RavenConcealment_Tree.label>[Raven] Whispering Tree</RavenConcealment_Tree.label>
+  <RavenConcealment_Tree.label>(Raven) Whispering Tree</RavenConcealment_Tree.label>
   <RavenConcealment_Tree.description>A hollow artificial tree designed as a sniping spot. It provides excellent cover and perfect concealment.</RavenConcealment_Tree.description>
-  <Raven_Weapon_InvisiblePlaceholder.label>[Raven] Concealed Weapon Slot</Raven_Weapon_InvisiblePlaceholder.label>
+  <Raven_Weapon_InvisiblePlaceholder.label>(Raven) Concealed Weapon Slot</Raven_Weapon_InvisiblePlaceholder.label>
 </LanguageData>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Hediff_Binah_DegradationLock.label>[Raven] Degradation Lock</Raven_Hediff_Binah_DegradationLock.label>
+  <Raven_Hediff_Binah_DegradationLock.label>(Raven) Degradation Lock</Raven_Hediff_Binah_DegradationLock.label>
   <Raven_Hediff_Binah_DegradationLock.description>Bound by chains.</Raven_Hediff_Binah_DegradationLock.description>
-  <Raven_Hediff_Binah_Skills.label>[Raven] Power of the Arbiter Bird</Raven_Hediff_Binah_Skills.label>
+  <Raven_Hediff_Binah_Skills.label>(Raven) Power of the Arbiter Bird</Raven_Hediff_Binah_Skills.label>
   <Raven_Hediff_Binah_Skills.description>Binah's unique abilities.</Raven_Hediff_Binah_Skills.description>
 </LanguageData>

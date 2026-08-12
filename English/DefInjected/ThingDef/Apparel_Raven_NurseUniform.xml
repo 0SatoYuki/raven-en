@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Apparel_NurseUniform.label>[Raven] Nurse Uniform</Raven_Apparel_NurseUniform.label>
+  <Raven_Apparel_NurseUniform.label>(Raven) Nurse Uniform</Raven_Apparel_NurseUniform.label>
   <Raven_Apparel_NurseUniform.description>A clean uniform frequently worn by Raven Fusang medical personnel. The cut provides ample space for Raven wings and tail feathers, allowing for rapid movement between hospital beds and the battlefield.</Raven_Apparel_NurseUniform.description>
-  <Raven_Apparel_NurseCap.label>[Raven] Nurse Cap</Raven_Apparel_NurseCap.label>
+  <Raven_Apparel_NurseCap.label>(Raven) Nurse Cap</Raven_Apparel_NurseCap.label>
   <Raven_Apparel_NurseCap.description>A soft hat used by Raven Fusang nurses to indicate their medical status. It is lightweight and does not interfere with the movement of ear feathers.</Raven_Apparel_NurseCap.description>
 </LanguageData>

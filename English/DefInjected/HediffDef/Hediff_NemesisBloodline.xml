@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Hediff_NemesisBloodline.label>[Raven] Phase Shift</Raven_Hediff_NemesisBloodline.label>
+  <Raven_Hediff_NemesisBloodline.label>(Raven) Phase Shift</Raven_Hediff_NemesisBloodline.label>
   <Raven_Hediff_NemesisBloodline.description>A spatial talent from the Nemesis bloodline. This unstable gene lets the bearer tear through space during long journeys.\n\nEffects:\n- When the movement target is farther than 30 cells, the bearer folds directly to the destination.\n- Requires a 20-second cooldown to recharge after each fold.\n- Automatically disabled while drafted to ensure tactical execution.\n- Melee damage taken reduced by 10% (spatial refraction).</Raven_Hediff_NemesisBloodline.description>
 </LanguageData>

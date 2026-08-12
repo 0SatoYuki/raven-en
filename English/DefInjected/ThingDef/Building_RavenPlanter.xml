@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Building_Planter.label>[Raven] Planter</Raven_Building_Planter.label>
+  <Raven_Building_Planter.label>(Raven) Planter</Raven_Building_Planter.label>
   <Raven_Building_Planter.description>Stably injects pure Raven fluid into a sealed cultivation cabin, completing batch cultivation according to the crop's own growth and environmental requirements. Unlocked crops can be selected at the console, and harvested yields are handed directly to nearby drone logistics boxes.</Raven_Building_Planter.description>
 </LanguageData>

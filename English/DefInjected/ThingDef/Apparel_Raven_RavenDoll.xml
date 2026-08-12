@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Apparel_RavenDoll.label>[Raven] Doll Suit</Raven_Apparel_RavenDoll.label>
+  <Raven_Apparel_RavenDoll.label>(Raven) Doll Suit</Raven_Apparel_RavenDoll.label>
   <Raven_Apparel_RavenDoll.description>A Raven doll suit for children to wear. When worn, it hides the appearance of native wings, but it does not affect takeoff, flight, or landing.</Raven_Apparel_RavenDoll.description>
-  <Raven_Apparel_RavenDollHead.label>[Raven] Doll Head</Raven_Apparel_RavenDollHead.label>
+  <Raven_Apparel_RavenDollHead.label>(Raven) Doll Head</Raven_Apparel_RavenDollHead.label>
   <Raven_Apparel_RavenDollHead.description>Matching children's headwear for the Raven doll suit. It hides hair and Raven ear feathers, but does not affect other physical abilities.</Raven_Apparel_RavenDollHead.description>
 </LanguageData>

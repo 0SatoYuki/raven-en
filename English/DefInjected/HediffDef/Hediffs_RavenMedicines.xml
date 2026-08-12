@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Hediff_SuppositoryEffect_Immunity.label>[Raven] Immunity Suppository Absorbing</Raven_Hediff_SuppositoryEffect_Immunity.label>
+  <Raven_Hediff_SuppositoryEffect_Immunity.label>(Raven) Immunity Suppository Absorbing</Raven_Hediff_SuppositoryEffect_Immunity.label>
   <Raven_Hediff_SuppositoryEffect_Immunity.description>A Raven-made suppository is slowly dissolving inside the body. The medicinal ingredients continuously repair damaged tissue and bolster the immune system.\n\nDue to the method of administration and the drug's special nature, it causes a foreign-body sensation in the lower body and mild confusion.</Raven_Hediff_SuppositoryEffect_Immunity.description>
-  <Raven_Hediff_SuppositoryEffect_Emergency.label>[Raven] Emergency Suppository Absorbing</Raven_Hediff_SuppositoryEffect_Emergency.label>
+  <Raven_Hediff_SuppositoryEffect_Emergency.label>(Raven) Emergency Suppository Absorbing</Raven_Hediff_SuppositoryEffect_Emergency.label>
   <Raven_Hediff_SuppositoryEffect_Emergency.description>The suppository is slowing blood loss and forcibly maintaining consciousness, but noticeably slows movement.</Raven_Hediff_SuppositoryEffect_Emergency.description>
 </LanguageData>

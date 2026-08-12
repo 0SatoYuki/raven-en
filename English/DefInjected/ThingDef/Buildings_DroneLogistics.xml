@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Building_DroneLogisticsBox.label>[Raven] Drone Logistics Box</Raven_Building_DroneLogisticsBox.label>
+  <Raven_Building_DroneLogisticsBox.label>(Raven) Drone Logistics Box</Raven_Building_DroneLogisticsBox.label>
   <Raven_Building_DroneLogisticsBox.description>An independent virtual storage terminal for the drone logistics network. Each cell can request delivery by drones or colonists, supply items, store general items, or export to vanilla storage. Input and output conveyor ports work with every mode.</Raven_Building_DroneLogisticsBox.description>
-  <Raven_Building_DroneStation.label>[Raven] Drone Station</Raven_Building_DroneStation.label>
+  <Raven_Building_DroneStation.label>(Raven) Drone Station</Raven_Building_DroneStation.label>
   <Raven_Building_DroneStation.description>Infrastructure for deploying Raven drones. Once powered and enabled, the station provides a 40-cell working radius for drones; when the ranges of multiple operational stations overlap, they connect into the same drone network. A conveyor input port can replenish produced drone items up to the targets configured in the inventory window.</Raven_Building_DroneStation.description>
   <Raven_Building_ConveyorInputPort.description>Placed over a conveyor and facing the target, it sends virtual items from the conveyor into a drone chest or Raven industrial machine.</Raven_Building_ConveyorInputPort.description>
 </LanguageData>

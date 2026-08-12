@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Item_AVRecord.label>[Raven] Av Collection</Raven_Item_AVRecord.label>
+  <Raven_Item_AVRecord.label>(Raven) Av Collection</Raven_Item_AVRecord.label>
   <Raven_Item_AVRecord.description>An audio-visual work produced by the Raven race. It contains many precious scenes and is highly favored by collectors.</Raven_Item_AVRecord.description>
-  <Raven_Item_AVRecord_Premium.label>[Raven] Premium Av Collection</Raven_Item_AVRecord_Premium.label>
+  <Raven_Item_AVRecord_Premium.label>(Raven) Premium Av Collection</Raven_Item_AVRecord_Premium.label>
   <Raven_Item_AVRecord_Premium.description>A meticulously edited collector's edition audio-visual record. With excellent image quality, it is a highly sought-after treasure in the collector's market.</Raven_Item_AVRecord_Premium.description>
 </LanguageData>

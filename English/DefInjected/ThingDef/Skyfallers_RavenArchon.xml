@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_ArchonIncoming.label>[Raven] Archon Incoming</Raven_ArchonIncoming.label>
-  <Raven_ArchonLeaving.label>[Raven] Archon Leaving</Raven_ArchonLeaving.label>
+  <Raven_ArchonIncoming.label>(Raven) Archon Incoming</Raven_ArchonIncoming.label>
+  <Raven_ArchonLeaving.label>(Raven) Archon Leaving</Raven_ArchonLeaving.label>
 </LanguageData>

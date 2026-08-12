@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RavenResearch_RavenWeapons.label>[Raven] Basic Raven Fusang Armaments</RavenResearch_RavenWeapons.label>
+  <RavenResearch_RavenWeapons.label>(Raven) Basic Raven Fusang Armaments</RavenResearch_RavenWeapons.label>
   <RavenResearch_RavenWeapons.description>Unlocks standard Raven Fusang weapons and scout armor.</RavenResearch_RavenWeapons.description>
-  <RavenResearch_RavenSpecials.label>[Raven] Advanced Raven Fusang Armaments</RavenResearch_RavenSpecials.label>
+  <RavenResearch_RavenSpecials.label>(Raven) Advanced Raven Fusang Armaments</RavenResearch_RavenSpecials.label>
   <RavenResearch_RavenSpecials.description>Unlocks assassin armor, Sandevistan, spirit-egg beads, Kageame, Gohei, the retribution gunlance, the Raven Fusang suppression MG, and Ci An Bi An.</RavenResearch_RavenSpecials.description>
-  <RavenResearch_FusangImperialGuardArmor.label>[Raven] Fusang Imperial Guard Armor</RavenResearch_FusangImperialGuardArmor.label>
+  <RavenResearch_FusangImperialGuardArmor.label>(Raven) Fusang Imperial Guard Armor</RavenResearch_FusangImperialGuardArmor.label>
   <RavenResearch_FusangImperialGuardArmor.description>Unlocks the complete Imperial Guard armor and weapon set.</RavenResearch_FusangImperialGuardArmor.description>
 </LanguageData>

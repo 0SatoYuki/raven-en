@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Building_MantleDrill.label>[Raven] Mantle Drill</Raven_Building_MantleDrill.label>
+  <Raven_Building_MantleDrill.label>(Raven) Mantle Drill</Raven_Building_MantleDrill.label>
   <Raven_Building_MantleDrill.description>Heavy mantle drilling equipment. The drill does not rely on surface water bodies; when powered, it extracts lava from high-temperature underground layers and outputs it into the adjacent pipe network.</Raven_Building_MantleDrill.description>
 </LanguageData>

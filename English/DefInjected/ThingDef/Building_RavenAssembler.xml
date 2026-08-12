@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Building_Assembler.label>[Raven] Assembler</Raven_Building_Assembler.label>
+  <Raven_Building_Assembler.label>(Raven) Assembler</Raven_Building_Assembler.label>
   <Raven_Building_Assembler.description>Raven fluid industrial equipment used for automatically assembling basic industrial components. The current version features the casing, robotic arms, and top cover decals. visuals and pacing may be fine-tuned later.</Raven_Building_Assembler.description>
 </LanguageData>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Cook_Omurice.label>[Raven] cook Omurice</Raven_Cook_Omurice.label>
+  <Raven_Cook_Omurice.label>(Raven) cook Omurice</Raven_Cook_Omurice.label>
   <Raven_Cook_Omurice.description>Make delicious omurice with unfertilized raven spirit eggs.</Raven_Cook_Omurice.description>
-  <Raven_Cook_BigCockYaki.label>[Raven] cook Bigcockyaki</Raven_Cook_BigCockYaki.label>
+  <Raven_Cook_BigCockYaki.label>(Raven) cook Bigcockyaki</Raven_Cook_BigCockYaki.label>
   <Raven_Cook_BigCockYaki.description>Make delicious bigcockyaki.</Raven_Cook_BigCockYaki.description>
-  <Make_RavenLatte.label>[Raven] brew Special Latte</Make_RavenLatte.label>
+  <Make_RavenLatte.label>(Raven) brew Special Latte</Make_RavenLatte.label>
   <Make_RavenLatte.description>Using a specially engineered precision coffee machine, extract Seven-Emotions nectar and brew it into a refreshing latte.</Make_RavenLatte.description>
 </LanguageData>

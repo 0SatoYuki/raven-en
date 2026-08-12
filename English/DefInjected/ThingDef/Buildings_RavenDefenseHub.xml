@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Building_DefenseHub.label>[Raven] Defense Hub</Raven_Building_DefenseHub.label>
+  <Raven_Building_DefenseHub.label>(Raven) Defense Hub</Raven_Building_DefenseHub.label>
   <Raven_Building_DefenseHub.description>The core command station for maintaining multiple subordinate remote turrets. Once operators are stationed, it can activate all subordinate turrets, providing bonuses to fire rate and accuracy based on the number of operators and their shooting skills.</Raven_Building_DefenseHub.description>
 </LanguageData>

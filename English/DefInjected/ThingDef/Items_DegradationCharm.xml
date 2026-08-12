@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Item_CorruptionTalisman.label>[Raven] Mind Corruption Talisman</Raven_Item_CorruptionTalisman.label>
+  <Raven_Item_CorruptionTalisman.label>(Raven) Mind Corruption Talisman</Raven_Item_CorruptionTalisman.label>
   <Raven_Item_CorruptionTalisman.description>A talisman drawn with cinnabar runes that gives off a unique scent. It's said that placing it on a target's forehead can influence their will. While carrying this talisman, a [Attach Talisman] command will appear on the carrier.</Raven_Item_CorruptionTalisman.description>
-  <Raven_Item_CorruptionTalisman.comps.CompUsable.useLabel>Use [Raven] Mind Corruption Talisman</Raven_Item_CorruptionTalisman.comps.CompUsable.useLabel>
+  <Raven_Item_CorruptionTalisman.comps.CompUsable.useLabel>Use (Raven) Mind Corruption Talisman</Raven_Item_CorruptionTalisman.comps.CompUsable.useLabel>
 </LanguageData>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Building_FluidExtractor.label>[Raven] Fluid Extractor</Raven_Building_FluidExtractor.label>
+  <Raven_Building_FluidExtractor.label>(Raven) Fluid Extractor</Raven_Building_FluidExtractor.label>
   <Raven_Building_FluidExtractor.description>Industrial equipment used to delicately extract the various layers and components of Raven fluid. It can convert Raven fluid waste into byproducts, and also purify item Raven fluid into pure Raven fluid.</Raven_Building_FluidExtractor.description>
 </LanguageData>

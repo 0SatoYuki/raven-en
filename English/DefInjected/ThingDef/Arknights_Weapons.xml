@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Gun_WishdaleTurret.label>[Raven] Wishdale Turret</Raven_Gun_WishdaleTurret.label>
+  <Raven_Gun_WishdaleTurret.label>(Raven) Wishdale Turret</Raven_Gun_WishdaleTurret.label>
   <Raven_Gun_WishdaleTurret.description>An advanced, high-powered turret developed at Wishdale, capable of immense destruction.</Raven_Gun_WishdaleTurret.description>
-  <Raven_Gun_WeedyTurret.label>[Raven] Weedy Cannon</Raven_Gun_WeedyTurret.label>
+  <Raven_Gun_WeedyTurret.label>(Raven) Weedy Cannon</Raven_Gun_WeedyTurret.label>
   <Raven_Gun_WeedyTurret.description>A specialized cannon designed to fire highly pressurized bursts, often pushing targets back.</Raven_Gun_WeedyTurret.description>
-  <Raven_Gun_FlameTurret.label>[Raven] Flame Turret</Raven_Gun_FlameTurret.label>
+  <Raven_Gun_FlameTurret.label>(Raven) Flame Turret</Raven_Gun_FlameTurret.label>
   <Raven_Gun_FlameTurret.description>An incendiary turret that bathes the surrounding area in intense flames.</Raven_Gun_FlameTurret.description>
 </LanguageData>

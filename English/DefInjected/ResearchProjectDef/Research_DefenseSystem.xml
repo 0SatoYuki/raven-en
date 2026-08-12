@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RavenResearch_TrapBasics.label>[Raven] Trap Basics</RavenResearch_TrapBasics.label>
+  <RavenResearch_TrapBasics.label>(Raven) Trap Basics</RavenResearch_TrapBasics.label>
   <RavenResearch_TrapBasics.description>Study the fundamental principles of Raven defensive engineering. Unlocks simple mechanical traps like the leg crusher.</RavenResearch_TrapBasics.description>
-  <RavenResearch_Concealment.label>[Raven] Concealment Tactics</RavenResearch_Concealment.label>
+  <RavenResearch_Concealment.label>(Raven) Concealment Tactics</RavenResearch_Concealment.label>
   <RavenResearch_Concealment.description>Unlocks advanced camouflage structures that allow snipers to remain hidden while engaging targets.</RavenResearch_Concealment.description>
-  <RavenResearch_SpecialTraps.label>[Raven] Specialized Traps</RavenResearch_SpecialTraps.label>
+  <RavenResearch_SpecialTraps.label>(Raven) Specialized Traps</RavenResearch_SpecialTraps.label>
   <RavenResearch_SpecialTraps.description>Unlocks unconventional traps designed for psychological warfare and specialized capture, such as Lego mines and Conception machines.</RavenResearch_SpecialTraps.description>
-  <RavenResearch_DynamicTerrain.label>[Raven] Dynamic Terrain Defense</RavenResearch_DynamicTerrain.label>
+  <RavenResearch_DynamicTerrain.label>(Raven) Dynamic Terrain Defense</RavenResearch_DynamicTerrain.label>
   <RavenResearch_DynamicTerrain.description>Unlocks the massive Rising Wall Trap, capable of altering the battlefield instantly by generating walls.</RavenResearch_DynamicTerrain.description>
-  <RavenResearch_DecoyTech.label>[Raven] Decoy Technology</RavenResearch_DecoyTech.label>
+  <RavenResearch_DecoyTech.label>(Raven) Decoy Technology</RavenResearch_DecoyTech.label>
   <RavenResearch_DecoyTech.description>Develop realistic decoys and sound lures to deceive enemy AI.</RavenResearch_DecoyTech.description>
-  <RavenResearch_ChemicalWarfare.label>[Raven] Chemical Warfare</RavenResearch_ChemicalWarfare.label>
+  <RavenResearch_ChemicalWarfare.label>(Raven) Chemical Warfare</RavenResearch_ChemicalWarfare.label>
   <RavenResearch_ChemicalWarfare.description>Research various gases for area denial and crowd control.</RavenResearch_ChemicalWarfare.description>
-  <RavenResearch_AdvancedTrap.label>[Raven] Advanced Trap Tech</RavenResearch_AdvancedTrap.label>
+  <RavenResearch_AdvancedTrap.label>(Raven) Advanced Trap Tech</RavenResearch_AdvancedTrap.label>
   <RavenResearch_AdvancedTrap.description>Advanced structural engineering and sensor arrays. Unlocks the defense hub for centralized turret management.</RavenResearch_AdvancedTrap.description>
 </LanguageData>

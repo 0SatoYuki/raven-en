@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_GoldenFeather.label>[Raven] Golden Feather</Raven_GoldenFeather.label>
+  <Raven_GoldenFeather.label>(Raven) Golden Feather</Raven_GoldenFeather.label>
   <Raven_GoldenFeather.description>A feather with golden veins at its base, acting as a divine crystal separated from a Raven experiencing extreme emotions or physical trauma.\n\nHow to obtain:\n1. Chance to drop when a Raven is having an extreme mental break or is extremely happy.\n2. Chance to drop when a Raven is severely injured and near death.\n3. Guaranteed to drop when a Raven lays a Raven Spirit Egg.\n(Each method has an independent cooldown time.)\n\nIt contains a faint but pure Raven Golden Crow power, making it a key material for crafting advanced artifacts and potions.</Raven_GoldenFeather.description>
-  <Raven_DarkSunLens.label>[Raven] Dark-Sun Lens</Raven_DarkSunLens.label>
+  <Raven_DarkSunLens.label>(Raven) Dark-Sun Lens</Raven_DarkSunLens.label>
   <Raven_DarkSunLens.description>An irregular obsidian flake specially processed by Raven Fusang craftsmen. When Raven Golden Crow blood is dripped onto it, it can distort surrounding light and heat energy.\n\nIt is the core component for crafting advanced stealth equipment.</Raven_DarkSunLens.description>
-  <Raven_EmberBlood.label>[Raven] Ember Blood</Raven_EmberBlood.label>
+  <Raven_EmberBlood.label>(Raven) Ember Blood</Raven_EmberBlood.label>
   <Raven_EmberBlood.description>Concentrated blood extracted from a Raven's heart. It has a dark golden gelatinous texture and emits unstable heat.\n\nHow to obtain:\n1. Perform the "Extract Raven Ember Blood" surgery on a Raven (lethal).\n2. Issue the "Sublime Sacrifice" special protocol via the Raven Fusang radio.\n\nThis is an extremely dangerous bloodline purification medium. Direct injection can awaken the Raven Golden Crow power within the body, but this power can only push the Raven Golden Crow concentration up to a maximum of 20%. Once the subject's concentration reaches its limit, they will no longer be able to endure further injections.\n\nWarning: Highly likely to cause death from ruptured blood vessels or induce madness.</Raven_EmberBlood.description>
-  <Raven_EmberBlood.comps.CompUsable.useLabel>Inject [Raven] Ember Blood</Raven_EmberBlood.comps.CompUsable.useLabel>
-  <Raven_ShatteredSunCore.label>[Raven] Shattered Sun Core</Raven_ShatteredSunCore.label>
+  <Raven_EmberBlood.comps.CompUsable.useLabel>Inject (Raven) Ember Blood</Raven_EmberBlood.comps.CompUsable.useLabel>
+  <Raven_ShatteredSunCore.label>(Raven) Shattered Sun Core</Raven_ShatteredSunCore.label>
   <Raven_ShatteredSunCore.description>A core fragment left over from the destruction of the ancient Raven Golden Crow capital star. This crystal seals away threads of sunlight that appear to still be flowing inside.\n\nIt is a necessary material for crafting god-tier equipment, as well as an extremely expensive collectible.</Raven_ShatteredSunCore.description>
 </LanguageData>

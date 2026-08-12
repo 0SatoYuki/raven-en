@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Ability_Fireball.label>[Raven] Golden Crow Fireball</Raven_Ability_Fireball.label>
+  <Raven_Ability_Fireball.label>(Raven) Golden Crow Fireball</Raven_Ability_Fireball.label>
   <Raven_Ability_Fireball.description>An instant-cast destructive fireball.</Raven_Ability_Fireball.description>
-  <Raven_Ability_MassIgnite.label>[Raven] Mass Ignite</Raven_Ability_MassIgnite.label>
+  <Raven_Ability_MassIgnite.label>(Raven) Mass Ignite</Raven_Ability_MassIgnite.label>
   <Raven_Ability_MassIgnite.description>Ignites all targets within a designated area.</Raven_Ability_MassIgnite.description>
 </LanguageData>

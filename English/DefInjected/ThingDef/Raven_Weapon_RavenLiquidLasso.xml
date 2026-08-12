@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Projectile_RavenLiquidLasso.label>[Raven] Fluid Lasso</Raven_Projectile_RavenLiquidLasso.label>
-  <Raven_Weapon_RavenLiquidLasso.label>[Raven] Fluid Lasso</Raven_Weapon_RavenLiquidLasso.label>
+  <Raven_Projectile_RavenLiquidLasso.label>(Raven) Fluid Lasso</Raven_Projectile_RavenLiquidLasso.label>
+  <Raven_Weapon_RavenLiquidLasso.label>(Raven) Fluid Lasso</Raven_Weapon_RavenLiquidLasso.label>
   <Raven_Weapon_RavenLiquidLasso.description>A lasso loaded with viscous Raven fluid. Affected by the shooter's aim, a direct hit will only cause minor blunt damage but will quickly coat the target in Raven fluid; missing will spill a small patch of pink stains.</Raven_Weapon_RavenLiquidLasso.description>
 </LanguageData>

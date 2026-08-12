@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Raven_Building_LiquidInputPort.label>[Raven] Liquid Input Port</Raven_Building_LiquidInputPort.label>
+  <Raven_Building_LiquidInputPort.label>(Raven) Liquid Input Port</Raven_Building_LiquidInputPort.label>
   <Raven_Building_LiquidInputPort.description>A pipe input interface installed on the outside of liquid facilities. When placed, it directly generates a built standard Raven liquid pipe on the same tile; if a pipe already exists there, it will simply reuse it. By facing the interface towards the target building, it can input liquid from the network into the building.</Raven_Building_LiquidInputPort.description>
-  <Raven_Building_LiquidOutputPort.label>[Raven] Liquid Output Port</Raven_Building_LiquidOutputPort.label>
+  <Raven_Building_LiquidOutputPort.label>(Raven) Liquid Output Port</Raven_Building_LiquidOutputPort.label>
   <Raven_Building_LiquidOutputPort.description>A pipe output interface installed on the outside of liquid facilities. When placed, it directly generates a built standard Raven liquid pipe on the same tile; if a pipe already exists there, it will simply reuse it. By facing the interface towards the target building, it can output liquid from the building into the network.</Raven_Building_LiquidOutputPort.description>
 </LanguageData>

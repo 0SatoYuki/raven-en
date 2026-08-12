@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RavenDecoy_Dummy.label>[Raven] Decoy Dummy</RavenDecoy_Dummy.label>
+  <RavenDecoy_Dummy.label>(Raven) Decoy Dummy</RavenDecoy_Dummy.label>
   <RavenDecoy_Dummy.description>A lifelike dummy simulating a Raven soldier. With a built-in electronic signal simulator, enemy AI will identify it as a high-threat armed unit (turret).\n\nIt is equipped with a harmless mock gun, constantly "attacking" to draw enemy fire.</RavenDecoy_Dummy.description>
-  <RavenDecoy_Dummy_Gun.label>[Raven] Decoy Signal Emitter</RavenDecoy_Dummy_Gun.label>
+  <RavenDecoy_Dummy_Gun.label>(Raven) Decoy Signal Emitter</RavenDecoy_Dummy_Gun.label>
   <RavenDecoy_Dummy_Gun.description>A mock weapon built into the dummy, firing harmless signal flares.</RavenDecoy_Dummy_Gun.description>
-  <RavenDecoy_Dummy_Bullet.label>[Raven] Mock Signal</RavenDecoy_Dummy_Bullet.label>
+  <RavenDecoy_Dummy_Bullet.label>(Raven) Mock Signal</RavenDecoy_Dummy_Bullet.label>
 </LanguageData>
