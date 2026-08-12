@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenIndustrialMarker_Set>设置工业标记</RavenIndustrialMarker_Set>
+  <RavenIndustrialMarker_SetDesc>为该工业实体选择物品或液体标记。当前：{0}</RavenIndustrialMarker_SetDesc>
+  <RavenIndustrialMarker_Title>工业物流标记</RavenIndustrialMarker_Title>
+  <RavenIndustrialMarker_Current>当前标记：{0}</RavenIndustrialMarker_Current>
+  <RavenIndustrialMarker_None>无</RavenIndustrialMarker_None>
+  <RavenIndustrialMarker_TabThing>物品</RavenIndustrialMarker_TabThing>
+  <RavenIndustrialMarker_TabLiquid>液体</RavenIndustrialMarker_TabLiquid>
+  <RavenIndustrialMarker_Search>搜索：</RavenIndustrialMarker_Search>
+  <RavenIndustrialMarker_NoResults>没有匹配的资源</RavenIndustrialMarker_NoResults>
+  <RavenIndustrialMarker_Clear>清除标记</RavenIndustrialMarker_Clear>
+  <RavenIndustrialMarker_Close>关闭</RavenIndustrialMarker_Close>
+</LanguageData>

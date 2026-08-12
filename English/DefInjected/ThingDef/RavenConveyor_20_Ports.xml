@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_ConveyorInputPort.label>[Raven] Conveyor Input Port</Raven_Building_ConveyorInputPort.label>
+  <Raven_Building_ConveyorInputPort.description>Placed over a conveyor and facing the target, it sends virtual items from the conveyor into a drone chest or Raven industrial machine.</Raven_Building_ConveyorInputPort.description>
+  <Raven_Building_ConveyorOutputPort.label>[Raven] Conveyor Output Port</Raven_Building_ConveyorOutputPort.label>
+  <Raven_Building_ConveyorOutputPort.description>Placed over a conveyor and facing the target, it pulls virtual items from a drone chest or Raven industrial machine and sends them onto the conveyor.</Raven_Building_ConveyorOutputPort.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenHediff_TendonCut.label>[Raven] Achilles Tendon Rupture</RavenHediff_TendonCut.label>
+  <RavenHediff_TendonCut.description>The Achilles tendon has been completely severed. Movement is severely and permanently impaired without surgery.</RavenHediff_TendonCut.description>
+  <RavenHediff_TendonCut.stages.fresh.label>[Raven] Fresh Wound</RavenHediff_TendonCut.stages.fresh.label>
+  <RavenHediff_TendonCut.stages.scarred.label>[Raven] Healed Scar</RavenHediff_TendonCut.stages.scarred.label>
+</LanguageData>

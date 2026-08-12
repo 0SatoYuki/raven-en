@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_HotSpringTile_CantPlaceOnImpassable>渡鸦温泉瓷砖不能铺设在不可通行的地块上。</Raven_HotSpringTile_CantPlaceOnImpassable>
+  <RavenRace_Extractor_OnlyRaven>只能接受渡鸦族。</RavenRace_Extractor_OnlyRaven>
+  <RavenRace_Extractor_Extracting>正在提取：{0}</RavenRace_Extractor_Extracting>
+  <RavenRace_Extractor_Finished_Safe>提取完成：{0} 虚弱地离开了仪器，余烬之血已凝结。</RavenRace_Extractor_Finished_Safe>
+  <RavenRace_Extractor_InCooldown>{0} 正处于余烬枯竭状态，身体无法承受再次提取。</RavenRace_Extractor_InCooldown>
+  
+  <!-- 新增的交互文本 -->
+  <RavenRace_EnterExtractor>进入残火提取仪</RavenRace_EnterExtractor>
+  <RavenRace_InsertPerson>放入人员</RavenRace_InsertPerson>
+
+
+  <RavenRace_WatchAV>看影像</RavenRace_WatchAV>
+  <RavenRace_WatchAV_Desc>开启后，电视将播放情感影像内容。观看者会获得特殊的娱乐体验，并有概率激发浪漫冲动。</RavenRace_WatchAV_Desc>
+  <Raven_WatchingAV>正在看影像</Raven_WatchingAV>
+
+  <!-- [新增] 香薰香炉 -->
+  <Raven_Message_IncenseEffect>{0} 在香薰的作用下对 {1} 产生了强烈的冲动...</Raven_Message_IncenseEffect>
+
+    <!-- C# 硬编码文本 -->
+    <RavenRace_Buildings_Building_RavenTrashCan_Text>允许销毁有毒垃圾</RavenRace_Buildings_Building_RavenTrashCan_Text>
+    <RavenRace_Buildings_Building_RavenTrashCan_Text_2>允许销毁有毒垃圾</RavenRace_Buildings_Building_RavenTrashCan_Text_2>
+    <RavenRace_Buildings_Building_RavenTrashCan_6ad52e66>需要《生物科技》DLC</RavenRace_Buildings_Building_RavenTrashCan_6ad52e66>
+    <RavenRace_Buildings_Building_RavenTrashCan_Text_3>允许销毁腐烂物</RavenRace_Buildings_Building_RavenTrashCan_Text_3>
+    <RavenRace_Buildings_Building_RavenTrashCan_Text_4>允许销毁腐烂物</RavenRace_Buildings_Building_RavenTrashCan_Text_4>
+    <RavenRace_Buildings_Building_RavenTrashCan_Settings>销毁设置</RavenRace_Buildings_Building_RavenTrashCan_Settings>
+    <RavenRace_Buildings_Building_RavenTrashCan_Settings_Desc>打开垃圾桶销毁筛选面板，配置可销毁物品类型与价值上限。</RavenRace_Buildings_Building_RavenTrashCan_Settings_Desc>
+    <RavenRace_Buildings_WorkGiver_Destroyer_Text>没有可用的渡鸦垃圾桶</RavenRace_Buildings_WorkGiver_Destroyer_Text>
+    <RavenRace_Buildings_WorkGiver_Destroyer_NotAcceptable>该物品不在销毁筛选范围内</RavenRace_Buildings_WorkGiver_Destroyer_NotAcceptable>
+
+    <!-- Dialog_RavenTrashCan 面板 -->
+    <RavenRace_TrashCan_Title>渡鸦垃圾桶 · 销毁设置</RavenRace_TrashCan_Title>
+    <RavenRace_TrashCan_SectionCategories>销毁分类</RavenRace_TrashCan_SectionCategories>
+    <RavenRace_TrashCan_DeadmansApparel>允许销毁死人衣物</RavenRace_TrashCan_DeadmansApparel>
+    <RavenRace_TrashCan_DeadmansApparel_Desc>开启后，垃圾桶会销毁从尸体剥下的服装（带"曾被尸体穿戴"标记）。</RavenRace_TrashCan_DeadmansApparel_Desc>
+    <RavenRace_TrashCan_BiocodedWeapons>允许销毁生物编码武器</RavenRace_TrashCan_BiocodedWeapons>
+    <RavenRace_TrashCan_BiocodedWeapons_Desc>开启后，垃圾桶会销毁生物编码过的武器（无法被他人使用）。</RavenRace_TrashCan_BiocodedWeapons_Desc>
+    <RavenRace_TrashCan_SectionValueFilter>价值上限</RavenRace_TrashCan_SectionValueFilter>
+    <RavenRace_TrashCan_MaxItemValue>物品价值上限</RavenRace_TrashCan_MaxItemValue>
+    <RavenRace_TrashCan_MaxItemValue_Desc>仅销毁总价值（市价×数量）≤ 此值的物品。0 表示不限制。</RavenRace_TrashCan_MaxItemValue_Desc>
+    <!-- C# 硬编码文本 -->
+    <RavenRace_MechanicalAngel_Patch_AegisCoreSystems_Message>艾吉斯能量不足，无法进行神圣治疗。</RavenRace_MechanicalAngel_Patch_AegisCoreSystems_Message>
+    <RavenRace_MechanicalAngel_Patch_Building_MechGestator_ExtractAegis_Label>唤醒机械天使 (拒绝访问：您不是她的制造者)</RavenRace_MechanicalAngel_Patch_Building_MechGestator_ExtractAegis_Label>
+    <RavenRace_MechanicalAngel_Patch_Building_MechGestator_ExtractAegis_Label_2>唤醒机械天使 (舱体已被占用)</RavenRace_MechanicalAngel_Patch_Building_MechGestator_ExtractAegis_Label_2>
+    <RavenRace_MechanicalAngel_Patch_Building_MechGestator_ExtractAegis_Label_3>唤醒机械天使</RavenRace_MechanicalAngel_Patch_Building_MechGestator_ExtractAegis_Label_3>
+    <RavenRace_MechanicalAngel_CompAegisCore_Message>艾吉斯的能量核心濒临枯竭，底层协议崩溃，进入了无法控制的汲取暴走状态！</RavenRace_MechanicalAngel_CompAegisCore_Message>
+    <RavenRace_MechanicalAngel_CompAegisCore_Message_2>艾吉斯的能量已得到补充，退出了汲取暴走状态。</RavenRace_MechanicalAngel_CompAegisCore_Message_2>
+    <RavenRace_MechanicalAngel_CompAegisCore_Label>允许主动汲取</RavenRace_MechanicalAngel_CompAegisCore_Label>
+    <RavenRace_MechanicalAngel_CompAegisCore_Description>开启后，当艾吉斯的能量过低时，她会自动寻找主人进行汲取。关闭后她只会寻找最近的殖民者进行暴走汲取。</RavenRace_MechanicalAngel_CompAegisCore_Description>
+    <RavenRace_MechanicalAngel_CompAegisCore_Label_2>允许吸食鸦液</RavenRace_MechanicalAngel_CompAegisCore_Label_2>
+    <RavenRace_MechanicalAngel_CompAegisCore_Description_2>开启后，当艾吉斯的能量低于阈值时，她会自动寻找地图上的鸦液并贪婪地吸食，用以补充能源。</RavenRace_MechanicalAngel_CompAegisCore_Description_2>
+    <RavenRace_MechanicalAngel_CompAegisCore_Label_3>更换武器...</RavenRace_MechanicalAngel_CompAegisCore_Label_3>
+    <RavenRace_MechanicalAngel_CompAegisCore_Description_3>命令艾吉斯拾取地上的武器或剥夺他人的武器。</RavenRace_MechanicalAngel_CompAegisCore_Description_3>
+    <RavenRace_MechanicalAngel_JobDriver_AegisLustCharge_Message>艾吉斯完成了对 {0} 的能量汲取，能量已满。</RavenRace_MechanicalAngel_JobDriver_AegisLustCharge_Message>
+    <RavenRace_Buildings_RavenLiquidLakeGenerator_Message>未找到鸦液湖地形定义。</RavenRace_Buildings_RavenLiquidLakeGenerator_Message>
+    <RavenRace_Buildings_CompRavenLiquidPipe_Label>排空管段</RavenRace_Buildings_CompRavenLiquidPipe_Label>
+    <RavenRace_Buildings_CompRavenLiquidPipe_Description>排空与当前管道相连且承载同种液体的整段管道。</RavenRace_Buildings_CompRavenLiquidPipe_Description>
+    <RavenRace_Buildings_CompRavenLiquidPipe_Text>管道液体：{0}</RavenRace_Buildings_CompRavenLiquidPipe_Text>
+    <RavenRace_Buildings_CompRavenLiquidPipe_Text_2>管道液体：无</RavenRace_Buildings_CompRavenLiquidPipe_Text_2>
+    <RavenRace_Buildings_CompRavenLiquidPipe_Message>已排空 {0} 格管道。</RavenRace_Buildings_CompRavenLiquidPipe_Message>
+    <RavenRace_Buildings_CompRavenLiquidPump_Status>抽取液体：{0}
+泵送状态：{1}
+生产速率：{2:F0} 单位/秒</RavenRace_Buildings_CompRavenLiquidPump_Status>
+    <RavenRace_Buildings_CompRavenLiquidStorage_Label>清空液体</RavenRace_Buildings_CompRavenLiquidStorage_Label>
+    <RavenRace_Buildings_CompRavenLiquidStorage_Description>清空该储液设施中的所有液体。</RavenRace_Buildings_CompRavenLiquidStorage_Description>
+    <RavenRace_Conveyor_MachineBuffer_EjectLabel>排空机器缓冲</RavenRace_Conveyor_MachineBuffer_EjectLabel>
+    <RavenRace_Conveyor_MachineBuffer_EjectDesc>将传送带输入、输出缓冲和内部成品中的固体物品弹出到机器附近，并清空机器内部储液。不会中止当前生产批次；仍连接供液管网时，机器可能再次进液。</RavenRace_Conveyor_MachineBuffer_EjectDesc>
+    <RavenRace_Conveyor_MachineBuffer_EjectMessage>已排空机器缓冲：弹出固体 {0}，清空液体 {1}。</RavenRace_Conveyor_MachineBuffer_EjectMessage>
+    <RavenRace_Buildings_CompRavenLiquidStorage_7903be73>填满{0}</RavenRace_Buildings_CompRavenLiquidStorage_7903be73>
+    <RavenRace_Buildings_CompRavenLiquidStorage_c7d5a68e>将储液罐直接填满为{0}，用于测试液体层渲染。</RavenRace_Buildings_CompRavenLiquidStorage_c7d5a68e>
+    <RavenRace_Buildings_Gizmo_RavenLiquidTankFillDebug_219a6fec>上帝模式调试：拖动后直接设置储液罐液位。空罐拖高时默认填充鸦液。</RavenRace_Buildings_Gizmo_RavenLiquidTankFillDebug_219a6fec>
+    <RavenRace_Buildings_MapComponent_RavenLiquidNetwork_d3b31012>液体管网检测到多种液体混合，已清空该管网并停止输出。</RavenRace_Buildings_MapComponent_RavenLiquidNetwork_d3b31012>
+    <RavenRace_Buildings_PlaceWorker_RavenLiquidPipeOverlay_763f1a71>该格已经有鸦液管道。</RavenRace_Buildings_PlaceWorker_RavenLiquidPipeOverlay_763f1a71>
+    <RavenRace_Buildings_PlaceWorker_RavenLiquidPump_dcff703e>鸦液水泵必须放置在水面或鸦液湖地形上。</RavenRace_Buildings_PlaceWorker_RavenLiquidPump_dcff703e>
+    <RavenRace_Buildings_RavenPipeLiquidUtility_902bab32>无</RavenRace_Buildings_RavenPipeLiquidUtility_902bab32>
+    <RavenRace_Buildings_Building_AltarInfuser_79745622>弹出物品</RavenRace_Buildings_Building_AltarInfuser_79745622>
+    <RavenRace_Buildings_Building_AltarInfuser_4a27fd04>取出当前放入的物品。</RavenRace_Buildings_Building_AltarInfuser_4a27fd04>
+    <RavenRace_Buildings_Building_AltarInfuser_2252737f>取消指派</RavenRace_Buildings_Building_AltarInfuser_2252737f>
+    <RavenRace_Buildings_Building_AltarInfuser_e48b4571>取消等待搬运 {0}。</RavenRace_Buildings_Building_AltarInfuser_e48b4571>
+    <RavenRace_Buildings_Building_Cradle_2b3065c4>自动装填</RavenRace_Buildings_Building_Cradle_2b3065c4>
+    <RavenRace_Buildings_Building_Cradle_31be3126>如果开启，殖民者会自动将灵卵搬运至此摇篮。</RavenRace_Buildings_Building_Cradle_31be3126>
+    <RavenRace_Buildings_Building_Cradle_f0f1c3c1>清除注灵器蓝图</RavenRace_Buildings_Building_Cradle_f0f1c3c1>
+    <RavenRace_Buildings_Building_Cradle_d355d191>规划注灵器</RavenRace_Buildings_Building_Cradle_d355d191>
+    <RavenRace_Buildings_Building_Cradle_0e3926d4>点击规划缺失的注灵器蓝图。
+如果所有位置都已有蓝图或建筑，点击则清除蓝图。</RavenRace_Buildings_Building_Cradle_0e3926d4>
+    <RavenRace_Buildings_Building_Cradle_63255e48>清除共鸣桩蓝图</RavenRace_Buildings_Building_Cradle_63255e48>
+    <RavenRace_Buildings_Building_Cradle_6fedbe47>规划共鸣桩</RavenRace_Buildings_Building_Cradle_6fedbe47>
+    <RavenRace_Buildings_Building_Cradle_3c843e77>一键规划/取消共鸣桩蓝图。</RavenRace_Buildings_Building_Cradle_3c843e77>
+    <RavenRace_Buildings_Building_Cradle_f85579b3>清除注入仪蓝图</RavenRace_Buildings_Building_Cradle_f85579b3>
+    <RavenRace_Buildings_Building_Cradle_afce6fde>规划注入仪</RavenRace_Buildings_Building_Cradle_afce6fde>
+    <RavenRace_Buildings_Building_Cradle_fbeb9e34>一键规划/取消注入仪蓝图。</RavenRace_Buildings_Building_Cradle_fbeb9e34>
+    <RavenRace_Buildings_Building_Cradle_d7ee53b3>DEV: 一键建设</RavenRace_Buildings_Building_Cradle_d7ee53b3>
+    <RavenRace_Buildings_Building_Cradle_258d40ab>瞬间生成所有配套设施 (调试用)</RavenRace_Buildings_Building_Cradle_258d40ab>
+    <RavenRace_Buildings_Building_Cradle_47305aad>弹出灵卵</RavenRace_Buildings_Building_Cradle_47305aad>
+    <RavenRace_Buildings_Building_Cradle_0d29cbda>将灵卵从摇篮中取出。</RavenRace_Buildings_Building_Cradle_0d29cbda>
+    <RavenRace_Buildings_Building_Cradle_15fc67fc>DEV: 瞬间孵化</RavenRace_Buildings_Building_Cradle_15fc67fc>
+    <RavenRace_Buildings_Building_Cradle_768bd9f4>立即孵化 (调试用)</RavenRace_Buildings_Building_Cradle_768bd9f4>
+    <RavenRace_Buildings_Building_Cradle_62e48ed5>已规划蓝图。</RavenRace_Buildings_Building_Cradle_62e48ed5>
+    <RavenRace_Buildings_Building_Cradle_6e40e600>已清除蓝图。</RavenRace_Buildings_Building_Cradle_6e40e600>
+    <RavenRace_Buildings_Building_Cradle_2fa2cbfc>DEV: 祭坛组件已生成。</RavenRace_Buildings_Building_Cradle_2fa2cbfc>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_cabfd00b>正在生产：{0}</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_cabfd00b>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_b5c12bd4>断电暂停：{0}</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_b5c12bd4>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_2095fa18>配方</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_2095fa18>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_897bd951>打开{0}的配方选择与生产状态界面。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_897bd951>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_1a19c38a>弹出成品</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_1a19c38a>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_ba6e50b6>把{0}内部堆积的成品弹出到交互格附近。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_ba6e50b6>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_f109ff43>原料扣除失败，无法开始生产。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_f109ff43>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_baa3c1aa>已中止生产批次，已消耗的液体不会返还。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_baa3c1aa>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_8134de05>{0}内部没有成品。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_8134de05>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_310714ce>已弹出{0}成品。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_310714ce>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_0bbb927f>成品存入失败。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_0bbb927f>
+    <RavenRace_Buildings_RavenMachineRecipeDef_070a0fde>无固体材料</RavenRace_Buildings_RavenMachineRecipeDef_070a0fde>
+    <RavenRace_Buildings_RavenMachineRecipeDef_e4e30f18>无产物</RavenRace_Buildings_RavenMachineRecipeDef_e4e30f18>
+    <RavenRace_Buildings_RavenThingIngredientCount_b9b275f9>未知材料</RavenRace_Buildings_RavenThingIngredientCount_b9b275f9>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_1d71f0a4>液体配方设备</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_1d71f0a4>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_32b256ac>配方选择 · 液体处理 · 成品暂存</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_32b256ac>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_8bd4cb4d>配方列表</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_8bd4cb4d>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_f4673870>生产状态</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_f4673870>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_f9f3d19e>电力</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_f9f3d19e>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_60f9c94d>液体</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_60f9c94d>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_4b77b9f4>没有可用配方。</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_4b77b9f4>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_33882b64>原料：{0}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_33882b64>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_fef97902>固体：{0}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_fef97902>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_eccca74f>产物：{0}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_eccca74f>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_1d414548>时间：{0}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_1d414548>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_bb198885>内部成品</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_bb198885>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_0d0ce214>暂无成品</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_0d0ce214>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_7bbee5c0>关闭</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_7bbee5c0>
+    <RavenRace_Drone_DroneDebugActions_fab4a98a>目标位置不在当前地图范围内。</RavenRace_Drone_DroneDebugActions_fab4a98a>
+    <RavenRace_Drone_DroneDebugActions_bedf4985>未找到无人机基站。</RavenRace_Drone_DroneDebugActions_bedf4985>
+    <RavenRace_Drone_DroneDebugActions_2c8412ac>搬运无人机生成失败，请确认基站已开启且运行中无人机未超过容量。</RavenRace_Drone_DroneDebugActions_2c8412ac>
+    <RavenRace_Drone_DroneDebugActions_2cf165dc>已在最近可运行基站生成搬运无人机。</RavenRace_Drone_DroneDebugActions_2cf165dc>
+    <RavenRace_Drone_DroneDebugActions_1063fc26>未找到无人机基站或物流箱 Def。</RavenRace_Drone_DroneDebugActions_1063fc26>
+    <RavenRace_Drone_DroneDebugActions_f14561de>未找到可用于压测的基础物品。</RavenRace_Drone_DroneDebugActions_f14561de>
+    <RavenRace_Drone_DroneDebugActions_57a46b3f>压测基站生成失败。</RavenRace_Drone_DroneDebugActions_57a46b3f>
+    <RavenRace_Drone_DroneDebugActions_03fcd767>未找到基础搬运无人机 Def。</RavenRace_Drone_DroneDebugActions_03fcd767>
+    <RavenRace_Drone_DroneDebugActions_88d5727b>无人机压测场景完成：基站 {0} 个，物流箱 {1} 个，基站库存 {2} 架，已出站 {3}/{4} 架，散落物 {5} 堆。</RavenRace_Drone_DroneDebugActions_88d5727b>
+    <RavenRace_Drone_Building_RavenDroneStation_048da546>无人机库存</RavenRace_Drone_Building_RavenDroneStation_048da546>
+    <RavenRace_Drone_Building_RavenDroneStation_772767a6>设置基站希望维持的无人机数量，并查看或弹出内部无人机物品。殖民者和传送带输入口都会补充到目标数量。</RavenRace_Drone_Building_RavenDroneStation_772767a6>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_f984b144>无人机基站库存</RavenRace_Drone_Dialog_RavenDroneStationInventory_f984b144>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_96f1c0e9>类型</RavenRace_Drone_Dialog_RavenDroneStationInventory_96f1c0e9>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_523f188c>弹出本槽</RavenRace_Drone_Dialog_RavenDroneStationInventory_523f188c>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_864af4ae>已弹出无人机 </RavenRace_Drone_Dialog_RavenDroneStationInventory_864af4ae>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_cf008c81> 架。</RavenRace_Drone_Dialog_RavenDroneStationInventory_cf008c81>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_bb719620>殖民者会从可达储物区或地面补充无人机；传送带输入口也会把生产完成的无人机补到目标数量。搬运无人机不会搬运无人机物品。</RavenRace_Drone_Dialog_RavenDroneStationInventory_bb719620>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_bd72cbca>没有可用无人机 Def</RavenRace_Drone_Dialog_RavenDroneStationInventory_bd72cbca>
+    <RavenRace_Buildings_Gizmo_RavenLiquidTankFillDebug_Status>上帝模式调试：拖动后直接设置储液罐液位。空罐拖高时默认填充鸦液。</RavenRace_Buildings_Gizmo_RavenLiquidTankFillDebug_Status>
+    <RavenRace_Buildings_MapComponent_RavenLiquidNetwork_Message>液体管网检测到多种液体混合，已清空该管网并停止输出。</RavenRace_Buildings_MapComponent_RavenLiquidNetwork_Message>
+    <RavenRace_Buildings_PlaceWorker_RavenLiquidPipeOverlay_Status>该格已经有鸦液管道。</RavenRace_Buildings_PlaceWorker_RavenLiquidPipeOverlay_Status>
+    <RavenRace_Buildings_PlaceWorker_RavenLiquidPump_Status>鸦液水泵必须放置在水面或鸦液湖地形上。</RavenRace_Buildings_PlaceWorker_RavenLiquidPump_Status>
+    <RavenRace_Buildings_RavenPipeLiquidUtility_Status>无</RavenRace_Buildings_RavenPipeLiquidUtility_Status>
+    <RavenRace_Buildings_Building_AltarInfuser_Label>弹出物品</RavenRace_Buildings_Building_AltarInfuser_Label>
+    <RavenRace_Buildings_Building_AltarInfuser_Description>取出当前放入的物品。</RavenRace_Buildings_Building_AltarInfuser_Description>
+    <RavenRace_Buildings_Building_AltarInfuser_Label_2>取消指派</RavenRace_Buildings_Building_AltarInfuser_Label_2>
+    <RavenRace_Buildings_Building_AltarInfuser_Description_2>取消等待搬运 {0}。</RavenRace_Buildings_Building_AltarInfuser_Description_2>
+    <RavenRace_Buildings_Building_Cradle_Label>自动装填</RavenRace_Buildings_Building_Cradle_Label>
+    <RavenRace_Buildings_Building_Cradle_Description>如果开启，殖民者会自动将灵卵搬运至此摇篮。</RavenRace_Buildings_Building_Cradle_Description>
+    <RavenRace_Buildings_Building_Cradle_Label_2>清除注灵器蓝图</RavenRace_Buildings_Building_Cradle_Label_2>
+    <RavenRace_Buildings_Building_Cradle_Label_3>规划注灵器</RavenRace_Buildings_Building_Cradle_Label_3>
+    <RavenRace_Buildings_Building_Cradle_Description_2>点击规划缺失的注灵器蓝图。
+如果所有位置都已有蓝图或建筑，点击则清除蓝图。</RavenRace_Buildings_Building_Cradle_Description_2>
+    <RavenRace_Buildings_Building_Cradle_Label_4>清除共鸣桩蓝图</RavenRace_Buildings_Building_Cradle_Label_4>
+    <RavenRace_Buildings_Building_Cradle_Label_5>规划共鸣桩</RavenRace_Buildings_Building_Cradle_Label_5>
+    <RavenRace_Buildings_Building_Cradle_Description_3>一键规划/取消共鸣桩蓝图。</RavenRace_Buildings_Building_Cradle_Description_3>
+    <RavenRace_Buildings_Building_Cradle_Label_6>清除注入仪蓝图</RavenRace_Buildings_Building_Cradle_Label_6>
+    <RavenRace_Buildings_Building_Cradle_Label_7>规划注入仪</RavenRace_Buildings_Building_Cradle_Label_7>
+    <RavenRace_Buildings_Building_Cradle_Description_4>一键规划/取消注入仪蓝图。</RavenRace_Buildings_Building_Cradle_Description_4>
+    <RavenRace_Buildings_Building_Cradle_Label_8>DEV: 一键建设</RavenRace_Buildings_Building_Cradle_Label_8>
+    <RavenRace_Buildings_Building_Cradle_Description_5>瞬间生成所有配套设施 (调试用)</RavenRace_Buildings_Building_Cradle_Description_5>
+    <RavenRace_Buildings_Building_Cradle_Label_9>弹出灵卵</RavenRace_Buildings_Building_Cradle_Label_9>
+    <RavenRace_Buildings_Building_Cradle_Description_6>将灵卵从摇篮中取出。</RavenRace_Buildings_Building_Cradle_Description_6>
+    <RavenRace_Buildings_Building_Cradle_Label_10>DEV: 瞬间孵化</RavenRace_Buildings_Building_Cradle_Label_10>
+    <RavenRace_Buildings_Building_Cradle_Description_7>立即孵化 (调试用)</RavenRace_Buildings_Building_Cradle_Description_7>
+    <RavenRace_Buildings_Building_Cradle_Message>已规划蓝图。</RavenRace_Buildings_Building_Cradle_Message>
+    <RavenRace_Buildings_Building_Cradle_Message_2>已清除蓝图。</RavenRace_Buildings_Building_Cradle_Message_2>
+    <RavenRace_Buildings_Building_Cradle_Message_3>DEV: 祭坛组件已生成。</RavenRace_Buildings_Building_Cradle_Message_3>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Status>正在生产：{0}</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Status>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Status_2>断电暂停：{0}</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Status_2>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Label>配方</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Label>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Description>打开{0}的配方选择与生产状态界面。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Description>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Label_2>弹出成品</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Label_2>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Description_2>把{0}内部堆积的成品弹出到交互格附近。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Description_2>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message>原料扣除失败，无法开始生产。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_2>已中止生产批次，已消耗的液体不会返还。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_2>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_3>{0}内部没有成品。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_3>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_4>已弹出{0}成品。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_4>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_5>产物输出到无人机物流箱失败。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_5>
+    <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_6>成品存入失败。</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_6>
+    <RavenRace_Buildings_RavenMachineRecipeDef_Status>无固体材料</RavenRace_Buildings_RavenMachineRecipeDef_Status>
+    <RavenRace_Buildings_RavenMachineRecipeDef_Status_2>无产物</RavenRace_Buildings_RavenMachineRecipeDef_Status_2>
+    <RavenRace_Buildings_RavenThingIngredientCount_Status>未知材料</RavenRace_Buildings_RavenThingIngredientCount_Status>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label>配方选择 · 液体处理 · 成品暂存</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text>配方列表</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_2>生产状态</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_2>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_3>电力</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_3>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_4>液体</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_4>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_5>材料箱</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_5>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_2>没有可用配方。</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_2>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_6>原料：{0}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_6>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_7>固体：{0}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_7>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_8>产物：{0}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_8>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_9>时间：{0}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_9>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_3>无人机物流箱</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_3>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_10>选择材料箱</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_10>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_11>选择输出箱</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_11>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_4>清除材料箱</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_4>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_5>附近没有可用无人机物流箱</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_5>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_6>清除输出箱</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_6>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status>未选择无人机物流箱。</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_2>{0}：当前配方不需要固体材料。</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_2>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_3>输出箱：未选择，产物进入机器内部暂存。</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_3>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_4>{0}：当前配方没有有效产物。</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_4>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_5>{0}：输出 {1}，箱内已有 {2}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_5>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_12>内部成品</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_12>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_7>暂无成品</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_7>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_13>关闭</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_13>
+    <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_6>未选择</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_6>
+    <RavenRace_Drone_DroneDebugActions_Message>目标位置不在当前地图范围内。</RavenRace_Drone_DroneDebugActions_Message>
+    <RavenRace_Drone_DroneDebugActions_Message_2>未找到无人机基站。</RavenRace_Drone_DroneDebugActions_Message_2>
+    <RavenRace_Drone_DroneDebugActions_Message_3>搬运无人机生成失败，请确认基站已开启且运行中无人机未超过容量。</RavenRace_Drone_DroneDebugActions_Message_3>
+    <RavenRace_Drone_DroneDebugActions_Message_4>已在最近可运行基站生成搬运无人机。</RavenRace_Drone_DroneDebugActions_Message_4>
+    <RavenRace_Drone_DroneDebugActions_Message_5>未找到无人机基站或物流箱 Def。</RavenRace_Drone_DroneDebugActions_Message_5>
+    <RavenRace_Drone_DroneDebugActions_Message_6>未找到可用于压测的基础物品。</RavenRace_Drone_DroneDebugActions_Message_6>
+    <RavenRace_Drone_DroneDebugActions_Message_7>压测基站生成失败。</RavenRace_Drone_DroneDebugActions_Message_7>
+    <RavenRace_Drone_DroneDebugActions_Message_8>未找到基础搬运无人机 Def。</RavenRace_Drone_DroneDebugActions_Message_8>
+    <RavenRace_Drone_DroneDebugActions_Message_9>无人机压测场景完成：基站 {0} 个，物流箱 {1} 个，基站库存 {2} 架，已出站 {3}/{4} 架，散落物 {5} 堆。</RavenRace_Drone_DroneDebugActions_Message_9>
+    <RavenRace_Drone_Building_RavenDroneRequesterChest_Label>设置无人机物流</RavenRace_Drone_Building_RavenDroneRequesterChest_Label>
+    <RavenRace_Drone_Building_RavenDroneRequesterChest_Description>设置该无人机物流箱的工作模式、请求配置，并查看或弹出箱内物品。</RavenRace_Drone_Building_RavenDroneRequesterChest_Description>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label>无人机物流箱</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_2>物流模式</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_2>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text>请求列表</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_2>新增请求组</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_2>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_3>目标</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_3>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_3>模式</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_3>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_4>请求组</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_4>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_5>库存+在途</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_5>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_4>搜索</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_4>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_5>虚拟库存</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_5>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_6>弹出一组</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_6>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Message>无法弹出虚拟库存。</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Message>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_6>已实时保存，游戏不会暂停。</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_6>
+    <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_7>关闭</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_7>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status>被动供货</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_2>主动供货</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_2>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_3>存储</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_3>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_4>请求</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_4>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_5>缓冲</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_5>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_6>送入原版储物</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_6>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_7>未知</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_7>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_8>只提供超出维持目标的物品，不主动清空。</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_8>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_9>持续清空自身库存，优先送往存储箱。</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_9>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_10>接收通用物品、主动供货箱物品和散落整理物。</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_10>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_11>主动请求指定物品，只接收请求物品。</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_11>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_12>同时请求和供货，只供出超过维持目标的库存。</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_12>
+    <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_13>持续把自身虚拟库存取出，送入同网络覆盖内允许该物品的原版储物区或储物架。</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_13>
+    <RavenRace_Drone_Building_RavenDroneStation_Label>无人机库存</RavenRace_Drone_Building_RavenDroneStation_Label>
+    <RavenRace_Drone_Building_RavenDroneStation_Description>设置基站希望维持的无人机数量，并查看或弹出内部无人机物品。</RavenRace_Drone_Building_RavenDroneStation_Description>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_Label>无人机基站库存</RavenRace_Drone_Dialog_RavenDroneStationInventory_Label>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_Text>类型</RavenRace_Drone_Dialog_RavenDroneStationInventory_Text>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_Text_2>弹出本槽</RavenRace_Drone_Dialog_RavenDroneStationInventory_Text_2>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_Message>已弹出无人机 </RavenRace_Drone_Dialog_RavenDroneStationInventory_Message>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_Message_2> 架。</RavenRace_Drone_Dialog_RavenDroneStationInventory_Message_2>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_Label_2>殖民者会从可达储物区或地面无人机物品中补充到目标数量；无人机不会搬运无人机物品。</RavenRace_Drone_Dialog_RavenDroneStationInventory_Label_2>
+    <RavenRace_Drone_Dialog_RavenDroneStationInventory_Label_3>没有可用无人机 Def</RavenRace_Drone_Dialog_RavenDroneStationInventory_Label_3>
+    <RavenRace_Buildings_Building_RavenDefenseHub_7f032cb5>扫描并接入护墙器</RavenRace_Buildings_Building_RavenDefenseHub_7f032cb5>
+    <RavenRace_Buildings_Building_RavenDefenseHub_86f6030e>扫描中枢控制半径内属于你的、且尚未被其他中枢接管的阔剑护墙器。
+
+接入后，护墙器损坏将被记入防御中枢重建计划全自动重建。</RavenRace_Buildings_Building_RavenDefenseHub_86f6030e>
+    <RavenRace_Buildings_Building_RavenDefenseHub_489483f5>当前防御中枢配置未录入护墙器选项，无法接入。</RavenRace_Buildings_Building_RavenDefenseHub_489483f5>
+    <RavenRace_Buildings_Building_RavenDefenseHub_80663d74>接入中止：已达防御中枢对于护墙器的单项管辖上限 ({0})。</RavenRace_Buildings_Building_RavenDefenseHub_80663d74>
+    <RavenRace_Buildings_Building_RavenDefenseHub_90c68ccb>接入中止：防御中枢已达总体管辖负载上限 ({0})。</RavenRace_Buildings_Building_RavenDefenseHub_90c68ccb>
+    <RavenRace_Buildings_Building_RavenDefenseHub_Message>成功扫描并接入了 {0} 个野生阔剑护墙器至管辖网络！</RavenRace_Buildings_Building_RavenDefenseHub_Message>
+    <RavenRace_Buildings_Building_RavenDefenseHub_Message_2>扫描结束。在其感应范围内未发现任何闲置的可接入护墙器。</RavenRace_Buildings_Building_RavenDefenseHub_Message_2>
+    <RavenRace_Buildings_Building_PatternTurret_Message>目标不在该炮塔的自定义攻击范围内。</RavenRace_Buildings_Building_PatternTurret_Message>
+    <RavenRace_Buildings_Building_PatternTurret_Message_2>目标格不在该炮塔的自定义攻击范围内。</RavenRace_Buildings_Building_PatternTurret_Message_2>
+    <RavenRace_Buildings_CompSunRaiserInjectorEffects_Label>全图辉光</RavenRace_Buildings_CompSunRaiserInjectorEffects_Label>
+    <RavenRace_Buildings_CompSunRaiserInjectorEffects_Description>开启后，建筑将额外消耗 {0}W 电力，强制将整张地图的光照提升至100%，即使在夜晚或异常黑暗中也亮如白昼。</RavenRace_Buildings_CompSunRaiserInjectorEffects_Description>
+    <RavenRace_Buildings_CompRavenComputerDesk_Label>模式：{0}</RavenRace_Buildings_CompRavenComputerDesk_Label>
+    <RavenRace_Buildings_CompRavenComputerDesk_Description>点击切换娱乐模式。当前模式提供</RavenRace_Buildings_CompRavenComputerDesk_Description>
+    <RavenRace_Buildings_CompRavenComputerDesk_Description_2>被动放松娱乐。</RavenRace_Buildings_CompRavenComputerDesk_Description_2>
+    <RavenRace_Buildings_CompRavenComputerDesk_Description_3>主动脑力游戏娱乐。</RavenRace_Buildings_CompRavenComputerDesk_Description_3>
+    <!-- C# 手工提取文本 -->
+    <RavenRace_Common_Unselected>未选择</RavenRace_Common_Unselected>
+    <RavenRace_FillingMachine_WaitingStart>等待启动：{0}</RavenRace_FillingMachine_WaitingStart>
+    <RavenRace_FillingMachine_WaitingReason>等待：{0}</RavenRace_FillingMachine_WaitingReason>
+    <RavenRace_FillingMachine_ProducingProgress>生产：{0} {1:P0}</RavenRace_FillingMachine_ProducingProgress>
+    <RavenRace_FillingMachine_StoredProducts>成品：{0}</RavenRace_FillingMachine_StoredProducts>
+    <RavenRace_FillingMachine_NoProducts>成品：无</RavenRace_FillingMachine_NoProducts>
+    <RavenRace_Conveyor_Placement_BlockedByMachine>管道或传送带不能铺设在工业机器占地内。</RavenRace_Conveyor_Placement_BlockedByMachine>
+    <RavenRace_Conveyor_Placement_BlockedByConveyor>工业机器占地内存在管道或传送带，请先拆除或取消对应管线。</RavenRace_Conveyor_Placement_BlockedByConveyor>
+</LanguageData>

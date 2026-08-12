@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Hediff_CinderBloodline.label>[Raven] Polymer Regeneration (Minor)</Raven_Hediff_CinderBloodline.label>
+  <Raven_Hediff_CinderBloodline.description>A special bloodline branch from the Cinder race. The bearer's cells are partially replaced by polymer-like substances, allowing the bearer to slowly repair damaged tissue and even regenerate missing limbs.\n\nEffects:\n- Gains regeneration (checked every 600 ticks)\n- Incoming damage multiplier x0.9\n- Flammability x0.8</Raven_Hediff_CinderBloodline.description>
+</LanguageData>

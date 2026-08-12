@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenHediff_AnestheticBuildup.label>[Raven] Anesthetic Buildup</RavenHediff_AnestheticBuildup.label>
+  <RavenHediff_AnestheticBuildup.description>Buildup of anesthetic gas in the system. Will cause unconsciousness at high levels.</RavenHediff_AnestheticBuildup.description>
+  <RavenHediff_AnestheticBuildup.stages.drowsy.label>[Raven] Drowsy</RavenHediff_AnestheticBuildup.stages.drowsy.label>
+  <RavenHediff_AnestheticBuildup.stages.groggy.label>[Raven] Groggy</RavenHediff_AnestheticBuildup.stages.groggy.label>
+  <RavenHediff_AphrodisiacEffect.label>[Raven] Aphrodisiac Effect</RavenHediff_AphrodisiacEffect.label>
+  <RavenHediff_AphrodisiacEffect.description>Powerful pheromones affecting the subject. Causes uncontrollable urge to strip and eventual collapse.</RavenHediff_AphrodisiacEffect.description>
+  <RavenHediff_AphrodisiacEffect.stages.aroused.label>[Raven] Aroused</RavenHediff_AphrodisiacEffect.stages.aroused.label>
+  <RavenHediff_AphrodisiacEffect.stages.flushed.label>[Raven] Flushed</RavenHediff_AphrodisiacEffect.stages.flushed.label>
+</LanguageData>

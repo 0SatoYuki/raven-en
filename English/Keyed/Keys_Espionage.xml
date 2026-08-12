@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_Espionage_MenuTitle>Espionage &amp; Faction Actions Overview</RavenRace_Espionage_MenuTitle>
+  <RavenRace_Espionage_CommandNet>Espionage Command Network</RavenRace_Espionage_CommandNet>
+  <RavenRace_Espionage_CommandNetDesc>View each faction's power structure\nAssign targeted missions</RavenRace_Espionage_CommandNetDesc>
+  <RavenRace_Espionage_Management>Spy Management Center</RavenRace_Espionage_Management>
+  <RavenRace_Espionage_ManagementDesc>Dispatch &amp; recall agents\nView infiltration status</RavenRace_Espionage_ManagementDesc>
+  <RavenRace_Espionage_Back>Back</RavenRace_Espionage_Back>
+  <RavenRace_Espionage_ActiveSpies>:: Active Spies ::</RavenRace_Espionage_ActiveSpies>
+  <RavenRace_Espionage_NoActiveSpies>No active spies. Dispatch a colonist from the right.</RavenRace_Espionage_NoActiveSpies>
+  <RavenRace_Espionage_DispatchAction>:: Dispatch Action ::</RavenRace_Espionage_DispatchAction>
+  <RavenRace_Espionage_SelectTargetFaction>Select target faction...</RavenRace_Espionage_SelectTargetFaction>
+  <RavenRace_Espionage_NoColonists>No colonists available.</RavenRace_Espionage_NoColonists>
+  <RavenRace_Espionage_DispatchBtn>Dispatch</RavenRace_Espionage_DispatchBtn>
+  <RavenRace_Espionage_RecallBtn>Recall</RavenRace_Espionage_RecallBtn>
+  <RavenRace_Espionage_RecallConfirm>Recall {0}?\nThe agent will leave the current position and return to the colony.</RavenRace_Espionage_RecallConfirm>
+  <RavenRace_Espionage_DispatchConfirm>Dispatch {0} to {1}?\n\nThe colonist will temporarily leave the map and enter infiltration.</RavenRace_Espionage_DispatchConfirm>
+  <RavenRace_Espionage_SpyLoc>Location: {0}</RavenRace_Espionage_SpyLoc>
+  <RavenRace_Espionage_SpyState>status: {0}</RavenRace_Espionage_SpyState>
+  <RavenRace_Espionage_Exposure>Exposure risk:</RavenRace_Espionage_Exposure>
+  <RavenRace_Espionage_DispatchSuccess>{0} successfully infiltrated {1} and began building an intelligence network.</RavenRace_Espionage_DispatchSuccess>
+  <RavenRace_Espionage_RecallSuccess>{0} has finished the infiltration mission and returned to the colony.</RavenRace_Espionage_RecallSuccess>
+  <RavenRace_OfficialRank_Leader>Leader</RavenRace_OfficialRank_Leader>
+  <RavenRace_OfficialRank_HighCouncil>High Council</RavenRace_OfficialRank_HighCouncil>
+  <RavenRace_OfficialRank_MiddleManager>Middle Manager</RavenRace_OfficialRank_MiddleManager>
+  <RavenRace_OfficialRank_KeyFigure>Key Figure</RavenRace_OfficialRank_KeyFigure>
+  <RavenRace_SpyState_Idle>Idle</RavenRace_SpyState_Idle>
+  <RavenRace_SpyState_Infiltrating>Infiltrating</RavenRace_SpyState_Infiltrating>
+  <RavenRace_SpyState_OnMission>On mission</RavenRace_SpyState_OnMission>
+  <RavenRace_SpyState_Cooldown>Fleeing/Cooldown</RavenRace_SpyState_Cooldown>
+  <RavenRace_SpyState_Captured>Captured</RavenRace_SpyState_Captured>
+  <RavenRace_Espionage_Stat_Infiltration>Infiltration</RavenRace_Espionage_Stat_Infiltration>
+  <RavenRace_Espionage_Stat_Operation>Operation</RavenRace_Espionage_Stat_Operation>
+  <RavenRace_Espionage_Stat_Network>Network</RavenRace_Espionage_Stat_Network>
+  <RavenRace_Mission_Executing>Executing: {0} ({1} days left)</RavenRace_Mission_Executing>
+  <RavenRace_Mission_Started>Mission [{0}] started, executor: {1}.</RavenRace_Mission_Started>
+  <RavenRace_Mission_TimeLeft>remaining {0}</RavenRace_Mission_TimeLeft>
+  <RavenRace_Mission_Executing_Detail>Executing: {0} (target: {1})</RavenRace_Mission_Executing_Detail>
+  <RavenRace_Espionage_Mission_Success>Mission success</RavenRace_Espionage_Mission_Success>
+  <RavenRace_Espionage_Mission_SuccessDesc>Spy {0} successfully completed {1}.</RavenRace_Espionage_Mission_SuccessDesc>
+  <RavenRace_Espionage_Mission_Failure>Mission failure</RavenRace_Espionage_Mission_Failure>
+  <RavenRace_Espionage_Mission_FailureDesc>Operation exposed; {0} narrowly escaped capture, exposure greatly increased.</RavenRace_Espionage_Mission_FailureDesc>
+  <RavenRace_Espionage_InfiltrationLevel>Infiltration: {0} / 100</RavenRace_Espionage_InfiltrationLevel>
+  <RavenRace_Espionage_ControlStatus>Control status: {0}</RavenRace_Espionage_ControlStatus>
+  <RavenRace_Espionage_StructurePreview>:: Power Structure (Data Preview) ::</RavenRace_Espionage_StructurePreview>
+  <RavenRace_Espionage_UnknownTarget>Unknown target</RavenRace_Espionage_UnknownTarget>
+  <RavenRace_Espionage_Known> [known]</RavenRace_Espionage_Known>
+  <RavenRace_Espionage_Unknown> [unknown]</RavenRace_Espionage_Unknown>
+  <RavenRace_Espionage_NoIntel>No intel (dispatch a spy to gather data)</RavenRace_Espionage_NoIntel>
+  <RavenRace_Official_Rank>Rank: {0}</RavenRace_Official_Rank>
+  <RavenRace_Official_Age>Age: {0}</RavenRace_Official_Age>
+  <RavenRace_Official_Gender>Gender: {0}</RavenRace_Official_Gender>
+  <RavenRace_Official_Competence>Competence: {0}</RavenRace_Official_Competence>
+  <RavenRace_Official_Corruption>Corruption: {0}</RavenRace_Official_Corruption>
+  <RavenRace_Official_Relation>Relation to player: {0}</RavenRace_Official_Relation>
+  <RavenRace_Official_Loyalty>Loyalty: {0}</RavenRace_Official_Loyalty>
+  <RavenRace_Official_UnknownDesc>This official's identity is unknown.\nDispatch a spy on a [Gather Intel] mission to unlock details.</RavenRace_Official_UnknownDesc>
+  <RavenRace_Official_ActionBtn>Targeted action</RavenRace_Official_ActionBtn>
+  <RavenRace_Official_DataOutdated>Data outdated: cannot fetch the official's faction. Try re-infiltrating.</RavenRace_Official_DataOutdated>
+  <RavenRace_Mission_SelectTitle>Assign mission: {0}</RavenRace_Mission_SelectTitle>
+  <RavenRace_Mission_Target>Target: {0}</RavenRace_Mission_Target>
+  <RavenRace_Mission_NoSpy>No stationed spy available for this faction!</RavenRace_Mission_NoSpy>
+  <RavenRace_Mission_PleaseDeploy>Please dispatch a spy to infiltrate from the spy management panel first.</RavenRace_Mission_PleaseDeploy>
+  <RavenRace_Mission_Executor>Executor spy: {0}</RavenRace_Mission_Executor>
+  <RavenRace_Mission_CurrentExposure>Current exposure: {0}%</RavenRace_Mission_CurrentExposure>
+  <RavenRace_Mission_CostTip>Intel: {0}, Goodwill: {1}</RavenRace_Mission_CostTip>
+  <RavenRace_Mission_ExecuteBtn>Execute</RavenRace_Mission_ExecuteBtn>
+  <RavenRace_Mission_Reason_Level>Infiltration level insufficient (requires Lv{0})</RavenRace_Mission_Reason_Level>
+  <RavenRace_Mission_Reason_Intel>Insufficient intel</RavenRace_Mission_Reason_Intel>
+  <RavenRace_Mission_CostSilver>Insufficient silver</RavenRace_Mission_CostSilver>
+  <RavenRace_Mission_TargetTurncoated>Target turned</RavenRace_Mission_TargetTurncoated>
+  <RavenRace_Mission_TargetDead>Target dead</RavenRace_Mission_TargetDead>
+  <RavenRace_Espionage_TurncoatTag>(turned)</RavenRace_Espionage_TurncoatTag>
+  <RavenRace_Espionage_MissionManager_Message>unknown</RavenRace_Espionage_MissionManager_Message>
+  <RavenRace_Espionage_MissionManager_Message_2>All active missions have been force-completed.</RavenRace_Espionage_MissionManager_Message_2>
+  <RavenRace_Espionage_Dialog_MissionSelection_Label>Prerequisites not met: </RavenRace_Espionage_Dialog_MissionSelection_Label>
+  <RavenRace_Espionage_Dialog_Mission_Espionage_Status>Initial contact</RavenRace_Espionage_Dialog_Mission_Espionage_Status>
+  <RavenRace_Espionage_Dialog_Mission_Espionage_Status_2>Network building</RavenRace_Espionage_Dialog_Mission_Espionage_Status_2>
+  <RavenRace_Espionage_Dialog_Mission_Espionage_Status_3>Deep infiltration</RavenRace_Espionage_Dialog_Mission_Espionage_Status_3>
+  <RavenRace_Espionage_Dialog_Mission_Espionage_Status_4>Core control</RavenRace_Espionage_Dialog_Mission_Espionage_Status_4>
+  <RavenRace_Espionage_Dialog_Mission_Espionage_Status_5>Absolute dominance</RavenRace_Espionage_Dialog_Mission_Espionage_Status_5>
+  <RavenRace_Espionage_Dialog_OfficialDetails_Label>Background: {0}</RavenRace_Espionage_Dialog_OfficialDetails_Label>
+  <RavenRace_Espionage_Dialog_OfficialDetails_Label_2>Estimated rank: {0}</RavenRace_Espionage_Dialog_OfficialDetails_Label_2>
+  <RavenRace_Espionage_MissionOutcomeHandler_Message>Intel update: {0}'s new leader is {1}.</RavenRace_Espionage_MissionOutcomeHandler_Message>
+  <RavenRace_Espionage_PositionVacancyFilled>{0}'s vacant position has been filled.</RavenRace_Espionage_PositionVacancyFilled>
+  <RavenRace_Espionage_EnemyFaction>Enemy</RavenRace_Espionage_EnemyFaction>
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_CuttingMachine_FilterCommand>石块筛选</RavenRace_CuttingMachine_FilterCommand>
+  <RavenRace_CuttingMachine_FilterCommandDesc>设置切割机允许从传送带虚拟库存中加工的石块种类。</RavenRace_CuttingMachine_FilterCommandDesc>
+  <RavenRace_CuttingMachine_Eject>弹出石砖</RavenRace_CuttingMachine_Eject>
+  <RavenRace_CuttingMachine_EjectDesc>将切割机虚拟成品仓中的石砖按堆叠上限弹出到附近地面，不影响输入和储液。</RavenRace_CuttingMachine_EjectDesc>
+  <RavenRace_CuttingMachine_Producing>正在切割 {0} 块石块：{1}</RavenRace_CuttingMachine_Producing>
+  <RavenRace_CuttingMachine_Waiting>等待允许的石块</RavenRace_CuttingMachine_Waiting>
+  <RavenRace_CuttingMachine_AllowedCount>允许石块：{0} 种</RavenRace_CuttingMachine_AllowedCount>
+  <RavenRace_CuttingMachine_StoredProducts>虚拟石砖库存：{0}/{1}</RavenRace_CuttingMachine_StoredProducts>
+  <RavenRace_CuttingMachine_FilterTitle>切割机石块筛选</RavenRace_CuttingMachine_FilterTitle>
+  <RavenRace_CuttingMachine_FilterSummary>已允许 {0}/{1} 种可切割石块</RavenRace_CuttingMachine_FilterSummary>
+  <RavenRace_CuttingMachine_AllowAll>全部允许</RavenRace_CuttingMachine_AllowAll>
+  <RavenRace_CuttingMachine_DenyAll>全部禁止</RavenRace_CuttingMachine_DenyAll>
+  <RavenRace_CuttingMachine_StoneRow>{0}  →  {1} x{2}</RavenRace_CuttingMachine_StoneRow>
+  <RavenRace_CuttingMachine_InputBuffer>石块缓冲：{0}/{1}</RavenRace_CuttingMachine_InputBuffer>
+  <RavenRace_CuttingMachine_SelectRecipe>请选择石砖配方</RavenRace_CuttingMachine_SelectRecipe>
+  <RavenRace_CuttingMachine_ResearchLocked>需要先完成科技：{0}</RavenRace_CuttingMachine_ResearchLocked>
+  <RavenRace_CuttingMachine_NoPower>未接入电网</RavenRace_CuttingMachine_NoPower>
+  <RavenRace_CuttingMachine_DynamicInput>筛选允许的石块，最多 10 块</RavenRace_CuttingMachine_DynamicInput>
+  <RavenRace_CuttingMachine_DynamicProduct>按石块种类产出对应石砖</RavenRace_CuttingMachine_DynamicProduct>
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_Obelisk.label>[Raven] Obelisk</Raven_Building_Obelisk.label>
+  <Raven_Building_Obelisk.description>A Raven obelisk cast in dark alloy. Golden energy flows steadily along its etched patterns, keeping its majestic and striking silhouette visible even in dim environments.\n\nOnce connected to a Raven fluid pipe network, the obelisk can store pure Raven fluid and consume large amounts of it to release map-wide pulses for corpse recycling, stimulation, or consciousness dampening. The pink meat broth produced by corpse recycling will be stored inside as a liquid and can be sent to industrial equipment for processing via the pipe output.</Raven_Building_Obelisk.description>
+  <Raven_Mote_ObeliskGoldenPulse.label>[Raven] Obelisk Energy Pulse</Raven_Mote_ObeliskGoldenPulse.label>
+</LanguageData>

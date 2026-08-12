@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_DroneRequesterChest.label>[Raven] Drone Requester Chest</Raven_Building_DroneRequesterChest.label>
+  <Raven_Building_DroneRequesterChest.description>A virtual storage terminal for the drone logistics network. It will not be used by the vanilla hauling system. It can be switched between supply, storage, request, or buffer modes, with drones handling access and maintaining item quantities.</Raven_Building_DroneRequesterChest.description>
+</LanguageData>

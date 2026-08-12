@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Drug_Oxytocin.label>[Raven] Oxytocin</Raven_Drug_Oxytocin.label>
+  <Raven_Drug_Oxytocin.description>A potent hormone drug that forcibly stimulates the reproductive system of the Raven race. Injecting it will immediately trigger a severe ovulation response, causing the user to lay an unfertilized Raven Spirit Egg in a very short time.\n\nSide effects: Causes extreme weakness and pain.</Raven_Drug_Oxytocin.description>
+  <Raven_Drug_Oxytocin.ingestible.ingestCommandString>Inject {0}</Raven_Drug_Oxytocin.ingestible.ingestCommandString>
+  <Raven_Drug_Oxytocin.ingestible.ingestReportString>Injecting {0}.</Raven_Drug_Oxytocin.ingestible.ingestReportString>
+</LanguageData>

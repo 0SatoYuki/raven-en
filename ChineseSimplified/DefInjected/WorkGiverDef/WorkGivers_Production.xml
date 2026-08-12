@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Raven_DoBillsSewingBench.label>在渡鸦缝纫台制作</Raven_DoBillsSewingBench.label>
+  <Raven_DoBillsSewingBench.verb>制作</Raven_DoBillsSewingBench.verb>
+  <Raven_DoBillsSewingBench.gerund>正在制作</Raven_DoBillsSewingBench.gerund>
+
+  <Raven_DoBillsDuskWorkbench.label>在薄暮制作台制作</Raven_DoBillsDuskWorkbench.label>
+  <Raven_DoBillsDuskWorkbench.verb>制作</Raven_DoBillsDuskWorkbench.verb>
+  <Raven_DoBillsDuskWorkbench.gerund>正在制作</Raven_DoBillsDuskWorkbench.gerund>
+
+<Raven_DoBillsSculpt_Tablet.label>在渡鸦手绘板创作</Raven_DoBillsSculpt_Tablet.label><Raven_DoBillsCoffeeMachine.label>在咖啡机调制饮品</Raven_DoBillsCoffeeMachine.label><Raven_DoBillsBakery.label>在渡鸦烘焙台制作甜点</Raven_DoBillsBakery.label><Raven_DoBillsSculpt_ComputerDeskVariant.label>在渡鸦电脑桌(变体)创作</Raven_DoBillsSculpt_ComputerDeskVariant.label></LanguageData>

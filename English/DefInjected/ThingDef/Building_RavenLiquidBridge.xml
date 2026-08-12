@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_LiquidBridge_Cross.label>[Raven] Liquid Pipe Bridge (4-Way)</Raven_Building_LiquidBridge_Cross.label>
+  <Raven_Building_LiquidBridge_Cross.description>Provides two unconnected bridge channels (up-down and left-right) within the same tile, ensuring the two streams of liquid do not mix with each other.</Raven_Building_LiquidBridge_Cross.description>
+</LanguageData>

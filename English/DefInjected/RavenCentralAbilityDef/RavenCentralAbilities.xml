@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenCentralAbility_NeuralResonance.label>[Raven] Neural Resonance Protocol</RavenCentralAbility_NeuralResonance.label>
+  <RavenCentralAbility_NeuralResonance.description>Uses the Sunlit Nexus to maintain a short-cycle neural resonance in colonists across the map, improving their learning and movement speeds.</RavenCentralAbility_NeuralResonance.description>
+  <RavenCentralAbility_NeuralResonance.category>Map-wide Enhancement</RavenCentralAbility_NeuralResonance.category>
+  <RavenCentralAbility_RavenConstructionResonance.label>[Raven] Construction Resonance Protocol</RavenCentralAbility_RavenConstructionResonance.label>
+  <RavenCentralAbility_RavenConstructionResonance.description>Connects completed Raven buildings into a collective neural network. This protocol dynamically selects the highest supported tier based on your building count, boosting colonist work speed, learning, movement, and consciousness.</RavenCentralAbility_RavenConstructionResonance.description>
+  <RavenCentralAbility_RavenConstructionResonance.category>Map-wide Enhancement</RavenCentralAbility_RavenConstructionResonance.category>
+  <RavenCentralAbility_IndustrialOverclock.label>[Raven] Industrial Overclock Protocol</RavenCentralAbility_IndustrialOverclock.label>
+  <RavenCentralAbility_IndustrialOverclock.description>Continuously compresses Raven industrial control cycles. Higher levels fully override lower-level speed, power, and fuel settings.</RavenCentralAbility_IndustrialOverclock.description>
+  <RavenCentralAbility_IndustrialOverclock.category>Industrial Protocol</RavenCentralAbility_IndustrialOverclock.category>
+  <RavenCentralAbility_IndustrialAbsoluteProtection.label>[Raven] Industrial Absolute Protection Protocol</RavenCentralAbility_IndustrialAbsoluteProtection.label>
+  <RavenCentralAbility_IndustrialAbsoluteProtection.description>Connects every Raven industrial building to the nexus protection layer. While active, all connected production machines, pipes, and ports become completely invulnerable to damage.</RavenCentralAbility_IndustrialAbsoluteProtection.description>
+  <RavenCentralAbility_IndustrialAbsoluteProtection.category>Industrial Protocol</RavenCentralAbility_IndustrialAbsoluteProtection.category>
+  <RavenCentralAbility_SlotExpansion.label>[Raven] Protocol Slot Expansion</RavenCentralAbility_SlotExpansion.label>
+  <RavenCentralAbility_SlotExpansion.description>Expands the Sunlit Nexus protocol bus. Each unlocked level permanently adds one global ability slot.</RavenCentralAbility_SlotExpansion.description>
+  <RavenCentralAbility_SlotExpansion.category>Central Structure</RavenCentralAbility_SlotExpansion.category>
+</LanguageData>

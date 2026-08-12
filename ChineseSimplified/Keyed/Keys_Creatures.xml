@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_LetterLabel_ShinyFound>大渡鸦的礼物</Raven_LetterLabel_ShinyFound>
+  <Raven_LetterText_ShinyFound>{0} 兴冲冲地跑了回来，嘴里叼着闪闪发光的东西！\n\n获得：{1}</Raven_LetterText_ShinyFound>
+  
+  <!-- [新增] 失败提示 -->
+  <Raven_LetterLabel_ShinyNothing>大渡鸦的空手而归</Raven_LetterLabel_ShinyNothing>
+  <Raven_LetterText_ShinyNothing>{0} 在外面搜寻了很久，似乎没有什么亮闪闪的东西能入得了它的法眼，只能垂头丧气地回来了。</Raven_LetterText_ShinyNothing>
+  
+  <Raven_Inspect_ShinySearch>寻找亮闪闪</Raven_Inspect_ShinySearch>
+    <!-- C# 硬编码文本 -->
+    <RavenRace_Creatures_Patch_RavenMounting_Description>让当前骑手从坐骑身上下来，并强制取消双方征召，避免立刻再次自动上马。</RavenRace_Creatures_Patch_RavenMounting_Description>
+    <RavenRace_Creatures_CompRavenArchonArmor_Label>更换外挂装备</RavenRace_Creatures_CompRavenArchonArmor_Label>
+    <RavenRace_Creatures_CompRavenArchonArmor_Label_2>装备外挂装备</RavenRace_Creatures_CompRavenArchonArmor_Label_2>
+    <RavenRace_Creatures_CompRavenArchonArmor_Description>命令当前动物走到地图上的兼容外挂装备旁边后再进行安装，并额外绘制一层装备贴图。</RavenRace_Creatures_CompRavenArchonArmor_Description>
+    <RavenRace_Creatures_CompRavenArchonArmor_Label_3>卸下外挂装备</RavenRace_Creatures_CompRavenArchonArmor_Label_3>
+    <RavenRace_Creatures_CompRavenArchonArmor_Description_2>命令当前动物执行拆卸动作，并把当前外挂装备放回地面。</RavenRace_Creatures_CompRavenArchonArmor_Description_2>
+    <RavenRace_Creatures_CompRavenArchonArmor_Label_4>没有可用的外挂装备</RavenRace_Creatures_CompRavenArchonArmor_Label_4>
+    <RavenRace_Creatures_CompRavenArchonArmor_Message>目标外挂装备当前不在同一张地图上。</RavenRace_Creatures_CompRavenArchonArmor_Message>
+    <RavenRace_Creatures_CompRavenArchonArmor_Message_2>当前动物无法到达该外挂装备。</RavenRace_Creatures_CompRavenArchonArmor_Message_2>
+    <RavenRace_Creatures_CompRavenArchonArmor_Status>大统领专用甲: </RavenRace_Creatures_CompRavenArchonArmor_Status>
+    <RavenRace_Creatures_CompRavenArchonTreasure_Label>吸收亮闪闪</RavenRace_Creatures_CompRavenArchonTreasure_Label>
+    <RavenRace_Creatures_CompRavenArchonTreasure_Description>命令大统领吞噬指定的黄金或金制物品，将其价值转化为“黄金精神”。
+
+当前进度: </RavenRace_Creatures_CompRavenArchonTreasure_Description>
+    <RavenRace_Creatures_CompRavenArchonTreasure_DisabledReason>黄金精神已达满盈状态</RavenRace_Creatures_CompRavenArchonTreasure_DisabledReason>
+    <RavenRace_Creatures_CompRavenArchonTreasure_Message>目标无效：必须是黄金或金制品。</RavenRace_Creatures_CompRavenArchonTreasure_Message>
+    <RavenRace_Creatures_CompRavenArchonTreasure_Message_2>{0} 吞噬了 {1} (价值 {2:F0})，黄金精神大幅增强！</RavenRace_Creatures_CompRavenArchonTreasure_Message_2>
+    <RavenRace_Creatures_CompRavenMountable_Label>指定骑手</RavenRace_Creatures_CompRavenMountable_Label>
+    <RavenRace_Creatures_CompRavenMountable_Label_2>指定骑手: </RavenRace_Creatures_CompRavenMountable_Label_2>
+    <RavenRace_Creatures_CompRavenMountable_Description>选择一名殖民者作为该坐骑的指定骑手。指定骑手被征召时，坐骑会自动靠近并尝试骑乘。</RavenRace_Creatures_CompRavenMountable_Description>
+    <RavenRace_Creatures_CompRavenMountable_Label_3>清除指定骑手</RavenRace_Creatures_CompRavenMountable_Label_3>
+    <RavenRace_Creatures_CompRavenMountable_Description_2>清除该坐骑当前指定的自动骑乘对象。</RavenRace_Creatures_CompRavenMountable_Description_2>
+    <RavenRace_Creatures_CompRavenMountable_Label_4>没有可指定的骑手</RavenRace_Creatures_CompRavenMountable_Label_4>
+</LanguageData>

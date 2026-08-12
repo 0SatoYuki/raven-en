@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_Settings_Hybridization>Hybridization</RavenRace_Settings_Hybridization>
+  <RavenRace_Settings_HybridizationDesc>Configure rules for hybrid ravens inheriting abilities from other races.</RavenRace_Settings_HybridizationDesc>
+  <RavenRace_Settings_ModActive>Status: Active (Mod Detected)</RavenRace_Settings_ModActive>
+  <RavenRace_Settings_ModInactive>Status: Inactive (Mod Not Detected)</RavenRace_Settings_ModInactive>
+  <RavenRace_Settings_MiliraCompat>Milira Bloodline</RavenRace_Settings_MiliraCompat>
+  <RavenRace_Settings_EnableMiliraCompat>Enable Milira Traits</RavenRace_Settings_EnableMiliraCompat>
+  <RavenRace_Settings_EnableMiliraCompat_Desc>If enabled, ravens with Milira bloodline will gain angelic traits, including movement speed bonus and reduced aiming time.</RavenRace_Settings_EnableMiliraCompat_Desc>
+  <RavenRace_Settings_MoeLotlCultivation>MoeLotl Cultivation</RavenRace_Settings_MoeLotlCultivation>
+  <RavenRace_Settings_EnableMoeLotlCompat>Enable MoeLotl Traits</RavenRace_Settings_EnableMoeLotlCompat>
+  <RavenRace_Settings_EnableMoeLotlCompat_Desc>If enabled, ravens with MoeLotl bloodline will gain cultivation abilities.</RavenRace_Settings_EnableMoeLotlCompat_Desc>
+  <RavenRace_ForceReadBook>Force Read: {0}</RavenRace_ForceReadBook>
+  <RavenRace_WrongBook>Wrong Book Type</RavenRace_WrongBook>
+  <RavenRace_Settings_KlimDragonBlood>Klim Dragon Blood</RavenRace_Settings_KlimDragonBlood>
+  <RavenRace_Settings_EnableKoelimeBloodline>Enable Ancient Dragon Traits</RavenRace_Settings_EnableKoelimeBloodline>
+  <RavenRace_Settings_EnableKoelimeBloodline_Desc>If enabled, ravens with Koelime bloodline will gain regeneration and immunity to diseases.</RavenRace_Settings_EnableKoelimeBloodline_Desc>
+  <RavenRace_Settings_MuGirlCompat>Mugirl Bloodline</RavenRace_Settings_MuGirlCompat>
+  <RavenRace_Settings_EnableMuGirlCompat>Enable Mugirl Traits</RavenRace_Settings_EnableMuGirlCompat>
+  <RavenRace_Settings_EnableMuGirlCompat_Desc>If enabled, ravens with Mugirl bloodline (regardless of gender) will gain armor bonuses and the ability to produce milk.</RavenRace_Settings_EnableMuGirlCompat_Desc>
+  <RavenRace_MilkFullness>Snow Milk Full</RavenRace_MilkFullness>
+  <RavenRace_GatherMilk>Gather Milk</RavenRace_GatherMilk>
+  <RavenRace_GatherMilkDesc>Gather the accumulated milk from this Raven.</RavenRace_GatherMilkDesc>
+  <RavenRace_Msg_MilkGathered>{0} gathered {1} {2}.</RavenRace_Msg_MilkGathered>
+  <RavenRace_Settings_MuffaloPrank>Wait, WHICH Muffalo?</RavenRace_Settings_MuffaloPrank>
+  <RavenRace_Settings_MuffaloPrank_Desc>An old story about a chicken and a muffalo... oh my, what a tragic couple!\n\n(Enables Force Lovin on vanilla Muffalos, treating them as Mugirls)</RavenRace_Settings_MuffaloPrank_Desc>
+  <RavenRace_Settings_WolfeinCompat>Wolfein Bloodline</RavenRace_Settings_WolfeinCompat>
+  <RavenRace_Settings_EnableWolfeinCompat>Enable Wolfein Traits</RavenRace_Settings_EnableWolfeinCompat>
+  <RavenRace_Settings_EnableWolfeinCompat_Desc>If enabled, ravens with Wolfein bloodline will gain lesser Night and Moon phase buffs.</RavenRace_Settings_EnableWolfeinCompat_Desc>
+  <RavenRace_Settings_DragonianCompat>Dragonian Bloodline</RavenRace_Settings_DragonianCompat>
+  <RavenRace_Settings_EnableDragonianCompat>Enable Dragonian Traits</RavenRace_Settings_EnableDragonianCompat>
+  <RavenRace_Settings_EnableDragonianCompat_Desc>If enabled, ravens with Dragonian bloodline will produce dragon milk.</RavenRace_Settings_EnableDragonianCompat_Desc>
+  <RavenRace_DragonMilkFullness>Dragon Milk</RavenRace_DragonMilkFullness>
+  <RavenRace_DivineMilkFullness>Divine Milk</RavenRace_DivineMilkFullness>
+  <RavenRace_Settings_MoyoCompat>Moyo Bloodline</RavenRace_Settings_MoyoCompat>
+  <RavenRace_Settings_EnableMoyoCompat>Enable Moyo Traits</RavenRace_Settings_EnableMoyoCompat>
+  <RavenRace_Settings_EnableMoyoCompat_Desc>If enabled, ravens with Moyo bloodline will produce Blue Serum and be immune to Deep Blue addiction/side effects.</RavenRace_Settings_EnableMoyoCompat_Desc>
+  <RavenRace_Settings_EponaCompat>Epona Bloodline</RavenRace_Settings_EponaCompat>
+  <RavenRace_Settings_EnableEponaCompat>Enable Epona Traits</RavenRace_Settings_EnableEponaCompat>
+  <RavenRace_Settings_EnableEponaCompat_Desc>If enabled, ravens with Epona bloodline gain speed bonuses and enhanced charge ability.</RavenRace_Settings_EnableEponaCompat_Desc>
+  <RavenRace_AbilityLabel_EnhancedCharge>Swift Charge</RavenRace_AbilityLabel_EnhancedCharge>
+  <RavenRace_AbilityDesc_EnhancedCharge>A perfect blend of Epona speed and Mugirl strength.</RavenRace_AbilityDesc_EnhancedCharge>
+  <RavenRace_Message_OutOfRange>Target is out of range.</RavenRace_Message_OutOfRange>
+  <RavenRace_Settings_TailinCompat>Tailin Bloodline</RavenRace_Settings_TailinCompat>
+  <RavenRace_Settings_EnableTailinCompat>Enable Tailin Traits</RavenRace_Settings_EnableTailinCompat>
+  <RavenRace_Settings_EnableTailinCompat_Desc>If enabled, ravens with Tailin bloodline gain combat instincts.</RavenRace_Settings_EnableTailinCompat_Desc>
+  <RavenRace_Settings_CinderCompat>Cinder Bloodline</RavenRace_Settings_CinderCompat>
+  <RavenRace_Settings_EnableCinderCompat>Enable Cinder Traits</RavenRace_Settings_EnableCinderCompat>
+  <RavenRace_Settings_EnableCinderCompat_Desc>If enabled, ravens with Cinder bloodline will gain "Polymer Regeneration".</RavenRace_Settings_EnableCinderCompat_Desc>
+  <RavenRace_Settings_MiraboreasCompat>Miraboreas Bloodline</RavenRace_Settings_MiraboreasCompat>
+  <RavenRace_Settings_EnableMiraboreasCompat>Enable Miraboreas Traits</RavenRace_Settings_EnableMiraboreasCompat>
+  <RavenRace_Settings_EnableMiraboreasCompat_Desc>If enabled, ravens with Miraboreas bloodline gain stagger immunity and melee cleave attacks.</RavenRace_Settings_EnableMiraboreasCompat_Desc>
+  <RavenRace_Settings_MinchoCompat>Mincho Bloodline</RavenRace_Settings_MinchoCompat>
+  <RavenRace_Settings_EnableMinchoCompat>Enable Mincho Traits</RavenRace_Settings_EnableMinchoCompat>
+  <RavenRace_Settings_EnableMinchoCompat_Desc>If enabled, ravens with Mincho bloodline gain extreme cold resistance (-500C) and produce Mint Choco.</RavenRace_Settings_EnableMinchoCompat_Desc>
+  <RavenRace_MinchoChocolateFullness>Mint Choco</RavenRace_MinchoChocolateFullness>
+  <RavenRace_Message_MinchoProduced>{0} has naturally produced {1}!</RavenRace_Message_MinchoProduced>
+  <RavenRace_Settings_NemesisCompat>Nemesis Bloodline</RavenRace_Settings_NemesisCompat>
+  <RavenRace_Settings_EnableNemesisCompat>Enable Nemesis Traits</RavenRace_Settings_EnableNemesisCompat>
+  <RavenRace_Settings_EnableNemesisCompat_Desc>If enabled, ravens with Nemesis bloodline will gain "Phase Walk" ability, blinking short distances while moving at the cost of hunger.</RavenRace_Settings_EnableNemesisCompat_Desc>
+  <RavenRace_Settings_GoldenGloriaCompat>Golden Gloria Bloodline</RavenRace_Settings_GoldenGloriaCompat>
+  <RavenRace_Settings_EnableGoldenGloriaCompat>Enable Golden Gloria Traits</RavenRace_Settings_EnableGoldenGloriaCompat>
+  <RavenRace_Settings_EnableGoldenGloriaCompat_Desc>If enabled, ravens with Golden Gloria bloodline will gain "Golden Gloria Genotype" status, providing attribute bonuses (ignores gene testing).</RavenRace_Settings_EnableGoldenGloriaCompat_Desc>
+  <RavenRace_Settings_NivarianCompat>Nivarian Bloodline</RavenRace_Settings_NivarianCompat>
+  <RavenRace_Settings_EnableNivarianCompat>Enable Nivarian Traits</RavenRace_Settings_EnableNivarianCompat>
+  <RavenRace_Settings_EnableNivarianCompat_Desc>If enabled, ravens with Nivarian bloodline will gain the "Unyielding Focus" ability. When drafted, this ability intensifies over time, providing bonuses to movement speed, dodge chance, and pain threshold.</RavenRace_Settings_EnableNivarianCompat_Desc>
+  <RavenRace_Settings_SecretaryNexusCompat>Secretary Nexus Bloodline</RavenRace_Settings_SecretaryNexusCompat>
+  <RavenRace_Settings_EnableSecretaryNexusCompat>Enable Secretary Nexus Traits</RavenRace_Settings_EnableSecretaryNexusCompat>
+  <RavenRace_Settings_EnableSecretaryNexusCompat_Desc>If enabled, ravens with Secretary Nexus bloodline gain work speed and learning speed bonuses.</RavenRace_Settings_EnableSecretaryNexusCompat_Desc>
+</LanguageData>

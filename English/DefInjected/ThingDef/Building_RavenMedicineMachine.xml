@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_MedicineMachine.label>[Raven] Medicine Maker</Raven_Building_MedicineMachine.label>
+  <Raven_Building_MedicineMachine.description>An automated maker that integrates the Raven fluid network with medicine synthesis equipment. It consumes Raven fluid from the network and takes medicinal herbs and drugs from nearby drone logistics boxes to continuously produce industrial medicines and special Raven pharmaceuticals.</Raven_Building_MedicineMachine.description>
+</LanguageData>

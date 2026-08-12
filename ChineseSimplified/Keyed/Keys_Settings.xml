@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- 设置标签页 -->
+    <RavenRace_Settings_Base>基础</RavenRace_Settings_Base>
+    <RavenRace_Settings_Bloodline>血脉</RavenRace_Settings_Bloodline>
+    <RavenRace_Settings_Altar>祭坛</RavenRace_Settings_Altar>
+    <RavenRace_Settings_Fusang>扶桑</RavenRace_Settings_Fusang>
+    <RavenRace_Settings_Operator>接线员</RavenRace_Settings_Operator> <!-- 新增 -->
+    <RavenRace_Settings_Industry>工业</RavenRace_Settings_Industry>
+    <RavenRace_Settings_Debug>调试</RavenRace_Settings_Debug>
+    <RavenRace_Settings_Reproduction>繁殖</RavenRace_Settings_Reproduction>
+    <RavenRace_Settings_Defense>防卫</RavenRace_Settings_Defense>
+    <RavenRace_Settings_Buildings>建筑</RavenRace_Settings_Buildings>
+    
+    <!-- 设置描述 -->
+    <RavenRace_Settings_BaseDesc>渡鸦族模组的基础设置。</RavenRace_Settings_BaseDesc>
+    <RavenRace_Settings_BloodlineDesc>血脉系统相关设置。</RavenRace_Settings_BloodlineDesc>
+    <RavenRace_Settings_AltarDesc>育生祭坛的孵化参数。</RavenRace_Settings_AltarDesc>
+    <RavenRace_Settings_FusangDesc>扶桑组织的服务和通讯参数。</RavenRace_Settings_FusangDesc>
+    <RavenRace_Settings_IndustryDesc>鸦液工业与浴日中枢相关设置。</RavenRace_Settings_IndustryDesc>
+    <RavenRace_Settings_DebugDesc>开发者调试工具。启用调试模式后可使用额外功能。</RavenRace_Settings_DebugDesc>
+    <RavenRace_Settings_ReproductionDesc>调整渡鸦族特有的繁殖行为、强制亲昵参数以及对囚犯的特殊互动效果。</RavenRace_Settings_ReproductionDesc>
+    <RavenRace_Settings_ComingSoon>此功能将在后续版本中开放配置...</RavenRace_Settings_ComingSoon>
+
+    <!-- 基础设置 -->
+    <RavenRace_Settings_EnableDebugMode>启用调试模式</RavenRace_Settings_EnableDebugMode>
+    <RavenRace_Settings_EnableVerboseLogging>启用详细日志</RavenRace_Settings_EnableVerboseLogging>
+
+    <!-- 育生祭坛设置 -->
+    <RavenRace_Settings_BaseHatchingDays>基础孵化时间</RavenRace_Settings_BaseHatchingDays>
+
+    <!-- 血脉设置 -->
+    
+    <!-- 繁殖与交配设置 -->
+    <RavenRace_Settings_EnableForceLovinPregnancy>启用强制亲昵受孕</RavenRace_Settings_EnableForceLovinPregnancy>
+    <RavenRace_Settings_ForcedLovinPregnancyRate>强制亲昵受孕率</RavenRace_Settings_ForcedLovinPregnancyRate>
+    <RavenRace_Settings_IgnoreFertilityForPregnancy>忽略生育能力检查</RavenRace_Settings_IgnoreFertilityForPregnancy>
+    <RavenRace_Settings_IgnoreFertilityForPregnancyDesc>如果开启，即使双方生育率为0%，强制亲昵也能强制受孕。</RavenRace_Settings_IgnoreFertilityForPregnancyDesc>
+    <RavenRace_Settings_EnableSameSexForceLovin>启用同性强制亲昵</RavenRace_Settings_EnableSameSexForceLovin>
+    <RavenRace_Settings_EnableSameSexForceLovinDesc>允许对同性目标使用强制求爱能力。这种行为不会导致怀孕(除非开启男性生蛋)，但会产生特殊的心情和互动效果。</RavenRace_Settings_EnableSameSexForceLovinDesc>
+    
+    <RavenRace_Settings_PrisonerInteractions>囚犯与奴隶互动参数</RavenRace_Settings_PrisonerInteractions>
+    <RavenRace_Settings_ForceLovinResistanceReduction>抵抗减少量</RavenRace_Settings_ForceLovinResistanceReduction>
+    <RavenRace_Settings_ForceLovinWillReduction>意志减少量</RavenRace_Settings_ForceLovinWillReduction>
+    <RavenRace_Settings_ForceLovinCertaintyReduction>信仰动摇量</RavenRace_Settings_ForceLovinCertaintyReduction>
+    <RavenRace_Settings_ForceLovinBreakLoyaltyChance>打破死忠概率</RavenRace_Settings_ForceLovinBreakLoyaltyChance>
+    <RavenRace_Settings_ForceLovinInstantRecruitChance>瞬间招募/奴役概率</RavenRace_Settings_ForceLovinInstantRecruitChance>
+    <RavenRace_Settings_ForceLovinCooldownDays>技能冷却时间</RavenRace_Settings_ForceLovinCooldownDays>
+    
+    <RavenRace_Settings_RavenFatherDeterminesEgg>父系决定卵生</RavenRace_Settings_RavenFatherDeterminesEgg>
+    <RavenRace_Settings_RavenFatherDeterminesEggDesc>如果开启，当父亲是渡鸦族时，无论母亲是什么种族，都会产下灵卵。</RavenRace_Settings_RavenFatherDeterminesEggDesc>
+
+    <RavenRace_Settings_EnableMalePregnancyEgg>[彩蛋] 启用男性生蛋</RavenRace_Settings_EnableMalePregnancyEgg>
+    <RavenRace_Settings_EnableMalePregnancyEggDesc>只要配对双方中有一方是渡鸦族，男性一方就会承担怀孕和产卵的职责。此规则优先级高于所有其他性别规则。</RavenRace_Settings_EnableMalePregnancyEggDesc>
+
+    <RavenRace_Settings_ForceRavenDescendant>强制渡鸦后代</RavenRace_Settings_ForceRavenDescendant>
+    <RavenRace_Settings_ForceRavenDescendantDesc>如果开启，只要父母一方是渡鸦族，后代必定是渡鸦族。</RavenRace_Settings_ForceRavenDescendantDesc>
+    
+    <RavenRace_Settings_EnableEggProjectileMode>启用灵卵投射模式</RavenRace_Settings_EnableEggProjectileMode>
+    <RavenRace_Settings_EnableEggProjectileModeDesc>开启后，取出体内灵卵的操作将变为瞄准射击模式，可将灵卵作为非致命投射物发射。</RavenRace_Settings_EnableEggProjectileModeDesc>
+
+
+    <!-- [新增] 渡鸦本能教本 -->
+    <RavenRace_AbilityTomeLearned>{0} 学习并掌握了“强制求爱”技能！</RavenRace_AbilityTomeLearned>
+    <RavenRace_AbilityTomeAlreadyKnown>{0} 已经掌握了这项技能。</RavenRace_AbilityTomeAlreadyKnown>
+
+    <!-- 杂交设置 -->
+    <RavenRace_Settings_MiliraFlight>米莉拉飞行能力</RavenRace_Settings_MiliraFlight>
+    <RavenRace_Settings_MiliraFlight_Tooltip>含有米莉拉血脉的渡鸦将获得真实飞行能力。</RavenRace_Settings_MiliraFlight_Tooltip>
+    <RavenRace_Settings_EnableMiliraFlight>为杂交渡鸦启用飞行</RavenRace_Settings_EnableMiliraFlight>
+    <RavenRace_Settings_EnableMiliraFlight_Desc>如果开启，只要含有米莉拉血脉，渡鸦将自动获得飞行能力界面。</RavenRace_Settings_EnableMiliraFlight_Desc>
+    <RavenRace_Settings_MiliraFlight_Note>注意：要实现真正的“穿墙/飞越深水”功能，建议安装【天羽族真实飞行补丁】。</RavenRace_Settings_MiliraFlight_Note>
+
+    <RavenRace_Settings_MoyoCultivation>萌螈修炼能力</RavenRace_Settings_MoyoCultivation>
+    <RavenRace_Settings_MoyoActive>状态: 已激活 (检测到萌螈Mod)</RavenRace_Settings_MoyoActive>
+    <RavenRace_Settings_MoyoInactive>状态: 未激活 (未找到萌螈Mod)</RavenRace_Settings_MoyoInactive>
+    <RavenRace_Settings_AutoHandled>设置将根据角色血脉自动处理。</RavenRace_Settings_AutoHandled>
+
+
+
+    <!-- 防卫系统 -->
+    <RavenRace_Settings_DefenseSystem>防卫系统</RavenRace_Settings_DefenseSystem>
+    <RavenRace_Settings_DefenseDebug>启用陷阱调试显示</RavenRace_Settings_DefenseDebug>
+    <RavenRace_Settings_DefenseDebugDesc>在选中陷阱时显示触发范围和状态信息。</RavenRace_Settings_DefenseDebugDesc>
+    <RavenRace_Settings_FriendlyFireSafe>友军安全模式</RavenRace_Settings_FriendlyFireSafe>
+    <RavenRace_Settings_FriendlyFireSafeDesc>如果开启，陷阱不会被殖民者和友军触发。如果关闭，任何人都会触发。</RavenRace_Settings_FriendlyFireSafeDesc>
+    <RavenRace_Settings_TrapDamageMultiplier>陷阱伤害倍率</RavenRace_Settings_TrapDamageMultiplier>
+    <RavenRace_Settings_RisingWallSize>升墙陷阱尺寸</RavenRace_Settings_RisingWallSize>
+
+    <RavenRace_Settings_DefenseHubRadius>防御中枢管控半径</RavenRace_Settings_DefenseHubRadius>
+    <RavenRace_Settings_DefenseHubRadiusDesc>设置防御中枢能够自动建造和维护炮塔的最大距离范围。默认30格。</RavenRace_Settings_DefenseHubRadiusDesc>
+
+    <!-- [新增] 按摩器设置文本 -->
+    <RavenRace_Settings_MasturbatorCup>次元连接器 (彩蛋道具)</RavenRace_Settings_MasturbatorCup>
+    <RavenRace_Settings_EnableDimensionalSex>启用: 次元连接</RavenRace_Settings_EnableDimensionalSex>
+    <RavenRace_Settings_EnableDimensionalSexDesc>允许次元连接器与地图上的任意目标进行量子绑定，并实施远程连接。这是一个作弊向的强力控制功能。</RavenRace_Settings_EnableDimensionalSexDesc>
+
+
+    <!-- 通用 -->
+    <Days>天</Days>
+    <Hours>小时</Hours>
+
+    <!-- 消息提示 -->
+    <RavenRace_Msg_OxytocinReaction>{0} 使用了催产素，身体开始剧烈反应！</RavenRace_Msg_OxytocinReaction>
+    <RavenRace_Msg_OxytocinNoEffect>催产素对该生物无效。</RavenRace_Msg_OxytocinNoEffect>
+    <RavenRace_Msg_RapidOvulationBirth>{0} 在药物刺激下产下了一枚未受精的灵卵。</RavenRace_Msg_RapidOvulationBirth>
+    <!-- C# 硬编码文本 -->
+    <RavenRace_Settings_Settings_Base_a32b3ed1>=== 更新日志控制 ===</RavenRace_Settings_Settings_Base_a32b3ed1>
+    <RavenRace_Settings_Settings_Base_Text>游戏加载时自动弹出最新更新日志</RavenRace_Settings_Settings_Base_Text>
+    <RavenRace_Settings_Settings_Base_Description>开启后，如果模组有你没看过的更新说明，进档时会自动弹窗提醒。</RavenRace_Settings_Settings_Base_Description>
+    <RavenRace_Settings_Settings_Base_Text_2>打开暗影余烬通讯终端 (更新日志)</RavenRace_Settings_Settings_Base_Text_2>
+    <RavenRace_Settings_Settings_Base_Text_3>启用彩蛋音效 (总开关)</RavenRace_Settings_Settings_Base_Text_3>
+    <RavenRace_Settings_Settings_Base_Description_2>开启后，游戏内才会加载所有的彩蛋音效。
+详细的音效独立管理请在【渡鸦复古唱片机】的面板中进行调节。</RavenRace_Settings_Settings_Base_Description_2>
+    <RavenRace_Settings_Settings_Base_Text_4>启用所有亲密动作的随机音效</RavenRace_Settings_Settings_Base_Text_4>
+    <RavenRace_Settings_Settings_Base_Description_3>开启后，不仅是原版亲密互动，连强制求爱、机械天使汲取等动作期间都有概率播放搞怪的音效。(需要上方总开关也开启)</RavenRace_Settings_Settings_Base_Description_3>
+    <RavenRace_Settings_Settings_Base_dbe5fa56>=== 彩蛋事件设置 ===</RavenRace_Settings_Settings_Base_dbe5fa56>
+    <RavenRace_Settings_Settings_Base_42434343>=== 机械天使设置 ===</RavenRace_Settings_Settings_Base_42434343>
+    <RavenRace_Settings_Settings_Base_Text_6>吸食鸦液的能量阈值</RavenRace_Settings_Settings_Base_Text_6>
+    <RavenRace_Settings_Settings_Base_Description_5>当艾吉斯的能量低于此值时，她会优先寻找地图上的鸦液吸食，而不是去汲取主人或发呆。</RavenRace_Settings_Settings_Base_Description_5>
+    <RavenRace_Settings_Settings_Base_66b34233>=== 侍奉系统设置 ===</RavenRace_Settings_Settings_Base_66b34233>
+    <RavenRace_Settings_Settings_Base_Text_7>显示侍奉主从连线</RavenRace_Settings_Settings_Base_Text_7>
+    <RavenRace_Settings_Settings_Base_Text_8>显示侍奉互动消息弹窗</RavenRace_Settings_Settings_Base_Text_8>
+    <RavenRace_Settings_Settings_Base_Description_6>开启后，侍奉者触发互动时将在屏幕右侧发送信件通知。</RavenRace_Settings_Settings_Base_Description_6>
+    <RavenRace_Settings_Settings_Base_Text_9>侍奉互动基础触发率</RavenRace_Settings_Settings_Base_Text_9>
+    <RavenRace_Settings_Settings_Base_Text_10>侍奉互动冷却时间倍率</RavenRace_Settings_Settings_Base_Text_10>
+    <RavenRace_Settings_Settings_Base_bfbc59f2>=== 床铺与共眠 ===</RavenRace_Settings_Settings_Base_bfbc59f2>
+    <RavenRace_Settings_Settings_Base_6e001b55>=== 余烬之血概率设置 ===</RavenRace_Settings_Settings_Base_6e001b55>
+    <RavenRace_Settings_Settings_Base_Text_11>死亡概率</RavenRace_Settings_Settings_Base_Text_11>
+    <RavenRace_Settings_Settings_Base_Text_12>发狂概率: {0:P0} (最大可用: {1:P0})</RavenRace_Settings_Settings_Base_Text_12>
+    <RavenRace_Settings_Settings_Base_Text_13>剩余成功概率: {0:P0}</RavenRace_Settings_Settings_Base_Text_13>
+    <RavenRace_Settings_Settings_Base_cfe73f4c>=== 折翼金羽设置 ===</RavenRace_Settings_Settings_Base_cfe73f4c>
+    <RavenRace_Settings_Settings_Base_Text_14>显示金羽冷却状态</RavenRace_Settings_Settings_Base_Text_14>
+    <RavenRace_Settings_Settings_Base_Description_7>在Pawn的检查面板中显示金羽掉落的冷却时间。</RavenRace_Settings_Settings_Base_Description_7>
+    <RavenRace_Settings_Settings_Base_Text_15>情绪阈值 (极低&lt;X / 极高&gt;1-X)</RavenRace_Settings_Settings_Base_Text_15>
+    <RavenRace_Settings_Settings_Base_Text_16>每次检测掉落概率</RavenRace_Settings_Settings_Base_Text_16>
+    <RavenRace_Settings_Settings_Base_Text_17>掉落冷却时间</RavenRace_Settings_Settings_Base_Text_17>
+    <RavenRace_Settings_Settings_Base_a7ae2075>=== 渡鸦大统领设置 ===</RavenRace_Settings_Settings_Base_a7ae2075>
+    <RavenRace_Settings_Settings_Base_Text_18>启用“寻找亮闪闪”功能</RavenRace_Settings_Settings_Base_Text_18>
+    <RavenRace_Settings_Settings_Base_Description_8>开启后，驯服的大渡鸦会周期性地叼回金质物品。</RavenRace_Settings_Settings_Base_Description_8>
+    <RavenRace_Settings_Settings_Base_Text_19>寻找间隔</RavenRace_Settings_Settings_Base_Text_19>
+    <RavenRace_Settings_Settings_Base_dc0c8354>寻宝概率配置 (独立判断 0-100%)</RavenRace_Settings_Settings_Base_dc0c8354>
+    <RavenRace_Settings_Settings_Base_Text_20>发现黄金概率</RavenRace_Settings_Settings_Base_Text_20>
+    <RavenRace_Settings_Settings_Base_Text_21>发现金制品概率</RavenRace_Settings_Settings_Base_Text_21>
+    <RavenRace_Settings_Settings_Base_Text_22>发现齁金魔方概率</RavenRace_Settings_Settings_Base_Text_22>
+    <RavenRace_Settings_Settings_Base_73f8e4e2>注：如果所有概率均未触发，大统领将空手而归并提示。</RavenRace_Settings_Settings_Base_73f8e4e2>
+    <RavenRace_Settings_Settings_Bloodline_d4fde445>=== 纯化仪式设置 ===</RavenRace_Settings_Settings_Bloodline_d4fde445>
+    <RavenRace_Settings_Settings_Bloodline_Text>纯化仪式成功率</RavenRace_Settings_Settings_Bloodline_Text>
+    <RavenRace_Settings_Settings_Bloodline_Text_2>纯化仪式读条时间 (游戏刻, 1秒=60)</RavenRace_Settings_Settings_Bloodline_Text_2>
+    <RavenRace_Settings_Settings_Buildings_ebc6480c>=== 香薰香炉设置 ===</RavenRace_Settings_Settings_Buildings_ebc6480c>
+    <RavenRace_Settings_Settings_Buildings_Text>香薰氛围引发亲昵行为</RavenRace_Settings_Settings_Buildings_Text>
+    <RavenRace_Settings_Settings_Buildings_Description>开启后，处在香炉范围内的渡鸦族才会因香气失控而对周围的异性(或同性)施放“强制求爱”。</RavenRace_Settings_Settings_Buildings_Description>
+    <RavenRace_Settings_Settings_Buildings_Text_2>强制求爱概率 (每次判定)</RavenRace_Settings_Settings_Buildings_Text_2>
+    <RavenRace_Settings_Settings_Buildings_Text_3>强制打断工作</RavenRace_Settings_Settings_Buildings_Text_3>
+    <RavenRace_Settings_Settings_Buildings_Description_2>开启后，受影响者无论在做什么都会被打断并立即进入激情状态。关闭则仅在发呆或闲置时触发。</RavenRace_Settings_Settings_Buildings_Description_2>
+    <RavenRace_Settings_Settings_Buildings_Text_4>排除未成年人</RavenRace_Settings_Settings_Buildings_Text_4>
+    <RavenRace_Settings_Settings_Buildings_Description_3>开启后，香炉效果将自动跳过未达到成年发育阶段的角色。</RavenRace_Settings_Settings_Buildings_Description_3>
+    <RavenRace_Settings_Settings_Buildings_Text_5>排除直系血亲</RavenRace_Settings_Settings_Buildings_Text_5>
+    <RavenRace_Settings_Settings_Buildings_Description_4>开启后，受影响者绝对不会向其直系亲属发起强制亲昵。</RavenRace_Settings_Settings_Buildings_Description_4>
+    <RavenRace_Settings_Settings_Buildings_e0fac4df>=== 电视机功能设置 ===</RavenRace_Settings_Settings_Buildings_e0fac4df>
+    <RavenRace_Settings_Settings_Buildings_Text_6>影像播放时亲昵触发率</RavenRace_Settings_Settings_Buildings_Text_6>
+    <RavenRace_Settings_Settings_Buildings_Text_7>电视娱乐吸引力倍率</RavenRace_Settings_Settings_Buildings_Text_7>
+    <RavenRace_Settings_Settings_Buildings_Description_5>数值越大，小人越优先看电视。设为 100x 时将几乎只进行电视娱乐。</RavenRace_Settings_Settings_Buildings_Description_5>
+    <RavenRace_Settings_Settings_Buildings_Text_8>禁用电视娱乐厌倦感</RavenRace_Settings_Settings_Buildings_Text_8>
+    <RavenRace_Settings_Settings_Buildings_Description_6>开启后，电视娱乐产生的耐受度永远为0，获得的娱乐值不会随次数衰减。</RavenRace_Settings_Settings_Buildings_Description_6>
+    <RavenRace_Settings_Settings_Buildings_91edb188>说明：开启电视影像模式后，至少两名观看者同时在场时，有概率无视条件发生亲昵互动。</RavenRace_Settings_Settings_Buildings_91edb188>
+    <RavenRace_Settings_Settings_Buildings_a3329aa5>=== 黏液浴缸设置 ===</RavenRace_Settings_Settings_Buildings_a3329aa5>
+    <RavenRace_Settings_Settings_Buildings_Text_9>浴缸娱乐吸引力倍率</RavenRace_Settings_Settings_Buildings_Text_9>
+    <RavenRace_Settings_Settings_Buildings_Description_7>数值越大，小人越优先选择泡黏液浴。设为 100x 时小人会变成浴缸废人。</RavenRace_Settings_Settings_Buildings_Description_7>
+    <RavenRace_Settings_Settings_Buildings_Text_10>禁用黏液浴缸的娱乐厌倦感</RavenRace_Settings_Settings_Buildings_Text_10>
+    <RavenRace_Settings_Settings_Buildings_Description_8>开启后，在浴缸中泡澡产生的耐受度永远为0，获得的娱乐值不会随次数衰减。</RavenRace_Settings_Settings_Buildings_Description_8>
+    <RavenRace_Settings_Settings_Buildings_404df0fb>=== 忏悔室设置 ===</RavenRace_Settings_Settings_Buildings_404df0fb>
+    <RavenRace_Settings_Settings_Buildings_Text_11>忏悔持续时间</RavenRace_Settings_Settings_Buildings_Text_11>
+    <RavenRace_Settings_Settings_Buildings_Description_9>两人进入忏悔室后在里面“宣泄罪恶”所需要花费的时间。</RavenRace_Settings_Settings_Buildings_Description_9>
+    <RavenRace_Settings_Settings_Buildings_bcbf9652>=== 智能机械手设置 ===</RavenRace_Settings_Settings_Buildings_bcbf9652>
+    <RavenRace_Settings_Settings_Buildings_Text_12>强制保底治疗质量</RavenRace_Settings_Settings_Buildings_Text_12>
+    <RavenRace_Settings_Settings_Buildings_Description_10>只要病床连接了智能机械手，无论医生水平多差，最终治疗质量都不会低于此数值。</RavenRace_Settings_Settings_Buildings_Description_10>
+    <RavenRace_Settings_Settings_Buildings_Text_13>强制保底手术成功率</RavenRace_Settings_Settings_Buildings_Text_13>
+    <RavenRace_Settings_Settings_Buildings_Description_11>在手术进行失败结算时，会进行一次判定。如果低于此设定的概率被触发，机械手将强行纠正致命错误，保证手术成功！(100%则代表永不失败)</RavenRace_Settings_Settings_Buildings_Description_11>
+    <RavenRace_Settings_Settings_Defense_47303027>=== 防御中枢设置 ===</RavenRace_Settings_Settings_Defense_47303027>
+    <RavenRace_Settings_Settings_Operator_3db85245>接线员 · 左爻 好感度设置</RavenRace_Settings_Settings_Operator_3db85245>
+    <RavenRace_Settings_Settings_Operator_96ec1170>好感度现在与扶桑组织的派系关系自动挂钩。
+
+左爻的立绘表现已完全由 Live2D 接管，不再提供静态表情套装切换。</RavenRace_Settings_Settings_Operator_96ec1170>
+    <RavenRace_Settings_Settings_Reproduction_Text>启用机械体强制亲昵</RavenRace_Settings_Settings_Reproduction_Text>
+    <RavenRace_Settings_Settings_Reproduction_Description>允许对机械族单位使用强制求爱。普通机械体不能怀孕；拥有完整仿生孕育腔的艾吉斯可以作为母体孕育灵卵。</RavenRace_Settings_Settings_Reproduction_Description>
+    <RavenRace_Settings_Settings_Reproduction_Text_2>启用与建筑亲昵 (彩蛋)</RavenRace_Settings_Settings_Reproduction_Text_2>
+    <RavenRace_Settings_Settings_Reproduction_Description_2>允许对着任何墙体释放强制求爱技能。墙体不会怀孕，但如果渡鸦作为母体，有概率产下带有致密墙体血脉的后代。</RavenRace_Settings_Settings_Reproduction_Description_2>
+    <RavenRace_Settings_Settings_Reproduction_9039b6c1>灵卵温养设置</RavenRace_Settings_Settings_Reproduction_9039b6c1>
+    <RavenRace_Settings_Settings_Reproduction_Text_3>完全温养所需时间</RavenRace_Settings_Settings_Reproduction_Text_3>
+    <RavenRace_Settings_Settings_Reproduction_Description_3>将灵卵保存在体内可进行温养，完美温养的灵卵在摇篮中孵化时会获得速度加成。</RavenRace_Settings_Settings_Reproduction_Description_3>
+    <!-- C# 手工提取文本 -->
+    <RavenRace_Settings_AllowRavenBedSharing>允许渡鸦无视文化戒律同床 (抢床位)</RavenRace_Settings_AllowRavenBedSharing>
+    <RavenRace_Settings_AllowRavenBedSharingDesc>开启后，当分配床铺时，如果该床铺属于渡鸦族，或者即将分配上去的人是渡鸦族，将直接无视文化DLC的『戒律：婚前性行为/配偶专属』等限制，不会出现红色的禁止图标。</RavenRace_Settings_AllowRavenBedSharingDesc>
+
+    <!-- === 新自定义窗口文本 === -->
+    <RavenRace_Settings_WindowTitle>渡鸦族设置</RavenRace_Settings_WindowTitle>
+    <RavenRace_Settings_OpenPanel>打开渡鸦族设置面板</RavenRace_Settings_OpenPanel>
+    <RavenRace_Settings_OpenPanelHint>点击上方按钮即可打开全新设计的黑金风格设置面板。所有设置会在关闭窗口时自动保存。</RavenRace_Settings_OpenPanelHint>
+    <RavenRace_Settings_ShowSpecialPawnRoster>在下方显示特殊角色名册</RavenRace_Settings_ShowSpecialPawnRoster>
+    <RavenRace_Settings_AutoSaveHint>设置会在关闭窗口时自动保存。</RavenRace_Settings_AutoSaveHint>
+    <RavenRace_Settings_Settings_Base_SuccessChance>成功概率</RavenRace_Settings_Settings_Base_SuccessChance>
+    <RavenRace_Settings_UpdateNewsMoanSound>更新日志娇喘音效 (默认关闭)</RavenRace_Settings_UpdateNewsMoanSound>
+
+    <!-- === 分组标题 === -->
+    <RavenRace_Settings_Group_UpdateNews>更新日志</RavenRace_Settings_Group_UpdateNews>
+    <RavenRace_Settings_Group_Debug>调试</RavenRace_Settings_Group_Debug>
+    <RavenRace_Settings_Group_Sounds>音效</RavenRace_Settings_Group_Sounds>
+    <RavenRace_Settings_Group_EasterEggs>彩蛋事件</RavenRace_Settings_Group_EasterEggs>
+    <RavenRace_Settings_Group_MechanicalAngel>机械天使</RavenRace_Settings_Group_MechanicalAngel>
+    <RavenRace_Settings_Group_Servitude>侍奉系统</RavenRace_Settings_Group_Servitude>
+    <RavenRace_Settings_Group_BedSharing>床铺与共眠</RavenRace_Settings_Group_BedSharing>
+    <RavenRace_Settings_Group_EmberBlood>余烬之血</RavenRace_Settings_Group_EmberBlood>
+    <RavenRace_Settings_Group_Feather>折翼金羽</RavenRace_Settings_Group_Feather>
+    <RavenRace_Settings_Group_GreatRaven>渡鸦大统领</RavenRace_Settings_Group_GreatRaven>
+    <RavenRace_Settings_Group_CentralHubUI>浴日中枢界面</RavenRace_Settings_Group_CentralHubUI>
+    <RavenRace_Settings_Group_Purification>纯化仪式</RavenRace_Settings_Group_Purification>
+    <RavenRace_Settings_Group_Altar>育生祭坛</RavenRace_Settings_Group_Altar>
+    <RavenRace_Settings_Group_Hatching>孵化</RavenRace_Settings_Group_Hatching>
+    <RavenRace_Settings_Group_ForceLovin>强制亲昵</RavenRace_Settings_Group_ForceLovin>
+    <RavenRace_Settings_Group_Targets>适用对象</RavenRace_Settings_Group_Targets>
+    <RavenRace_Settings_Group_Prisoners>囚犯与奴隶</RavenRace_Settings_Group_Prisoners>
+    <RavenRace_Settings_Group_Advanced>高级生育</RavenRace_Settings_Group_Advanced>
+    <RavenRace_Settings_Group_SpiritEgg>灵卵温养</RavenRace_Settings_Group_SpiritEgg>
+    <RavenRace_Settings_Group_Mission>任务参数</RavenRace_Settings_Group_Mission>
+    <RavenRace_Settings_Group_Traps>陷阱参数</RavenRace_Settings_Group_Traps>
+    <RavenRace_Settings_Group_DefenseHub>防御中枢</RavenRace_Settings_Group_DefenseHub>
+    <RavenRace_Settings_Group_Incense>香薰香炉</RavenRace_Settings_Group_Incense>
+    <RavenRace_Settings_Group_TV>电视机</RavenRace_Settings_Group_TV>
+    <RavenRace_Settings_Group_Bathtub>黏液浴缸</RavenRace_Settings_Group_Bathtub>
+    <RavenRace_Settings_Group_Confession>忏悔室</RavenRace_Settings_Group_Confession>
+    <RavenRace_Settings_Group_SmartArm>智能机械手</RavenRace_Settings_Group_SmartArm>
+    <RavenRace_Settings_Group_VisualEffects>视觉特效</RavenRace_Settings_Group_VisualEffects>
+
+    <!-- === 新增设置项 === -->
+    <RavenRace_Settings_EnableRavenLiquidCoveredVisuals>显示"沾染鸦液"身体覆盖</RavenRace_Settings_EnableRavenLiquidCoveredVisuals>
+    <RavenRace_Settings_EnableRavenLiquidCoveredVisualsDesc>关闭后，Pawn 身上因沾染鸦液产生的白色黏液覆盖视觉效果会被隐藏，但鸦液覆盖的减益/增益仍正常生效，不会因关闭而清除。</RavenRace_Settings_EnableRavenLiquidCoveredVisualsDesc>
+    <RavenRace_Settings_EnableBlackSunCloakVisuals>显示告死黑日战袍黑烟拖尾</RavenRace_Settings_EnableBlackSunCloakVisuals>
+    <RavenRace_Settings_EnableBlackSunCloakVisualsDesc>关闭后，穿戴告死黑日战袍时不再显示黑烟拖尾粒子特效。战袍的影步、攻击冷却和无法锁定等游戏机制不受影响。</RavenRace_Settings_EnableBlackSunCloakVisualsDesc>
+    <RavenRace_Settings_AltarEffectRadius>祭坛扫描半径</RavenRace_Settings_AltarEffectRadius>
+    <RavenRace_Settings_AltarVisualEffects>启用祭坛视觉特效</RavenRace_Settings_AltarVisualEffects>
+    <RavenRace_Settings_CentralHubFontScale>浴日中枢文字大小</RavenRace_Settings_CentralHubFontScale>
+    <RavenRace_Settings_CentralHubFontScaleDesc>调整浴日中枢管理终端的文字大小。默认 100%，可在 100% 至 125% 之间按 5% 档位调整，不改变窗口和按钮尺寸。</RavenRace_Settings_CentralHubFontScaleDesc>
+    <RavenRace_Settings_DefenseHubRepairSpeed>修复速度倍率</RavenRace_Settings_DefenseHubRepairSpeed>
+    <RavenRace_Settings_DefenseHubRepairSpeedDesc>控制防御中枢自动修复建筑的速度。倍率越高修复越快。默认为 1.0x。</RavenRace_Settings_DefenseHubRepairSpeedDesc>
+    <RavenRace_Settings_ModActiveShort>已激活</RavenRace_Settings_ModActiveShort>
+    <RavenRace_Settings_ModInactiveShort>未激活</RavenRace_Settings_ModInactiveShort>
+    <RavenRace_Settings_EnableCompatToggle>启用此血脉兼容</RavenRace_Settings_EnableCompatToggle>
+
+    <!-- === 血脉清理工具 === -->
+    <RavenRace_Settings_Group_Cleanup>血脉清理工具</RavenRace_Settings_Group_Cleanup>
+    <RavenRace_Settings_CleanupBloodlineHediffs>清理残留血脉能力</RavenRace_Settings_CleanupBloodlineHediffs>
+    <RavenRace_Settings_CleanupBloodlineHediffsDesc>一键扫描所有渡鸦族，移除无血脉却被错误赋予的沃芬月相/夜晚力量Hediff。仅需在发现异常时使用。</RavenRace_Settings_CleanupBloodlineHediffsDesc>
+    <RavenRace_Settings_CleanupNotPlaying>此功能需在游戏内使用。</RavenRace_Settings_CleanupNotPlaying>
+    <RavenRace_Settings_CleanupDone>清理完成，共移除了 {0} 个残留Hediff。</RavenRace_Settings_CleanupDone>
+
+    <!-- === 杂交兼容描述（新增） === -->
+</LanguageData>

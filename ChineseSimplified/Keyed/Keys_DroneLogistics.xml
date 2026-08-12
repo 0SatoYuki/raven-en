@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_DroneLogistics_ModeRequest>无人机请求</Raven_DroneLogistics_ModeRequest>
+  <Raven_DroneLogistics_ModeColonistRequest>殖民者请求</Raven_DroneLogistics_ModeColonistRequest>
+  <Raven_DroneLogistics_ModeSupply>供货</Raven_DroneLogistics_ModeSupply>
+  <Raven_DroneLogistics_ModeGeneral>通用存储</Raven_DroneLogistics_ModeGeneral>
+  <Raven_DroneLogistics_ModeExport>输出至原版储物</Raven_DroneLogistics_ModeExport>
+  <Raven_DroneLogistics_ModeUnknown>未知</Raven_DroneLogistics_ModeUnknown>
+  <Raven_DroneLogistics_ModeRequestDesc>无人机主动补到目标数量；超出目标的部分可供其他请求使用。</Raven_DroneLogistics_ModeRequestDesc>
+  <Raven_DroneLogistics_ModeColonistRequestDesc>殖民者主动从地图或储物区搬入并补到目标数量；无人机不会填充或取用该格。</Raven_DroneLogistics_ModeColonistRequestDesc>
+  <Raven_DroneLogistics_ModeSupplyDesc>全部库存可作为无人机供货来源，不接收无人机整理物。</Raven_DroneLogistics_ModeSupplyDesc>
+  <Raven_DroneLogistics_ModeGeneralDesc>接收无人机从玩家储物区整理的物品，并把全部库存提供给其他请求；散落物和殖民者工作物品不会被取用。</Raven_DroneLogistics_ModeGeneralDesc>
+  <Raven_DroneLogistics_ModeExportDesc>无人机持续把库存送往同网络内允许该物品的原版储物位置。</Raven_DroneLogistics_ModeExportDesc>
+  <Raven_DroneLogistics_ErrorMissingSettings>缺少存储格配置。</Raven_DroneLogistics_ErrorMissingSettings>
+  <Raven_DroneLogistics_ErrorRequestThing>请求模式格必须锁定指定物品。</Raven_DroneLogistics_ErrorRequestThing>
+  <Raven_DroneLogistics_ErrorPinnedThing>锁定物品类型前必须先选择物品。</Raven_DroneLogistics_ErrorPinnedThing>
+  <Raven_DroneLogistics_ErrorCannotVirtualize>所选物品不能存入虚拟物流格。</Raven_DroneLogistics_ErrorCannotVirtualize>
+  <Raven_DroneLogistics_ErrorNonemptyRebind>格子仍有库存，必须先清空才能改绑其他物品。</Raven_DroneLogistics_ErrorNonemptyRebind>
+  <Raven_DroneLogistics_ErrorSelectCell>请先选择至少一个存储格。</Raven_DroneLogistics_ErrorSelectCell>
+  <Raven_DroneLogistics_ErrorCellPrefix>第 {0} 格：{1}</Raven_DroneLogistics_ErrorCellPrefix>
+  <Raven_DroneLogistics_GizmoLabel>设置无人机物流</Raven_DroneLogistics_GizmoLabel>
+  <Raven_DroneLogistics_GizmoDesc>配置每个存储格的物品、模式和请求目标。</Raven_DroneLogistics_GizmoDesc>
+  <Raven_DroneLogistics_Inspect>物流格：{0}/{1}
+虚拟库存：{2}
+请求缺口：{3}
+待输出格：{4}</Raven_DroneLogistics_Inspect>
+  <Raven_DroneLogistics_HeaderSummary>已用 {0}/{1} 格 · 库存 {2} · 请求缺口 {3} · 在途 {4}</Raven_DroneLogistics_HeaderSummary>
+  <Raven_DroneLogistics_HeaderUsed>存储格</Raven_DroneLogistics_HeaderUsed>
+  <Raven_DroneLogistics_HeaderStock>虚拟库存</Raven_DroneLogistics_HeaderStock>
+  <Raven_DroneLogistics_HeaderNeed>请求缺口</Raven_DroneLogistics_HeaderNeed>
+  <Raven_DroneLogistics_HeaderTransit>在途物品</Raven_DroneLogistics_HeaderTransit>
+  <Raven_DroneLogistics_GridTitle>存储格 · 拖拽框选，Ctrl 增删，Shift 连续选择</Raven_DroneLogistics_GridTitle>
+  <Raven_DroneLogistics_Automatic>自动认领</Raven_DroneLogistics_Automatic>
+  <Raven_DroneLogistics_Pinned>锁定物品</Raven_DroneLogistics_Pinned>
+  <Raven_DroneLogistics_IdleCell>空闲</Raven_DroneLogistics_IdleCell>
+  <Raven_DroneLogistics_TargetValue>目标 {0}</Raven_DroneLogistics_TargetValue>
+  <Raven_DroneLogistics_UnclaimedItem>未认领物品</Raven_DroneLogistics_UnclaimedItem>
+  <Raven_DroneLogistics_PlayerPinned>玩家锁定物品</Raven_DroneLogistics_PlayerPinned>
+  <Raven_DroneLogistics_AutomaticClaim>自动认领物品</Raven_DroneLogistics_AutomaticClaim>
+  <Raven_DroneLogistics_CellTooltip>第 {0} 格 · {1}
+{2}
+库存 {3}/{4} · 在途 {5}
+{6}
+{7}</Raven_DroneLogistics_CellTooltip>
+  <Raven_DroneLogistics_Footer>配置实时保存；研究完成后现有物流箱自动增加格子。</Raven_DroneLogistics_Footer>
+  <Raven_DroneLogistics_Close>关闭</Raven_DroneLogistics_Close>
+  <Raven_DroneLogistics_ShortRequest>机请求</Raven_DroneLogistics_ShortRequest>
+  <Raven_DroneLogistics_ShortColonistRequest>人请求</Raven_DroneLogistics_ShortColonistRequest>
+  <Raven_DroneLogistics_ShortSupply>供货</Raven_DroneLogistics_ShortSupply>
+  <Raven_DroneLogistics_ShortGeneral>存储</Raven_DroneLogistics_ShortGeneral>
+  <Raven_DroneLogistics_ShortExport>原版</Raven_DroneLogistics_ShortExport>
+  <Raven_DroneLogistics_EditorInitial>选择格子后配置模式和物品。</Raven_DroneLogistics_EditorInitial>
+  <Raven_DroneLogistics_BatchTitle>批量设置 · 已选 {0} 格</Raven_DroneLogistics_BatchTitle>
+  <Raven_DroneLogistics_PinThing>锁定物品类型</Raven_DroneLogistics_PinThing>
+  <Raven_DroneLogistics_AllowAutomaticClaim>允许空格自动认领物品</Raven_DroneLogistics_AllowAutomaticClaim>
+  <Raven_DroneLogistics_RequestBindingRequired>请求模式格必须锁定指定物品</Raven_DroneLogistics_RequestBindingRequired>
+  <Raven_DroneLogistics_RequestThingMissing>未选择请求物品</Raven_DroneLogistics_RequestThingMissing>
+  <Raven_DroneLogistics_SelectedAutomatic>未锁定物品，由空格按需认领</Raven_DroneLogistics_SelectedAutomatic>
+  <Raven_DroneLogistics_EnableAutomaticClaim>清除物品并启用自动认领</Raven_DroneLogistics_EnableAutomaticClaim>
+  <Raven_DroneLogistics_SelectedThing>物品：{0} · 单格容量 {1}</Raven_DroneLogistics_SelectedThing>
+  <Raven_DroneLogistics_SearchThing>搜索物品</Raven_DroneLogistics_SearchThing>
+  <Raven_DroneLogistics_ItemRow>{0} · 上限 {1}</Raven_DroneLogistics_ItemRow>
+  <Raven_DroneLogistics_Target>目标</Raven_DroneLogistics_Target>
+  <Raven_DroneLogistics_Maximum>最大</Raven_DroneLogistics_Maximum>
+  <Raven_DroneLogistics_TotalTarget>总目标 {0}</Raven_DroneLogistics_TotalTarget>
+  <Raven_DroneLogistics_Apply>应用到选中格</Raven_DroneLogistics_Apply>
+  <Raven_DroneLogistics_Applied>已应用到 {0} 个存储格。</Raven_DroneLogistics_Applied>
+  <Raven_DroneLogistics_ResetEmpty>重置空格</Raven_DroneLogistics_ResetEmpty>
+  <Raven_DroneLogistics_ResetDone>选中空格已恢复为允许自动认领的通用存储。</Raven_DroneLogistics_ResetDone>
+  <Raven_DroneLogistics_ResetOccupied>重置空格要求所有选中格库存为零；请先弹出库存。</Raven_DroneLogistics_ResetOccupied>
+  <Raven_DroneLogistics_Eject>弹出选中库存</Raven_DroneLogistics_Eject>
+  <Raven_DroneLogistics_Ejected>已弹出 {0} 个物品。</Raven_DroneLogistics_Ejected>
+  <Raven_DroneLogistics_NothingEjected>选中格没有可弹出的库存。</Raven_DroneLogistics_NothingEjected>
+  <Raven_DroneLogistics_HelpTitle>模式与操作说明</Raven_DroneLogistics_HelpTitle>
+  <Raven_DroneLogistics_HelpLine>{0}：{1}</Raven_DroneLogistics_HelpLine>
+  <Raven_DroneLogistics_HelpBinding>自动认领仅表示空格在首次入库时可接受任意物品；认领后只存同类物品，库存和在途都归零后释放。锁定物品会一直保持绑定。</Raven_DroneLogistics_HelpBinding>
+  <Raven_DroneLogistics_HelpControls>单击选择；拖拽框选；Ctrl 增删选择；Shift 连续选择。传送带输入依次补无人机请求目标、殖民者请求目标、合并同类库存、使用锁定空格、使用自动认领空格，每阶段按格号处理。输入口和输出口适用于全部模式，方向只由端口决定。</Raven_DroneLogistics_HelpControls>
+  <Raven_DroneLogistics_TargetClamped>目标 {0} 超出单格范围，已设为 {1}。</Raven_DroneLogistics_TargetClamped>
+  <Raven_DroneLogistics_DebugValidationPassed>无人机物流箱格子规则校验通过。</Raven_DroneLogistics_DebugValidationPassed>
+  <Raven_DroneLogistics_DebugValidationFailed>无人机物流箱格子规则校验失败：
+{0}</Raven_DroneLogistics_DebugValidationFailed>
+</LanguageData>

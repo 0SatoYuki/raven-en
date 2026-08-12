@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_LiquidPump.label>[Raven] Liquid Pump</Raven_Building_LiquidPump.label>
+  <Raven_Building_LiquidPump.description>A pumping station used to extract liquid from water bodies or Raven fluid lakes. Once connected to a pipe, it will send the liquid into the shared network, where the network will uniformly balance it to receptive facilities.</Raven_Building_LiquidPump.description>
+</LanguageData>

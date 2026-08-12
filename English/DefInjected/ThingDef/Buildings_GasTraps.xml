@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenTrap_Gas_Anesthetic.label>[Raven] Anesthetic Gas Trap</RavenTrap_Gas_Anesthetic.label>
+  <RavenTrap_Gas_Anesthetic.description>Releases a cloud of anesthetic gas when triggered, causing those who inhale it to fall unconscious.</RavenTrap_Gas_Anesthetic.description>
+  <RavenTrap_Gas_Aphrodisiac.label>[Raven] Aphrodisiac Gas Trap</RavenTrap_Gas_Aphrodisiac.label>
+  <RavenTrap_Gas_Aphrodisiac.description>Releases a cloud of powerful aphrodisiac gas when triggered. Victims will involuntarily fall into a state of intense excitement and exhaustion, eventually collapsing.</RavenTrap_Gas_Aphrodisiac.description>
+</LanguageData>

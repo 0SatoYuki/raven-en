@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_ObeliskPulse_Corpse_Label>释放尸体回收脉冲</RavenRace_ObeliskPulse_Corpse_Label>
+  <RavenRace_ObeliskPulse_Corpse_Short>尸体回收</RavenRace_ObeliskPulse_Corpse_Short>
+  <RavenRace_ObeliskPulse_Corpse_Desc>消耗 {0:F0} 纯净鸦液，吸收筛选器允许的尸体并生成粉色肉汤液体。连接管道输出口后可送往鸦液工业设备加工。</RavenRace_ObeliskPulse_Corpse_Desc>
+  <RavenRace_ObeliskPulse_Aphrodisiac_Label>释放激励脉冲</RavenRace_ObeliskPulse_Aphrodisiac_Label>
+  <RavenRace_ObeliskPulse_Aphrodisiac_Short>激励</RavenRace_ObeliskPulse_Aphrodisiac_Short>
+  <RavenRace_ObeliskPulse_Aphrodisiac_Desc>消耗 {0:F0} 纯净鸦液，给全图所有敌对血肉生物叠加一层激励效果。</RavenRace_ObeliskPulse_Aphrodisiac_Desc>
+  <RavenRace_ObeliskPulse_Consciousness_Label>释放意识削弱脉冲</RavenRace_ObeliskPulse_Consciousness_Label>
+  <RavenRace_ObeliskPulse_Consciousness_Short>意识削弱</RavenRace_ObeliskPulse_Consciousness_Short>
+  <RavenRace_ObeliskPulse_Consciousness_Desc>消耗 {0:F0} 纯净鸦液，给全图所有敌对血肉生物叠加一层意识削弱效果。</RavenRace_ObeliskPulse_Consciousness_Desc>
+  <RavenRace_ObeliskPulse_Filter_Label>配置尸体筛选</RavenRace_ObeliskPulse_Filter_Label>
+  <RavenRace_ObeliskPulse_Filter_Desc>选择尸体回收脉冲允许吸收的尸体，并配置装备和携带物品的处理方式。</RavenRace_ObeliskPulse_Filter_Desc>
+  <RavenRace_ObeliskPulse_Filter_Title>方尖碑尸体回收设置</RavenRace_ObeliskPulse_Filter_Title>
+  <RavenRace_ObeliskPulse_Filter_Equipment>吸收穿戴装备</RavenRace_ObeliskPulse_Filter_Equipment>
+  <RavenRace_ObeliskPulse_Filter_Equipment_Desc>开启时，服装和武器会随尸体一起消失；关闭时，它们会掉落在尸体原位置。</RavenRace_ObeliskPulse_Filter_Equipment_Desc>
+  <RavenRace_ObeliskPulse_Filter_Inventory>吸收携带物品</RavenRace_ObeliskPulse_Filter_Inventory>
+  <RavenRace_ObeliskPulse_Filter_Inventory_Desc>开启时，尸体库存中的物品会被吸收；关闭时，它们会掉落在尸体原位置。</RavenRace_ObeliskPulse_Filter_Inventory_Desc>
+  <RavenRace_ObeliskPulse_Inspect_Active>当前脉冲：{0}（{1:F0}/{2:F0} 格）</RavenRace_ObeliskPulse_Inspect_Active>
+  <RavenRace_ObeliskPulse_Inspect_Cooldowns>脉冲冷却：尸体 {0}；激励 {1}；削弱 {2}</RavenRace_ObeliskPulse_Inspect_Cooldowns>
+  <RavenRace_ObeliskPulse_Inspect_Ready>脉冲系统：就绪</RavenRace_ObeliskPulse_Inspect_Ready>
+  <RavenRace_ObeliskPulse_Disabled_Active>已有脉冲正在扩散。</RavenRace_ObeliskPulse_Disabled_Active>
+  <RavenRace_ObeliskPulse_Disabled_Cooldown>该脉冲仍在冷却：{0}</RavenRace_ObeliskPulse_Disabled_Cooldown>
+  <RavenRace_ObeliskPulse_Disabled_NoStorage>方尖碑缺少储液组件。</RavenRace_ObeliskPulse_Disabled_NoStorage>
+  <RavenRace_ObeliskPulse_Disabled_Liquid>至少需要 {0:F0} 纯净鸦液。</RavenRace_ObeliskPulse_Disabled_Liquid>
+  <RavenRace_ObeliskPulse_NoTargets>当前没有符合该脉冲条件的目标，未消耗纯净鸦液。</RavenRace_ObeliskPulse_NoTargets>
+  <RavenRace_ObeliskPulse_Status_Liquid>纯净鸦液 {0:F0}/{1:F0}</RavenRace_ObeliskPulse_Status_Liquid>
+  <RavenRace_ObeliskPulse_Status_Tooltip>方尖碑纯净鸦液储量。每次全图脉冲消耗 {0:F0}。</RavenRace_ObeliskPulse_Status_Tooltip>
+  <RavenRace_ObeliskPulse_Status_Active>扩散中：{0}</RavenRace_ObeliskPulse_Status_Active>
+  <RavenRace_ObeliskPulse_Status_Cooldowns>尸 {0}  催 {1}  弱 {2}</RavenRace_ObeliskPulse_Status_Cooldowns>
+  <RavenRace_ObeliskPulse_Status_CoolingCount>{0} 种脉冲冷却中</RavenRace_ObeliskPulse_Status_CoolingCount>
+  <RavenRace_ObeliskPulse_Status_Ready>脉冲就绪</RavenRace_ObeliskPulse_Status_Ready>
+  <RavenRace_ObeliskPulse_Status_ReadyShort>就绪</RavenRace_ObeliskPulse_Status_ReadyShort>
+  <RavenRace_ObeliskPulse_BrothOutputBlocked>粉色肉汤输出空间不足，未吸收无法完整结算的尸体。</RavenRace_ObeliskPulse_BrothOutputBlocked>
+  <RavenRace_ObeliskPulse_DebugFill_Label>调试：补满纯净鸦液</RavenRace_ObeliskPulse_DebugFill_Label>
+  <RavenRace_ObeliskPulse_DebugFill_Desc>上帝模式调试命令：立即将方尖碑的储液槽补满为纯净鸦液。</RavenRace_ObeliskPulse_DebugFill_Desc>
+  <!-- 方尖碑统一控制台 -->
+  <RavenRace_ObeliskPulse_Console_Title>渡鸦方尖碑控制台</RavenRace_ObeliskPulse_Console_Title>
+  <RavenRace_ObeliskPulse_Console_Open>打开方尖碑控制台</RavenRace_ObeliskPulse_Console_Open>
+  <RavenRace_ObeliskPulse_Console_OpenDesc>统一管理鸦液储量、肉汤储量、尸体筛选与脉冲释放。</RavenRace_ObeliskPulse_Console_OpenDesc>
+  <RavenRace_ObeliskPulse_Console_LiquidSection>纯净鸦液储量</RavenRace_ObeliskPulse_Console_LiquidSection>
+  <RavenRace_ObeliskPulse_Console_BrothSection>粉色肉汤储量</RavenRace_ObeliskPulse_Console_BrothSection>
+  <RavenRace_ObeliskPulse_Console_PulseSection>脉冲释放</RavenRace_ObeliskPulse_Console_PulseSection>
+  <RavenRace_ObeliskPulse_Console_FilterSection>尸体筛选配置</RavenRace_ObeliskPulse_Console_FilterSection>
+  <RavenRace_ObeliskPulse_Console_Cost>消耗</RavenRace_ObeliskPulse_Console_Cost>
+  <RavenRace_ObeliskPulse_Console_Cooldown>冷却</RavenRace_ObeliskPulse_Console_Cooldown>
+  <RavenRace_ObeliskPulse_Console_Ready>就绪</RavenRace_ObeliskPulse_Console_Ready>
+  <RavenRace_ObeliskPulse_Console_Cooling>{0} 冷却中</RavenRace_ObeliskPulse_Console_Cooling>
+  <RavenRace_ObeliskPulse_Console_Expanding>正在扩散：{0}（{1:F0}/{2:F0} 格）</RavenRace_ObeliskPulse_Console_Expanding>
+  <RavenRace_ObeliskPulse_Console_NoPulse>尚未释放脉冲</RavenRace_ObeliskPulse_Console_NoPulse>
+  <RavenRace_ObeliskPulse_Console_CorpseTab>尸体回收</RavenRace_ObeliskPulse_Console_CorpseTab>
+  <RavenRace_ObeliskPulse_Console_AphroTab>激励脉冲</RavenRace_ObeliskPulse_Console_AphroTab>
+  <RavenRace_ObeliskPulse_Console_ConsciousTab>意识削弱</RavenRace_ObeliskPulse_Console_ConsciousTab>
+</LanguageData>

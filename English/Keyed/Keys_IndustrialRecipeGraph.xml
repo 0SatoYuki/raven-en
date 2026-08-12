@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_IndustrialRecipeGraph_OpenButton>Query Flow</RavenRace_IndustrialRecipeGraph_OpenButton>
+  <RavenRace_IndustrialRecipeGraph_Title>Raven Liquid Industrial Flow</RavenRace_IndustrialRecipeGraph_Title>
+  <RavenRace_IndustrialRecipeGraph_TitleWithTarget>Raven Liquid Industrial Flow: {0}</RavenRace_IndustrialRecipeGraph_TitleWithTarget>
+  <RavenRace_IndustrialRecipeGraph_Help>Mouse wheel to zoom, left-drag to pan, left-click a node for details, right-click resources to query or inspect, and right-click machines to browse recipes.</RavenRace_IndustrialRecipeGraph_Help>
+  <RavenRace_IndustrialRecipeGraph_ResetView>Reset View</RavenRace_IndustrialRecipeGraph_ResetView>
+  <RavenRace_IndustrialRecipeGraph_CompactMode>Primary Route</RavenRace_IndustrialRecipeGraph_CompactMode>
+  <RavenRace_IndustrialRecipeGraph_AllMode>All Routes</RavenRace_IndustrialRecipeGraph_AllMode>
+  <RavenRace_IndustrialRecipeGraph_OtherRecipes>Other Recipes {0}</RavenRace_IndustrialRecipeGraph_OtherRecipes>
+  <RavenRace_IndustrialRecipeGraph_SwitchPrimaryRecipe>Select the primary production recipe for this resource.</RavenRace_IndustrialRecipeGraph_SwitchPrimaryRecipe>
+  <RavenRace_IndustrialRecipeGraph_ProductPanel>Query Product</RavenRace_IndustrialRecipeGraph_ProductPanel>
+  <RavenRace_IndustrialRecipeGraph_FilterAll>All</RavenRace_IndustrialRecipeGraph_FilterAll>
+  <RavenRace_IndustrialRecipeGraph_FilterThing>Items</RavenRace_IndustrialRecipeGraph_FilterThing>
+  <RavenRace_IndustrialRecipeGraph_FilterLiquid>Liquids</RavenRace_IndustrialRecipeGraph_FilterLiquid>
+  <RavenRace_IndustrialRecipeGraph_ThingProduct>Item product</RavenRace_IndustrialRecipeGraph_ThingProduct>
+  <RavenRace_IndustrialRecipeGraph_LiquidProduct>Liquid product</RavenRace_IndustrialRecipeGraph_LiquidProduct>
+  <RavenRace_IndustrialRecipeGraph_NoSelectedNode>No node selected</RavenRace_IndustrialRecipeGraph_NoSelectedNode>
+  <RavenRace_IndustrialRecipeGraph_ClickNodeHint>Click a node on the canvas to view production details.</RavenRace_IndustrialRecipeGraph_ClickNodeHint>
+  <RavenRace_IndustrialRecipeGraph_DetailType>Type: {0}</RavenRace_IndustrialRecipeGraph_DetailType>
+  <RavenRace_IndustrialRecipeGraph_DetailDesc>Description: {0}</RavenRace_IndustrialRecipeGraph_DetailDesc>
+  <RavenRace_IndustrialRecipeGraph_DetailMachines>Available machines: {0}</RavenRace_IndustrialRecipeGraph_DetailMachines>
+  <RavenRace_IndustrialRecipeGraph_DetailWarnings>Notes: {0}</RavenRace_IndustrialRecipeGraph_DetailWarnings>
+  <RavenRace_IndustrialRecipeGraph_DetailRecipe>Recipe: {0}</RavenRace_IndustrialRecipeGraph_DetailRecipe>
+  <RavenRace_IndustrialRecipeGraph_DetailInputs>Inputs: {0}</RavenRace_IndustrialRecipeGraph_DetailInputs>
+  <RavenRace_IndustrialRecipeGraph_DetailOutputs>Outputs: {0}</RavenRace_IndustrialRecipeGraph_DetailOutputs>
+  <RavenRace_IndustrialRecipeGraph_DetailWorkTime>Work time: {0}</RavenRace_IndustrialRecipeGraph_DetailWorkTime>
+  <RavenRace_IndustrialRecipeGraph_CycleNodeDetail>This node was truncated because of a cyclic dependency.</RavenRace_IndustrialRecipeGraph_CycleNodeDetail>
+  <RavenRace_IndustrialRecipeGraph_NotQueryableNode>This node is not a queryable product.</RavenRace_IndustrialRecipeGraph_NotQueryableNode>
+  <RavenRace_IndustrialRecipeGraph_NoRecipeForNode>{0} has no queryable industrial production recipe.</RavenRace_IndustrialRecipeGraph_NoRecipeForNode>
+  <RavenRace_IndustrialRecipeGraph_JumpedTo>Jumped to: {0}</RavenRace_IndustrialRecipeGraph_JumpedTo>
+  <RavenRace_IndustrialRecipeGraph_NodeTooltipRightClick>Right-click: query this product flow</RavenRace_IndustrialRecipeGraph_NodeTooltipRightClick>
+  <RavenRace_IndustrialRecipeGraph_NoFlow>No displayable production flow was found.</RavenRace_IndustrialRecipeGraph_NoFlow>
+  <RavenRace_IndustrialRecipeGraph_CycleWarning>{0} already appears upstream, so the cyclic dependency was truncated.</RavenRace_IndustrialRecipeGraph_CycleWarning>
+  <RavenRace_IndustrialRecipeGraph_UnknownThing>Unknown item</RavenRace_IndustrialRecipeGraph_UnknownThing>
+  <RavenRace_IndustrialRecipeGraph_UnknownMachine>Unknown machine</RavenRace_IndustrialRecipeGraph_UnknownMachine>
+  <RavenRace_IndustrialRecipeGraph_Source>Basic material</RavenRace_IndustrialRecipeGraph_Source>
+  <RavenRace_IndustrialRecipeGraph_Resource>Resource</RavenRace_IndustrialRecipeGraph_Resource>
+  <RavenRace_IndustrialRecipeGraph_None>None</RavenRace_IndustrialRecipeGraph_None>
+  <RavenRace_IndustrialRecipeGraph_NodeTypeRecipe>Machine recipe</RavenRace_IndustrialRecipeGraph_NodeTypeRecipe>
+  <RavenRace_IndustrialRecipeGraph_NodeTypeThing>Item resource</RavenRace_IndustrialRecipeGraph_NodeTypeThing>
+  <RavenRace_IndustrialRecipeGraph_NodeTypeLiquid>Liquid resource</RavenRace_IndustrialRecipeGraph_NodeTypeLiquid>
+  <RavenRace_IndustrialRecipeGraph_CollapseSidebar>Collapse sidebar</RavenRace_IndustrialRecipeGraph_CollapseSidebar>
+  <RavenRace_IndustrialRecipeGraph_ExpandSidebar>Expand sidebar</RavenRace_IndustrialRecipeGraph_ExpandSidebar>
+  <RavenRace_IndustrialRecipeGraph_NoMachineForNode>No available machine was found for this recipe.</RavenRace_IndustrialRecipeGraph_NoMachineForNode>
+  <RavenRace_IndustrialRecipeGraph_MachineRecipeTitle>{0} Recipes</RavenRace_IndustrialRecipeGraph_MachineRecipeTitle>
+  <RavenRace_IndustrialRecipeGraph_MachineRecipeReadOnly>Read-only browser. Machine production state is not changed.</RavenRace_IndustrialRecipeGraph_MachineRecipeReadOnly>
+  <RavenRace_IndustrialRecipeGraph_OpenMachineInfo>Machine Info</RavenRace_IndustrialRecipeGraph_OpenMachineInfo>
+  <RavenRace_IndustrialRecipeGraph_MachineRecipes>Available Recipes</RavenRace_IndustrialRecipeGraph_MachineRecipes>
+  <RavenRace_IndustrialRecipeGraph_NoMachineRecipes>No available recipes</RavenRace_IndustrialRecipeGraph_NoMachineRecipes>
+  <RavenRace_IndustrialRecipeGraph_DetailPower>Power output: {0} W</RavenRace_IndustrialRecipeGraph_DetailPower>
+  <RavenRace_IndustrialRecipeGraph_DetailTags>Recipe tags: {0}</RavenRace_IndustrialRecipeGraph_DetailTags>
+  <RavenRace_IndustrialRecipeGraph_NodeTooltipMachine>Right-click: browse this machine recipe list</RavenRace_IndustrialRecipeGraph_NodeTooltipMachine>
+  <RavenRace_IndustrialRecipeGraph_NodeTooltipQuery>Right-click: query this resource production flow</RavenRace_IndustrialRecipeGraph_NodeTooltipQuery>
+  <RavenRace_IndustrialRecipeGraph_NodeTooltipInfo>Right-click: open information card</RavenRace_IndustrialRecipeGraph_NodeTooltipInfo>
+</LanguageData>

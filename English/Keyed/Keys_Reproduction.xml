@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IncubationProgress>Incubation Progress</IncubationProgress>
+  <RavenRace_Mother>Mother</RavenRace_Mother>
+  <RavenRace_Father>Father</RavenRace_Father>
+  <RavenRace_LetterLabel_EggLaid>Spirit Egg Laid</RavenRace_LetterLabel_EggLaid>
+  <RavenRace_LetterText_EggLaid>{0} has successfully laid a Raven spirit egg. The father is {1}, and their bloodlines are combined in this egg.\n\nPlease place it into a Primordial Cradle for incubation as soon as possible, otherwise its life signs will cease developing.</RavenRace_LetterText_EggLaid>
+  <LetterLabelHatch>Spirit Egg Hatched</LetterLabelHatch>
+  <LetterTextHatch>A Raven spirit egg has successfully hatched!\n\n{0} has emerged from the shell.</LetterTextHatch>
+  <RavenRace_CradleEmpty>Cradle Empty</RavenRace_CradleEmpty>
+  <RavenRace_EjectEgg>Eject Spirit Egg</RavenRace_EjectEgg>
+  <RavenRace_EjectEggDesc>Remove the spirit egg from the cradle, stopping the incubation process.</RavenRace_EjectEggDesc>
+  <RavenRace_FloatMenu_InsertEgg>Insert spirit egg into {0}</RavenRace_FloatMenu_InsertEgg>
+  <RavenRace_Message_EggInsertedFemale>{0}'s womb now warmly envelopes the spirit egg.</RavenRace_Message_EggInsertedFemale>
+  <RavenRace_Message_EggInsertedMale>The spirit egg has been inserted deep into {0}'s rectum.</RavenRace_Message_EggInsertedMale>
+  <RavenRace_Message_EggRemoved>The spirit egg has been removed from {0}.</RavenRace_Message_EggRemoved>
+  <RavenRace_Gizmo_RemoveEgg>Remove Internal Spirit Egg</RavenRace_Gizmo_RemoveEgg>
+  <RavenRace_Gizmo_RemoveEggDesc>Remove the spirit egg currently stored inside.</RavenRace_Gizmo_RemoveEggDesc>
+  <RavenRace_Msg_ResistanceLowered>Under extreme pleasure deprivation and ejaculation management, {0}'s psychological defenses are collapsing (Resistance -{1}).</RavenRace_Msg_ResistanceLowered>
+  <RavenRace_Msg_WillLowered>Beyond submission and climax, {0} can no longer entertain any thought of resistance (Will -{1}).</RavenRace_Msg_WillLowered>
+  <RavenRace_Msg_InstantRecruit>{0} cries and begs for complete possession. In exchange for another climax, {0} swears eternal loyalty to you!</RavenRace_Msg_InstantRecruit>
+  <RavenRace_Msg_InstantEnslave>{0}'s sense of self has been utterly shattered. Now, {0} is merely your obedient and eager slave.</RavenRace_Msg_InstantEnslave>
+  <RavenRace_Msg_LoyaltyBroken>Former vows dissolve into nothing under ceaseless intense stimulation. {0}'s die-hard conviction has crumbled; only yearning for you remains.</RavenRace_Msg_LoyaltyBroken>
+  <RavenRace_Gizmo_LaunchEgg>Launch Spirit Egg</RavenRace_Gizmo_LaunchEgg>
+  <RavenRace_Gizmo_LaunchEggDesc>Use powerful abdominal muscle contractions to fire the outermost spirit egg like a projectile at a target.\n\nA hit will force the target into unconsciousness.</RavenRace_Gizmo_LaunchEggDesc>
+  <RavenRace_Msg_EggEjected_Pleasure>{0} trembles all over as climax arrives, and with a copious rush of fluids, a spirit egg is expelled with a wet pop.</RavenRace_Msg_EggEjected_Pleasure>
+  <RavenRace_Msg_EggLaunch_Impact>The spirit egg strikes {0} dead on; the immense impact instantly knocks them unconscious.</RavenRace_Msg_EggLaunch_Impact>
+  <RavenRace_Fail_Full>{0} is already stuffed full of spirit eggs; nothing more can fit!</RavenRace_Fail_Full>
+  <RavenRace_Msg_DevourSuccess>{0} successfully devours the target.</RavenRace_Msg_DevourSuccess>
+  <RavenRace_Reproduction_Patch_Pawn_GetGizmos_Label>Apply Lust Talisman...</RavenRace_Reproduction_Patch_Pawn_GetGizmos_Label>
+  <RavenRace_Reproduction_Patch_Pawn_GetGizmos_Description>Affix a Lust Talisman to the target (or yourself), beginning their descent into debauchery. Consumes one talisman.</RavenRace_Reproduction_Patch_Pawn_GetGizmos_Description>
+  <RavenRace_Reproduction_Patch_Pawn_GetGizmos_Message>The target cannot be operated on right now; the Lust Talisman cannot be applied.</RavenRace_Reproduction_Patch_Pawn_GetGizmos_Message>
+  <RavenRace_Reproduction_Patch_Pawn_GetGizmos_Message_2>Failed to assign the talisman-applying job. The target may be moving or busy with other work.</RavenRace_Reproduction_Patch_Pawn_GetGizmos_Message_2>
+  <RavenRace_Hypnosis_Patch_HypnosisGizmo_Label>Open Hypnosis App</RavenRace_Hypnosis_Patch_HypnosisGizmo_Label>
+  <RavenRace_Hypnosis_Patch_HypnosisGizmo_Description>Launch the "Crimson Dream" terminal control interface to send commands to linked subjects.</RavenRace_Hypnosis_Patch_HypnosisGizmo_Description>
+  <RavenRace_Reproduction_Patch_JobDriver_LovinTrack_Message>The hypnosis backlash within {0} has been completely dispelled.</RavenRace_Reproduction_Patch_JobDriver_LovinTrack_Message>
+  <RavenRace_Reproduction_Patch_JobDriver_LovinTrack_Message_2>{0} relieved one layer of hypnosis backlash through lovin', but residual desire lingers within...</RavenRace_Reproduction_Patch_JobDriver_LovinTrack_Message_2>
+  <RavenRace_Reproduction_Patch_Pawn_GetFloatMenu_RemoveSpiritEgg_Label>Remove spirit egg from {0}: Unreachable</RavenRace_Reproduction_Patch_Pawn_GetFloatMenu_RemoveSpiritEgg_Label>
+  <RavenRace_Reproduction_Patch_Pawn_GetFloatMenu_RemoveSpiritEgg_Label_2>Remove spirit egg from {0}: Target busy</RavenRace_Reproduction_Patch_Pawn_GetFloatMenu_RemoveSpiritEgg_Label_2>
+  <RavenRace_Reproduction_Patch_Pawn_GetFloatMenu_RemoveSpiritEgg_Label_3>Remove spirit egg from {0}</RavenRace_Reproduction_Patch_Pawn_GetFloatMenu_RemoveSpiritEgg_Label_3>
+  <RavenRace_Reproduction_FloatMenuOptionProvider_EnterWings_Label>Enter {0}'s wings (Full)</RavenRace_Reproduction_FloatMenuOptionProvider_EnterWings_Label>
+  <RavenRace_Reproduction_FloatMenuOptionProvider_EnterWings_Label_2>Enter {0}'s wings</RavenRace_Reproduction_FloatMenuOptionProvider_EnterWings_Label_2>
+  <RavenRace_Reproduction_HediffComp_WingBed_Status>Guest: {0}</RavenRace_Reproduction_HediffComp_WingBed_Status>
+  <RavenRace_Reproduction_HediffComp_WingBed_Status_2>Empty</RavenRace_Reproduction_HediffComp_WingBed_Status_2>
+  <RavenRace_Reproduction_HediffComp_WingBed_Label>Eject Occupant</RavenRace_Reproduction_HediffComp_WingBed_Label>
+  <RavenRace_Reproduction_HediffComp_WingBed_Description>Safely release the occupant from the wings.</RavenRace_Reproduction_HediffComp_WingBed_Description>
+  <RavenRace_Reproduction_HediffComp_WingBed_Message>{0} has emerged from {1}'s wings ({2}).</RavenRace_Reproduction_HediffComp_WingBed_Message>
+  <RavenRace_Reproduction_JobDriver_EnterWings_Message>{0}'s wings already have an occupant.</RavenRace_Reproduction_JobDriver_EnterWings_Message>
+  <Raven_HypnosisApp_Title>Hypnosis Control Terminal</Raven_HypnosisApp_Title>
+  <RavenRace_Hypnosis_CompTargetable_HypnosisApp_Message>The Hypnosis App can only bind to other living characters.</RavenRace_Hypnosis_CompTargetable_HypnosisApp_Message>
+  <RavenRace_Hypnosis_Dialog_HypnosisControl_Label>No target connected.</RavenRace_Hypnosis_Dialog_HypnosisControl_Label>
+  <RavenRace_Hypnosis_Dialog_HypnosisControl_Label_2>Current link: {0} ({1})</RavenRace_Hypnosis_Dialog_HypnosisControl_Label_2>
+  <RavenRace_Hypnosis_Dialog_HypnosisControl_Text>Disconnect</RavenRace_Hypnosis_Dialog_HypnosisControl_Text>
+  <RavenRace_Hypnosis_Dialog_HypnosisControl_Message>The hypnosis link has been forcibly severed.</RavenRace_Hypnosis_Dialog_HypnosisControl_Message>
+  <RavenRace_Hypnosis_Dialog_HypnosisControl_Label_3>Executing</RavenRace_Hypnosis_Dialog_HypnosisControl_Label_3>
+  <RavenRace_Hypnosis_Dialog_HypnosisControl_Label_4>Cooling down</RavenRace_Hypnosis_Dialog_HypnosisControl_Label_4>
+  <RavenRace_Hypnosis_Dialog_HypnosisControl_Message_2>The target cannot respond to commands.</RavenRace_Hypnosis_Dialog_HypnosisControl_Message_2>
+  <RavenRace_Hypnosis_Dialog_HypnosisControl_Message_3>Device signal transmitting, please do not send commands too frequently.</RavenRace_Hypnosis_Dialog_HypnosisControl_Message_3>
+  <RavenRace_Hypnosis_Dialog_HypnosisControl_Message_4>This command is already in effect; it cannot be re-sent to refresh its duration.</RavenRace_Hypnosis_Dialog_HypnosisControl_Message_4>
+  <RavenRace_Hypnosis_Dialog_HypnosisControl_Message_5>The command is on cooldown and cannot be executed.</RavenRace_Hypnosis_Dialog_HypnosisControl_Message_5>
+  <RavenRace_Hypnosis_Dialog_HypnosisControl_Message_6>Command [{0}] has been successfully sent to {1}.</RavenRace_Hypnosis_Dialog_HypnosisControl_Message_6>
+  <RavenRace_Hypnosis_HediffComp_AddDebuffOnRemove_Message>{0}'s hypnosis control has been lifted; the overdrawn neural potential triggers a fierce heat backlash!</RavenRace_Hypnosis_HediffComp_AddDebuffOnRemove_Message>
+  <RavenRace_Reproduction_FloatMenuOptionProvider_ReproductionRequest_Label>Negotiate with Fusang Envoy</RavenRace_Reproduction_FloatMenuOptionProvider_ReproductionRequest_Label>
+  <RavenRace_Reproduction_LordJob_ReproductionRequest_Text>Due to dangerously extreme temperatures, the Fusang girls had to cut short their journey and evacuate swiftly!</RavenRace_Reproduction_LordJob_ReproductionRequest_Text>
+  <RavenRace_Reproduction_LordJob_ReproductionRequest_Text_2>After encountering hazardous anomalous weather, the Fusang girls were forced to retreat!</RavenRace_Reproduction_LordJob_ReproductionRequest_Text_2>
+  <RavenRace_Reproduction_LordJob_ReproductionRequest_Text_3>As conditions rapidly deteriorated, the Fusang girls deemed this place untenable and made an emergency withdrawal!</RavenRace_Reproduction_LordJob_ReproductionRequest_Text_3>
+  <RavenRace_Reproduction_LordJob_ReproductionRequest_Text_4>The Fusang envoy came under threat! The reproduction mission is canceled immediately; full retreat!</RavenRace_Reproduction_LordJob_ReproductionRequest_Text_4>
+  <RavenRace_Reproduction_LordJob_ReproductionRequest_Text_5>Receiving no response for so long, the Fusang girls left in disappointment.</RavenRace_Reproduction_LordJob_ReproductionRequest_Text_5>
+  <RavenRace_Reproduction_LordJob_ReproductionRequest_Text_6>Because the male target had an accident or departed, the Fusang girls had to end the revelry and left disappointed.</RavenRace_Reproduction_LordJob_ReproductionRequest_Text_6>
+  <RavenRace_Reproduction_LordJob_ReproductionRequest_Message>Revelry Ended</RavenRace_Reproduction_LordJob_ReproductionRequest_Message>
+  <RavenRace_Reproduction_LordJob_ReproductionRequest_Message_2>The girls contentedly wiped the traces from the corners of their mouths and thanked you for your selfless contribution. As agreed, they left behind a precious Great Raven.</RavenRace_Reproduction_LordJob_ReproductionRequest_Message_2>
+  <RavenRace_Reproduction_CompAbilityEffect_ForceLovin_Message>The "Mate with buildings" easter egg feature is not enabled in settings.</RavenRace_Reproduction_CompAbilityEffect_ForceLovin_Message>
+  <RavenRace_Reproduction_CompAbilityEffect_ForceLovin_Message_2>You can only get aroused at a solid wall.</RavenRace_Reproduction_CompAbilityEffect_ForceLovin_Message_2>
+  <RavenRace_Reproduction_CompSpiritEgg_Incubation_Message>Fusang surrogacy pact: {0} has successfully hatched. The organization will closely monitor her growth.</RavenRace_Reproduction_CompSpiritEgg_Incubation_Message>
+  <RavenRace_Reproduction_HediffComp_LovinCount_Status>{0} times</RavenRace_Reproduction_HediffComp_LovinCount_Status>
+  <RavenRace_Reproduction_HediffComp_SpiritEggHolder_Label>DEV: Instant Warmth</RavenRace_Reproduction_HediffComp_SpiritEggHolder_Label>
+  <RavenRace_Reproduction_HediffComp_SpiritEggHolder_Message>All internal spirit eggs have been perfectly warmed.</RavenRace_Reproduction_HediffComp_SpiritEggHolder_Message>
+  <RavenRace_Reproduction_JobDriver_ForceLovin_Text>{0} completed a cross-species exchange with {1}.</RavenRace_Reproduction_JobDriver_ForceLovin_Text>
+  <RavenRace_Reproduction_JobDriver_ForceLovin_Text_2>{0} contentedly patted the {1}. Even the brick seams seem full of slick traces.</RavenRace_Reproduction_JobDriver_ForceLovin_Text_2>
+  <RavenRace_Reproduction_JobDriver_ForceLovin_Text_3>After an in-depth exchange with {1}, {0}'s body miraculously began to incubate a Raven spirit egg.</RavenRace_Reproduction_JobDriver_ForceLovin_Text_3>
+  <RavenRace_Reproduction_JobDriver_ForceLovin_Text_4>{0}'s body begins to incubate a Raven spirit egg.</RavenRace_Reproduction_JobDriver_ForceLovin_Text_4>
+  <RavenRace_Reproduction_JobDriver_ForceLovin_Text_5>{0} is pregnant.</RavenRace_Reproduction_JobDriver_ForceLovin_Text_5>
+  <RavenRace_Reproduction_JobDriver_InsertSpiritEgg_Message> ({0})</RavenRace_Reproduction_JobDriver_InsertSpiritEgg_Message>
+  <RavenRace_Reproduction_CompApplyCharm_Label>Unreachable</RavenRace_Reproduction_CompApplyCharm_Label>
+  <RavenRace_Reproduction_CompApplyCharm_Label_2>Target busy</RavenRace_Reproduction_CompApplyCharm_Label_2>
+  <RavenRace_Reproduction_CompApplyCharm_Label_3>Take to inventory</RavenRace_Reproduction_CompApplyCharm_Label_3>
+</LanguageData>

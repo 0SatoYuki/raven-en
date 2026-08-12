@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Gizmo -->
+  <RavenRace_OpenFusangRadio>打开扶桑终端</RavenRace_OpenFusangRadio>
+  <RavenRace_OpenFusangRadioDesc>连接至扶桑组织的加密网络。</RavenRace_OpenFusangRadioDesc>
+  <RavenRace_NoColonistCanReach>没有殖民者可以操作终端。</RavenRace_NoColonistCanReach>
+  
+  <!-- Dev Tools -->
+  <RavenRace_Dev_ResetCooldown>清空商队冷却</RavenRace_Dev_ResetCooldown>
+  <RavenRace_Dev_ResetCooldownDesc>开发者工具：立即允许再次召唤扶桑商队。</RavenRace_Dev_ResetCooldownDesc>
+  <RavenRace_Dev_ResetCooldown_Message>商队冷却已清空。</RavenRace_Dev_ResetCooldown_Message>
+  <RavenRace_Dev_ReadyTrade>DEBUG: 强制商船抵达</RavenRace_Dev_ReadyTrade>
+  <RavenRace_Dev_AddIntel>DEBUG: 获得情报</RavenRace_Dev_AddIntel>
+  <RavenRace_MessageVisitorsTrappedFlying>由于被困住，来自{1}的{0}正准备起飞逃跑。</RavenRace_MessageVisitorsTrappedFlying>
+  
+  <!-- UI Main -->
+  <RavenRace_FusangRadioTitle>FUSANG.NETSEC.TERMINAL_V4 // 扶桑网络终端</RavenRace_FusangRadioTitle>
+  
+  <!-- UI Status -->
+  <RavenRace_RadioStatus_Header>:: 链路状态 ::</RavenRace_RadioStatus_Header>
+  <RavenRace_Status_Online>连接</RavenRace_Status_Online>
+  <RavenRace_Status_Signal>信号</RavenRace_Status_Signal>
+  <RavenRace_Status_Power>能源</RavenRace_Status_Power>
+  
+  <RavenRace_Tag_Stable>[稳定]</RavenRace_Tag_Stable>
+  <RavenRace_Tag_Strong>[强]</RavenRace_Tag_Strong>
+  <RavenRace_Tag_Online>[在线]</RavenRace_Tag_Online>
+  <RavenRace_Tag_Offline>[离线]</RavenRace_Tag_Offline>
+  
+  <RavenRace_Status_Relation>信任级别</RavenRace_Status_Relation>
+  <RavenRace_OperatorFavorability>左爻好感度</RavenRace_OperatorFavorability> <!-- 新增好感度标签 -->
+  <RavenRace_Status_Location>接入点坐标</RavenRace_Status_Location>
+  <RavenRace_Status_TradeCool>物流状态</RavenRace_Status_TradeCool>
+  <RavenRace_Status_Ready>--- 就绪 ---</RavenRace_Status_Ready>
+  
+  <!-- UI Buttons -->
+  <RavenRace_Btn_Trade>物资交换协议</RavenRace_Btn_Trade>
+  <RavenRace_Btn_TradeCool>物流重新以此... ({0}天)</RavenRace_Btn_TradeCool>
+  <RavenRace_Btn_Scan>区域扫描</RavenRace_Btn_Scan>
+  <RavenRace_Btn_Mission>任务面板</RavenRace_Btn_Mission>
+  <RavenRace_Btn_Support>捐赠支援</RavenRace_Btn_Support>
+  
+  <!-- Resources -->
+  <RavenRace_Res_Supplies>物资</RavenRace_Res_Supplies>
+  <RavenRace_Res_Military>军备</RavenRace_Res_Military>
+  <RavenRace_Res_Intel>情报</RavenRace_Res_Intel>
+  <RavenRace_Res_Influence>声望</RavenRace_Res_Influence>
+  
+  <!-- Missions -->
+  <RavenRace_MissionBoard_Title>行动代号列表</RavenRace_MissionBoard_Title>
+  
+  <RavenRace_Mission_Surrogate>【代号：杜鹃】灵卵代孕</RavenRace_Mission_Surrogate>
+  <RavenRace_Mission_Surrogate_Desc>这是一项保护血脉的必要措施。我们需要借用外族的躯体来孵化我们的后代。\n\n我们将提供一枚经过处理的灵卵（纯血统），植入代孕者体内。这对母体有一定生理负担，但我们会支付相应的报酬（或好感）。\n\n“在那寒冷的巢穴里，任何温暖都是被允许的。”</RavenRace_Mission_Surrogate_Desc>
+  <RavenRace_Mission_SelectSurrogate>指定宿主...</RavenRace_Mission_SelectSurrogate>
+  <RavenRace_Mission_Success>植入完成。宿主 {0} 状况稳定，正如计划的那样。</RavenRace_Mission_Success>
+  <RavenRace_Mission_Cost>消耗声望: {0}</RavenRace_Mission_Cost>
+  <RavenRace_Mission_NoCost>无需声望</RavenRace_Mission_NoCost>
+  
+  <!-- Support -->
+  <RavenRace_Support_Title>物资捐赠协议</RavenRace_Support_Title>
+  <RavenRace_Support_Desc>选择希望提升的资源类型，提供白银换取对应扶桑资源。\n同一档位的捐赠，资源类型不同，收益相同。</RavenRace_Support_Desc>
+  <RavenRace_Support_DonateDesc>消耗 {0} 白银\n获得：{1} {2}</RavenRace_Support_DonateDesc>
+  
+  <RavenRace_Support_SilverSmall>小额资金注入</RavenRace_Support_SilverSmall>
+  <RavenRace_Support_SilverMedium>专项资金拨款</RavenRace_Support_SilverMedium>
+  <RavenRace_Support_SilverLarge>战略级投资</RavenRace_Support_SilverLarge>
+  
+  <RavenRace_Donate_Success>捐赠成功。资源储备已提升。</RavenRace_Donate_Success>
+  <RavenRace_Donate_Fail>资金不足。需要 {0} 白银。</RavenRace_Donate_Fail>
+
+  <!-- Dialogues (Lore) - 这些现在被DialogueManager替代了 -->
+
+  <!-- Ideology Positions -->
+  
+  <!--
+  <Herald>传谕使</Herald>
+  <High Priest>大祭司</High Priest>
+  <solar>太阳的</solar>
+  <ascendant>飞升的</ascendant>
+  <purity>纯净</purity>
+  <radiance>光辉</radiance>
+  -->
+
+    <!-- C# 硬编码文本 -->
+    <RavenRace_Fusang_Patch_FusangContactTalk_Label>与扶桑特工交谈</RavenRace_Fusang_Patch_FusangContactTalk_Label>
+    <RavenRace_Fusang_Patch_LendMaleToFusangShuttle_Message>扶桑这次只接受男性殖民者，{0} 不能被送上这艘穿梭机。</RavenRace_Fusang_Patch_LendMaleToFusangShuttle_Message>
+    <RavenRace_Fusang_Patch_LendMaleToFusangShuttle_Message_2>扶桑这次只接受男性殖民者，{0} 不能被送上这艘穿梭机。</RavenRace_Fusang_Patch_LendMaleToFusangShuttle_Message_2>
+    <RavenRace_Fusang_Dialog_FusangContactJoin_Label>扶桑特工接入请求</RavenRace_Fusang_Dialog_FusangContactJoin_Label>
+    <RavenRace_Fusang_Dialog_FusangContactJoin_Label_2>访客：{0}</RavenRace_Fusang_Dialog_FusangContactJoin_Label_2>
+    <RavenRace_Fusang_Dialog_FusangContactJoin_Label_3>访客：未知</RavenRace_Fusang_Dialog_FusangContactJoin_Label_3>
+    <RavenRace_Fusang_Dialog_FusangContactJoin_Text>加入殖民地</RavenRace_Fusang_Dialog_FusangContactJoin_Text>
+    <RavenRace_Fusang_Dialog_FusangContactJoin_Text_2>推迟决定</RavenRace_Fusang_Dialog_FusangContactJoin_Text_2>
+    <RavenRace_Fusang_Dialog_FusangContactJoin_Text_3>拒绝加入</RavenRace_Fusang_Dialog_FusangContactJoin_Text_3>
+    <RavenRace_Fusang_QuestNode_RequireRavenHotSpring_Status>该任务需要一个有效的殖民地地图。</RavenRace_Fusang_QuestNode_RequireRavenHotSpring_Status>
+    <RavenRace_Fusang_QuestNode_RequireRavenHotSpring_Status_2>需要先在该殖民地铺设至少一格鸦液温泉。</RavenRace_Fusang_QuestNode_RequireRavenHotSpring_Status_2>
+    <RavenRace_Fusang_QuestPart_FusangContactDirector_Message>{0} 已加入殖民地。</RavenRace_Fusang_QuestPart_FusangContactDirector_Message>
+    <RavenRace_Fusang_QuestPart_LendMaleToFusangTracker_Message>【精水特赏】检测到奉献者为精壮男丁，扶桑高层极其满意，已将本次任务的最终结算报酬系数提升 20%！</RavenRace_Fusang_QuestPart_LendMaleToFusangTracker_Message>
+    <RavenRace_Fusang_QuestPart_LendMaleToFusangTracker_Message_2>【扶桑借调】{0} 满头大汗、双腿发软地走下了穿梭机。他现在处于“严重肾虚”状态...</RavenRace_Fusang_QuestPart_LendMaleToFusangTracker_Message_2>
+    <RavenRace_Fusang_CompFusangRadio_Label>调试：好感度+100</RavenRace_Fusang_CompFusangRadio_Label>
+    <RavenRace_Fusang_CompFusangRadio_Description>立刻将左爻的好感度增加100点（绕过上限）。</RavenRace_Fusang_CompFusangRadio_Description>
+    <RavenRace_Fusang_CompFusangRadio_Message>调试：左爻好感度已增加100。</RavenRace_Fusang_CompFusangRadio_Message>
+    <RavenRace_Fusang_CompFusangRadio_8ec0c3d8>调试：未找到扶桑隐世派系。</RavenRace_Fusang_CompFusangRadio_8ec0c3d8>
+    <RavenRace_Fusang_CompFusangRadio_Label_2>DEV: 完成所有任务</RavenRace_Fusang_CompFusangRadio_Label_2>
+    <RavenRace_Fusang_CompFusangRadio_Description_2>立即完成所有正在进行的间谍任务（成功率100%）。</RavenRace_Fusang_CompFusangRadio_Description_2>
+    <RavenRace_Fusang_CompFusangRadio_Label_3>DEV: 满资源</RavenRace_Fusang_CompFusangRadio_Label_3>
+    <RavenRace_Fusang_CompFusangRadio_Message_2>资源已加满。</RavenRace_Fusang_CompFusangRadio_Message_2>
+    <RavenRace_Fusang_CompFusangRadio_Label_4>调试：强制触发主线</RavenRace_Fusang_CompFusangRadio_Label_4>
+    <RavenRace_Fusang_CompFusangRadio_Description_3>无视所有条件，立刻尝试触发“落叶归根”主线任务。</RavenRace_Fusang_CompFusangRadio_Description_3>
+    <RavenRace_Fusang_CompFusangRadio_Message_3>调试：已成功触发主线任务。</RavenRace_Fusang_CompFusangRadio_Message_3>
+    <RavenRace_Fusang_CompFusangRadio_Message_4>调试：触发主线任务失败。</RavenRace_Fusang_CompFusangRadio_Message_4>
+    <RavenRace_Fusang_CompFusangRadio_Message_5>调试：未找到 'FallenLeavesQuest' 任务定义。</RavenRace_Fusang_CompFusangRadio_Message_5>
+    <RavenRace_Fusang_ZuoYaoBreastTouchDialogueDef_Status> 至少需要配置一条揉胸反应台词。</RavenRace_Fusang_ZuoYaoBreastTouchDialogueDef_Status>
+    <RavenRace_Fusang_ZuoYaoWakeDialogueDef_Status> 至少需要配置一条点醒台词。</RavenRace_Fusang_ZuoYaoWakeDialogueDef_Status>
+    <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status>左爻 Live2D prefab</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status>
+    <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_2>左爻 Live2D AnimatorController</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_2>
+    <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_3>左爻 Live2D 循环动画</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_3>
+    <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_4>左爻 Live2D zzz 困倦动画</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_4>
+    <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_5>左爻 Live2D 表情列表</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_5>
+    <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_6>左爻 Live2D MaskTexture</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_6>
+    <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_7>左爻 Live2D physics3.json</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_7>
+    <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_8>Cubism 运行时资源 </RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_8>
+    <RavenRace_Fusang_ZuoYaoLive2DPhysicsJsonReader_Status>JSON 根节点不是对象。</RavenRace_Fusang_ZuoYaoLive2DPhysicsJsonReader_Status>
+    <RavenRace_Fusang_Dialog_FusangMissionBoard_Label>:: 特殊协议 ::</RavenRace_Fusang_Dialog_FusangMissionBoard_Label>
+    <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_2>通过植入纯血灵卵，为组织繁衍后代。</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_2>
+    <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_3>需要消耗声望</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_3>
+    <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_4>请求组织提供一份余烬之血。</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_4>
+    <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_5>需要消耗情报与声望</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_5>
+    <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_6>联系总部，查看当前所有“杜鹃”代孕目标的生长情况。若有达标者可手动提交完成考核。</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_6>
+    <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_7>组织在注视着她们</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_7>
+    <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_8>目前没有正在进行中的代孕协议。</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_8>
+    <RavenRace_Fusang_Dialog_FusangSupport_Text>捐赠</RavenRace_Fusang_Dialog_FusangSupport_Text>
+    <RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Label>【代号：余烬】崇高奉献</RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Label>
+    <RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Label_2>目标物资：余烬之血 x1</RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Label_2>
+    <RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Text>执行协议</RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Text>
+    <RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Message>资源不足，无法执行协议。</RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Message>
+    <RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Message_2>扶桑运输舱已抵达，余烬之血已送达。</RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Message_2>
+    <RavenRace_Fusang_Dialog_Mission_Surrogate_Label>【代号：杜鹃】</RavenRace_Fusang_Dialog_Mission_Surrogate_Label>
+    <RavenRace_Fusang_Dialog_Mission_Surrogate_Message>声望不足</RavenRace_Fusang_Dialog_Mission_Surrogate_Message>
+    <RavenRace_Fusang_Dialog_Mission_Surrogate_Description>声望不足，无法发起协议。</RavenRace_Fusang_Dialog_Mission_Surrogate_Description>
+    <RavenRace_Fusang_Dialog_Mission_Surrogate_Message_2>没有符合条件的殖民者</RavenRace_Fusang_Dialog_Mission_Surrogate_Message_2>
+    <RavenRace_Fusang_Dialog_SurrogateGrowth_Label>【代号：杜鹃】 第 {0} 岁阶段回访</RavenRace_Fusang_Dialog_SurrogateGrowth_Label>
+    <RavenRace_Fusang_Dialog_SurrogateGrowth_Text>确认移交 (结束协议)</RavenRace_Fusang_Dialog_SurrogateGrowth_Text>
+    <RavenRace_Fusang_Dialog_SurrogateGrowth_Message>你向扶桑请求留下这个孩子，组织同意了，现在{0} 已经成为了殖民地不可或缺的一份子。</RavenRace_Fusang_Dialog_SurrogateGrowth_Message>
+    <RavenRace_Fusang_Dialog_SurrogateGrowth_Message_2>已向扶桑汇报，{0} 的下一次考核目标提升至 {1} 岁。</RavenRace_Fusang_Dialog_SurrogateGrowth_Message_2>
+    <RavenRace_Fusang_Dialog_SurrogateGrowth_Message_3>离别与报酬</RavenRace_Fusang_Dialog_SurrogateGrowth_Message_3>
+    <RavenRace_Fusang_Dialog_SurrogateGrowth_Message_4>引擎的轰鸣声撕裂了天空，穿梭机的舱门缓缓合拢。
+
+{0} 透过舷窗看了你最后一眼，随后载具化作一道流星消失在云端。
+
+她将回到她真正的故乡。扶桑组织没有食言，满载着报酬的空投舱已经砸落在了你的营地里。
+
+也许未来的某一天，她会以一名扶桑使者的身份，再次踏足这片土地。</RavenRace_Fusang_Dialog_SurrogateGrowth_Message_4>
+    <RavenRace_Fusang_Dialog_SurrogateList_Label>【代号：杜鹃】 进度一览与回收</RavenRace_Fusang_Dialog_SurrogateList_Label>
+    <RavenRace_Fusang_Dialog_SurrogateList_Label_2>&lt;b&gt;纯血灵卵 (杜鹃胚胎)&lt;/b&gt;
+&lt;color=gray&gt;{0}&lt;/color&gt;</RavenRace_Fusang_Dialog_SurrogateList_Label_2>
+    <RavenRace_Fusang_Dialog_SurrogateList_Text>执行评估</RavenRace_Fusang_Dialog_SurrogateList_Text>
+    <RavenRace_Fusang_FusangComm_UIPanels_Label>:: 链路状态 &amp; 交互 ::</RavenRace_Fusang_FusangComm_UIPanels_Label>
+    <RavenRace_Fusang_FusangComm_UIPanels_Text>赠送礼物</RavenRace_Fusang_FusangComm_UIPanels_Text>
+    <RavenRace_Fusang_FusangComm_UIPanels_Description>向左爻赠送殖民地的物品以提升好感度。</RavenRace_Fusang_FusangComm_UIPanels_Description>
+    <RavenRace_Fusang_FusangComm_UIPanels_Text_2>请求回礼</RavenRace_Fusang_FusangComm_UIPanels_Text_2>
+    <RavenRace_Fusang_FusangComm_UIPanels_Message>当前没有可领取的回礼。</RavenRace_Fusang_FusangComm_UIPanels_Message>
+    <RavenRace_Fusang_FusangComm_UIPanels_Description_2>领取达到新好感度阶段的特殊奖励。</RavenRace_Fusang_FusangComm_UIPanels_Description_2>
+    <RavenRace_Fusang_FusangComm_UIPanels_Text_3>内衣收藏</RavenRace_Fusang_FusangComm_UIPanels_Text_3>
+    <RavenRace_Fusang_FusangComm_UIPanels_Description_3>查看已收集的左爻的秘密赠礼。</RavenRace_Fusang_FusangComm_UIPanels_Description_3>
+    <RavenRace_Fusang_FusangComm_UIPanels_Label_2>:: 功能面板 ::</RavenRace_Fusang_FusangComm_UIPanels_Label_2>
+    <RavenRace_Fusang_FusangComm_UIPanels_Message_2>扶桑商队已派出，请留意地图边缘。</RavenRace_Fusang_FusangComm_UIPanels_Message_2>
+    <RavenRace_Fusang_FusangComm_UIPanels_Message_3>商队派遣失败：无法找到安全的进入路径。</RavenRace_Fusang_FusangComm_UIPanels_Message_3>
+    <RavenRace_Fusang_FusangComm_UIPanels_Text_4>召唤援军</RavenRace_Fusang_FusangComm_UIPanels_Text_4>
+    <RavenRace_Fusang_FusangComm_UIPanels_Text_5>任务面板</RavenRace_Fusang_FusangComm_UIPanels_Text_5>
+    <RavenRace_Fusang_FusangComm_UIPanels_Text_6>捐赠支援</RavenRace_Fusang_FusangComm_UIPanels_Text_6>
+    <RavenRace_Fusang_FusangComm_UIPanels_Text_7>商队召唤</RavenRace_Fusang_FusangComm_UIPanels_Text_7>
+    <RavenRace_Fusang_FusangComm_UIPanels_8a100cb2>切换接线员表情套装</RavenRace_Fusang_FusangComm_UIPanels_8a100cb2>
+    <RavenRace_Fusang_FusangComm_UIPanels_fbbd3956>表情套装已切换为等级 {0}。</RavenRace_Fusang_FusangComm_UIPanels_fbbd3956>
+
+    <!-- Dialog_FusangLogistics 物流与援助二级窗口 -->
+    <RavenRace_Fusang_Dialog_FusangLogistics_Title>物流与援助</RavenRace_Fusang_Dialog_FusangLogistics_Title>
+    <RavenRace_Fusang_Dialog_FusangLogistics_TradeTitle>商队召唤</RavenRace_Fusang_Dialog_FusangLogistics_TradeTitle>
+    <RavenRace_Fusang_Dialog_FusangLogistics_TradeCooling>商队整备中</RavenRace_Fusang_Dialog_FusangLogistics_TradeCooling>
+    <RavenRace_Fusang_Dialog_FusangLogistics_TradeReady>商队待命，可随时召唤</RavenRace_Fusang_Dialog_FusangLogistics_TradeReady>
+    <RavenRace_Fusang_Dialog_FusangLogistics_TradeDesc>呼叫一支扶桑商队前来贸易。商队抵达后会停留一段时间供你交易（{0}）。</RavenRace_Fusang_Dialog_FusangLogistics_TradeDesc>
+    <RavenRace_Fusang_Dialog_FusangLogistics_TraderSelection>选择商队类型</RavenRace_Fusang_Dialog_FusangLogistics_TraderSelection>
+    <RavenRace_Fusang_Dialog_FusangLogistics_CallCaravan>召唤商队</RavenRace_Fusang_Dialog_FusangLogistics_CallCaravan>
+    <RavenRace_Fusang_Dialog_FusangLogistics_ReinforcementTitle>扶桑友军召唤</RavenRace_Fusang_Dialog_FusangLogistics_ReinforcementTitle>
+    <RavenRace_Fusang_Dialog_FusangLogistics_MilitaryBalance>当前军备</RavenRace_Fusang_Dialog_FusangLogistics_MilitaryBalance>
+    <RavenRace_Fusang_Dialog_FusangLogistics_CallReinforcement>召唤</RavenRace_Fusang_Dialog_FusangLogistics_CallReinforcement>
+    <RavenRace_Fusang_Dialog_FusangLogistics_NoMilitary>军备不足，无法召唤友军。</RavenRace_Fusang_Dialog_FusangLogistics_NoMilitary>
+     <RavenRace_Fusang_Dialog_FusangLogistics_ReinforcementFail>友军召唤失败，资源已返还。</RavenRace_Fusang_Dialog_FusangLogistics_ReinforcementFail>
+     <RavenRace_Fusang_TradeImprovement>扶桑永久交易改善：{0}</RavenRace_Fusang_TradeImprovement>
+     <RavenRace_Fusang_OffspringProtocol_Title>渡鸦子嗣交付协议</RavenRace_Fusang_OffspringProtocol_Title>
+     <RavenRace_Fusang_OffspringProtocol_EggTab>交付受精灵卵</RavenRace_Fusang_OffspringProtocol_EggTab>
+     <RavenRace_Fusang_OffspringProtocol_PawnTab>交付渡鸦殖民者</RavenRace_Fusang_OffspringProtocol_PawnTab>
+     <RavenRace_Fusang_OffspringProtocol_EggWarning>选择一枚受精灵卵交予扶桑，交付后不可返还。确认后物资、军备、情报和声望同时各获得 10 点。</RavenRace_Fusang_OffspringProtocol_EggWarning>
+     <RavenRace_Fusang_OffspringProtocol_PawnWarning>幼年或成年渡鸦殖民者均可交付。交付后不可返还，Pawn 将失去玩家直接控制。</RavenRace_Fusang_OffspringProtocol_PawnWarning>
+     <RavenRace_Fusang_OffspringProtocol_Parents>母亲：{0}  ·  父亲：{1}</RavenRace_Fusang_OffspringProtocol_Parents>
+     <RavenRace_Fusang_OffspringProtocol_GoldenCrow>金乌浓度：{0}</RavenRace_Fusang_OffspringProtocol_GoldenCrow>
+     <RavenRace_Fusang_OffspringProtocol_Bloodline>血脉：{0}</RavenRace_Fusang_OffspringProtocol_Bloodline>
+     <RavenRace_Fusang_OffspringProtocol_AllRewards>物资 +10  ·  军备 +10  ·  情报 +10  ·  声望 +10</RavenRace_Fusang_OffspringProtocol_AllRewards>
+     <RavenRace_Fusang_OffspringProtocol_PawnAge>生理年龄：{0} 岁</RavenRace_Fusang_OffspringProtocol_PawnAge>
+     <RavenRace_Fusang_OffspringProtocol_PawnMood>心情：{0}</RavenRace_Fusang_OffspringProtocol_PawnMood>
+     <RavenRace_Fusang_OffspringProtocol_PawnImprovement>预计交易改善：+{0}</RavenRace_Fusang_OffspringProtocol_PawnImprovement>
+     <RavenRace_Fusang_OffspringProtocol_Confirm>确认交付</RavenRace_Fusang_OffspringProtocol_Confirm>
+     <RavenRace_Fusang_OffspringProtocol_Invalid>对象已不可交付，协议未结算。</RavenRace_Fusang_OffspringProtocol_Invalid>
+     <RavenRace_Fusang_OffspringProtocol_EggConfirm>确认永久交付 {0}？交付后不可返还。</RavenRace_Fusang_OffspringProtocol_EggConfirm>
+     <RavenRace_Fusang_OffspringProtocol_PawnConfirm>确认将 {0} 永久交予扶桑？预计交易改善：{1}，交付后不可返还。</RavenRace_Fusang_OffspringProtocol_PawnConfirm>
+     <RavenRace_Fusang_OffspringProtocol_EggSuccess>受精灵卵已交付扶桑，物资、军备、情报和声望同时各获得 10 点。</RavenRace_Fusang_OffspringProtocol_EggSuccess>
+     <RavenRace_Fusang_OffspringProtocol_PawnSuccess>{0} 已永久交予扶桑，交易改善增加 {1}。</RavenRace_Fusang_OffspringProtocol_PawnSuccess>
+     <RavenRace_Fusang_OffspringProtocol_Button>子嗣交付协议</RavenRace_Fusang_OffspringProtocol_Button>
+     <RavenRace_Fusang_OffspringProtocol_ButtonDesc>交付受精灵卵获得资源，或永久交付幼年、成年渡鸦殖民者以改善扶桑交易价格。</RavenRace_Fusang_OffspringProtocol_ButtonDesc>
+     <RavenRace_Fusang_TradeTooltipImprovement>扶桑永久交易改善</RavenRace_Fusang_TradeTooltipImprovement>
+</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_FillingMachine.label>[Raven] Liquid Processing Machine</Raven_Building_FillingMachine.label>
+  <Raven_Building_FillingMachine.description>Raven industrial equipment used for mixing, filling, purifying, and processing various liquids such as clean water and turbid Raven fluid. Once basic Raven industry is completed, it can continuously manufacture blue industrial cores using two pumped liquids. Advanced research will unlock further purification recipes.</Raven_Building_FillingMachine.description>
+</LanguageData>

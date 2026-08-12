@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_DroneLogistics_ModeRequest>Drone request</Raven_DroneLogistics_ModeRequest>
+  <Raven_DroneLogistics_ModeColonistRequest>Colonist request</Raven_DroneLogistics_ModeColonistRequest>
+  <Raven_DroneLogistics_ModeSupply>Supply</Raven_DroneLogistics_ModeSupply>
+  <Raven_DroneLogistics_ModeGeneral>General storage</Raven_DroneLogistics_ModeGeneral>
+  <Raven_DroneLogistics_ModeExport>Export to vanilla storage</Raven_DroneLogistics_ModeExport>
+  <Raven_DroneLogistics_ModeUnknown>Unknown</Raven_DroneLogistics_ModeUnknown>
+  <Raven_DroneLogistics_ModeRequestDesc>Drones fill this cell to its target. Stock above the target can supply other requests.</Raven_DroneLogistics_ModeRequestDesc>
+  <Raven_DroneLogistics_ModeColonistRequestDesc>Colonists haul items from the map or stockpiles until this cell reaches its target. Drones neither fill nor withdraw from this cell.</Raven_DroneLogistics_ModeColonistRequestDesc>
+  <Raven_DroneLogistics_ModeSupplyDesc>All stock is available as a drone source. Drones do not deposit loose items here.</Raven_DroneLogistics_ModeSupplyDesc>
+  <Raven_DroneLogistics_ModeGeneralDesc>Accepts items gathered by drones from player storage and supplies all stored stock to requests. Loose items and items reserved for colonist work are ignored.</Raven_DroneLogistics_ModeGeneralDesc>
+  <Raven_DroneLogistics_ModeExportDesc>Drones continuously move stock to allowed vanilla storage in the same network.</Raven_DroneLogistics_ModeExportDesc>
+  <Raven_DroneLogistics_ErrorMissingSettings>Storage cell settings are missing.</Raven_DroneLogistics_ErrorMissingSettings>
+  <Raven_DroneLogistics_ErrorRequestThing>Request-mode cells must lock a specific item.</Raven_DroneLogistics_ErrorRequestThing>
+  <Raven_DroneLogistics_ErrorPinnedThing>Select an item before locking its type.</Raven_DroneLogistics_ErrorPinnedThing>
+  <Raven_DroneLogistics_ErrorCannotVirtualize>The selected item cannot be stored in a virtual logistics cell.</Raven_DroneLogistics_ErrorCannotVirtualize>
+  <Raven_DroneLogistics_ErrorNonemptyRebind>A nonempty cell cannot be rebound to another item. Empty it first.</Raven_DroneLogistics_ErrorNonemptyRebind>
+  <Raven_DroneLogistics_ErrorSelectCell>Select at least one storage cell.</Raven_DroneLogistics_ErrorSelectCell>
+  <Raven_DroneLogistics_ErrorCellPrefix>Cell {0}: {1}</Raven_DroneLogistics_ErrorCellPrefix>
+  <Raven_DroneLogistics_GizmoLabel>Configure drone logistics</Raven_DroneLogistics_GizmoLabel>
+  <Raven_DroneLogistics_GizmoDesc>Configure the item, mode, and request target of each storage cell.</Raven_DroneLogistics_GizmoDesc>
+  <Raven_DroneLogistics_Inspect>Logistics cells: {0}/{1}
+Virtual stock: {2}
+Request shortage: {3}
+Export cells: {4}</Raven_DroneLogistics_Inspect>
+  <Raven_DroneLogistics_HeaderSummary>Used {0}/{1} cells · Stock {2} · Request shortage {3} · In transit {4}</Raven_DroneLogistics_HeaderSummary>
+  <Raven_DroneLogistics_HeaderUsed>Storage cells</Raven_DroneLogistics_HeaderUsed>
+  <Raven_DroneLogistics_HeaderStock>Virtual stock</Raven_DroneLogistics_HeaderStock>
+  <Raven_DroneLogistics_HeaderNeed>Request shortage</Raven_DroneLogistics_HeaderNeed>
+  <Raven_DroneLogistics_HeaderTransit>In transit</Raven_DroneLogistics_HeaderTransit>
+  <Raven_DroneLogistics_GridTitle>Storage cells · Drag to select, Ctrl to toggle, Shift for a range</Raven_DroneLogistics_GridTitle>
+  <Raven_DroneLogistics_Automatic>Auto-claimed</Raven_DroneLogistics_Automatic>
+  <Raven_DroneLogistics_Pinned>Item locked</Raven_DroneLogistics_Pinned>
+  <Raven_DroneLogistics_IdleCell>Idle</Raven_DroneLogistics_IdleCell>
+  <Raven_DroneLogistics_TargetValue>Target {0}</Raven_DroneLogistics_TargetValue>
+  <Raven_DroneLogistics_UnclaimedItem>No item claimed</Raven_DroneLogistics_UnclaimedItem>
+  <Raven_DroneLogistics_PlayerPinned>Item locked by player</Raven_DroneLogistics_PlayerPinned>
+  <Raven_DroneLogistics_AutomaticClaim>Automatically claimed item</Raven_DroneLogistics_AutomaticClaim>
+  <Raven_DroneLogistics_CellTooltip>Cell {0} · {1}
+{2}
+Stock {3}/{4} · In transit {5}
+{6}
+{7}</Raven_DroneLogistics_CellTooltip>
+  <Raven_DroneLogistics_Footer>Settings save immediately. Completed research expands existing boxes automatically.</Raven_DroneLogistics_Footer>
+  <Raven_DroneLogistics_Close>Close</Raven_DroneLogistics_Close>
+  <Raven_DroneLogistics_ShortRequest>Drone req.</Raven_DroneLogistics_ShortRequest>
+  <Raven_DroneLogistics_ShortColonistRequest>Colonist req.</Raven_DroneLogistics_ShortColonistRequest>
+  <Raven_DroneLogistics_ShortSupply>Supply</Raven_DroneLogistics_ShortSupply>
+  <Raven_DroneLogistics_ShortGeneral>Storage</Raven_DroneLogistics_ShortGeneral>
+  <Raven_DroneLogistics_ShortExport>Vanilla</Raven_DroneLogistics_ShortExport>
+  <Raven_DroneLogistics_EditorInitial>Select cells, then configure their mode and item.</Raven_DroneLogistics_EditorInitial>
+  <Raven_DroneLogistics_BatchTitle>Batch settings · {0} cells selected</Raven_DroneLogistics_BatchTitle>
+  <Raven_DroneLogistics_PinThing>Lock item type</Raven_DroneLogistics_PinThing>
+  <Raven_DroneLogistics_AllowAutomaticClaim>Allow empty cells to claim items automatically</Raven_DroneLogistics_AllowAutomaticClaim>
+  <Raven_DroneLogistics_RequestBindingRequired>Request-mode cells must lock a specific item</Raven_DroneLogistics_RequestBindingRequired>
+  <Raven_DroneLogistics_RequestThingMissing>No request item selected</Raven_DroneLogistics_RequestThingMissing>
+  <Raven_DroneLogistics_SelectedAutomatic>No item locked; empty cells claim items as needed</Raven_DroneLogistics_SelectedAutomatic>
+  <Raven_DroneLogistics_EnableAutomaticClaim>Clear item and enable automatic claiming</Raven_DroneLogistics_EnableAutomaticClaim>
+  <Raven_DroneLogistics_SelectedThing>Item: {0} · Cell capacity {1}</Raven_DroneLogistics_SelectedThing>
+  <Raven_DroneLogistics_SearchThing>Search items</Raven_DroneLogistics_SearchThing>
+  <Raven_DroneLogistics_ItemRow>{0} · Limit {1}</Raven_DroneLogistics_ItemRow>
+  <Raven_DroneLogistics_Target>Target</Raven_DroneLogistics_Target>
+  <Raven_DroneLogistics_Maximum>Max</Raven_DroneLogistics_Maximum>
+  <Raven_DroneLogistics_TotalTarget>Total {0}</Raven_DroneLogistics_TotalTarget>
+  <Raven_DroneLogistics_Apply>Apply to selected cells</Raven_DroneLogistics_Apply>
+  <Raven_DroneLogistics_Applied>Applied settings to {0} storage cells.</Raven_DroneLogistics_Applied>
+  <Raven_DroneLogistics_ResetEmpty>Reset empty cells</Raven_DroneLogistics_ResetEmpty>
+  <Raven_DroneLogistics_ResetDone>Selected empty cells are now general storage with automatic claiming enabled.</Raven_DroneLogistics_ResetDone>
+  <Raven_DroneLogistics_ResetOccupied>All selected cells must have zero stock before they can be reset. Eject their stock first.</Raven_DroneLogistics_ResetOccupied>
+  <Raven_DroneLogistics_Eject>Eject selected stock</Raven_DroneLogistics_Eject>
+  <Raven_DroneLogistics_Ejected>Ejected {0} items.</Raven_DroneLogistics_Ejected>
+  <Raven_DroneLogistics_NothingEjected>The selected cells have no stock to eject.</Raven_DroneLogistics_NothingEjected>
+  <Raven_DroneLogistics_HelpTitle>Modes and controls</Raven_DroneLogistics_HelpTitle>
+  <Raven_DroneLogistics_HelpLine>{0}: {1}</Raven_DroneLogistics_HelpLine>
+  <Raven_DroneLogistics_HelpBinding>Automatic claiming only lets an empty cell accept any item on first deposit. It then stores that item only and releases it after both stock and inbound reservations reach zero. A locked item stays bound.</Raven_DroneLogistics_HelpBinding>
+  <Raven_DroneLogistics_HelpControls>Click to select; drag for a rectangle; Ctrl toggles cells; Shift selects a range. Conveyor input fills drone-request targets, colonist-request targets, matching stock, locked empty cells, then auto-claim cells; each stage follows cell ID order. Input and output ports work with every mode. Port placement alone determines direction.</Raven_DroneLogistics_HelpControls>
+  <Raven_DroneLogistics_TargetClamped>Target {0} exceeds this cell's range and was set to {1}.</Raven_DroneLogistics_TargetClamped>
+  <Raven_DroneLogistics_DebugValidationPassed>Drone logistics cell validation passed.</Raven_DroneLogistics_DebugValidationPassed>
+  <Raven_DroneLogistics_DebugValidationFailed>Drone logistics cell validation failed:
+{0}</Raven_DroneLogistics_DebugValidationFailed>
+</LanguageData>

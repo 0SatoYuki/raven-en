@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_IndustrialSupportColumn.label>渡鸦工业支撑柱</Raven_IndustrialSupportColumn.label>
+  <Raven_IndustrialSupportColumn.description>渡鸦工业设施使用的高强度承重柱。其支撑范围与渡鸦大立柱一致，不阻挡视线和人员通行。</Raven_IndustrialSupportColumn.description>
+  <Raven_Decoration_Stairs.label>渡鸦楼梯</Raven_Decoration_Stairs.label>
+  <Raven_Decoration_Stairs.description>渡鸦风格的装饰性楼梯。三面贴图随放置方向切换，不影响人员通过。</Raven_Decoration_Stairs.description>
+</LanguageData>

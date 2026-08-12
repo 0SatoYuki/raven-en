@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_LetterLabel_Feather_Mood>Golden Feather Shedding (Mood)</RavenRace_LetterLabel_Feather_Mood>
+  <RavenRace_LetterText_Feather_HugeGrief>{0} has fallen into endless grief, and the turmoil of their soul caused a golden feather to fall from their wings.</RavenRace_LetterText_Feather_HugeGrief>
+  <RavenRace_LetterText_Feather_HugeJoy>{0} felt supreme bliss, and the resonance of their soul caused a golden feather to fall from their wings.</RavenRace_LetterText_Feather_HugeJoy>
+  <RavenRace_LetterText_Feather_MentalBreak>{0}'s mental defenses have completely collapsed; this extreme chaos unexpectedly triggered the shedding of a golden feather.</RavenRace_LetterText_Feather_MentalBreak>
+  <RavenRace_LetterLabel_Feather_Health>Golden Feather Shedding (Near Death)</RavenRace_LetterLabel_Feather_Health>
+  <RavenRace_LetterText_Feather_NearDeath>On the brink of death, {0}'s survival instinct awakened the divinity deep within their bloodline, and a golden feather fell as the price.</RavenRace_LetterText_Feather_NearDeath>
+  <RavenRace_LetterLabel_Feather_Birth>Golden Feather Shedding (New Life)</RavenRace_LetterLabel_Feather_Birth>
+  <RavenRace_LetterText_Feather_NewLife>The birth of new life brought pure hope, and {0} offered a golden feather as a blessing.</RavenRace_LetterText_Feather_NewLife>
+  <RavenRace_LetterLabel_EmberExtraction>Ember Blood Extraction Complete</RavenRace_LetterLabel_EmberExtraction>
+  <RavenRace_LetterText_EmberExtraction>{0} has successfully completed the surgery. {1}'s heart has stopped beating, and all life essence has condensed into this Ember Blood. This is a heavy price.</RavenRace_LetterText_EmberExtraction>
+  <RavenRace_Mission_Ember_Desc>[Codename: Ember] Noble Devotion\n\nSome elderly or critically wounded members within the organization voluntarily sacrifice their lives for the continuation of the group. We need intelligence to locate them, and spend reputation to arrange a special transport pod to deliver the extract.\n\nReward: Ember Blood x1</RavenRace_Mission_Ember_Desc>
+  <Raven_Message_WeaponCoated>Applied {0} to {1}. Remaining charges: {2}</Raven_Message_WeaponCoated>
+  <Raven_Mote_Poisoned>Poisoned</Raven_Mote_Poisoned>
+  <RavenRace_MastersBrush_Adjusted>{0}'s natural breasts were reduced to the minimum size.</RavenRace_MastersBrush_Adjusted>
+  <RavenRace_MastersBrush_AlreadyMinimal>{0}'s natural breasts are already at the minimum size.</RavenRace_MastersBrush_AlreadyMinimal>
+  <RavenRace_MastersBrush_ForcedSize>{0}'s breast size is controlled by another effect, so the brush did not override it.</RavenRace_MastersBrush_ForcedSize>
+  <RavenRace_MastersBrush_NoNaturalBreasts>{0} has no natural breasts that the brush can adjust.</RavenRace_MastersBrush_NoNaturalBreasts>
+  <RavenRace_MastersBrush_RjwRequired>RJW must be active to read and adjust {0}'s breast size.</RavenRace_MastersBrush_RjwRequired>
+</LanguageData>

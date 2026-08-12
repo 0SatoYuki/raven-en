@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 【修改】Key 和内容均已更新 -->
+  <Raven_Wall.label>渡鸦墙体</Raven_Wall.label>
+  <Raven_Wall.description>由暗羽钢与钢铁复合锻造而成的重型墙体。结构内部填充了吸能材料，能有效抵御爆炸与钝击，其哑光表面的美感也深受渡鸦族喜爱。</Raven_Wall.description>
+
+  <!-- 【修改】Key 和内容均已更新 -->
+  <Raven_Terrain_Tile.label>渡鸦地砖</Raven_Terrain_Tile.label>
+  <Raven_Terrain_Tile.description>采用高抛光渡鸦合金制成的地砖。其表面极其平滑，且具有天然的抗污属性，非常易于清洁，且具有极高的装饰价值。</Raven_Terrain_Tile.description>
+
+<Raven_WallDiagonal.label>渡鸦斜角墙</Raven_WallDiagonal.label><Raven_WallDiagonal.description>一面优雅的渡鸦风格斜角墙体，用于建造更具流线感的建筑结构。和标准的渡鸦墙体一样坚固，并由固定的暗羽钢制成。</Raven_WallDiagonal.description><Raven_Fence.label>渡鸦栅栏</Raven_Fence.label><Raven_Fence.description>由暗羽钢打磨制成的精美栅栏，用于圈养动物或装饰庭院。结构稳固，且保留了渡鸦族特有的冷峻哑光黑。</Raven_Fence.description><Raven_GoldenLeafGreenbelt.label>渡鸦金叶绿化带</Raven_GoldenLeafGreenbelt.label><Raven_GoldenLeafGreenbelt.description>由渡鸦族的金叶制成的精美绿化带。</Raven_GoldenLeafGreenbelt.description><Raven_DoorSingle.label>渡鸦单格门</Raven_DoorSingle.label><Raven_DoorSingle.description>配有顶部门框的单格门。其特殊的滑轨设计使其在开合时极具立体感。</Raven_DoorSingle.description><Raven_DoorDouble.label>渡鸦双格大门</Raven_DoorDouble.label><Raven_DoorDouble.description>宽敞的双格大门，配有坚固的顶部防爆门框。</Raven_DoorDouble.description><Raven_DoorDouble_Variant.label>渡鸦双格大门 (宽框变种)</Raven_DoorDouble_Variant.label><Raven_DoorDouble_Variant.description>宽敞的双格大门，采用了全新的加强型防爆门框变体，更加庄重威严。</Raven_DoorDouble_Variant.description><Raven_DoorMassive.label>渡鸦巨型机库门</Raven_DoorMassive.label><Raven_DoorMassive.description>极其庞大的三格门，顶部的导轨门框足以支撑极高强度的物理冲击。</Raven_DoorMassive.description><Raven_DoorMassive_Variant.label>渡鸦巨型机库门 (宽框变种)</Raven_DoorMassive_Variant.label><Raven_DoorMassive_Variant.description>极其庞大的三格门，采用了全新的结构加强型机库门框，外观更为霸气。</Raven_DoorMassive_Variant.description><Raven_FenceGate.label>渡鸦栅栏门</Raven_FenceGate.label><Raven_FenceGate.description>由暗羽钢打磨制成的精美栅栏门。动物无法通过，但殖民者和驯兽师可以轻易开关。</Raven_FenceGate.description><Raven_DoorPlaque.label>渡鸦大门牌匾</Raven_DoorPlaque.label><Raven_DoorPlaque.description>一块精美的装饰性牌匾。不影响人员的通行。</Raven_DoorPlaque.description><Raven_Column.label>渡鸦大立柱</Raven_Column.label><Raven_Column.description>由暗羽钢铸造的高强度承重柱。其内部独特的受力结构使其能够支撑比普通立柱大得多的屋顶面积(半径14.9)。它不会阻挡视线或移动。</Raven_Column.description></LanguageData>

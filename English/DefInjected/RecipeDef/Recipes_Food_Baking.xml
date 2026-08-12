@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_Raven_Cream.label>[Raven] extract Cream</Make_Raven_Cream.label>
+  <Make_Raven_Cream.description>Through high-speed churning and special processes, concentrate the nutrients from raven fluid and remove the fishy taste to make rich raven cream.</Make_Raven_Cream.description>
+  <Make_Raven_CreamBulk.label>[Raven] extract Cream X4</Make_Raven_CreamBulk.label>
+  <Make_Raven_CreamBulk.description>Extract a large batch of rich raven cream.</Make_Raven_CreamBulk.description>
+  <Cook_Raven_CreamPuff.label>[Raven] make Cream Puff</Cook_Raven_CreamPuff.label>
+  <Cook_Raven_CreamPuff.description>Make a raven cream puff.</Cook_Raven_CreamPuff.description>
+  <Cook_Raven_CreamPuffBulk.label>[Raven] make Cream Puff X4</Cook_Raven_CreamPuffBulk.label>
+  <Cook_Raven_CreamPuffBulk.description>Make 4 raven cream puffs in bulk.</Cook_Raven_CreamPuffBulk.description>
+  <Cook_Raven_ExquisiteCake.label>[Raven] make Exquisite Cake</Cook_Raven_ExquisiteCake.label>
+  <Cook_Raven_ExquisiteCake.description>Make a luxurious raven exquisite cake.</Cook_Raven_ExquisiteCake.description>
+  <Cook_Raven_ExquisiteCakeBulk.label>[Raven] make Exquisite Cake X4</Cook_Raven_ExquisiteCakeBulk.label>
+  <Cook_Raven_ExquisiteCakeBulk.description>Make 4 luxurious raven exquisite cakes in bulk.</Cook_Raven_ExquisiteCakeBulk.description>
+</LanguageData>

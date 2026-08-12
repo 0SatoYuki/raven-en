@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_Raven_DarkfeatherSteel.label>[Raven] smelt Darkfeather Steel</Make_Raven_DarkfeatherSteel.label>
+  <Make_Raven_DarkfeatherSteel.description>A temporary fallback recipe that can be completed at a vanilla smithy without magma. Its material efficiency is very low, yielding only about one quarter as much darkfeather steel from the same solid ingredients as the automated foundry.</Make_Raven_DarkfeatherSteel.description>
+  <Make_Raven_CoronaSteel.label>[Raven] quench Corona Steel</Make_Raven_CoronaSteel.label>
+</LanguageData>

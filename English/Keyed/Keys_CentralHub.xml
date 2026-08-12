@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_CentralTerminal_Open>Open Central Management Terminal</Raven_CentralTerminal_Open>
+  <Raven_CentralTerminal_OpenDesc>View hub levels, Raven industrial technology, and industrial resources without pausing the game.</Raven_CentralTerminal_OpenDesc>
+  <Raven_CentralShowcase_ArchiveTitle>Industrial Archive</Raven_CentralShowcase_ArchiveTitle>
+  <Raven_CentralShowcase_FactionLabel>Fusang Emblem</Raven_CentralShowcase_FactionLabel>
+  <Raven_CentralShowcase_FactionDescription>The central identification emblem of the Fusang industrial system. Its golden sun ring and wings mark the research, energy, and automated production network governed by the Sunlit Nexus.</Raven_CentralShowcase_FactionDescription>
+  <Raven_CentralShowcase_ProjectionMissing>Projection resource missing</Raven_CentralShowcase_ProjectionMissing>
+  <Raven_CentralResearch_DebugFill_Label>[Debug] Fill research queue materials</Raven_CentralResearch_DebugFill_Label>
+  <Raven_CentralResearch_DebugFill_Desc>Adds the missing materials for every remaining project in the current research queue to the Sunlit Nexus storage.</Raven_CentralResearch_DebugFill_Desc>
+  <Raven_CentralResearch_DebugFill_Empty>The research queue is empty. No materials were added.</Raven_CentralResearch_DebugFill_Empty>
+  <Raven_CentralResearch_DebugFill_Satisfied>All materials required by the current research queue are already available.</Raven_CentralResearch_DebugFill_Satisfied>
+  <Raven_CentralResearch_DebugFill_Completed>Added {0} research material types, {1} items total.</Raven_CentralResearch_DebugFill_Completed>
+  <Raven_CentralHub_UniqueRejected>Only one player-owned Sunlit Nexus may exist in a save.</Raven_CentralHub_UniqueRejected>
+  <Raven_CentralHub_FullLightRequiresLevel2>Full-map lighting requires Central Hub level II.</Raven_CentralHub_FullLightRequiresLevel2>
+  <Raven_CentralResearch_InvalidProject>Invalid Raven industrial technology project.</Raven_CentralResearch_InvalidProject>
+  <Raven_CentralResearch_AlreadyCompleted>This research is already complete.</Raven_CentralResearch_AlreadyCompleted>
+  <Raven_CentralResearch_AlreadyQueued>This research is already queued.</Raven_CentralResearch_AlreadyQueued>
+  <Raven_CentralResearch_InvalidQueueOrder>This move would break research prerequisites.</Raven_CentralResearch_InvalidQueueOrder>
+  <Raven_CentralResearch_MissingPrerequisite>Missing prerequisite: {0}</Raven_CentralResearch_MissingPrerequisite>
+  <Raven_CentralResearch_Completed>Raven industrial technology completed: {0}</Raven_CentralResearch_Completed>
+  <Raven_CentralResearch_CompletedLevel>Raven industrial technology completed: {0} Lv.{1}</Raven_CentralResearch_CompletedLevel>
+  <Raven_CentralResearch_HeaderStats>Research {0} / day    Parallel {1}</Raven_CentralResearch_HeaderStats>
+  <Raven_CentralResearch_HeaderLevel>Total tech level {0}    Industry speed {1}</Raven_CentralResearch_HeaderLevel>
+  <Raven_CentralResearch_LevelShort>Lv.{0}</Raven_CentralResearch_LevelShort>
+  <Raven_CentralResearch_TargetLevelShort>Target Lv.{0}</Raven_CentralResearch_TargetLevelShort>
+  <Raven_CentralResearch_LevelSection>Technology level</Raven_CentralResearch_LevelSection>
+  <Raven_CentralResearch_LevelNext>Current Lv.{0}  ·  Next Lv.{1}</Raven_CentralResearch_LevelNext>
+  <Raven_CentralResearch_LevelMaximum>Current Lv.{0}  ·  Level cap reached</Raven_CentralResearch_LevelMaximum>
+  <Raven_CentralResearch_SingleLevel>Single-level research</Raven_CentralResearch_SingleLevel>
+  <Raven_CentralResearch_FiniteLevels>Finite loop · max Lv.{0}</Raven_CentralResearch_FiniteLevels>
+  <Raven_CentralResearch_Infinite>Infinite repeat</Raven_CentralResearch_Infinite>
+  <Raven_CentralResearch_CostGrowth>Per-level research cost ×{0}  ·  material cost ×{1}</Raven_CentralResearch_CostGrowth>
+  <Raven_CentralResearch_BonusSection>Level bonuses</Raven_CentralResearch_BonusSection>
+  <Raven_CentralResearch_BonusLineNext>{0}  Next {1}  ·  Current total {2}</Raven_CentralResearch_BonusLineNext>
+  <Raven_CentralResearch_BonusLineMaximum>{0}  Current total {1}</Raven_CentralResearch_BonusLineMaximum>
+  <Raven_CentralResearch_BonusFormula>Total formula: {0}</Raven_CentralResearch_BonusFormula>
+  <Raven_CentralResearch_BonusIndustrialWorkSpeed>Industrial work speed</Raven_CentralResearch_BonusIndustrialWorkSpeed>
+  <Raven_CentralResearch_BonusDroneStorageCells>Drone logistics box cells</Raven_CentralResearch_BonusDroneStorageCells>
+  <Raven_CentralResearch_MaximumReached>Research level cap reached</Raven_CentralResearch_MaximumReached>
+  <Raven_CentralLevel_Maximum>The Central Hub is already at maximum level.</Raven_CentralLevel_Maximum>
+  <Raven_CentralLevel_HubUnavailable>The Sunlit Nexus or its storage component is unavailable.</Raven_CentralLevel_HubUnavailable>
+  <Raven_CentralLevel_UpgradeInProgress>The Sunlit Nexus is upgrading.</Raven_CentralLevel_UpgradeInProgress>
+  <Raven_CentralLevel_VisualUnavailable>Upgrade visual resources are unavailable. The upgrade was not started.</Raven_CentralLevel_VisualUnavailable>
+  <Raven_CentralLevel_UpgradeStageSunShrink>Contracting solar core</Raven_CentralLevel_UpgradeStageSunShrink>
+  <Raven_CentralLevel_UpgradeStageDisassembling>Disassembling old structure</Raven_CentralLevel_UpgradeStageDisassembling>
+  <Raven_CentralLevel_UpgradeStageAssembling>Assembling new structure</Raven_CentralLevel_UpgradeStageAssembling>
+  <Raven_CentralLevel_UpgradeStageCompletionBurst>Corona burst</Raven_CentralLevel_UpgradeStageCompletionBurst>
+  <Raven_CentralLevel_UpgradeStageSunGrow>Expanding solar core</Raven_CentralLevel_UpgradeStageSunGrow>
+  <Raven_CentralLevel_UpgradeStatus>{0} · Total progress {1}</Raven_CentralLevel_UpgradeStatus>
+  <Raven_CentralLevel_DebugUpgrade_Label>[Debug] Upgrade Central Hub</Raven_CentralLevel_DebugUpgrade_Label>
+  <Raven_CentralLevel_DebugUpgrade_Desc>Skips all material costs, advances one level, and plays the complete solar contraction, structure transition, corona burst, and solar expansion animation.</Raven_CentralLevel_DebugUpgrade_Desc>
+  <Raven_CentralIndustrial_NoTrigger>No advanced output</Raven_CentralIndustrial_NoTrigger>
+  <Raven_CentralIndustrialRecipe_HomeEntry>06   INDUSTRIAL RECIPES</Raven_CentralIndustrialRecipe_HomeEntry>
+  <Raven_CentralIndustrial_Title>Industrial Overview</Raven_CentralIndustrial_Title>
+  <Raven_CentralIndustrial_Description>Actual output telemetry and industrial milestone progression.</Raven_CentralIndustrial_Description>
+  <Raven_CentralLevel_MissingMaterials>The hub inventory does not contain enough upgrade materials.</Raven_CentralLevel_MissingMaterials>
+  <Raven_CentralIndustrial_BackHome>Back to home</Raven_CentralIndustrial_BackHome>
+  <Raven_CentralIndustrial_Interval10Seconds>10 sec</Raven_CentralIndustrial_Interval10Seconds>
+  <Raven_CentralIndustrial_Interval1Minute>1 min</Raven_CentralIndustrial_Interval1Minute>
+  <Raven_CentralIndustrial_Interval10Minutes>10 min</Raven_CentralIndustrial_Interval10Minutes>
+  <Raven_CentralIndustrial_Interval1Hour>1 hour</Raven_CentralIndustrial_Interval1Hour>
+  <Raven_CentralIndustrial_Milestones>Industrial milestones</Raven_CentralIndustrial_Milestones>
+  <Raven_CentralIndustrial_ChainHint>Continuous chain advanced by first output</Raven_CentralIndustrial_ChainHint>
+  <Raven_CentralIndustrial_StatusCompleted>Completed</Raven_CentralIndustrial_StatusCompleted>
+  <Raven_CentralIndustrial_StatusCurrent>Current stage</Raven_CentralIndustrial_StatusCurrent>
+  <Raven_CentralIndustrial_StatusWaiting>Waiting for prerequisite output</Raven_CentralIndustrial_StatusWaiting>
+  <Raven_CentralIndustrial_Telemetry>Period telemetry</Raven_CentralIndustrial_Telemetry>
+  <Raven_CentralIndustrial_InstantPower>Instant power draw</Raven_CentralIndustrial_InstantPower>
+  <Raven_CentralIndustrial_PeriodEnergy>Period energy avg.</Raven_CentralIndustrial_PeriodEnergy>
+  <Raven_CentralIndustrial_PeriodOutput>Period output avg.</Raven_CentralIndustrial_PeriodOutput>
+  <Raven_CentralIndustrial_ActiveMachines>Active machines</Raven_CentralIndustrial_ActiveMachines>
+  <Raven_CentralIndustrial_CurrentProfile>Current profile</Raven_CentralIndustrial_CurrentProfile>
+  <Raven_CentralIndustrial_Trend>Output / power trend</Raven_CentralIndustrial_Trend>
+  <Raven_CentralIndustrial_ProductOutputs>Industrial item output</Raven_CentralIndustrial_ProductOutputs>
+  <Raven_CentralIndustrial_ProductName>Item</Raven_CentralIndustrial_ProductName>
+  <Raven_CentralIndustrial_ExpectedOutput>Expected</Raven_CentralIndustrial_ExpectedOutput>
+  <Raven_CentralIndustrial_ActualOutputColumn>Actual avg.</Raven_CentralIndustrial_ActualOutputColumn>
+  <Raven_CentralIndustrial_LifetimeOutput>Lifetime</Raven_CentralIndustrial_LifetimeOutput>
+  <Raven_CentralIndustrial_NoProductOutput>No industrial item output recorded</Raven_CentralIndustrial_NoProductOutput>
+  <Raven_CentralIndustrial_LiquidOutputs>Liquid output</Raven_CentralIndustrial_LiquidOutputs>
+  <Raven_CentralIndustrial_ActualOutput>Actual output · 5-period average</Raven_CentralIndustrial_ActualOutput>
+  <Raven_CentralIndustrial_NoLiquidOutput>No liquid output recorded</Raven_CentralIndustrial_NoLiquidOutput>
+  <Raven_CentralIndustrial_PeriodAndLifetime>Average {0}  ·  Lifetime {1}</Raven_CentralIndustrial_PeriodAndLifetime>
+  <Raven_CentralAbility_HomeEntry>03   CENTRAL ABILITIES</Raven_CentralAbility_HomeEntry>
+  <Raven_CentralAbility_Title>Central Abilities</Raven_CentralAbility_Title>
+  <Raven_CentralAbility_HeaderStats>Unlocked {0}    Slots {1}    Protocol load {2} W</Raven_CentralAbility_HeaderStats>
+  <Raven_CentralAbility_TabMatrix>Ability Matrix</Raven_CentralAbility_TabMatrix>
+  <Raven_CentralAbility_TabLoadout>Loadout</Raven_CentralAbility_TabLoadout>
+  <Raven_CentralAbility_GoToLoadout>Go to Loadout</Raven_CentralAbility_GoToLoadout>
+  <Raven_CentralAbility_NoSelection>No ability node selected</Raven_CentralAbility_NoSelection>
+  <Raven_CentralAbility_ResetView>Reset</Raven_CentralAbility_ResetView>
+  <Raven_CentralAbility_MatrixHint>ROOT BASELINE // LEVEL ASCENSION</Raven_CentralAbility_MatrixHint>
+  <Raven_CentralAbility_LevelLabel>Lv.{0}</Raven_CentralAbility_LevelLabel>
+  <Raven_CentralAbility_EffectSection>Protocol effect</Raven_CentralAbility_EffectSection>
+  <Raven_CentralAbility_Power>Continuous draw {0} W</Raven_CentralAbility_Power>
+  <Raven_CentralAbility_FuelDuration>One fuel batch lasts {0}</Raven_CentralAbility_FuelDuration>
+  <Raven_CentralAbility_FuelBatch>Continuous fuel</Raven_CentralAbility_FuelBatch>
+  <Raven_CentralAbility_NoFuel>This ability requires no continuous fuel</Raven_CentralAbility_NoFuel>
+  <Raven_CentralAbility_UnlockSection>Level unlock</Raven_CentralAbility_UnlockSection>
+  <Raven_CentralAbility_UnlockAny>Complete either the research path or the material submission path</Raven_CentralAbility_UnlockAny>
+  <Raven_CentralAbility_UnlockAll>Complete the research path and submit every required material</Raven_CentralAbility_UnlockAll>
+  <Raven_CentralAbility_UnlockSingle>Complete the configured unlock path</Raven_CentralAbility_UnlockSingle>
+  <Raven_CentralAbility_ResearchPath>Research path</Raven_CentralAbility_ResearchPath>
+  <Raven_CentralAbility_ResearchRequirement>{0} · Min Lv.{1}</Raven_CentralAbility_ResearchRequirement>
+  <Raven_CentralAbility_MaterialPath>Material submission path</Raven_CentralAbility_MaterialPath>
+  <Raven_CentralAbility_ItemRequirement>{0}    Stored {1} / Required {2}</Raven_CentralAbility_ItemRequirement>
+  <Raven_CentralAbility_Unlocked>This level is unlocked</Raven_CentralAbility_Unlocked>
+  <Raven_CentralAbility_UnlockSequential>Unlock the lower level first</Raven_CentralAbility_UnlockSequential>
+  <Raven_CentralAbility_UnlockLevel>Unlock Lv.{0}</Raven_CentralAbility_UnlockLevel>
+  <Raven_CentralAbility_UnlockedMessage>Central ability unlocked: {0} Lv.{1}</Raven_CentralAbility_UnlockedMessage>
+  <Raven_CentralAbility_AvailableProtocols>Available protocols</Raven_CentralAbility_AvailableProtocols>
+  <Raven_CentralAbility_NoUnlockedProtocols>No loadout-compatible protocol has been unlocked.</Raven_CentralAbility_NoUnlockedProtocols>
+  <Raven_CentralAbility_CatalogMeta>Lv.{0} · {1}</Raven_CentralAbility_CatalogMeta>
+  <Raven_CentralAbility_Assigned>Assigned</Raven_CentralAbility_Assigned>
+  <Raven_CentralAbility_ProtocolSlots>Protocol slots {0}    Current load {1} W</Raven_CentralAbility_ProtocolSlots>
+  <Raven_CentralAbility_SlotNumber>SLOT {0}</Raven_CentralAbility_SlotNumber>
+  <Raven_CentralAbility_EmptySlot>Empty protocol slot</Raven_CentralAbility_EmptySlot>
+  <Raven_CentralAbility_ClearSlot>Remove current protocol</Raven_CentralAbility_ClearSlot>
+  <Raven_CentralAbility_FuelRemaining>Fuel remaining: {0}</Raven_CentralAbility_FuelRemaining>
+  <Raven_CentralAbility_FuelCompact>FUEL</Raven_CentralAbility_FuelCompact>
+  <Raven_CentralAbility_PowerDebugFree>Continuous draw 0 W · Debug</Raven_CentralAbility_PowerDebugFree>
+  <Raven_CentralAbility_EffectIndustrialSpeed>Raven industrial work speed {0}</Raven_CentralAbility_EffectIndustrialSpeed>
+  <Raven_CentralAbility_EffectPowerEfficiency>All protocol continuous draw reduced by {0}</Raven_CentralAbility_EffectPowerEfficiency>
+  <Raven_CentralAbility_EffectBuildingCountPawnBuff>Current Raven buildings {0} / threshold {1}; colonists gain "{2}" when reached</Raven_CentralAbility_EffectBuildingCountPawnBuff>
+  <Raven_CentralAbility_EffectIndustrialInvulnerability>All player-owned Raven industrial buildings are immune to damage</Raven_CentralAbility_EffectIndustrialInvulnerability>
+  <Raven_CentralAbility_EffectSlotExtension>Permanent protocol slots +{0}</Raven_CentralAbility_EffectSlotExtension>
+  <Raven_CentralAbility_InvalidAbility>Invalid central ability.</Raven_CentralAbility_InvalidAbility>
+  <Raven_CentralAbility_MaximumLevel>This ability is already at maximum level.</Raven_CentralAbility_MaximumLevel>
+  <Raven_CentralAbility_MissingMaterials>The hub inventory does not satisfy this ability's material path.</Raven_CentralAbility_MissingMaterials>
+  <Raven_CentralAbility_MissingAnyPath>The research path is incomplete and the hub lacks the submission materials.</Raven_CentralAbility_MissingAnyPath>
+  <Raven_CentralAbility_MissingResearch>Missing research: {0} Lv.{1}</Raven_CentralAbility_MissingResearch>
+  <Raven_CentralAbility_InvalidSlot>Invalid protocol slot.</Raven_CentralAbility_InvalidSlot>
+  <Raven_CentralAbility_NotAssemblable>This ability is locked or permanent and cannot be assigned.</Raven_CentralAbility_NotAssemblable>
+  <Raven_CentralAbility_AlreadyAssigned>The same root ability cannot be assigned twice.</Raven_CentralAbility_AlreadyAssigned>
+  <Raven_CentralAbility_Status_Locked>Locked</Raven_CentralAbility_Status_Locked>
+  <Raven_CentralAbility_Status_NotAssigned>Not assigned</Raven_CentralAbility_Status_NotAssigned>
+  <Raven_CentralAbility_Status_WaitingFuel>Waiting for fuel</Raven_CentralAbility_Status_WaitingFuel>
+  <Raven_CentralAbility_Status_HubUnavailable>Hub offline</Raven_CentralAbility_Status_HubUnavailable>
+  <Raven_CentralAbility_Status_SwitchedOff>Hub switched off</Raven_CentralAbility_Status_SwitchedOff>
+  <Raven_CentralAbility_Status_BrokenDown>Hub broken down</Raven_CentralAbility_Status_BrokenDown>
+  <Raven_CentralAbility_Status_NoPower>Power link interrupted</Raven_CentralAbility_Status_NoPower>
+  <Raven_CentralAbility_Status_Standby>Awaiting dispatch</Raven_CentralAbility_Status_Standby>
+  <Raven_CentralAbility_Status_Running>Protocol running</Raven_CentralAbility_Status_Running>
+  <Raven_CentralAbility_DebugUnlockAll_Label>[Debug] Unlock all central abilities</Raven_CentralAbility_DebugUnlockAll_Label>
+  <Raven_CentralAbility_DebugUnlockAll_Desc>Ignore all research and one-time material requirements, unlock every central ability level in order, and execute permanent slot and level workers normally.</Raven_CentralAbility_DebugUnlockAll_Desc>
+  <Raven_CentralAbility_DebugUnlockAll_Completed>Unlocked {0} central ability levels.</Raven_CentralAbility_DebugUnlockAll_Completed>
+  <Raven_CentralAbility_DebugUnlockAll_Already>All central abilities are already unlocked.</Raven_CentralAbility_DebugUnlockAll_Already>
+  <Raven_CentralAbility_DebugNoConsumption_Label>[Debug] Free central abilities</Raven_CentralAbility_DebugNoConsumption_Label>
+  <Raven_CentralAbility_DebugNoConsumption_Desc>While enabled, assigned abilities drain and refill fuel progress unconditionally without checking or consuming hub inventory, and add no power load to the Sunlit Nexus. This state is saved with the game.</Raven_CentralAbility_DebugNoConsumption_Desc>
+  <Raven_CentralAbility_DebugNoConsumption_Enabled>Free central abilities enabled.</Raven_CentralAbility_DebugNoConsumption_Enabled>
+  <Raven_CentralAbility_DebugNoConsumption_Disabled>Free central abilities disabled.</Raven_CentralAbility_DebugNoConsumption_Disabled>
+  <Raven_CentralIndustrial_WaitingSamples>Awaiting sample data...</Raven_CentralIndustrial_WaitingSamples>
+  <Raven_CentralAbility_EffectPawnHediff>Central-map colonists gain "{0}"</Raven_CentralAbility_EffectPawnHediff>
+</LanguageData>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_ObeliskPulse_Corpse_Label>Release corpse reclamation pulse</RavenRace_ObeliskPulse_Corpse_Label>
+  <RavenRace_ObeliskPulse_Corpse_Short>corpse reclamation</RavenRace_ObeliskPulse_Corpse_Short>
+  <RavenRace_ObeliskPulse_Corpse_Desc>Consume {0:F0} purified raven liquid to absorb allowed corpses and produce liquid pink meat broth. Connect a pipe output port to send it to raven liquid processors.</RavenRace_ObeliskPulse_Corpse_Desc>
+  <RavenRace_ObeliskPulse_Aphrodisiac_Label>Release aphrodisiac pulse</RavenRace_ObeliskPulse_Aphrodisiac_Label>
+  <RavenRace_ObeliskPulse_Aphrodisiac_Short>aphrodisiac</RavenRace_ObeliskPulse_Aphrodisiac_Short>
+  <RavenRace_ObeliskPulse_Aphrodisiac_Desc>Consume {0:F0} purified raven liquid to apply one aphrodisiac layer to every hostile organic pawn on the map.</RavenRace_ObeliskPulse_Aphrodisiac_Desc>
+  <RavenRace_ObeliskPulse_Consciousness_Label>Release consciousness suppression pulse</RavenRace_ObeliskPulse_Consciousness_Label>
+  <RavenRace_ObeliskPulse_Consciousness_Short>suppression</RavenRace_ObeliskPulse_Consciousness_Short>
+  <RavenRace_ObeliskPulse_Consciousness_Desc>Consume {0:F0} purified raven liquid to apply one consciousness suppression layer to every hostile organic pawn on the map.</RavenRace_ObeliskPulse_Consciousness_Desc>
+  <RavenRace_ObeliskPulse_Filter_Label>Configure corpse filter</RavenRace_ObeliskPulse_Filter_Label>
+  <RavenRace_ObeliskPulse_Filter_Desc>Select corpses accepted by the reclamation pulse and configure how gear and inventory are handled.</RavenRace_ObeliskPulse_Filter_Desc>
+  <RavenRace_ObeliskPulse_Filter_Title>Obelisk corpse reclamation settings</RavenRace_ObeliskPulse_Filter_Title>
+  <RavenRace_ObeliskPulse_Filter_Equipment>Absorb worn gear</RavenRace_ObeliskPulse_Filter_Equipment>
+  <RavenRace_ObeliskPulse_Filter_Equipment_Desc>When enabled, apparel and weapons vanish with the corpse. Otherwise they drop at the corpse position.</RavenRace_ObeliskPulse_Filter_Equipment_Desc>
+  <RavenRace_ObeliskPulse_Filter_Inventory>Absorb carried items</RavenRace_ObeliskPulse_Filter_Inventory>
+  <RavenRace_ObeliskPulse_Filter_Inventory_Desc>When enabled, inventory items are absorbed. Otherwise they drop at the corpse position.</RavenRace_ObeliskPulse_Filter_Inventory_Desc>
+  <RavenRace_ObeliskPulse_Inspect_Active>Current pulse: {0} ({1:F0}/{2:F0} cells)</RavenRace_ObeliskPulse_Inspect_Active>
+  <RavenRace_ObeliskPulse_Inspect_Cooldowns>Pulse cooldowns: corpse {0}; aphrodisiac {1}; suppression {2}</RavenRace_ObeliskPulse_Inspect_Cooldowns>
+  <RavenRace_ObeliskPulse_Inspect_Ready>Pulse system: ready</RavenRace_ObeliskPulse_Inspect_Ready>
+  <RavenRace_ObeliskPulse_Disabled_Active>A pulse is already expanding.</RavenRace_ObeliskPulse_Disabled_Active>
+  <RavenRace_ObeliskPulse_Disabled_Cooldown>This pulse is cooling down: {0}</RavenRace_ObeliskPulse_Disabled_Cooldown>
+  <RavenRace_ObeliskPulse_Disabled_NoStorage>The obelisk has no liquid storage component.</RavenRace_ObeliskPulse_Disabled_NoStorage>
+  <RavenRace_ObeliskPulse_Disabled_Liquid>Requires at least {0:F0} purified raven liquid.</RavenRace_ObeliskPulse_Disabled_Liquid>
+  <RavenRace_ObeliskPulse_NoTargets>No eligible targets were found. No purified raven liquid was consumed.</RavenRace_ObeliskPulse_NoTargets>
+  <RavenRace_ObeliskPulse_Status_Liquid>Purified liquid {0:F0}/{1:F0}</RavenRace_ObeliskPulse_Status_Liquid>
+  <RavenRace_ObeliskPulse_Status_Tooltip>Obelisk purified raven liquid storage. Each map-wide pulse consumes {0:F0}.</RavenRace_ObeliskPulse_Status_Tooltip>
+  <RavenRace_ObeliskPulse_Status_Active>Expanding: {0}</RavenRace_ObeliskPulse_Status_Active>
+  <RavenRace_ObeliskPulse_Status_Cooldowns>C {0}  A {1}  S {2}</RavenRace_ObeliskPulse_Status_Cooldowns>
+  <RavenRace_ObeliskPulse_Status_CoolingCount>{0} pulse modes cooling down</RavenRace_ObeliskPulse_Status_CoolingCount>
+  <RavenRace_ObeliskPulse_Status_Ready>Pulse ready</RavenRace_ObeliskPulse_Status_Ready>
+  <RavenRace_ObeliskPulse_Status_ReadyShort>ready</RavenRace_ObeliskPulse_Status_ReadyShort>
+  <RavenRace_ObeliskPulse_BrothOutputBlocked>There is not enough pink meat broth output capacity, so corpses that cannot be processed completely were left intact.</RavenRace_ObeliskPulse_BrothOutputBlocked>
+  <RavenRace_ObeliskPulse_DebugFill_Label>Debug: fill purified liquid</RavenRace_ObeliskPulse_DebugFill_Label>
+  <RavenRace_ObeliskPulse_DebugFill_Desc>God mode command: immediately fill the obelisk storage with purified raven liquid.</RavenRace_ObeliskPulse_DebugFill_Desc>
+  <RavenRace_ObeliskPulse_Console_Title>Raven Obelisk Console</RavenRace_ObeliskPulse_Console_Title>
+  <RavenRace_ObeliskPulse_Console_Open>Open obelisk console</RavenRace_ObeliskPulse_Console_Open>
+  <RavenRace_ObeliskPulse_Console_OpenDesc>Manage raven liquid storage, pink meat broth, corpse filter and pulse release from a unified interface.</RavenRace_ObeliskPulse_Console_OpenDesc>
+  <RavenRace_ObeliskPulse_Console_LiquidSection>Purified Raven Liquid Storage</RavenRace_ObeliskPulse_Console_LiquidSection>
+  <RavenRace_ObeliskPulse_Console_BrothSection>Pink Meat Broth Storage</RavenRace_ObeliskPulse_Console_BrothSection>
+  <RavenRace_ObeliskPulse_Console_PulseSection>Pulse Release</RavenRace_ObeliskPulse_Console_PulseSection>
+  <RavenRace_ObeliskPulse_Console_FilterSection>Corpse Filter Settings</RavenRace_ObeliskPulse_Console_FilterSection>
+  <RavenRace_ObeliskPulse_Console_Cost>Cost</RavenRace_ObeliskPulse_Console_Cost>
+  <RavenRace_ObeliskPulse_Console_Cooldown>Cooldown</RavenRace_ObeliskPulse_Console_Cooldown>
+  <RavenRace_ObeliskPulse_Console_Ready>Ready</RavenRace_ObeliskPulse_Console_Ready>
+  <RavenRace_ObeliskPulse_Console_Cooling>{0} cooling</RavenRace_ObeliskPulse_Console_Cooling>
+  <RavenRace_ObeliskPulse_Console_Expanding>Expanding: {0} ({1:F0}/{2:F0} cells)</RavenRace_ObeliskPulse_Console_Expanding>
+  <RavenRace_ObeliskPulse_Console_NoPulse>No pulse released</RavenRace_ObeliskPulse_Console_NoPulse>
+  <RavenRace_ObeliskPulse_Console_CorpseTab>Corpse Reclamation</RavenRace_ObeliskPulse_Console_CorpseTab>
+  <RavenRace_ObeliskPulse_Console_AphroTab>Aphrodisiac Pulse</RavenRace_ObeliskPulse_Console_AphroTab>
+  <RavenRace_ObeliskPulse_Console_ConsciousTab>Suppression Pulse</RavenRace_ObeliskPulse_Console_ConsciousTab>
+</LanguageData>

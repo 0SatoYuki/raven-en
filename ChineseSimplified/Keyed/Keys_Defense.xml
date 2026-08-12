@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MustPlaceOnWall>必须放置在墙壁或岩石上。</MustPlaceOnWall>
+
+  <!-- 掩体系统 -->
+  <Raven_EnterConcealment>进入掩体</Raven_EnterConcealment>
+  <Raven_ExitConcealment>离开掩体</Raven_ExitConcealment>
+  <Raven_ExitConcealmentDesc>离开当前的伪装掩体。</Raven_ExitConcealmentDesc>
+  
+  <Raven_Concealment_Occupied>已有人驻守</Raven_Concealment_Occupied>
+  <Raven_Concealment_Vacant>空闲</Raven_Concealment_Vacant>
+  <Raven_Concealment_Hidden>隐蔽中 (AI无法发现)</Raven_Concealment_Hidden>
+  <Raven_Concealment_Revealed>已暴露! (AI将攻击)</Raven_Concealment_Revealed>
+  
+  <Raven_Concealment_SwapWeapon>切换武器</Raven_Concealment_SwapWeapon>
+  <Raven_Concealment_SwapWeaponDesc>选择使用驻守者装备或背包中的另一把远程武器。</Raven_Concealment_SwapWeaponDesc>
+
+  <!-- 捕兽夹 -->
+  <Raven_Message_BeastTrapKill>捕兽夹成功捕获并击杀了 {0}。</Raven_Message_BeastTrapKill>
+
+  <!-- 渡鸦防御中枢 -->
+  <Raven_DefenseHubAutoRepair>自动修复</Raven_DefenseHubAutoRepair>
+  <Raven_DefenseHubAutoRepairDesc>开启后，中枢会在已管理炮塔被毁时尝试重建并重新注册；关闭则在被毁后注销。</Raven_DefenseHubAutoRepairDesc>
+  <Raven_DefenseHubBuildTurret>部署炮塔…</Raven_DefenseHubBuildTurret>
+  <Raven_DefenseHubBuildTurretDesc>选择一种由防御中枢统一供电的炮塔，然后在地图上选择部署位置。</Raven_DefenseHubBuildTurretDesc>
+  <Raven_DefenseHubNoTurretsConfigured>未配置可建造的炮塔类型。</Raven_DefenseHubNoTurretsConfigured>
+  <Raven_DefenseHubAtCapacity>已达到管理上限：{0}</Raven_DefenseHubAtCapacity>
+  <Raven_DefenseHubAtTypeCapacity>{0} 已达到型号上限：{1}</Raven_DefenseHubAtTypeCapacity>
+  <Raven_DefenseHubShowRanges>显示管理炮塔射程</Raven_DefenseHubShowRanges>
+  <Raven_DefenseHubShowRangesDesc>切换是否在选中中枢时显示所有已管理炮塔的攻击范围。</Raven_DefenseHubShowRangesDesc>
+  <Raven_DefenseHubOutOfBuildRadius>超出中枢建造半径：{0}</Raven_DefenseHubOutOfBuildRadius>
+
+  <Raven_DefenseHubInfo>阵列管理终端</Raven_DefenseHubInfo>
+  <Raven_DefenseHubInfoDesc>打开管理终端面板，查看当前中枢的炮塔在编状况和部署配额。</Raven_DefenseHubInfoDesc>
+  <Raven_DefenseHub_GlobalCount>中枢全局负载量</Raven_DefenseHub_GlobalCount>
+
+
+  <Raven_DefenseHubLackBuildCost>建造 {0} 所需材料不足：{1}</Raven_DefenseHubLackBuildCost>
+  <Raven_DefenseHubAlreadyManaged>{0} 在该位置已有管理计划或成品。</Raven_DefenseHubAlreadyManaged>
+  <Raven_DefenseHubRebuildGiveUp>{0} 长时间无法重建，已从中枢管理列表注销。</Raven_DefenseHubRebuildGiveUp>
+
+  <Raven_DefenseHubEjectAll>弹出全部</Raven_DefenseHubEjectAll>
+  <Raven_DefenseHubEjectAllDesc>将中枢内所有单位弹出到附近。</Raven_DefenseHubEjectAllDesc>
+  <Raven_DefenseHubEnter>进入 {0}</Raven_DefenseHubEnter>
+  <Raven_DefenseHubCannotEnterMenu>无法进入 {0}</Raven_DefenseHubCannotEnterMenu>
+  <Raven_DefenseHubCannotEnter>无法进入</Raven_DefenseHubCannotEnter>
+  <Raven_DefenseHubNotPlayerControlled>仅玩家可控单位可进驻</Raven_DefenseHubNotPlayerControlled>
+  <Raven_DefenseHubMissingEnterJob>未配置进入中枢所需的 JobDef。</Raven_DefenseHubMissingEnterJob>
+  <Raven_DefenseHubTurretMissingFrame>{0} 没有可用的 frameDef，无法通过中枢建造。请确认炮塔设置了 designationCategory。</Raven_DefenseHubTurretMissingFrame>
+  <Raven_DefenseHubCannotPlaceFrame>无法在此位置建造 {0}（地形不兼容或被占用）。</Raven_DefenseHubCannotPlaceFrame>
+  <Raven_DefenseHubConsoleTitle>防御中枢控制台</Raven_DefenseHubConsoleTitle>
+  <Raven_DefenseHubConsoleAutonomousOnline>自主控制在线：纯净鸦液协议正在供能</Raven_DefenseHubConsoleAutonomousOnline>
+  <Raven_DefenseHubConsoleMannedOnline>人工控制在线：已有操作员驻守</Raven_DefenseHubConsoleMannedOnline>
+  <Raven_DefenseHubConsoleOffline>阵列待机：驻守操作员或接通纯净鸦液后激活</Raven_DefenseHubConsoleOffline>
+  <Raven_DefenseHubConsolePower>自主控制协议</Raven_DefenseHubConsolePower>
+  <Raven_DefenseHubConsolePureLiquid>纯净鸦液库存</Raven_DefenseHubConsolePureLiquid>
+  <Raven_DefenseHubConsoleManualMode>人工驻守模式</Raven_DefenseHubConsoleManualMode>
+  <Raven_DefenseHubConsoleTier>强化档位</Raven_DefenseHubConsoleTier>
+  <Raven_DefenseHubConsoleOperations>阵列操作</Raven_DefenseHubConsoleOperations>
+  <Raven_DefenseHubConsoleRegister>指定注册炮塔</Raven_DefenseHubConsoleRegister>
+  <Raven_DefenseHubConsoleRegisterInvalid>该炮塔无法注册：必须是范围内、同阵营且未绑定的受控炮塔，并且未超过配额。</Raven_DefenseHubConsoleRegisterInvalid>
+  <Raven_DefenseHubConsoleRegisterSuccess>已注册 {0}。</Raven_DefenseHubConsoleRegisterSuccess>
+  <Raven_DefenseHubConsoleScanClaymores>扫描护墙器</Raven_DefenseHubConsoleScanClaymores>
+  <Raven_DefenseHubConsoleTurrets>在编炮塔：{0} / {1}</Raven_DefenseHubConsoleTurrets>
+  <Raven_DefenseHubConsoleNoTurrets>暂无已注册炮塔。可部署新炮塔，或扫描范围内的闲置炮塔。</Raven_DefenseHubConsoleNoTurrets>
+  <Raven_DefenseHubConsoleTurretState>{0} · 坐标 {1}</Raven_DefenseHubConsoleTurretState>
+  <Raven_DefenseHubConsoleTurretPower>中枢供电：{0} W</Raven_DefenseHubConsoleTurretPower>
+  <Raven_DefenseHubConsoleUnregister>注销并拆除</Raven_DefenseHubConsoleUnregister>
+  <Raven_DefenseHubConsoleUnregisterConfirm>确认注销并拆除 {0}？该炮塔会被拆解，计划和自动重建也会一并移除。</Raven_DefenseHubConsoleUnregisterConfirm>
+  <Raven_DefenseHubConsoleHint>自主协议持续消耗纯净鸦液；液体耗尽时阵列自动待机。</Raven_DefenseHubConsoleHint>
+  <Raven_DefenseHubConsoleManualDetail>不消耗纯净鸦液，仅由驻守操作员激活阵列并提供技能加成。</Raven_DefenseHubConsoleManualDetail>
+  <Raven_DefenseHubConsoleTierDetail>每日消耗 {0} 纯净鸦液。冷却 {1}，伤害 {2}，耐久 {3}，命中 {4}，修复 {5}。</Raven_DefenseHubConsoleTierDetail>
+  <Raven_DefenseHubConsoleStatus>中枢状态</Raven_DefenseHubConsoleStatus>
+  <Raven_DefenseHubConsolePowerDraw>总耗电</Raven_DefenseHubConsolePowerDraw>
+  <Raven_DefenseHubConsoleRepairSpeed>整体修复速度</Raven_DefenseHubConsoleRepairSpeed>
+  <Raven_DefenseHubConsoleOperators>驻守人员：{0}</Raven_DefenseHubConsoleOperators>
+  <Raven_DefenseHubConsoleHumanBonusValue>人工加成：冷却 {0}，命中 {1}</Raven_DefenseHubConsoleHumanBonusValue>
+  <Raven_DefenseHubConsoleNone>无</Raven_DefenseHubConsoleNone>
+  <Raven_DefenseHubConsoleOn>开启</Raven_DefenseHubConsoleOn>
+  <Raven_DefenseHubConsoleOff>关闭</Raven_DefenseHubConsoleOff>
+  <Raven_DefenseHubConsoleStateAlive>在线</Raven_DefenseHubConsoleStateAlive>
+  <Raven_DefenseHubConsoleStateDestroyedPendingRebuild>等待重建</Raven_DefenseHubConsoleStateDestroyedPendingRebuild>
+  <Raven_DefenseHubConsoleStateRebuilding>重建中</Raven_DefenseHubConsoleStateRebuilding>
+  <Raven_DefenseHubConsoleStateRebuiltWaitingBind>等待注册</Raven_DefenseHubConsoleStateRebuiltWaitingBind>
+
+
+
+
+    <!-- C# 硬编码文本 -->
+    <RavenRace_Defense_Designator_DefenseHubTurret_Description>
+
+(由防御中枢统一供能和管理)</RavenRace_Defense_Designator_DefenseHubTurret_Description>
+    <RavenRace_Defense_Building_Concealment_Message>{0} 因为极度饥饿离开了掩体。</RavenRace_Defense_Building_Concealment_Message>
+    <RavenRace_Defense_Building_Concealment_Message_2>{0} 没有可用的远程武器。</RavenRace_Defense_Building_Concealment_Message_2>
+    <RavenRace_Defense_Building_Concealment_Label>装备: {0}</RavenRace_Defense_Building_Concealment_Label>
+    <RavenRace_Defense_Building_Concealment_Label_2>库存: {0}</RavenRace_Defense_Building_Concealment_Label_2>
+    <RavenRace_Defense_Building_Concealment_Label_3>无可用远程武器</RavenRace_Defense_Building_Concealment_Label_3>
+    <RavenRace_Defense_Hediff_AnestheticBuildup_Message>{0} 被麻醉气体击倒了！</RavenRace_Defense_Hediff_AnestheticBuildup_Message>
+    <RavenRace_Defense_CompTrapEffect_LegCrusher_Message>{0} 的跟腱被切断了！</RavenRace_Defense_CompTrapEffect_LegCrusher_Message>
+    <RavenRace_Defense_CompTrapEffect_Lego_Message>{0} 踩到了乐高！这真是太残忍了！</RavenRace_Defense_CompTrapEffect_Lego_Message>
+    <RavenRace_Defense_Hediff_ConceptionProcess_Message>{0} 被强制灌注了大量灵卵！</RavenRace_Defense_Hediff_ConceptionProcess_Message>
+    <RavenRace_Defense_CompTrigger_Label>触发范围 - ({0:0})</RavenRace_Defense_CompTrigger_Label>
+    <RavenRace_Defense_CompTrigger_Description>缩小气体陷阱的自动触发范围。设为 0 时仅保留踩踏触发。</RavenRace_Defense_CompTrigger_Description>
+    <RavenRace_Defense_CompTrigger_Label_2>触发范围 + ({0:0})</RavenRace_Defense_CompTrigger_Label_2>
+    <RavenRace_Defense_CompTrigger_Description_2>扩大气体陷阱的自动触发范围。范围越大，越容易提前引爆。</RavenRace_Defense_CompTrigger_Description_2>
+    <RavenRace_Defense_PatternTurretUtility_Status>缺少 targetPattern 配置</RavenRace_Defense_PatternTurretUtility_Status>
+    <RavenRace_Defense_PatternTurretUtility_Status_2>targetPattern 包含空行</RavenRace_Defense_PatternTurretUtility_Status_2>
+    <RavenRace_Defense_PatternTurretUtility_Status_3>targetPattern 的第 {0} 行为空</RavenRace_Defense_PatternTurretUtility_Status_3>
+    <RavenRace_Defense_PatternTurretUtility_Status_4>targetPattern 的第 {0} 行长度与第一行不一致</RavenRace_Defense_PatternTurretUtility_Status_4>
+    <RavenRace_Defense_PatternTurretUtility_Status_5>targetPattern 的第 {0} 行第 {1} 列包含 '{2}'，只允许使用 0 和 1</RavenRace_Defense_PatternTurretUtility_Status_5>
+    <RavenRace_Defense_CompFlameTurretEffect_Label>调整火焰特效</RavenRace_Defense_CompFlameTurretEffect_Label>
+    <RavenRace_Defense_CompFlameTurretEffect_Description>打开调试窗口，调整raven_fire预制体的位置、旋转和大小，并导出可写回XML的数值。</RavenRace_Defense_CompFlameTurretEffect_Description>
+    <RavenRace_Defense_Dialog_FlameTurretEffectDebug_Label>火焰炮塔特效调试</RavenRace_Defense_Dialog_FlameTurretEffectDebug_Label>
+    <RavenRace_Defense_Dialog_FlameTurretEffectDebug_Label_2>导出数值：</RavenRace_Defense_Dialog_FlameTurretEffectDebug_Label_2>
+    <RavenRace_Defense_Dialog_FlameTurretEffectDebug_Text>复制导出数值</RavenRace_Defense_Dialog_FlameTurretEffectDebug_Text>
+    <RavenRace_Defense_Dialog_FlameTurretEffectDebug_Message>火焰特效数值已复制到剪贴板。</RavenRace_Defense_Dialog_FlameTurretEffectDebug_Message>
+    <RavenRace_Defense_Dialog_FlameTurretEffectDebug_Text_2>重置默认值</RavenRace_Defense_Dialog_FlameTurretEffectDebug_Text_2>
+    <RavenRace_Defense_Dialog_FlameTurretEffectDebug_Text_3>关闭</RavenRace_Defense_Dialog_FlameTurretEffectDebug_Text_3>
+</LanguageData>

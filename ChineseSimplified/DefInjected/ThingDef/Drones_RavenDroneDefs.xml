@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Item_DroneBasic.label>渡鸦搬运无人机</Raven_Item_DroneBasic.label>
+  <Raven_Item_DroneBasic.description>可存入无人机基站的基础搬运无人机。基站需要执行物流任务时会消耗一架无人机物品并生成运行中的无人机，返航后无人机会重新变回基站内部库存。</Raven_Item_DroneBasic.description>
+  <Raven_Item_DroneHeavyJetMkI.label>重型射流无人机 I 型</Raven_Item_DroneHeavyJetMkI.label>
+  <Raven_Item_DroneHeavyJetMkI.description>可存入无人机基站的重型战斗无人机。敌人或火焰进入联网基站覆盖后，它会自动出动，优先压制敌人并在空闲时持续喷射鸦液灭火，任务结束后返回基站库存。</Raven_Item_DroneHeavyJetMkI.description>
+  <Raven_Item_DroneHeavyRescueMedical.label>重型救援医疗无人机</Raven_Item_DroneHeavyRescueMedical.label>
+  <Raven_Item_DroneHeavyRescueMedical.description>可存入无人机基站的重型医疗无人机。友方人员在联网基站覆盖内倒地后，它会自动喷射鸦液止血并把伤员送往合适床位，完成救援后返回基站库存。</Raven_Item_DroneHeavyRescueMedical.description>
+</LanguageData>

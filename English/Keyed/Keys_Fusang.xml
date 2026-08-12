@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_OpenFusangRadio>Open Fusang Terminal</RavenRace_OpenFusangRadio>
+  <RavenRace_OpenFusangRadioDesc>Connect to the Fusang organization's encrypted network.</RavenRace_OpenFusangRadioDesc>
+  <RavenRace_NoColonistCanReach>No colonist can reach the terminal.</RavenRace_NoColonistCanReach>
+  <RavenRace_Dev_ResetCooldown>Clear Caravan Cooldown</RavenRace_Dev_ResetCooldown>
+  <RavenRace_Dev_ResetCooldownDesc>Developer tool: immediately allow another Fusang caravan call.</RavenRace_Dev_ResetCooldownDesc>
+  <RavenRace_Dev_ResetCooldown_Message>Caravan cooldown cleared.</RavenRace_Dev_ResetCooldown_Message>
+  <RavenRace_Dev_ReadyTrade>DEBUG: Force Trader Arrival</RavenRace_Dev_ReadyTrade>
+  <RavenRace_Dev_AddIntel>DEBUG: Add Intel</RavenRace_Dev_AddIntel>
+  <RavenRace_MessageVisitorsTrappedFlying>{0} from {1} have been trapped and are taking flight to escape.</RavenRace_MessageVisitorsTrappedFlying>
+  <RavenRace_FusangRadioTitle>FUSANG.NETSEC.TERMINAL_V4 // Fusang Network Terminal</RavenRace_FusangRadioTitle>
+  <RavenRace_RadioStatus_Header>:: Link Status ::</RavenRace_RadioStatus_Header>
+  <RavenRace_Status_Online>Online</RavenRace_Status_Online>
+  <RavenRace_Status_Signal>Signal</RavenRace_Status_Signal>
+  <RavenRace_Status_Power>Power</RavenRace_Status_Power>
+  <RavenRace_Tag_Stable>[Stable]</RavenRace_Tag_Stable>
+  <RavenRace_Tag_Strong>[Strong]</RavenRace_Tag_Strong>
+  <RavenRace_Tag_Online>[Online]</RavenRace_Tag_Online>
+  <RavenRace_Tag_Offline>[Offline]</RavenRace_Tag_Offline>
+  <RavenRace_Status_Relation>Trust Level</RavenRace_Status_Relation>
+  <RavenRace_OperatorFavorability>Zuo Yao Favor</RavenRace_OperatorFavorability>
+  <RavenRace_Status_Location>Access Point Coords</RavenRace_Status_Location>
+  <RavenRace_Status_TradeCool>Logistics Status</RavenRace_Status_TradeCool>
+  <RavenRace_Status_Ready>--- Ready ---</RavenRace_Status_Ready>
+  <RavenRace_Btn_Trade>Supply Exchange Protocol</RavenRace_Btn_Trade>
+  <RavenRace_Btn_TradeCool>Logistics will be ready... ({0} days)</RavenRace_Btn_TradeCool>
+  <RavenRace_Btn_Scan>Area Scan</RavenRace_Btn_Scan>
+  <RavenRace_Btn_Mission>Mission Board</RavenRace_Btn_Mission>
+  <RavenRace_Btn_Support>Donate Support</RavenRace_Btn_Support>
+  <RavenRace_Res_Supplies>Supplies</RavenRace_Res_Supplies>
+  <RavenRace_Res_Military>Military</RavenRace_Res_Military>
+  <RavenRace_Res_Intel>Intel</RavenRace_Res_Intel>
+  <RavenRace_Res_Influence>Influence</RavenRace_Res_Influence>
+  <RavenRace_MissionBoard_Title>Operation Codename List</RavenRace_MissionBoard_Title>
+  <RavenRace_Mission_Surrogate>[Codename: Cuckoo] Spirit Egg Surrogacy</RavenRace_Mission_Surrogate>
+  <RavenRace_Mission_Surrogate_Desc>This is a necessary measure to protect the bloodline. We need to borrow a foreign body to incubate our offspring.\n\nWe will provide a processed spirit egg (pure bloodline) to be implanted in the surrogate. This places some physiological burden on the host, but we will pay appropriate compensation (or favor).\n\n"In that cold nest, any warmth is permitted."</RavenRace_Mission_Surrogate_Desc>
+  <RavenRace_Mission_SelectSurrogate>Designate Host...</RavenRace_Mission_SelectSurrogate>
+  <RavenRace_Mission_Success>Implantation complete. Host {0} is stable, as planned.</RavenRace_Mission_Success>
+  <RavenRace_Mission_Cost>Influence cost: {0}</RavenRace_Mission_Cost>
+  <RavenRace_Mission_NoCost>No influence required</RavenRace_Mission_NoCost>
+  <RavenRace_Support_Title>Supply Donation Protocol</RavenRace_Support_Title>
+  <RavenRace_Support_Desc>Choose the resource type you want to boost, and offer silver in exchange for the corresponding Fusang resource.\nFor the same donation tier, different resource types yield the same gain.</RavenRace_Support_Desc>
+  <RavenRace_Support_DonateDesc>Cost: {0} silver\nGain: {1} {2}</RavenRace_Support_DonateDesc>
+  <RavenRace_Support_SilverSmall>Small Capital Injection</RavenRace_Support_SilverSmall>
+  <RavenRace_Support_SilverMedium>Special Funding Allocation</RavenRace_Support_SilverMedium>
+  <RavenRace_Support_SilverLarge>Strategic Investment</RavenRace_Support_SilverLarge>
+  <RavenRace_Donate_Success>Donation successful. Resource reserves increased.</RavenRace_Donate_Success>
+  <RavenRace_Donate_Fail>Insufficient funds. Requires {0} silver.</RavenRace_Donate_Fail>
+  <Herald>Herald</Herald>
+  <solar>Solar</solar>
+  <ascendant>Ascendant</ascendant>
+  <purity>Purity</purity>
+  <radiance>Radiance</radiance>
+  <RavenRace_Fusang_Patch_FusangContactTalk_Label>Talk to Fusang Agent</RavenRace_Fusang_Patch_FusangContactTalk_Label>
+  <RavenRace_Fusang_Patch_LendMaleToFusangShuttle_Message>Fusang only accepts male colonists this time; {0} cannot be sent aboard this shuttle.</RavenRace_Fusang_Patch_LendMaleToFusangShuttle_Message>
+  <RavenRace_Fusang_Patch_LendMaleToFusangShuttle_Message_2>Fusang only accepts male colonists this time; {0} cannot be sent aboard this shuttle.</RavenRace_Fusang_Patch_LendMaleToFusangShuttle_Message_2>
+  <RavenRace_Fusang_Dialog_FusangContactJoin_Label>Fusang Agent Access Request</RavenRace_Fusang_Dialog_FusangContactJoin_Label>
+  <RavenRace_Fusang_Dialog_FusangContactJoin_Label_2>Visitor: {0}</RavenRace_Fusang_Dialog_FusangContactJoin_Label_2>
+  <RavenRace_Fusang_Dialog_FusangContactJoin_Label_3>Visitor: Unknown</RavenRace_Fusang_Dialog_FusangContactJoin_Label_3>
+  <RavenRace_Fusang_Dialog_FusangContactJoin_Text>Join Colony</RavenRace_Fusang_Dialog_FusangContactJoin_Text>
+  <RavenRace_Fusang_Dialog_FusangContactJoin_Text_2>Defer Decision</RavenRace_Fusang_Dialog_FusangContactJoin_Text_2>
+  <RavenRace_Fusang_Dialog_FusangContactJoin_Text_3>Refuse to Join</RavenRace_Fusang_Dialog_FusangContactJoin_Text_3>
+  <RavenRace_Fusang_QuestNode_RequireRavenHotSpring_Status>This quest requires a valid colony map.</RavenRace_Fusang_QuestNode_RequireRavenHotSpring_Status>
+  <RavenRace_Fusang_QuestNode_RequireRavenHotSpring_Status_2>At least one Raven-liquid hot spring must be laid in this colony first.</RavenRace_Fusang_QuestNode_RequireRavenHotSpring_Status_2>
+  <RavenRace_Fusang_QuestPart_FusangContactDirector_Message>{0} has joined the colony.</RavenRace_Fusang_QuestPart_FusangContactDirector_Message>
+  <RavenRace_Fusang_QuestPart_LendMaleToFusangTracker_Message>[Premium Tribute] The contributor detected as a vigorous male; Fusang higher-ups are extremely pleased. This mission's final reward multiplier has been raised by 20%!</RavenRace_Fusang_QuestPart_LendMaleToFusangTracker_Message>
+  <RavenRace_Fusang_QuestPart_LendMaleToFusangTracker_Message_2>[Fusang Secondment] {0} stumbled off the shuttle drenched in sweat, legs like jelly. He is now in a state of "severe kidney deficiency"...</RavenRace_Fusang_QuestPart_LendMaleToFusangTracker_Message_2>
+  <RavenRace_Fusang_CompFusangRadio_Label>Debug: Favor +100</RavenRace_Fusang_CompFusangRadio_Label>
+  <RavenRace_Fusang_CompFusangRadio_Description>Immediately increase Zuo Yao's favor by 100 (bypassing the cap).</RavenRace_Fusang_CompFusangRadio_Description>
+  <RavenRace_Fusang_CompFusangRadio_Message>Debug: Zuo Yao favor increased by 100.</RavenRace_Fusang_CompFusangRadio_Message>
+  <RavenRace_Fusang_CompFusangRadio_8ec0c3d8>Debug: Fusang hidden faction not found.</RavenRace_Fusang_CompFusangRadio_8ec0c3d8>
+  <RavenRace_Fusang_CompFusangRadio_Label_2>DEV: Complete All Missions</RavenRace_Fusang_CompFusangRadio_Label_2>
+  <RavenRace_Fusang_CompFusangRadio_Description_2>Immediately complete all active spy missions (100% success rate).</RavenRace_Fusang_CompFusangRadio_Description_2>
+  <RavenRace_Fusang_CompFusangRadio_Label_3>DEV: Max Resources</RavenRace_Fusang_CompFusangRadio_Label_3>
+  <RavenRace_Fusang_CompFusangRadio_Message_2>Resources maxed.</RavenRace_Fusang_CompFusangRadio_Message_2>
+  <RavenRace_Fusang_CompFusangRadio_Label_4>Debug: Force Trigger Main Quest</RavenRace_Fusang_CompFusangRadio_Label_4>
+  <RavenRace_Fusang_CompFusangRadio_Description_3>Ignore all conditions and immediately attempt to trigger the "Fallen Leaves Return" main quest.</RavenRace_Fusang_CompFusangRadio_Description_3>
+  <RavenRace_Fusang_CompFusangRadio_Message_3>Debug: Main quest successfully triggered.</RavenRace_Fusang_CompFusangRadio_Message_3>
+  <RavenRace_Fusang_CompFusangRadio_Message_4>Debug: Failed to trigger main quest.</RavenRace_Fusang_CompFusangRadio_Message_4>
+  <RavenRace_Fusang_CompFusangRadio_Message_5>Debug: 'FallenLeavesQuest' quest definition not found.</RavenRace_Fusang_CompFusangRadio_Message_5>
+  <RavenRace_Fusang_ZuoYaoBreastTouchDialogueDef_Status> At least one breast-touch reaction line must be configured.</RavenRace_Fusang_ZuoYaoBreastTouchDialogueDef_Status>
+  <RavenRace_Fusang_ZuoYaoWakeDialogueDef_Status> At least one wake-up line must be configured.</RavenRace_Fusang_ZuoYaoWakeDialogueDef_Status>
+  <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status>Zuo Yao Live2D prefab</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status>
+  <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_2>Zuo Yao Live2D AnimatorController</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_2>
+  <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_3>Zuo Yao Live2D loop animation</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_3>
+  <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_4>Zuo Yao Live2D zzz drowsy animation</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_4>
+  <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_5>Zuo Yao Live2D expression list</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_5>
+  <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_6>Zuo Yao Live2D MaskTexture</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_6>
+  <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_7>Zuo Yao Live2D physics3.json</RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_7>
+  <RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_8>Cubism runtime resources </RavenRace_Fusang_ZuoYaoLive2DAssetResolver_Status_8>
+  <RavenRace_Fusang_ZuoYaoLive2DPhysicsJsonReader_Status>JSON root node is not an object.</RavenRace_Fusang_ZuoYaoLive2DPhysicsJsonReader_Status>
+  <RavenRace_Fusang_Dialog_FusangMissionBoard_Label>:: Special Protocols ::</RavenRace_Fusang_Dialog_FusangMissionBoard_Label>
+  <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_2>Bear offspring for the organization by implanting pure-blood spirit eggs.</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_2>
+  <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_3>Requires influence</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_3>
+  <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_4>Request a unit of Ember Blood from the organization.</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_4>
+  <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_5>Requires intel and influence</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_5>
+  <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_6>Contact HQ to review the growth of all current "Cuckoo" surrogacy targets. Eligible ones may be manually submitted for assessment.</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_6>
+  <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_7>The organization is watching them</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_7>
+  <RavenRace_Fusang_Dialog_FusangMissionBoard_Label_8>No surrogacy protocols are currently in progress.</RavenRace_Fusang_Dialog_FusangMissionBoard_Label_8>
+  <RavenRace_Fusang_Dialog_FusangSupport_Text>Donate</RavenRace_Fusang_Dialog_FusangSupport_Text>
+  <RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Label>[Codename: Ember] Noble Dedication</RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Label>
+  <RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Label_2>Target material: Ember Blood x1</RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Label_2>
+  <RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Text>Execute Protocol</RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Text>
+  <RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Message>Insufficient resources; cannot execute the protocol.</RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Message>
+  <RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Message_2>Fusang transport pod has arrived; Ember Blood delivered.</RavenRace_Fusang_Dialog_Mission_EmberSacrifice_Message_2>
+  <RavenRace_Fusang_Dialog_Mission_Surrogate_Label>[Codename: Cuckoo]</RavenRace_Fusang_Dialog_Mission_Surrogate_Label>
+  <RavenRace_Fusang_Dialog_Mission_Surrogate_Message>Insufficient influence</RavenRace_Fusang_Dialog_Mission_Surrogate_Message>
+  <RavenRace_Fusang_Dialog_Mission_Surrogate_Description>Insufficient influence; cannot initiate the protocol.</RavenRace_Fusang_Dialog_Mission_Surrogate_Description>
+  <RavenRace_Fusang_Dialog_Mission_Surrogate_Message_2>No eligible colonists</RavenRace_Fusang_Dialog_Mission_Surrogate_Message_2>
+  <RavenRace_Fusang_Dialog_SurrogateGrowth_Label>[Codename: Cuckoo] Age {0} Stage Review</RavenRace_Fusang_Dialog_SurrogateGrowth_Label>
+  <RavenRace_Fusang_Dialog_SurrogateGrowth_Text>Confirm Handover (End Protocol)</RavenRace_Fusang_Dialog_SurrogateGrowth_Text>
+  <RavenRace_Fusang_Dialog_SurrogateGrowth_Message>You asked Fusang to let you keep this child; the organization agreed. {0} has now become an indispensable member of the colony.</RavenRace_Fusang_Dialog_SurrogateGrowth_Message>
+  <RavenRace_Fusang_Dialog_SurrogateGrowth_Message_2>Reported to Fusang; {0}'s next assessment target raised to age {1}.</RavenRace_Fusang_Dialog_SurrogateGrowth_Message_2>
+  <RavenRace_Fusang_Dialog_SurrogateGrowth_Message_3>Parting &amp; Reward</RavenRace_Fusang_Dialog_SurrogateGrowth_Message_3>
+  <RavenRace_Fusang_Dialog_SurrogateGrowth_Message_4>The engine roar tore through the sky as the shuttle's hatch slowly closed.\n\n{0} took a last look at you through the porthole before the vehicle became a shooting star vanishing into the clouds.\n\nShe will return to her true homeland. Fusang kept its word; a drop pod laden with rewards has already crashed into your camp.\n\nPerhaps one day, she will set foot on this land again as a Fusang envoy.</RavenRace_Fusang_Dialog_SurrogateGrowth_Message_4>
+  <RavenRace_Fusang_Dialog_SurrogateList_Label>[Codename: Cuckoo] Progress Overview &amp; Recovery</RavenRace_Fusang_Dialog_SurrogateList_Label>
+  <RavenRace_Fusang_Dialog_SurrogateList_Label_2>&lt;b&gt;Pure-blood spirit egg (Cuckoo embryo)&lt;/b&gt;\n&lt;color=gray&gt;{0}&lt;/color&gt;</RavenRace_Fusang_Dialog_SurrogateList_Label_2>
+  <RavenRace_Fusang_Dialog_SurrogateList_Text>Run Assessment</RavenRace_Fusang_Dialog_SurrogateList_Text>
+  <RavenRace_Fusang_FusangComm_UIPanels_Label>:: Link Status &amp; Interaction ::</RavenRace_Fusang_FusangComm_UIPanels_Label>
+  <RavenRace_Fusang_FusangComm_UIPanels_Text>Give Gift</RavenRace_Fusang_FusangComm_UIPanels_Text>
+  <RavenRace_Fusang_FusangComm_UIPanels_Description>Give colony items to Zuo Yao to raise favor.</RavenRace_Fusang_FusangComm_UIPanels_Description>
+  <RavenRace_Fusang_FusangComm_UIPanels_Text_2>Request Return Gift</RavenRace_Fusang_FusangComm_UIPanels_Text_2>
+  <RavenRace_Fusang_FusangComm_UIPanels_Message>No claimable return gift at this time.</RavenRace_Fusang_FusangComm_UIPanels_Message>
+  <RavenRace_Fusang_FusangComm_UIPanels_Description_2>Claim the special reward for reaching a new favor stage.</RavenRace_Fusang_FusangComm_UIPanels_Description_2>
+  <RavenRace_Fusang_FusangComm_UIPanels_Text_3>Underwear Collection</RavenRace_Fusang_FusangComm_UIPanels_Text_3>
+  <RavenRace_Fusang_FusangComm_UIPanels_Description_3>View the collected secret gifts from Zuo Yao.</RavenRace_Fusang_FusangComm_UIPanels_Description_3>
+  <RavenRace_Fusang_FusangComm_UIPanels_Label_2>:: Function Panels ::</RavenRace_Fusang_FusangComm_UIPanels_Label_2>
+  <RavenRace_Fusang_FusangComm_UIPanels_Message_2>Fusang caravan dispatched; watch the map edges.</RavenRace_Fusang_FusangComm_UIPanels_Message_2>
+  <RavenRace_Fusang_FusangComm_UIPanels_Message_3>Caravan dispatch failed: no safe entry path found.</RavenRace_Fusang_FusangComm_UIPanels_Message_3>
+   <RavenRace_Fusang_FusangComm_UIPanels_Text_4>Call Reinforcements</RavenRace_Fusang_FusangComm_UIPanels_Text_4>
+  <RavenRace_Fusang_FusangComm_UIPanels_Text_5>Mission Board</RavenRace_Fusang_FusangComm_UIPanels_Text_5>
+   <RavenRace_Fusang_FusangComm_UIPanels_Text_6>Donate Support</RavenRace_Fusang_FusangComm_UIPanels_Text_6>
+   <RavenRace_Fusang_FusangComm_UIPanels_Text_7>Summon Caravan</RavenRace_Fusang_FusangComm_UIPanels_Text_7>
+  <RavenRace_Fusang_FusangComm_UIPanels_8a100cb2>Switch Operator Expression Set</RavenRace_Fusang_FusangComm_UIPanels_8a100cb2>
+  <RavenRace_Fusang_FusangComm_UIPanels_fbbd3956>Expression set switched to level {0}.</RavenRace_Fusang_FusangComm_UIPanels_fbbd3956>
+  <RavenRace_Fusang_Dialog_FusangLogistics_Title>Logistics &amp; Aid</RavenRace_Fusang_Dialog_FusangLogistics_Title>
+  <RavenRace_Fusang_Dialog_FusangLogistics_TradeTitle>Caravan Summon</RavenRace_Fusang_Dialog_FusangLogistics_TradeTitle>
+  <RavenRace_Fusang_Dialog_FusangLogistics_TradeCooling>Caravan Preparing</RavenRace_Fusang_Dialog_FusangLogistics_TradeCooling>
+  <RavenRace_Fusang_Dialog_FusangLogistics_TradeReady>Caravan on standby; ready to summon</RavenRace_Fusang_Dialog_FusangLogistics_TradeReady>
+   <RavenRace_Fusang_Dialog_FusangLogistics_TradeDesc>Call a Fusang caravan to trade. The caravan will remain for a while after arrival for you to trade ({0}).</RavenRace_Fusang_Dialog_FusangLogistics_TradeDesc>
+   <RavenRace_Fusang_Dialog_FusangLogistics_TraderSelection>Select caravan type</RavenRace_Fusang_Dialog_FusangLogistics_TraderSelection>
+  <RavenRace_Fusang_Dialog_FusangLogistics_CallCaravan>Summon Caravan</RavenRace_Fusang_Dialog_FusangLogistics_CallCaravan>
+  <RavenRace_Fusang_Dialog_FusangLogistics_ReinforcementTitle>Summon Fusang Allies</RavenRace_Fusang_Dialog_FusangLogistics_ReinforcementTitle>
+  <RavenRace_Fusang_Dialog_FusangLogistics_MilitaryBalance>Current Military</RavenRace_Fusang_Dialog_FusangLogistics_MilitaryBalance>
+  <RavenRace_Fusang_Dialog_FusangLogistics_CallReinforcement>Summon</RavenRace_Fusang_Dialog_FusangLogistics_CallReinforcement>
+  <RavenRace_Fusang_Dialog_FusangLogistics_NoMilitary>Insufficient military; cannot summon allies.</RavenRace_Fusang_Dialog_FusangLogistics_NoMilitary>
+   <RavenRace_Fusang_Dialog_FusangLogistics_ReinforcementFail>Ally summon failed; resources refunded.</RavenRace_Fusang_Dialog_FusangLogistics_ReinforcementFail>
+   <RavenRace_Fusang_TradeImprovement>Permanent Fusang trade improvement: {0}</RavenRace_Fusang_TradeImprovement>
+   <RavenRace_Fusang_OffspringProtocol_Title>Raven Offspring Custody Protocol</RavenRace_Fusang_OffspringProtocol_Title>
+   <RavenRace_Fusang_OffspringProtocol_EggTab>Deliver fertilized spirit egg</RavenRace_Fusang_OffspringProtocol_EggTab>
+   <RavenRace_Fusang_OffspringProtocol_PawnTab>Deliver Raven colonist</RavenRace_Fusang_OffspringProtocol_PawnTab>
+   <RavenRace_Fusang_OffspringProtocol_EggWarning>Deliver a fertilized spirit egg to Fusang permanently. Supplies, military, intel, and influence each gain 10 points.</RavenRace_Fusang_OffspringProtocol_EggWarning>
+   <RavenRace_Fusang_OffspringProtocol_PawnWarning>Child or adult Raven colonists may be delivered. The transfer is permanent and removes direct player control.</RavenRace_Fusang_OffspringProtocol_PawnWarning>
+   <RavenRace_Fusang_OffspringProtocol_Parents>Mother: {0}  ·  Father: {1}</RavenRace_Fusang_OffspringProtocol_Parents>
+   <RavenRace_Fusang_OffspringProtocol_GoldenCrow>Golden Crow concentration: {0}</RavenRace_Fusang_OffspringProtocol_GoldenCrow>
+   <RavenRace_Fusang_OffspringProtocol_Bloodline>Bloodline: {0}</RavenRace_Fusang_OffspringProtocol_Bloodline>
+   <RavenRace_Fusang_OffspringProtocol_AllRewards>Supplies +10  ·  Military +10  ·  Intel +10  ·  Influence +10</RavenRace_Fusang_OffspringProtocol_AllRewards>
+   <RavenRace_Fusang_OffspringProtocol_PawnAge>Biological age: {0}</RavenRace_Fusang_OffspringProtocol_PawnAge>
+   <RavenRace_Fusang_OffspringProtocol_PawnMood>Mood: {0}</RavenRace_Fusang_OffspringProtocol_PawnMood>
+   <RavenRace_Fusang_OffspringProtocol_PawnImprovement>Estimated trade improvement: +{0}</RavenRace_Fusang_OffspringProtocol_PawnImprovement>
+   <RavenRace_Fusang_OffspringProtocol_Confirm>Confirm delivery</RavenRace_Fusang_OffspringProtocol_Confirm>
+   <RavenRace_Fusang_OffspringProtocol_Invalid>The selected object can no longer be delivered. No exchange was made.</RavenRace_Fusang_OffspringProtocol_Invalid>
+   <RavenRace_Fusang_OffspringProtocol_EggConfirm>Deliver {0} permanently? This egg cannot be returned.</RavenRace_Fusang_OffspringProtocol_EggConfirm>
+   <RavenRace_Fusang_OffspringProtocol_PawnConfirm>Deliver {0} to Fusang permanently? Estimated trade improvement: {1}. This Pawn cannot be returned.</RavenRace_Fusang_OffspringProtocol_PawnConfirm>
+   <RavenRace_Fusang_OffspringProtocol_EggSuccess>The fertilized spirit egg was delivered. Supplies, military, intel, and influence each gained 10 points.</RavenRace_Fusang_OffspringProtocol_EggSuccess>
+   <RavenRace_Fusang_OffspringProtocol_PawnSuccess>{0} was permanently delivered to Fusang. Trade improvement increased by {1}.</RavenRace_Fusang_OffspringProtocol_PawnSuccess>
+   <RavenRace_Fusang_OffspringProtocol_Button>Offspring custody protocol</RavenRace_Fusang_OffspringProtocol_Button>
+   <RavenRace_Fusang_OffspringProtocol_ButtonDesc>Deliver a fertilized egg for resources, or permanently deliver a child or adult Raven colonist to improve Fusang trade prices.</RavenRace_Fusang_OffspringProtocol_ButtonDesc>
+   <RavenRace_Fusang_TradeTooltipImprovement>Permanent Fusang trade improvement</RavenRace_Fusang_TradeTooltipImprovement>
+</LanguageData>

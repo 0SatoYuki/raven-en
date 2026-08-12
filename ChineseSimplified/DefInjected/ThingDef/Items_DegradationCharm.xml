@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Raven_Item_CorruptionTalisman.label>堕化符咒</Raven_Item_CorruptionTalisman.label>
+  <Raven_Item_CorruptionTalisman.description>一张绘制着朱砂符文的符咒，散发着甜腻的气息。据说将其贴在目标额头，能影响目标的意志。携带此符咒时，携带者身上会出现一个【贴符】指令。</Raven_Item_CorruptionTalisman.description>
+  <Raven_Item_CorruptionTalisman.comps.CompUsable.useLabel>贴上堕化符咒</Raven_Item_CorruptionTalisman.comps.CompUsable.useLabel>
+
+</LanguageData>

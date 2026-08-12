@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenDecoy_Dummy.label>渡鸦诱饵假人</RavenDecoy_Dummy.label>
+  <RavenDecoy_Dummy.description>一个模拟渡鸦族士兵的逼真假人。内置了电子信号模拟器，敌方AI会将其识别为高威胁的武装单位（炮塔）。\n\n它配备了一把没有伤害的模拟枪，通过不断的“攻击”来吸引敌人的仇恨。</RavenDecoy_Dummy.description>
+  
+<RavenDecoy_Dummy_Gun.label>诱饵信号发射器</RavenDecoy_Dummy_Gun.label><RavenDecoy_Dummy_Gun.description>假人内置的模拟武器，发射无害的信号弹。</RavenDecoy_Dummy_Gun.description><RavenDecoy_Dummy_Bullet.label>模拟信号</RavenDecoy_Dummy_Bullet.label></LanguageData>

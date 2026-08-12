@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Raven_Recipe_ExtractEmberBlood.label>提取余烬之血</Raven_Recipe_ExtractEmberBlood.label>
+  <Raven_Recipe_ExtractEmberBlood.description>通过一种古老而残酷的仪式性手术，从渡鸦族的心脏中提取最后的生命精华。\n\n警告：此手术会导致受术者必然死亡。</Raven_Recipe_ExtractEmberBlood.description>
+  <Raven_Recipe_ExtractEmberBlood.jobString>正在提取余烬之血。</Raven_Recipe_ExtractEmberBlood.jobString>
+
+</LanguageData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- 血脉系统 -->
+    <RavenRace_Bloodline>血脉</RavenRace_Bloodline>
+    <RavenRace_BloodlineComposition>血脉组成</RavenRace_BloodlineComposition>
+    <RavenRace_GoldenCrowConcentration>金乌血脉浓度</RavenRace_GoldenCrowConcentration>
+    <RavenRace_BloodlinePurity>纯度</RavenRace_BloodlinePurity>
+
+    <!-- 特殊血脉翻译 -->
+    <RavenRace_Bloodline_Bloodline_Mechanoid>机械体血脉</RavenRace_Bloodline_Bloodline_Mechanoid>
+    <RavenRace_Bloodline_Bloodline_Wall>墙之血脉</RavenRace_Bloodline_Bloodline_Wall>
+
+    <!-- 【新增】纯化系统UI -->
+    <RavenRace_Purification>金乌纯化</RavenRace_Purification>
+    <RavenRace_CurrentStage>当前阶段</RavenRace_CurrentStage>
+    <RavenRace_NextStage>下一阶段</RavenRace_NextStage>
+    <RavenRace_Concentration>浓度</RavenRace_Concentration>
+    <RavenRace_Threshold>突破阈值</RavenRace_Threshold>
+    <RavenRace_Abilities>解锁能力</RavenRace_Abilities>
+    <RavenRace_Traits>解锁特性</RavenRace_Traits>
+    <RavenRace_Bonuses>阶段加成</RavenRace_Bonuses>
+    <RavenRace_ToNextStage>距离下一阶段</RavenRace_ToNextStage>
+    <RavenRace_StageComplete>阶段已完成</RavenRace_StageComplete>
+    <RavenRace_FinalStage>已达到最终阶段</RavenRace_FinalStage>
+    <RavenRace_PerformPurificationRitual>举行纯化仪式</RavenRace_PerformPurificationRitual>
+    <RavenRace_NoRitualSpot>未找到可用的仪式地点。</RavenRace_NoRitualSpot>
+    <RavenRace_RitualInProgress>已有仪式正在进行中。</RavenRace_RitualInProgress>
+    <RavenRace_NotEnoughConcentration>金乌浓度不足，无法举行仪式。</RavenRace_NotEnoughConcentration>
+    
+    <!-- C# 硬编码文本 -->
+    <RavenRace_Bloodline_ITab_Bloodline_Label>错误: 未找到血脉或纯化组件。</RavenRace_Bloodline_ITab_Bloodline_Label>
+    <RavenRace_Bloodline_ITab_Bloodline_Description>金乌纯度: {0:P2}
+纯化阶段: {1}</RavenRace_Bloodline_ITab_Bloodline_Description>
+</LanguageData>

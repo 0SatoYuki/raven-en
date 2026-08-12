@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Ability_Ayaya_MusouFuujin.label>[Raven] Peerless Wind God</Raven_Ability_Ayaya_MusouFuujin.label>
+  <Raven_Ability_Ayaya_MusouFuujin.description>"Gale, tear everything asunder!"\n\nAya Shameimaru transforms herself into an untouchable gust of wind, crossing the battlefield at blinding speed. Any enemy along her dash path will be slashed by wind blades too fast for the eye to follow, and enemies in the landing zone will suffer a dense barrage of bullet hell.\n\nEffect: ultra-long-range dash + piercing cutting damage along the path + AoE barrage at the destination.</Raven_Ability_Ayaya_MusouFuujin.description>
+  <Raven_Ability_Ayaya_TenguOtoshi.label>[Raven] Tengu Drop</Raven_Ability_Ayaya_TenguOtoshi.label>
+  <Raven_Ability_Ayaya_TenguOtoshi.description>"This wind can blow away houses, you know."\n\nAya Shameimaru forcefully swings her war fan, summoning a violent rotating downdraft centered on herself. This unnatural wind forcefully sweeps up all enemies in range and slams them to the ground, dealing blunt trauma and stunning them.\n\nEffect: massive AoE knockback centered on self (12 tiles) + blunt landing damage + stun.</Raven_Ability_Ayaya_TenguOtoshi.description>
+</LanguageData>

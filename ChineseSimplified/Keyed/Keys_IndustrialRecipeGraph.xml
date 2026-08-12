@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_IndustrialRecipeGraph_OpenButton>查询流程</RavenRace_IndustrialRecipeGraph_OpenButton>
+  <RavenRace_IndustrialRecipeGraph_Title>鸦液工业生产流程</RavenRace_IndustrialRecipeGraph_Title>
+  <RavenRace_IndustrialRecipeGraph_TitleWithTarget>鸦液工业生产流程：{0}</RavenRace_IndustrialRecipeGraph_TitleWithTarget>
+  <RavenRace_IndustrialRecipeGraph_Help>滚轮缩放，左键拖动画布，左键节点查看详情，右键资源查询流程或打开信息，右键机器查看配方列表。</RavenRace_IndustrialRecipeGraph_Help>
+  <RavenRace_IndustrialRecipeGraph_ResetView>重置视图</RavenRace_IndustrialRecipeGraph_ResetView>
+  <RavenRace_IndustrialRecipeGraph_CompactMode>精简路线</RavenRace_IndustrialRecipeGraph_CompactMode>
+  <RavenRace_IndustrialRecipeGraph_AllMode>全部路线</RavenRace_IndustrialRecipeGraph_AllMode>
+  <RavenRace_IndustrialRecipeGraph_OtherRecipes>其他配方 {0}</RavenRace_IndustrialRecipeGraph_OtherRecipes>
+  <RavenRace_IndustrialRecipeGraph_SwitchPrimaryRecipe>选择这项资源的主生产配方</RavenRace_IndustrialRecipeGraph_SwitchPrimaryRecipe>
+  <RavenRace_IndustrialRecipeGraph_ProductPanel>查询产物</RavenRace_IndustrialRecipeGraph_ProductPanel>
+  <RavenRace_IndustrialRecipeGraph_FilterAll>全部</RavenRace_IndustrialRecipeGraph_FilterAll>
+  <RavenRace_IndustrialRecipeGraph_FilterThing>物品</RavenRace_IndustrialRecipeGraph_FilterThing>
+  <RavenRace_IndustrialRecipeGraph_FilterLiquid>液体</RavenRace_IndustrialRecipeGraph_FilterLiquid>
+  <RavenRace_IndustrialRecipeGraph_ThingProduct>物品产物</RavenRace_IndustrialRecipeGraph_ThingProduct>
+  <RavenRace_IndustrialRecipeGraph_LiquidProduct>液体产物</RavenRace_IndustrialRecipeGraph_LiquidProduct>
+  <RavenRace_IndustrialRecipeGraph_NoSelectedNode>未选择节点</RavenRace_IndustrialRecipeGraph_NoSelectedNode>
+  <RavenRace_IndustrialRecipeGraph_ClickNodeHint>点击画布中的节点查看生产细节。</RavenRace_IndustrialRecipeGraph_ClickNodeHint>
+  <RavenRace_IndustrialRecipeGraph_DetailType>类型：{0}</RavenRace_IndustrialRecipeGraph_DetailType>
+  <RavenRace_IndustrialRecipeGraph_DetailDesc>说明：{0}</RavenRace_IndustrialRecipeGraph_DetailDesc>
+  <RavenRace_IndustrialRecipeGraph_DetailMachines>可用机器：{0}</RavenRace_IndustrialRecipeGraph_DetailMachines>
+  <RavenRace_IndustrialRecipeGraph_DetailWarnings>提示：{0}</RavenRace_IndustrialRecipeGraph_DetailWarnings>
+  <RavenRace_IndustrialRecipeGraph_DetailRecipe>配方：{0}</RavenRace_IndustrialRecipeGraph_DetailRecipe>
+  <RavenRace_IndustrialRecipeGraph_DetailInputs>输入：{0}</RavenRace_IndustrialRecipeGraph_DetailInputs>
+  <RavenRace_IndustrialRecipeGraph_DetailOutputs>输出：{0}</RavenRace_IndustrialRecipeGraph_DetailOutputs>
+  <RavenRace_IndustrialRecipeGraph_DetailWorkTime>耗时：{0}</RavenRace_IndustrialRecipeGraph_DetailWorkTime>
+  <RavenRace_IndustrialRecipeGraph_CycleNodeDetail>该节点因循环依赖被截断。</RavenRace_IndustrialRecipeGraph_CycleNodeDetail>
+  <RavenRace_IndustrialRecipeGraph_NotQueryableNode>该节点不是可查询产物。</RavenRace_IndustrialRecipeGraph_NotQueryableNode>
+  <RavenRace_IndustrialRecipeGraph_NoRecipeForNode>{0} 没有可查询的工业生产配方。</RavenRace_IndustrialRecipeGraph_NoRecipeForNode>
+  <RavenRace_IndustrialRecipeGraph_JumpedTo>已跳转到：{0}</RavenRace_IndustrialRecipeGraph_JumpedTo>
+  <RavenRace_IndustrialRecipeGraph_NodeTooltipRightClick>右键：查询该产物流程</RavenRace_IndustrialRecipeGraph_NodeTooltipRightClick>
+  <RavenRace_IndustrialRecipeGraph_NoFlow>未找到可显示的生产流程。</RavenRace_IndustrialRecipeGraph_NoFlow>
+  <RavenRace_IndustrialRecipeGraph_CycleWarning>{0} 已在上游出现，流程图已截断循环引用。</RavenRace_IndustrialRecipeGraph_CycleWarning>
+  <RavenRace_IndustrialRecipeGraph_UnknownThing>未知物品</RavenRace_IndustrialRecipeGraph_UnknownThing>
+  <RavenRace_IndustrialRecipeGraph_UnknownMachine>未知机器</RavenRace_IndustrialRecipeGraph_UnknownMachine>
+  <RavenRace_IndustrialRecipeGraph_Source>基础原料</RavenRace_IndustrialRecipeGraph_Source>
+  <RavenRace_IndustrialRecipeGraph_Resource>资源</RavenRace_IndustrialRecipeGraph_Resource>
+  <RavenRace_IndustrialRecipeGraph_None>无</RavenRace_IndustrialRecipeGraph_None>
+  <RavenRace_IndustrialRecipeGraph_NodeTypeRecipe>机器配方</RavenRace_IndustrialRecipeGraph_NodeTypeRecipe>
+  <RavenRace_IndustrialRecipeGraph_NodeTypeThing>物品资源</RavenRace_IndustrialRecipeGraph_NodeTypeThing>
+  <RavenRace_IndustrialRecipeGraph_NodeTypeLiquid>液体资源</RavenRace_IndustrialRecipeGraph_NodeTypeLiquid>
+  <RavenRace_IndustrialRecipeGraph_CollapseSidebar>收起侧栏</RavenRace_IndustrialRecipeGraph_CollapseSidebar>
+  <RavenRace_IndustrialRecipeGraph_ExpandSidebar>展开侧栏</RavenRace_IndustrialRecipeGraph_ExpandSidebar>
+  <RavenRace_IndustrialRecipeGraph_NoMachineForNode>该配方没有可用机器。</RavenRace_IndustrialRecipeGraph_NoMachineForNode>
+  <RavenRace_IndustrialRecipeGraph_MachineRecipeTitle>{0} 配方列表</RavenRace_IndustrialRecipeGraph_MachineRecipeTitle>
+  <RavenRace_IndustrialRecipeGraph_MachineRecipeReadOnly>只读浏览，不会修改机器生产状态。</RavenRace_IndustrialRecipeGraph_MachineRecipeReadOnly>
+  <RavenRace_IndustrialRecipeGraph_OpenMachineInfo>机器信息</RavenRace_IndustrialRecipeGraph_OpenMachineInfo>
+  <RavenRace_IndustrialRecipeGraph_MachineRecipes>可用配方</RavenRace_IndustrialRecipeGraph_MachineRecipes>
+  <RavenRace_IndustrialRecipeGraph_NoMachineRecipes>没有可用配方</RavenRace_IndustrialRecipeGraph_NoMachineRecipes>
+  <RavenRace_IndustrialRecipeGraph_DetailPower>发电功率：{0} W</RavenRace_IndustrialRecipeGraph_DetailPower>
+  <RavenRace_IndustrialRecipeGraph_DetailTags>配方标签：{0}</RavenRace_IndustrialRecipeGraph_DetailTags>
+  <RavenRace_IndustrialRecipeGraph_NodeTooltipMachine>右键：查看该机器的配方列表</RavenRace_IndustrialRecipeGraph_NodeTooltipMachine>
+  <RavenRace_IndustrialRecipeGraph_NodeTooltipQuery>右键：查询该资源的生产流程</RavenRace_IndustrialRecipeGraph_NodeTooltipQuery>
+  <RavenRace_IndustrialRecipeGraph_NodeTooltipInfo>右键：打开信息介绍</RavenRace_IndustrialRecipeGraph_NodeTooltipInfo>
+</LanguageData>

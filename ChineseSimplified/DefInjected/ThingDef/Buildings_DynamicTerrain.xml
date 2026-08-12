@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenTrap_RisingWall.label>升墙陷阱</RavenTrap_RisingWall.label>
+  <RavenTrap_RisingWall.description>一个可以生成巨大墙体和屋顶的陷阱，触发后会改变战场地形。尺寸可在Mod设置中调整。</RavenTrap_RisingWall.description>
+  
+  <Raven_TrapWall.label>能量屏障墙</Raven_TrapWall.label>
+  <Raven_TrapWall.description>由陷阱生成的临时墙体，短时间后会自动消散。</Raven_TrapWall.description>
+<Raven_Wall_SecretEnergyPattern.label>渡鸦能量纹路墙</Raven_Wall_SecretEnergyPattern.label><Raven_Wall_SecretEnergyPattern.description>一面刻有古代能量纹路的装饰性墙体，似乎是某种古代陷阱科技的残余。美观且坚固，但不可卸载和重装。</Raven_Wall_SecretEnergyPattern.description></LanguageData>

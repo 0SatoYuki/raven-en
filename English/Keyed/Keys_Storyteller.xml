@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_Kotoamatsukami_Title>Kotoamatsukami - Will Rewriting</RavenRace_Kotoamatsukami_Title>
+  <RavenRace_Kotoamatsukami_Desc>Rewriting {1}'s will to make them the property of {0}.</RavenRace_Kotoamatsukami_Desc>
+  <RavenRace_Label_Master>Title the subject {0} uses for the caster {1}:</RavenRace_Label_Master>
+  <RavenRace_Label_Servant>Title the caster {0} uses for the subject {1}:</RavenRace_Label_Servant>
+  <RavenRace_Label_Opinion_S2M>Forced opinion ({0} - {1}): {2}</RavenRace_Label_Opinion_S2M>
+  <RavenRace_Label_Opinion_M2S>Forced opinion ({0} - {1}): {2}</RavenRace_Label_Opinion_M2S>
+  <RavenRace_Msg_KotoamatsukamiSuccess>{0} cast Kotoamatsukami on {1}! {1}'s will has been completely rewritten.</RavenRace_Msg_KotoamatsukamiSuccess>
+  <Raven_Default_Master>Absolute Master</Raven_Default_Master>
+  <Raven_Default_Servant>Loyal Servant</Raven_Default_Servant>
+  <Confirm>Confirm</Confirm>
+  <RavenRace_LetterLabel_FirstRavenJoin>Raven Join</RavenRace_LetterLabel_FirstRavenJoin>
+  <RavenRace_LetterText_FirstRavenJoin>A wandering Raven has arrived near your colony. {0} claims to have heard a call in the shadows.\n\nName: {0}\nBackground: {1}\nAge: {2}\n\nYou may accept {0} as a colonist, or turn them away.</RavenRace_LetterText_FirstRavenJoin>
+  <RavenRace_Message_RavenJoined>{0} has joined the colony.</RavenRace_Message_RavenJoined>
+</LanguageData>

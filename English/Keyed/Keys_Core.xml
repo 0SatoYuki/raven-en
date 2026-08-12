@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_RaceName>Raven</RavenRace_RaceName>
+  <RavenRace_GoldenCrowName>Golden Crow</RavenRace_GoldenCrowName>
+  <RavenRace_FusangName>Fusang</RavenRace_FusangName>
+  <RavenRace_FusangDesc>A mysterious organization operating in the shadows.</RavenRace_FusangDesc>
+  <RavenRace_SettingsCategory>Raven Race</RavenRace_SettingsCategory>
+  <RavenRace_ScenPart_ArchonCarry>Carried by Raven High Archon</RavenRace_ScenPart_ArchonCarry>
+  <RavenRace_ScenPart_ArchonCarryMessage>A Raven High Archon gently sets you down and vanishes into the sky.</RavenRace_ScenPart_ArchonCarryMessage>
+  <RavenRace_ClStyling_Part_Moyo>Moyo</RavenRace_ClStyling_Part_Moyo>
+  <RavenRace_ClStyling_Part_SecretaryNexus>Secretary Nexus</RavenRace_ClStyling_Part_SecretaryNexus>
+  <RavenRace_ScenPart_StartingPawnKind>Forced starting race: {0}</RavenRace_ScenPart_StartingPawnKind>
+  <RavenRace_Core_CompRavenFeatherDrop_Text>Golden Feather cooldown:</RavenRace_Core_CompRavenFeatherDrop_Text>
+  <RavenRace_Core_CompRavenFeatherDrop_Text_2>Golden Feather cooldown:</RavenRace_Core_CompRavenFeatherDrop_Text_2>
+  <RavenRace_Core_CompRavenFeatherDrop_Text_3>Golden Feather cooldown:</RavenRace_Core_CompRavenFeatherDrop_Text_3>
+  <RavenRace_Core_CompRavenFeatherDrop_Text_4>Golden Feather cooldown:</RavenRace_Core_CompRavenFeatherDrop_Text_4>
+  <RavenRace_Core_CompRavenFeatherDrop_Status>Ready</RavenRace_Core_CompRavenFeatherDrop_Status>
+  <RavenRace_Core_CompRavenInfusion_Status>{0} (Poisoned:{1})</RavenRace_Core_CompRavenInfusion_Status>
+  <RavenRace_Core_CompRavenInfusion_Status_2>Aphrodisiac toxin charges left: {0}</RavenRace_Core_CompRavenInfusion_Status_2>
+  <RavenRace_Core_CompRavenInfusion_Label>Poisoning count</RavenRace_Core_CompRavenInfusion_Label>
+  <RavenRace_Core_CompRavenInfusion_Description>Poisoning count</RavenRace_Core_CompRavenInfusion_Description>
+  <RavenRace_Core_CompRavenInfusion_DisabledReason>Only used to display remaining charges</RavenRace_Core_CompRavenInfusion_DisabledReason>
+  <RavenRace_Core_CompTargetEffect_GainAbilities_Message>{0}'s mind cannot bear this forbidden knowledge.</RavenRace_Core_CompTargetEffect_GainAbilities_Message>
+  <RavenRace_Core_CompTargetEffect_GainAbilities_Message_2>A flood of lewd images pours into {0}'s mind, and they grasp the forbidden skill: {1}!</RavenRace_Core_CompTargetEffect_GainAbilities_Message_2>
+  <RavenRace_Core_CompTargetEffect_GainAbilities_Message_3>{0} is already well versed in these lewd tricks.</RavenRace_Core_CompTargetEffect_GainAbilities_Message_3>
+  <RavenRace_Core_CompUseEffect_RavenCoatWeapon_Message>Invalid target: must be a melee weapon or someone holding a melee weapon.</RavenRace_Core_CompUseEffect_RavenCoatWeapon_Message>
+  <RavenRace_Core_CompUseEffect_RavenCoatWeapon_Message_2>Error: this weapon does not support advanced attributes (not a complex item)</RavenRace_Core_CompUseEffect_RavenCoatWeapon_Message_2>
+  <RavenRace_Core_CompEggLayerUnfertilized_Text>Ovulation temporarily suspended due to incubating life</RavenRace_Core_CompEggLayerUnfertilized_Text>
+  <RavenRace_Core_CompEggLayerUnfertilized_Text_2>Below breeding age</RavenRace_Core_CompEggLayerUnfertilized_Text_2>
+  <RavenRace_Core_CompEggLayerUnfertilized_Label>DEV: Force-lay unfertilized spirit egg</RavenRace_Core_CompEggLayerUnfertilized_Label>
+  <RavenRace_Core_DebugActions_Message>Target location is not within the current map.</RavenRace_Core_DebugActions_Message>
+  <RavenRace_Core_DebugActions_Message_2>Raven-liquid lake generated, covering {0} terrain cells.</RavenRace_Core_DebugActions_Message_2>
+  <RavenRace_Core_DebugActions_Message_3>No coverable item or Pawn at the mouse position.</RavenRace_Core_DebugActions_Message_3>
+  <RavenRace_Core_DebugActions_Message_4>Slime overlay added to {0}.</RavenRace_Core_DebugActions_Message_4>
+  <RavenRace_Core_DebugActions_Message_5>Marked this spirit egg as a surrogate orphan</RavenRace_Core_DebugActions_Message_5>
+  <RavenRace_Core_DebugActions_Message_6>No item or Pawn with a removable overlay at the mouse position.</RavenRace_Core_DebugActions_Message_6>
+  <RavenRace_Core_DebugActions_Message_7>Removed slime overlay from {0}.</RavenRace_Core_DebugActions_Message_7>
+  <RavenRace_Core_DebugActions_Message_8>Added slime overlay to {0} selected targets.</RavenRace_Core_DebugActions_Message_8>
+  <RavenRace_Core_DebugActions_Message_9>Reset {0}'s bloodline to pure Raven.</RavenRace_Core_DebugActions_Message_9>
+  <RavenRace_Core_DebugActions_Label>Grant 1% {0}</RavenRace_Core_DebugActions_Label>
+  <RavenRace_Core_DebugActions_Message_10>{0} has no hybrid bloodline component.</RavenRace_Core_DebugActions_Message_10>
+  <RavenRace_Core_DebugActions_Message_11>Injected 1% {1} into {0}. Bloodline recalculated.</RavenRace_Core_DebugActions_Message_11>
+  <RavenRace_Core_DebugActions_Message_12>Forced {0}'s Golden Crow bloodline concentration to {1:P0}</RavenRace_Core_DebugActions_Message_12>
+  <RavenRace_Core_DebugActions_Message_13>Zuo Yao favor +100</RavenRace_Core_DebugActions_Message_13>
+  <RavenRace_Core_DebugActions_Message_14>Raised {0}'s concentration (+5%). Current: {1:P0} (stage cap: {2:P0})</RavenRace_Core_DebugActions_Message_14>
+  <RavenRace_Core_DebugActions_Message_15>Forced breakthrough succeeded! {0} has entered stage {1}. Current concentration: {2:P0}</RavenRace_Core_DebugActions_Message_15>
+  <RavenRace_Core_DebugActions_Message_16>Forced {0} concentration up (+5%). Current: {1:P0}</RavenRace_Core_DebugActions_Message_16>
+  <RavenRace_Core_DebugActions_Label_2>Choose a location to spawn the Divine Husk Corruption Pod</RavenRace_Core_DebugActions_Label_2>
+  <RavenRace_Core_DebugActions_Message_17>Raven_Building_AngelGestator not found.</RavenRace_Core_DebugActions_Message_17>
+  <RavenRace_Core_DebugActions_Message_18>Recipe Make_Raven_Mech_Aegis not found.</RavenRace_Core_DebugActions_Message_18>
+  <RavenRace_Core_DebugActions_Message_19>Failed to spawn the corruption pod.</RavenRace_Core_DebugActions_Message_19>
+  <RavenRace_Core_DebugActions_Text>Spawned Divine Husk Corruption Pod at {0} and added the mechanical angel recipe; spawned {1} material types, {2} stacks total.</RavenRace_Core_DebugActions_Text>
+  <RavenRace_Core_DebugActions_Label_3>Choose a location to spawn Aegis and four exclusive apparel</RavenRace_Core_DebugActions_Label_3>
+  <RavenRace_Core_DebugActions_Message_20>PawnKindDef Raven_Mech_Aegis not found.</RavenRace_Core_DebugActions_Message_20>
+  <RavenRace_Core_DebugActions_Message_21>Spawned player-faction Aegis and {0} pieces of exclusive apparel.</RavenRace_Core_DebugActions_Message_21>
+  <RavenRace_Core_DebugActions_Message_22>Successfully spawned test Death-Sun Assassin Grandmaster: {0}</RavenRace_Core_DebugActions_Message_22>
+  <RavenRace_Core_Patch_RavenRitualTargets_Status>Raven Altar</RavenRace_Core_Patch_RavenRitualTargets_Status>
+  <RavenRace_Core_Patch_RavenRitualTargets_Status_2>Rat Cake Gratitude Statue</RavenRace_Core_Patch_RavenRitualTargets_Status_2>
+  <RavenRace_Core_Patch_Pawn_GetGizmos_Label>Establish servitude...</RavenRace_Core_Patch_Pawn_GetGizmos_Label>
+  <RavenRace_Core_Patch_Pawn_GetGizmos_Description>Designate a colonist as this character's personal attendant.</RavenRace_Core_Patch_Pawn_GetGizmos_Description>
+  <RavenRace_Core_Patch_Pawn_GetGizmos_Label_2>{0} (serving {1})</RavenRace_Core_Patch_Pawn_GetGizmos_Label_2>
+  <RavenRace_Core_Patch_Pawn_GetGizmos_Label_3>No available candidates</RavenRace_Core_Patch_Pawn_GetGizmos_Label_3>
+  <RavenRace_Core_Patch_Pawn_GetGizmos_Label_4>Release servitude</RavenRace_Core_Patch_Pawn_GetGizmos_Label_4>
+  <RavenRace_Core_Patch_Pawn_GetGizmos_Description_2>Sever the master-attendant relationship with the designated attendant.</RavenRace_Core_Patch_Pawn_GetGizmos_Description_2>
+  <RavenRace_Core_Patch_Pawn_GetGizmos_Label_5>Release dominance over {0}</RavenRace_Core_Patch_Pawn_GetGizmos_Label_5>
+  <RavenRace_Core_Patch_Pawn_GetGizmos_Label_6>Release all attendants</RavenRace_Core_Patch_Pawn_GetGizmos_Label_6>
+  <RavenRace_Core_Patch_Pawn_GetGizmos_Description_3>Stop serving the master.</RavenRace_Core_Patch_Pawn_GetGizmos_Description_3>
+  <RavenRace_ClStyling_Building_RavenStylingStation_Label>Only Ravens may use the Raven styling station.</RavenRace_ClStyling_Building_RavenStylingStation_Label>
+  <RavenRace_ClStyling_Building_RavenStylingStation_Label_2>This Raven has no available CL appearance config.</RavenRace_ClStyling_Building_RavenStylingStation_Label_2>
+  <RavenRace_ClStyling_Building_RavenStylingStation_Label_3>Change Raven appearance</RavenRace_ClStyling_Building_RavenStylingStation_Label_3>
+  <RavenRace_ClStyling_Dialog_RavenClStylingStation_Label>Raven Appearance Styling Station · </RavenRace_ClStyling_Dialog_RavenClStylingStation_Label>
+  <RavenRace_ClStyling_Dialog_RavenClStylingStation_Text>Current preview</RavenRace_ClStyling_Dialog_RavenClStylingStation_Text>
+  <RavenRace_ClStyling_Dialog_RavenClStylingStation_Label_2>Display settings</RavenRace_ClStyling_Dialog_RavenClStylingStation_Label_2>
+  <RavenRace_ClStyling_Dialog_RavenClStylingStation_Text_2>Hide ear feathers</RavenRace_ClStyling_Dialog_RavenClStylingStation_Text_2>
+  <RavenRace_ClStyling_Dialog_RavenClStylingStation_Text_3>No editable CL appearance config</RavenRace_ClStyling_Dialog_RavenClStylingStation_Text_3>
+  <RavenRace_ClStyling_Dialog_RavenClStylingStation_Text_4>Hair</RavenRace_ClStyling_Dialog_RavenClStylingStation_Text_4>
+  <RavenRace_ClStyling_PartTab>Parts</RavenRace_ClStyling_PartTab>
+  <RavenRace_ClStyling_PartSection>Bloodline parts</RavenRace_ClStyling_PartSection>
+  <RavenRace_ClStyling_PartLocked>Requires that race's bloodline first</RavenRace_ClStyling_PartLocked>
+  <RavenRace_ClStyling_Part_Wolfein>Wolfein</RavenRace_ClStyling_Part_Wolfein>
+  <RavenRace_ClStyling_Part_MoeLotl>MoeLotl</RavenRace_ClStyling_Part_MoeLotl>
+  <RavenRace_ClStyling_Part_Epona>Epona</RavenRace_ClStyling_Part_Epona>
+  <RavenRace_ClStyling_Part_Milira>Milira</RavenRace_ClStyling_Part_Milira>
+  <RavenRace_ClStyling_Part_Nivarian>Nivarian</RavenRace_ClStyling_Part_Nivarian>
+  <RavenRace_ClStyling_Part_MuGirl>MuGirl</RavenRace_ClStyling_Part_MuGirl>
+  <RavenRace_Core_Building_RavenReliquaryStand_0037ac04>Store item</RavenRace_Core_Building_RavenReliquaryStand_0037ac04>
+  <RavenRace_Core_Building_RavenReliquaryStand_6a678e52>Select an item on the map for a pawn to haul and store in the display cabinet.</RavenRace_Core_Building_RavenReliquaryStand_6a678e52>
+  <RavenRace_Core_Building_RavenReliquaryStand_bbdd187f>No available colonists.</RavenRace_Core_Building_RavenReliquaryStand_bbdd187f>
+  <RavenRace_Core_Building_RavenReliquaryStand_1a35b26f>Retrieve item</RavenRace_Core_Building_RavenReliquaryStand_1a35b26f>
+  <RavenRace_Core_Building_RavenReliquaryStand_ee7d3303>Eject the item from the display cabinet onto the ground.</RavenRace_Core_Building_RavenReliquaryStand_ee7d3303>
+  <RavenRace_Core_ServitudeManager_Message>{0} now begins serving {1}.</RavenRace_Core_ServitudeManager_Message>
+  <RavenRace_Core_ServitudeManager_Message_2>{0} has severed the master-attendant relationship with {1}.</RavenRace_Core_ServitudeManager_Message_2>
+  <RavenRace_Core_Building_RetroPhonograph_Label>Open Retro Phonograph</RavenRace_Core_Building_RetroPhonograph_Label>
+  <RavenRace_Core_Building_RetroPhonograph_Description>Open the phonograph control panel to browse and independently manage all collected special sound effects (toggle/volume/preview).</RavenRace_Core_Building_RetroPhonograph_Description>
+  <RavenRace_Core_Dialog_PhonographPlayer_Label>Raven Retro Phonograph - Curated Sound Library</RavenRace_Core_Dialog_PhonographPlayer_Label>
+  <RavenRace_Core_Dialog_PhonographPlayer_Message>Previewing sound effects requires a loaded map.</RavenRace_Core_Dialog_PhonographPlayer_Message>
+  <RavenRace_Core_Dialog_PhonographPlayer_Text>Enable</RavenRace_Core_Dialog_PhonographPlayer_Text>
+  <RavenRace_Core_Dialog_PhonographPlayer_Reset>Reset defaults</RavenRace_Core_Dialog_PhonographPlayer_Reset>
+  <RavenRace_Core_StoryAction_Message>Obtained {0} x{1}</RavenRace_Core_StoryAction_Message>
+  <RavenRace_Core_StoryAction_Message_2>Event {0} has triggered.</RavenRace_Core_StoryAction_Message_2>
+  <RavenRace_Core_Window_UpdateNews_Text>Don't auto-pop up again</RavenRace_Core_Window_UpdateNews_Text>
+  <RavenRace_Core_Window_UpdateNews_Label>Raven community group: 1084200701</RavenRace_Core_Window_UpdateNews_Label>
+  <RavenRace_Core_Window_UpdateNews_Text_2>Read and fade into shadow</RavenRace_Core_Window_UpdateNews_Text_2>
+  <RavenRace_Core_Window_UpdateNews_Label_2>Thank you for supporting Raven Race: Embers in the Shadow!</RavenRace_Core_Window_UpdateNews_Label_2>
+  <RavenRace_Core_CompSpiritBeads_DisabledReason>Executing...</RavenRace_Core_CompSpiritBeads_DisabledReason>
+  <RavenRace_Core_CompRavenLiquidShield_Label>Disable Raven-liquid Shield</RavenRace_Core_CompRavenLiquidShield_Label>
+  <RavenRace_Core_CompRavenLiquidShield_Label_2>Enable Raven-liquid Shield</RavenRace_Core_CompRavenLiquidShield_Label_2>
+  <RavenRace_Core_CompRavenLiquidShield_Description>Toggle the Raven-liquid shield. When enabled or disabled, the shield smoothly expands or contracts via material coverage progress.</RavenRace_Core_CompRavenLiquidShield_Description>
+  <RavenRace_Core_CompRavenLiquidShield_Status>Raven-liquid shield: resetting, {0} remaining</RavenRace_Core_CompRavenLiquidShield_Status>
+  <RavenRace_Core_CompRavenLiquidShield_Status_2>Raven-liquid shield: {0}, energy {1:F0}/{2:F0}</RavenRace_Core_CompRavenLiquidShield_Status_2>
+  <RavenRace_Core_Gizmo_RavenLiquidShieldStatus_Description>Raven-liquid shield status. Top shows shield energy, bottom shows display progress.</RavenRace_Core_Gizmo_RavenLiquidShieldStatus_Description>
+  <RavenRace_Core_CompApparelTrail_Status>Sandevistan remaining time: </RavenRace_Core_CompApparelTrail_Status>
+  <RavenRace_Core_Gizmo_SandevistanToggle_Label>Enable Sandevistan</RavenRace_Core_Gizmo_SandevistanToggle_Label>
+  <RavenRace_Core_Gizmo_SandevistanToggle_Description>Activate Sandevistan. The current version only implements duration and status logic.</RavenRace_Core_Gizmo_SandevistanToggle_Description>
+  <RavenRace_Core_CompSoulAltar_Gizmos_Label>Main Control Interface</RavenRace_Core_CompSoulAltar_Gizmos_Label>
+  <RavenRace_Core_CompSoulAltar_Gizmos_Description>Open the altar connection and status monitoring panel.</RavenRace_Core_CompSoulAltar_Gizmos_Description>
+  <RavenRace_Core_CompSoulAltar_Gizmos_65a9be7f>Origin Recall</RavenRace_Core_CompSoulAltar_Gizmos_65a9be7f>
+  <RavenRace_Core_CompSoulAltar_Gizmos_53826f49>Begin the Origin Recall ritual, devouring the spirit egg in the cradle to strengthen the bloodline.\n\nRequires:\n- A spirit egg in the altar\n- One Raven colonist</RavenRace_Core_CompSoulAltar_Gizmos_53826f49>
+  <RavenRace_Core_CompSoulAltar_Gizmos_fae5ebe0>{0} (Unreachable)</RavenRace_Core_CompSoulAltar_Gizmos_fae5ebe0>
+  <RavenRace_Core_CompSoulAltar_Gizmos_795471cf>No available Ravens</RavenRace_Core_CompSoulAltar_Gizmos_795471cf>
+  <RavenRace_Core_CompSoulAltar_Incubation_Message>The cradle is empty.</RavenRace_Core_CompSoulAltar_Incubation_Message>
+  <RavenRace_Core_CompSoulAltar_Incubation_Message_2>The hatching ritual has begun!</RavenRace_Core_CompSoulAltar_Incubation_Message_2>
+  <RavenRace_Core_Dialog_SoulAltar_eb7d4871>Fusang Birth Altar - Array Monitor</RavenRace_Core_Dialog_SoulAltar_eb7d4871>
+  <RavenRace_Core_Dialog_SoulAltar_6242c570>Status: [Empty] Awaiting spirit egg</RavenRace_Core_Dialog_SoulAltar_6242c570>
+  <RavenRace_Core_Dialog_SoulAltar_37d8dad7>Status: [Incubating] {0:P1}</RavenRace_Core_Dialog_SoulAltar_37d8dad7>
+  <RavenRace_Core_Dialog_SoulAltar_4beb88c5>Time remaining: {0}</RavenRace_Core_Dialog_SoulAltar_4beb88c5>
+  <RavenRace_Core_Dialog_SoulAltar_0280d2dd>Status: [Ready] Awaiting activation</RavenRace_Core_Dialog_SoulAltar_0280d2dd>
+  <RavenRace_Core_Dialog_SoulAltar_07c98668>Current enhancement preview:</RavenRace_Core_Dialog_SoulAltar_07c98668>
+  <RavenRace_Core_Dialog_SoulAltar_981a9c44>(Ritual in progress - enhancements locked in)</RavenRace_Core_Dialog_SoulAltar_981a9c44>
+  <RavenRace_Core_Dialog_SoulAltar_0d3dbcbd>- No valid infusion -</RavenRace_Core_Dialog_SoulAltar_0d3dbcbd>
+  <RavenRace_Core_Dialog_SoulAltar_ec105c57>Materials awaiting haul:</RavenRace_Core_Dialog_SoulAltar_ec105c57>
+  <RavenRace_Core_Dialog_SoulAltar_0718e8e8>All designated materials are ready.</RavenRace_Core_Dialog_SoulAltar_0718e8e8>
+  <RavenRace_Core_Dialog_SoulAltar_a9aae5e2>  [Skill] {0} +{1} xp</RavenRace_Core_Dialog_SoulAltar_a9aae5e2>
+  <RavenRace_Core_Dialog_SoulAltar_3cb38a2d>  [Stat] {0} {1}</RavenRace_Core_Dialog_SoulAltar_3cb38a2d>
+  <RavenRace_Core_Dialog_SoulAltar_5f9706e1>  [Trait] {0}</RavenRace_Core_Dialog_SoulAltar_5f9706e1>
+  <RavenRace_Core_Dialog_SoulAltar_c413adf2>Incubating\n{0:P0}</RavenRace_Core_Dialog_SoulAltar_c413adf2>
+  <RavenRace_Core_Dialog_SoulAltar_e51f50fd>Begin Ritual</RavenRace_Core_Dialog_SoulAltar_e51f50fd>
+  <RavenRace_Core_Dialog_SoulAltar_604cb401>Cradle Empty</RavenRace_Core_Dialog_SoulAltar_604cb401>
+  <RavenRace_Core_Dialog_SoulAltar_fa9c1a88>Clear Assignment</RavenRace_Core_Dialog_SoulAltar_fa9c1a88>
+  <RavenRace_Core_RitualRoleFilter_ReadyForBreakthrough_Status_2>Golden Crow concentration has not reached the breakthrough threshold (current </RavenRace_Core_RitualRoleFilter_ReadyForBreakthrough_Status_2>
+  <RavenRace_Core_CompAbilityEffect_BuddhaPalm_Message>Buddha's Palm requires selecting a direction in front of you.</RavenRace_Core_CompAbilityEffect_BuddhaPalm_Message>
+  <RavenRace_Core_CompAbilityEffect_StarSuckAura_Message>Blackhole Aura can only be activated on yourself.</RavenRace_Core_CompAbilityEffect_StarSuckAura_Message>
+  <RavenRace_Core_WorldComponent_OperatorManager_Message>Your relationship with Zuo Yao has reached a new stage: [{0}]. You may now claim a special return gift at the comms console.</RavenRace_Core_WorldComponent_OperatorManager_Message>
+  <RavenRace_Core_Dialog_GiftGiving_Label>Send support supplies to Zuo Yao</RavenRace_Core_Dialog_GiftGiving_Label>
+  <RavenRace_Core_Dialog_GiftGiving_Label_2>Estimated favor change: </RavenRace_Core_Dialog_GiftGiving_Label_2>
+  <RavenRace_Core_Dialog_GiftGiving_Text>Confirm Send</RavenRace_Core_Dialog_GiftGiving_Text>
+  <RavenRace_Core_Dialog_RequestReward_Label>Claim Trust Reward</RavenRace_Core_Dialog_RequestReward_Label>
+  <RavenRace_Core_Dialog_RequestReward_Label_2>No claimable return gift at this time.</RavenRace_Core_Dialog_RequestReward_Label_2>
+  <RavenRace_Core_Dialog_RequestReward_Text>Claim</RavenRace_Core_Dialog_RequestReward_Text>
+  <RavenRace_Core_Dialog_RequestReward_Message>A special return gift</RavenRace_Core_Dialog_RequestReward_Message>
+  <RavenRace_Core_Dialog_RequestReward_Message_2>Zuo Yao has sent a gift: {0}.\n\n{1}</RavenRace_Core_Dialog_RequestReward_Message_2>
+  <RavenRace_Core_Dialog_UnderwearCollection_Label>Zuo Yao's Secret Wardrobe</RavenRace_Core_Dialog_UnderwearCollection_Label>
+  <RavenRace_Core_CompAVRecord_Status>Starring: {0} &amp; {1}\nCategory: Restricted adult film</RavenRace_Core_CompAVRecord_Status>
+  <RavenRace_Core_CompAVRecord_Status_2>{0}\n\n{1}</RavenRace_Core_CompAVRecord_Status_2>
+  <RavenRace_Core_CompTV_AV_Label>Enable Adult Channel</RavenRace_Core_CompTV_AV_Label>
+  <RavenRace_Core_CompTV_AV_Description>Activate the Fusang Studios encrypted band. Broadcasts extremely obscene imagery—penises relentlessly penetrating vaginas, semen filling wombs and other sensory scenes—provoking intense lovin' urges.</RavenRace_Core_CompTV_AV_Description>
+  <RavenRace_Core_Building_RavenBathtub_Message>The Raven slime bathtub was contaminated by clean water and has auto-drained! Ensure it is connected to a pure Raven-liquid pipeline.</RavenRace_Core_Building_RavenBathtub_Message>
+  <RavenRace_Core_Building_RavenBathtub_Label>Allow auto-fill with Raven liquid</RavenRace_Core_Building_RavenBathtub_Label>
+  <RavenRace_Core_Building_RavenBathtub_Description>When enabled, colony haulers will automatically seek Raven liquid (50 units per trip) to fill the tub. You may also connect it directly to a Raven-liquid pump network for automatic filling.</RavenRace_Core_Building_RavenBathtub_Description>
+  <RavenRace_Core_Building_RavenBathtub_Label_2>The tub must be full of Raven liquid to be used</RavenRace_Core_Building_RavenBathtub_Label_2>
+  <RavenRace_Core_Building_RavenBathtub_Label_3>Cannot reach the tub</RavenRace_Core_Building_RavenBathtub_Label_3>
+  <RavenRace_Core_Building_RavenBathtub_Label_4>Tub is full</RavenRace_Core_Building_RavenBathtub_Label_4>
+  <RavenRace_Core_Building_RavenBathtub_Label_5>Take slime bath</RavenRace_Core_Building_RavenBathtub_Label_5>
+  <RavenRace_Core_Building_ConfessionBooth_Status>The confession booth is full.</RavenRace_Core_Building_ConfessionBooth_Status>
+  <RavenRace_Core_Building_ConfessionBooth_Label>End Confession</RavenRace_Core_Building_ConfessionBooth_Label>
+  <RavenRace_Core_Building_ConfessionBooth_Description>Immediately pull the person inside out and abort the ritual.</RavenRace_Core_Building_ConfessionBooth_Description>
+  <RavenRace_Core_Building_ConfessionBooth_Label_2>Select a confessor...</RavenRace_Core_Building_ConfessionBooth_Label_2>
+  <RavenRace_Core_Building_ConfessionBooth_7eea95cd>Current nun: {0}\nClick to select a non-drafted colonist, prisoner, or slave for confession; same-sex and opposite-sex confessions are both permitted.</RavenRace_Core_Building_ConfessionBooth_7eea95cd>
+  <RavenRace_Core_Building_ConfessionBooth_Label_3>Nun {0} is currently unable to perform her duties (downed/broken/drafted)</RavenRace_Core_Building_ConfessionBooth_Label_3>
+  <RavenRace_Core_Building_ConfessionBooth_Label_4>{0}: Cannot reach the confession booth</RavenRace_Core_Building_ConfessionBooth_Label_4>
+  <RavenRace_Core_Building_ConfessionBooth_Label_5>No available confessors</RavenRace_Core_Building_ConfessionBooth_Label_5>
+  <RavenRace_Core_Building_ConfessionBooth_Message>{0} requested a confession; the ritual has begun, awaiting personnel.</RavenRace_Core_Building_ConfessionBooth_Message>
+  <RavenRace_Core_Building_ConfessionBooth_Text>{0} pumped every drop of turbid sin into {1}'s body, feeling an unprecedented emptiness and release.</RavenRace_Core_Building_ConfessionBooth_Text>
+  <RavenRace_Core_CompAssignableToPawn_Nun_Status>Must be female to serve as a nun.</RavenRace_Core_CompAssignableToPawn_Nun_Status>
+  <RavenRace_Core_CompAssignableToPawn_Nun_Status_2>Babies cannot serve as nuns (incapable of action).</RavenRace_Core_CompAssignableToPawn_Nun_Status_2>
+  <RavenRace_Core_CompAbilityEffect_DevourPawn_Message>This supreme lovin' technique can only be used to devour humanoid bodies.</RavenRace_Core_CompAbilityEffect_DevourPawn_Message>
+  <RavenRace_Core_CompAbilityEffect_DevourPawn_Message_2>Invalid target: your cavity cannot fold in on itself to swallow you.</RavenRace_Core_CompAbilityEffect_DevourPawn_Message_2>
+  <RavenRace_Core_CompAbilityEffect_DevourPawn_Message_3>The deep flesh cavity is already completely filled with prey; nothing more fits!</RavenRace_Core_CompAbilityEffect_DevourPawn_Message_3>
+  <RavenRace_Core_HediffComp_DevouredPawnHolder_Status>Inserted: </RavenRace_Core_HediffComp_DevouredPawnHolder_Status>
+  <RavenRace_Core_HediffComp_DevouredPawnHolder_Status_2>Empty</RavenRace_Core_HediffComp_DevouredPawnHolder_Status_2>
+  <RavenRace_Core_HediffComp_DevouredPawnHolder_Label>Excrete Prey</RavenRace_Core_HediffComp_DevouredPawnHolder_Label>
+  <RavenRace_Core_HediffComp_DevouredPawnHolder_Description>With violent cavity contractions and a lewd wet sound, forcibly expels the prey inside along with thick mucus. The prey falls into irresistible climax and deep anesthesia.</RavenRace_Core_HediffComp_DevouredPawnHolder_Description>
+  <RavenRace_Core_HediffComp_DevouredPawnHolder_Message>{0} was ejected in a spray of sweet, musky fluid, collapsing into climax-driven unconsciousness, drenched in slime.</RavenRace_Core_HediffComp_DevouredPawnHolder_Message>
+  <RavenRace_Core_Projectile_DevourPull_Message>{0}'s flesh abruptly writhes, dragging the prey deep into {1}...</RavenRace_Core_Projectile_DevourPull_Message>
+  <RavenRace_Core_CompMasturbatorCup_Label>Pick up </RavenRace_Core_CompMasturbatorCup_Label>
+  <RavenRace_Core_CompMasturbatorCup_Status>Bound target: {0} {1}</RavenRace_Core_CompMasturbatorCup_Status>
+  <RavenRace_Core_CompMasturbatorCup_Label_2>Bind target</RavenRace_Core_CompMasturbatorCup_Label_2>
+  <RavenRace_Core_CompMasturbatorCup_Description>Establish a quantum entanglement link with any target on the map. Click then select with the mouse.</RavenRace_Core_CompMasturbatorCup_Description>
+  <RavenRace_Core_CompMasturbatorCup_Label_3>Begin dimensional sex</RavenRace_Core_CompMasturbatorCup_Label_3>
+  <RavenRace_Core_CompMasturbatorCup_Description_2>Force {0}</RavenRace_Core_CompMasturbatorCup_Description_2>
+  <RavenRace_Core_CompMasturbatorCup_Label_4>Disconnect</RavenRace_Core_CompMasturbatorCup_Label_4>
+  <RavenRace_Core_CompMasturbatorCup_Description_3>Sever the current quantum entanglement, allowing a new target to be bound.</RavenRace_Core_CompMasturbatorCup_Description_3>
+  <RavenRace_Core_CompMasturbatorCup_Message>Connection severed.</RavenRace_Core_CompMasturbatorCup_Message>
+  <RavenRace_Core_CompMasturbatorCup_Message_2>Successfully bound target: {0}</RavenRace_Core_CompMasturbatorCup_Message_2>
+  <RavenRace_Core_CompMasturbatorCup_Message_3>Target {0} is not on any map right now; cannot connect.</RavenRace_Core_CompMasturbatorCup_Message_3>
+  <RavenRace_Core_CompMasturbatorCup_Message_4>{0} activated the dimensional device...</RavenRace_Core_CompMasturbatorCup_Message_4>
+  <RavenRace_Core_JobDriver_DimensionalClimax_Message>{0} lost consciousness entirely under dimensional stimulation.</RavenRace_Core_JobDriver_DimensionalClimax_Message>
+  <RavenRace_Core_Building_RavenBookcase_Label>Adjust spine size/spacing</RavenRace_Core_Building_RavenBookcase_Label>
+  <RavenRace_Core_Building_RavenBookcase_Description>Scale:{0:F3}  Spacing:{1:F3}</RavenRace_Core_Building_RavenBookcase_Description>
+  <RavenRace_Core_Building_RavenBookcase_Label_2>Adjust segment start offset</RavenRace_Core_Building_RavenBookcase_Label_2>
+  <RavenRace_Core_Building_RavenBookcase_Description_2>{0} segments total; segment 0 is the coordinate origin of the first book</RavenRace_Core_Building_RavenBookcase_Description_2>
+  <RavenRace_Core_Building_RavenBookcase_Label_3>Output tuning log</RavenRace_Core_Building_RavenBookcase_Label_3>
+  <RavenRace_Core_Building_RavenBookcase_Description_3>Output all parameters to Player.log</RavenRace_Core_Building_RavenBookcase_Description_3>
+  <RavenRace_Core_Building_RavenBookcase_Message>Raven bookcase tuning data output to log.</RavenRace_Core_Building_RavenBookcase_Message>
+  <RavenRace_Core_Building_RavenBookcase_Text>Reset to defaults</RavenRace_Core_Building_RavenBookcase_Text>
+  <RavenRace_Core_Building_RavenBookcase_Label_4>Segment list</RavenRace_Core_Building_RavenBookcase_Label_4>
+  <RavenRace_Core_Building_RavenBookcase_Text_2>+ New segment from book {0}</RavenRace_Core_Building_RavenBookcase_Text_2>
+  <RavenRace_Core_Building_RavenBookcase_Message_2>Start index {0} already exists.</RavenRace_Core_Building_RavenBookcase_Message_2>
+  <RavenRace_Core_Building_RavenBookcase_Text_3>Zero this segment's offset</RavenRace_Core_Building_RavenBookcase_Text_3>
+  <RavenRace_Core_Building_RavenBookcase_Text_4>Copy previous segment's offset</RavenRace_Core_Building_RavenBookcase_Text_4>
+  <RavenRace_Core_Building_RavenBookcase_Text_5>Reset all segments (keep only segment 0)</RavenRace_Core_Building_RavenBookcase_Text_5>
+  <RavenRace_Core_Recipe_AdministerMiracleHeal_Message>{0}'s wounds healed rapidly under the medication.</RavenRace_Core_Recipe_AdministerMiracleHeal_Message>
+  <RavenRace_Core_Recipe_AdministerMiracleHeal_Message_2>{0} has no healable ordinary wounds.</RavenRace_Core_Recipe_AdministerMiracleHeal_Message_2>
+  <RavenRace_Core_Building_SakeCup_Message>The Raven lacquer sake cup was contaminated by clean water and has auto-drained! Ensure it is connected to a pure Raven-liquid pipeline.</RavenRace_Core_Building_SakeCup_Message>
+  <RavenRace_Core_Building_SakeCup_Description>When enabled, colony haulers will automatically seek Raven liquid to fill the sake cup.\n\nTip: If you have already connected it to a [Raven-liquid Pump] pipeline network, it is strongly recommended to turn this off to free up hauler labor; the pipe will fill it automatically.</RavenRace_Core_Building_SakeCup_Description>
+  <RavenRace_Core_Building_SakeCup_Label>Relieve &amp; fill...</RavenRace_Core_Building_SakeCup_Label>
+  <RavenRace_Core_Building_SakeCup_Description_2>Select a colonist to fill the sake cup completely with their own thick bodily fluids.</RavenRace_Core_Building_SakeCup_Description_2>
+  <RavenRace_Core_Building_SakeCup_Label_2>Drink...</RavenRace_Core_Building_SakeCup_Label_2>
+  <RavenRace_Core_Building_SakeCup_Description_3>Select a colonist to drink this gooey "fine wine" and enter a euphoric nirvana.</RavenRace_Core_Building_SakeCup_Description_3>
+  <RavenRace_Core_Building_SakeCup_Label_3>{0}: Unreachable</RavenRace_Core_Building_SakeCup_Label_3>
+  <RavenRace_Core_Building_SakeCup_Label_4>No available personnel</RavenRace_Core_Building_SakeCup_Label_4>
+  <RavenRace_Core_HediffComp_NemesisPhaseWalk_Status>Charge: </RavenRace_Core_HediffComp_NemesisPhaseWalk_Status>
+  <RavenRace_Core_HediffComp_NemesisPhaseWalk_Status_2>Phase ready</RavenRace_Core_HediffComp_NemesisPhaseWalk_Status_2>
+  <RavenRace_CustomPawn_CompAbilityEffect_RainbowBeam_Message>{0}'s body begins to incubate a Raven spirit egg.</RavenRace_CustomPawn_CompAbilityEffect_RainbowBeam_Message>
+  <RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message>{0} permanently unlocked!</RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message>
+  <RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message_2>Unlock failed: requires {0} x{1}.</RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message_2>
+  <RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message_3>Unlock failed: item deduction error, missing {0}.</RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message_3>
+  <RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message_4>{0} x{1} consumed, {2} permanently unlocked!</RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message_4>
+  <RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Label>No preview</RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Label>
+  <RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Status>No detailed introduction for this character yet.</RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Status>
+  <RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Message>Cannot summon here: location is not standable.</RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Message>
+  <RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Message_2>{0} has been summoned at the designated location.</RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Message_2>
+  <RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Message_3>Summon failed; the character may already be on the field or dead.</RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Message_3>
+  <RavenRace_CustomPawn_Dialog_SpecialPawnRoster_Label>Special Character Roster</RavenRace_CustomPawn_Dialog_SpecialPawnRoster_Label>
+  <RavenRace_CustomPawn_Dialog_SpecialPawnRoster_Label_2>No special characters yet</RavenRace_CustomPawn_Dialog_SpecialPawnRoster_Label_2>
+  <RavenRace_Core_HediffComp_FluidAccelerator_Label>Spray special fluid</RavenRace_Core_HediffComp_FluidAccelerator_Label>
+  <RavenRace_Core_HediffComp_FluidAccelerator_Description>Manually trigger the fluid accelerator, forcing an uncontrollable euphoric wide-area spray of thick bodily fluid foam that can effectively extinguish surrounding flames.</RavenRace_Core_HediffComp_FluidAccelerator_Description>
+  <RavenRace_Core_HediffComp_FluidAccelerator_DisabledReason>Cooling down: </RavenRace_Core_HediffComp_FluidAccelerator_DisabledReason>
+  <RavenRace_DebugAction_Category>Raven Race</RavenRace_DebugAction_Category>
+  <RavenRace_DebugAction_GenerateLiquidLake>T: Raven-liquid lake: spawn at point</RavenRace_DebugAction_GenerateLiquidLake>
+  <RavenRace_DebugAction_AddSlimeOverlay>T: Slime overlay: pick to add</RavenRace_DebugAction_AddSlimeOverlay>
+  <RavenRace_DebugAction_MarkSurrogateItem>T: Mark item as surrogate</RavenRace_DebugAction_MarkSurrogateItem>
+  <RavenRace_DebugAction_RemoveSlimeOverlay>T: Slime overlay: pick to remove</RavenRace_DebugAction_RemoveSlimeOverlay>
+  <RavenRace_DebugAction_AddSlimeOverlayToSelected>Slime overlay: cover all selected</RavenRace_DebugAction_AddSlimeOverlayToSelected>
+  <RavenRace_DebugAction_SetGoldenCrow10>T: Set Golden Crow concentration (10%)</RavenRace_DebugAction_SetGoldenCrow10>
+  <RavenRace_DebugAction_ResetPureRaven>T: Reset to pure Raven</RavenRace_DebugAction_ResetPureRaven>
+  <RavenRace_DebugAction_AddHybridBloodline>Grant 1% hybrid bloodline...</RavenRace_DebugAction_AddHybridBloodline>
+  <RavenRace_DebugAction_AddZuoYaoFavor>Zuo Yao: favor +100</RavenRace_DebugAction_AddZuoYaoFavor>
+  <RavenRace_DebugAction_AddGoldenCrowLimited>T: Golden Crow +5% (threshold-limited)</RavenRace_DebugAction_AddGoldenCrowLimited>
+  <RavenRace_DebugAction_AddGoldenCrowForced>T: Golden Crow +5% (ignore limits and auto-breakthrough)</RavenRace_DebugAction_AddGoldenCrowForced>
+  <RavenRace_DebugAction_SpawnAegisGestator>Mechanical Angel: spawn pod + recipe materials at point</RavenRace_DebugAction_SpawnAegisGestator>
+  <RavenRace_DebugAction_SpawnAegisWithApparel>Mechanical Angel: spawn Aegis + four apparel at point</RavenRace_DebugAction_SpawnAegisWithApparel>
+  <RavenRace_DebugAction_SpawnDeathSunAssassin>Spawn: Death-Sun Assassin</RavenRace_DebugAction_SpawnDeathSunAssassin>
+  <RavenRace_DebugAction_SpawnNearestHaulDrone>T: Drone: spawn a hauler at nearest station</RavenRace_DebugAction_SpawnNearestHaulDrone>
+  <RavenRace_DebugAction_SpawnDroneStressScene>T: Drone: generate logistics stress scene</RavenRace_DebugAction_SpawnDroneStressScene>
+  <RavenRace_DebugAction_RavenIndustrialRecipeTuning>Raven-liquid industry: global parameters...</RavenRace_DebugAction_RavenIndustrialRecipeTuning>
+  <RavenRace_DebugAction_IncreaseDegradation>T: Lust Talisman progress +10%</RavenRace_DebugAction_IncreaseDegradation>
+  <RavenRace_DebugAction_ValidateDroneStorageCells>Drone: validate logistics cell rules</RavenRace_DebugAction_ValidateDroneStorageCells>
+</LanguageData>

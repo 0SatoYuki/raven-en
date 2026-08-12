@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KilledMyMaster.stages.0.label>[Raven] Killed My Master</KilledMyMaster.stages.0.label>
+  <MyMasterDied.stages.0.label>[Raven] My Master Died</MyMasterDied.stages.0.label>
+  <MyMasterDied.stages.0.description>My master has died. I feel lost and without purpose.</MyMasterDied.stages.0.description>
+  <SoldMyMaster.stages.0.label>[Raven] Master Sold</SoldMyMaster.stages.0.label>
+  <SoldMyMaster.stages.0.labelSocial>sold my master</SoldMyMaster.stages.0.labelSocial>
+  <SoldMyMaster.stages.0.description>My master was sold! How could they do this?</SoldMyMaster.stages.0.description>
+</LanguageData>

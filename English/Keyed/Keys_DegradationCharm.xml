@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_FloatMenu_RemoveCharm>Remove {0}'s degradation charm</Raven_FloatMenu_RemoveCharm>
+  <Raven_Message_CharmApplied>{0} pressed a sweet-scented charm onto {1}'s forehead, and it instantly fused into the skin like a living thing.</Raven_Message_CharmApplied>
+  <Raven_Message_CharmRemoved>{0} removed the degradation charm from {1}'s forehead.</Raven_Message_CharmRemoved>
+  <Raven_LetterLabel_CharmComplete>Mind twisted: {0} has fallen</Raven_LetterLabel_CharmComplete>
+  <Raven_LetterText_CharmComplete>Under the long erosion of the degradation inscription, {PAWN_nameDef}'s sanity finally collapsed completely. {PAWN_possessive} personality was reshaped, leaving only an endless craving for primal desire, becoming an existence that lives only for pleasure.\n\n{PAWN_pronoun} gained the "Degradation Revelry" trait, sexual orientation twisted to bisexual, and no longer has any cultural or moral scruples about promiscuity.\n\n[Easter Egg] Due to the violent conflict of energies, {PAWN_possessive} body structure also underwent an irreversible change…</Raven_LetterText_CharmComplete>
+</LanguageData>

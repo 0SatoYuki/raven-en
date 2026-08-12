@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenIndustrialBlueprint_HomeEntry>05   INDUSTRIAL BLUEPRINTS</RavenIndustrialBlueprint_HomeEntry>
+  <RavenIndustrialBlueprint_Title>Industrial Blueprints</RavenIndustrialBlueprint_Title>
+  <RavenIndustrialBlueprint_Back>Home</RavenIndustrialBlueprint_Back>
+  <RavenIndustrialBlueprint_LocalTab>Local</RavenIndustrialBlueprint_LocalTab>
+  <RavenIndustrialBlueprint_NetworkTab>Network</RavenIndustrialBlueprint_NetworkTab>
+  <RavenIndustrialBlueprint_Search>Search name, description, or source map</RavenIndustrialBlueprint_Search>
+  <RavenIndustrialBlueprint_New>New blueprint</RavenIndustrialBlueprint_New>
+  <RavenIndustrialBlueprint_Refresh>Refresh</RavenIndustrialBlueprint_Refresh>
+  <RavenIndustrialBlueprint_LocalEmpty>No local industrial blueprints</RavenIndustrialBlueprint_LocalEmpty>
+  <RavenIndustrialBlueprint_CardSummary>{0} x {1} · {2} industrial entities</RavenIndustrialBlueprint_CardSummary>
+  <RavenIndustrialBlueprint_Edit>Edit blueprint</RavenIndustrialBlueprint_Edit>
+  <RavenIndustrialBlueprint_Place>Place</RavenIndustrialBlueprint_Place>
+  <RavenIndustrialBlueprint_Delete>Delete</RavenIndustrialBlueprint_Delete>
+  <RavenIndustrialBlueprint_DeleteConfirm>Permanently delete industrial blueprint "{0}"?</RavenIndustrialBlueprint_DeleteConfirm>
+  <RavenIndustrialBlueprint_NewTitle>New Industrial Blueprint</RavenIndustrialBlueprint_NewTitle>
+  <RavenIndustrialBlueprint_Name>Blueprint name</RavenIndustrialBlueprint_Name>
+  <RavenIndustrialBlueprint_Description>Short description</RavenIndustrialBlueprint_Description>
+  <RavenIndustrialBlueprint_StartCapture>Select area</RavenIndustrialBlueprint_StartCapture>
+  <RavenIndustrialBlueprint_NameRequired>Blueprint name is required.</RavenIndustrialBlueprint_NameRequired>
+  <RavenIndustrialBlueprint_CaptureLabel>Capture industrial blueprint</RavenIndustrialBlueprint_CaptureLabel>
+  <RavenIndustrialBlueprint_CaptureDesc>Select complete industrial buildings. Maximum area: {0} x {0}.</RavenIndustrialBlueprint_CaptureDesc>
+  <RavenIndustrialBlueprint_CaptureMouse>Drag to select the blueprint area</RavenIndustrialBlueprint_CaptureMouse>
+  <RavenIndustrialBlueprint_EmptySelection>The selected area is empty.</RavenIndustrialBlueprint_EmptySelection>
+  <RavenIndustrialBlueprint_CaptureSuccess>Industrial blueprint "{0}" saved.</RavenIndustrialBlueprint_CaptureSuccess>
+  <RavenIndustrialBlueprint_RealCoverUnavailable>The camera could not capture a real cover. The structural preview was retained.</RavenIndustrialBlueprint_RealCoverUnavailable>
+  <RavenIndustrialBlueprint_PlaceLabel>Place industrial blueprint</RavenIndustrialBlueprint_PlaceLabel>
+  <RavenIndustrialBlueprint_PlaceDesc>Select the lower-left anchor. Horizontal mirroring is supported.</RavenIndustrialBlueprint_PlaceDesc>
+  <RavenIndustrialBlueprint_PlaceMouse>{0} · {1} x {2}</RavenIndustrialBlueprint_PlaceMouse>
+  <RavenIndustrialBlueprint_PlaceSuccess>Created {0} construction plans.</RavenIndustrialBlueprint_PlaceSuccess>
+  <RavenIndustrialBlueprint_PlaceFinishedSuccess>God mode directly built {0} industrial buildings.</RavenIndustrialBlueprint_PlaceFinishedSuccess>
+  <RavenIndustrialBlueprint_PlaceFailed>Industrial blueprint placement failed.</RavenIndustrialBlueprint_PlaceFailed>
+  <RavenIndustrialBlueprint_MirrorHorizontal>Mirror horizontally</RavenIndustrialBlueprint_MirrorHorizontal>
+  <RavenIndustrialBlueprint_ResetTransform>Reset horizontal mirror</RavenIndustrialBlueprint_ResetTransform>
+  <RavenIndustrialBlueprint_EditTitle>Edit Industrial Blueprint</RavenIndustrialBlueprint_EditTitle>
+  <RavenIndustrialBlueprint_LayoutTab>Virtual space</RavenIndustrialBlueprint_LayoutTab>
+  <RavenIndustrialBlueprint_CoverTab>Cover</RavenIndustrialBlueprint_CoverTab>
+  <RavenIndustrialBlueprint_Save>Save blueprint</RavenIndustrialBlueprint_Save>
+  <RavenIndustrialBlueprint_Undo>Undo</RavenIndustrialBlueprint_Undo>
+  <RavenIndustrialBlueprint_Redo>Redo</RavenIndustrialBlueprint_Redo>
+  <RavenIndustrialBlueprint_DeleteEntityConfirm>Delete "{0}"? Ports referencing it will be unbound.</RavenIndustrialBlueprint_DeleteEntityConfirm>
+  <RavenIndustrialBlueprint_DeleteLinkedTitle>Delete linked entities</RavenIndustrialBlueprint_DeleteLinkedTitle>
+  <RavenIndustrialBlueprint_DeleteLinkedConfirm>"{0}" belongs to a binding group with {1} entities. Choose how to delete it.</RavenIndustrialBlueprint_DeleteLinkedConfirm>
+  <RavenIndustrialBlueprint_DeleteOnly>Delete and unbind</RavenIndustrialBlueprint_DeleteOnly>
+  <RavenIndustrialBlueprint_DeleteLinkedGroup>Delete linked group</RavenIndustrialBlueprint_DeleteLinkedGroup>
+  <RavenIndustrialBlueprint_LayoutValid>{0} x {1} · {2} entities · layout valid</RavenIndustrialBlueprint_LayoutValid>
+  <RavenIndustrialBlueprint_CoverLayers>Cover layers</RavenIndustrialBlueprint_CoverLayers>
+  <RavenIndustrialBlueprint_AddText>Add text</RavenIndustrialBlueprint_AddText>
+  <RavenIndustrialBlueprint_AddThingIcon>Item icon</RavenIndustrialBlueprint_AddThingIcon>
+  <RavenIndustrialBlueprint_AddLiquidIcon>Liquid icon</RavenIndustrialBlueprint_AddLiquidIcon>
+  <RavenIndustrialBlueprint_SelectThingIcon>Select item icon</RavenIndustrialBlueprint_SelectThingIcon>
+  <RavenIndustrialBlueprint_SelectLiquidIcon>Select liquid icon</RavenIndustrialBlueprint_SelectLiquidIcon>
+  <RavenIndustrialBlueprint_IconNoResults>No icons match the search</RavenIndustrialBlueprint_IconNoResults>
+  <RavenIndustrialBlueprint_IconSize>Icon size: {0}%</RavenIndustrialBlueprint_IconSize>
+  <RavenIndustrialBlueprint_CoverSelect>Select or add a text, item, or liquid layer to edit it.</RavenIndustrialBlueprint_CoverSelect>
+  <RavenIndustrialBlueprint_Text>Text</RavenIndustrialBlueprint_Text>
+  <RavenIndustrialBlueprint_FontSize>Font size: {0}</RavenIndustrialBlueprint_FontSize>
+  <RavenIndustrialBlueprint_OpenFolder>Open blueprint folder</RavenIndustrialBlueprint_OpenFolder>
+  <RavenIndustrialBlueprint_OpenFolderFailed>Could not open blueprint folder: {0}</RavenIndustrialBlueprint_OpenFolderFailed>
+  <RavenIndustrialBlueprint_NetworkUnavailable>Network blueprint service is not connected</RavenIndustrialBlueprint_NetworkUnavailable>
+  <RavenIndustrialBlueprint_NetworkLoading>Loading network blueprints...</RavenIndustrialBlueprint_NetworkLoading>
+  <RavenIndustrialBlueprint_NetworkEmpty>No network blueprints match this filter</RavenIndustrialBlueprint_NetworkEmpty>
+  <RavenIndustrialBlueprint_NetworkSelect>Select a network blueprint from the list</RavenIndustrialBlueprint_NetworkSelect>
+  <RavenIndustrialBlueprint_NetworkMeta>{0} · {1} likes · {2} downloads</RavenIndustrialBlueprint_NetworkMeta>
+  <RavenIndustrialBlueprint_NetworkDependencies>Required mods: {0}</RavenIndustrialBlueprint_NetworkDependencies>
+  <RavenIndustrialBlueprint_Download>Download locally</RavenIndustrialBlueprint_Download>
+  <RavenIndustrialBlueprint_DownloadSuccess>Network blueprint "{0}" was imported locally.</RavenIndustrialBlueprint_DownloadSuccess>
+  <RavenIndustrialBlueprint_Sort_Latest>Latest</RavenIndustrialBlueprint_Sort_Latest>
+  <RavenIndustrialBlueprint_Sort_Hot>Hot</RavenIndustrialBlueprint_Sort_Hot>
+  <RavenIndustrialBlueprint_Sort_Downloads>Downloads</RavenIndustrialBlueprint_Sort_Downloads>
+  <RavenIndustrialBlueprint_Sort_Mine>Mine</RavenIndustrialBlueprint_Sort_Mine>
+  <RavenIndustrialBlueprint_PrevPage>Previous page</RavenIndustrialBlueprint_PrevPage>
+  <RavenIndustrialBlueprint_NextPage>Next page</RavenIndustrialBlueprint_NextPage>
+  <RavenIndustrialBlueprint_SteamUnavailable>Steam is not initialized. This blueprint operation requires a Steam identity.</RavenIndustrialBlueprint_SteamUnavailable>
+  <RavenIndustrialBlueprint_SteamInvalid>The current SteamID is invalid.</RavenIndustrialBlueprint_SteamInvalid>
+  <RavenIndustrialBlueprint_CodeImport>Import code</RavenIndustrialBlueprint_CodeImport>
+  <RavenIndustrialBlueprint_CodeImportTitle>Import by blueprint code</RavenIndustrialBlueprint_CodeImportTitle>
+  <RavenIndustrialBlueprint_CodeInput>Blueprint code</RavenIndustrialBlueprint_CodeInput>
+  <RavenIndustrialBlueprint_PasteCode>Paste a blueprint code from the clipboard</RavenIndustrialBlueprint_PasteCode>
+  <RavenIndustrialBlueprint_QueryCode>Find blueprint</RavenIndustrialBlueprint_QueryCode>
+  <RavenIndustrialBlueprint_CodeImportHint>Enter a shared blueprint code, review its details, and download it to the local library.</RavenIndustrialBlueprint_CodeImportHint>
+  <RavenIndustrialBlueprint_CodeDetailMeta>Author: {0}
+Size: {1} × {2} · {3} entities · {4} downloads</RavenIndustrialBlueprint_CodeDetailMeta>
+  <RavenIndustrialBlueprint_CodeTitle>Industrial blueprint code</RavenIndustrialBlueprint_CodeTitle>
+  <RavenIndustrialBlueprint_CodeShareHint>Send this code to another player so they can import the blueprint directly.</RavenIndustrialBlueprint_CodeShareHint>
+  <RavenIndustrialBlueprint_CopyCode>Copy code</RavenIndustrialBlueprint_CopyCode>
+  <RavenIndustrialBlueprint_CodeCopied>Copied blueprint code: {0}</RavenIndustrialBlueprint_CodeCopied>
+  <RavenIndustrialBlueprint_CodeAlreadyImported>Blueprint code {0} is already in the local library.</RavenIndustrialBlueprint_CodeAlreadyImported>
+  <RavenIndustrialBlueprint_Upload>Upload to network</RavenIndustrialBlueprint_Upload>
+  <RavenIndustrialBlueprint_ShowCode>View and copy blueprint code</RavenIndustrialBlueprint_ShowCode>
+  <RavenIndustrialBlueprint_UploadConfirm>Upload "{0}"? It will become public immediately and consume one upload from today's quota.</RavenIndustrialBlueprint_UploadConfirm>
+  <RavenIndustrialBlueprint_UploadSuccess>Blueprint uploaded as {0}. You have {1} uploads remaining today.</RavenIndustrialBlueprint_UploadSuccess>
+  <RavenIndustrialBlueprint_UpdateSuccess>Network blueprint {0} was updated. You have {1} uploads remaining today.</RavenIndustrialBlueprint_UpdateSuccess>
+  <RavenIndustrialBlueprint_Reupload>Update network blueprint</RavenIndustrialBlueprint_Reupload>
+  <RavenIndustrialBlueprint_ReuploadConfirm>Update "{0}"? This keeps its existing blueprint code and consumes one upload from today's quota.</RavenIndustrialBlueprint_ReuploadConfirm>
+  <RavenIndustrialBlueprint_Quota>Uploads today: {0} / {1}</RavenIndustrialBlueprint_Quota>
+</LanguageData>

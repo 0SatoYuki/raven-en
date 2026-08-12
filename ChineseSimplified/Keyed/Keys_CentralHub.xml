@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_CentralTerminal_Open>打开中枢管理终端</Raven_CentralTerminal_Open>
+  <Raven_CentralTerminal_OpenDesc>查看中枢等级、渡鸦工业科技和工业资源状态。终端不会暂停游戏。</Raven_CentralTerminal_OpenDesc>
+  <Raven_CentralShowcase_ArchiveTitle>工业档案</Raven_CentralShowcase_ArchiveTitle>
+  <Raven_CentralShowcase_FactionLabel>扶桑徽记</Raven_CentralShowcase_FactionLabel>
+  <Raven_CentralShowcase_FactionDescription>扶桑工业体系的中央识别徽记。金色日轮与羽翼记录着浴日中枢统辖的科研、能源和自动化生产网络。</Raven_CentralShowcase_FactionDescription>
+  <Raven_CentralShowcase_ProjectionMissing>投影资源缺失</Raven_CentralShowcase_ProjectionMissing>
+  <Raven_CentralResearch_DebugFill_Label>[调试] 填充科研队列物资</Raven_CentralResearch_DebugFill_Label>
+  <Raven_CentralResearch_DebugFill_Desc>按当前科研队列全部项目的剩余需求，向浴日中枢虚拟仓库补充缺少的物资。</Raven_CentralResearch_DebugFill_Desc>
+  <Raven_CentralResearch_DebugFill_Empty>科研队列为空，没有需要填充的物资。</Raven_CentralResearch_DebugFill_Empty>
+  <Raven_CentralResearch_DebugFill_Satisfied>当前科研队列需要的物资已经全部满足。</Raven_CentralResearch_DebugFill_Satisfied>
+  <Raven_CentralResearch_DebugFill_Completed>已填充 {0} 种科研物资，共 {1} 件。</Raven_CentralResearch_DebugFill_Completed>
+  <Raven_CentralHub_UniqueRejected>全存档只能存在一个玩家浴日中枢。</Raven_CentralHub_UniqueRejected>
+  <Raven_CentralHub_FullLightRequiresLevel2>全图光照控制需要中枢等级 II。</Raven_CentralHub_FullLightRequiresLevel2>
+  <Raven_CentralResearch_InvalidProject>无效的渡鸦工业科技项目。</Raven_CentralResearch_InvalidProject>
+  <Raven_CentralResearch_AlreadyCompleted>该科技已经完成。</Raven_CentralResearch_AlreadyCompleted>
+  <Raven_CentralResearch_AlreadyQueued>该科技已经在队列中。</Raven_CentralResearch_AlreadyQueued>
+  <Raven_CentralResearch_InvalidQueueOrder>该移动会破坏科技前置顺序。</Raven_CentralResearch_InvalidQueueOrder>
+  <Raven_CentralResearch_MissingPrerequisite>缺少前置科技：{0}</Raven_CentralResearch_MissingPrerequisite>
+  <Raven_CentralResearch_Completed>渡鸦工业科技完成：{0}</Raven_CentralResearch_Completed>
+  <Raven_CentralResearch_CompletedLevel>渡鸦工业科技完成：{0} Lv.{1}</Raven_CentralResearch_CompletedLevel>
+  <Raven_CentralResearch_HeaderStats>研究速度 {0} / 日    并行 {1}</Raven_CentralResearch_HeaderStats>
+  <Raven_CentralResearch_HeaderLevel>科技总等级 {0}    工业速度 {1}</Raven_CentralResearch_HeaderLevel>
+  <Raven_CentralResearch_LevelShort>Lv.{0}</Raven_CentralResearch_LevelShort>
+  <Raven_CentralResearch_TargetLevelShort>目标 Lv.{0}</Raven_CentralResearch_TargetLevelShort>
+  <Raven_CentralResearch_LevelSection>科技等级</Raven_CentralResearch_LevelSection>
+  <Raven_CentralResearch_LevelNext>当前 Lv.{0}  ·  下一等级 Lv.{1}</Raven_CentralResearch_LevelNext>
+  <Raven_CentralResearch_LevelMaximum>当前 Lv.{0}  ·  已达到等级上限</Raven_CentralResearch_LevelMaximum>
+  <Raven_CentralResearch_SingleLevel>单级科技</Raven_CentralResearch_SingleLevel>
+  <Raven_CentralResearch_FiniteLevels>有限循环 · 最高 Lv.{0}</Raven_CentralResearch_FiniteLevels>
+  <Raven_CentralResearch_Infinite>无限循环</Raven_CentralResearch_Infinite>
+  <Raven_CentralResearch_CostGrowth>每级研究成本 ×{0}  ·  物资成本 ×{1}</Raven_CentralResearch_CostGrowth>
+  <Raven_CentralResearch_BonusSection>等级加成</Raven_CentralResearch_BonusSection>
+  <Raven_CentralResearch_BonusLineNext>{0}  下一等级 {1}  ·  当前累计 {2}</Raven_CentralResearch_BonusLineNext>
+  <Raven_CentralResearch_BonusLineMaximum>{0}  当前累计 {1}</Raven_CentralResearch_BonusLineMaximum>
+  <Raven_CentralResearch_BonusFormula>累计公式：{0}</Raven_CentralResearch_BonusFormula>
+  <Raven_CentralResearch_BonusIndustrialWorkSpeed>工业生产速度</Raven_CentralResearch_BonusIndustrialWorkSpeed>
+  <Raven_CentralResearch_BonusDroneStorageCells>无人机物流箱格数</Raven_CentralResearch_BonusDroneStorageCells>
+  <Raven_CentralResearch_MaximumReached>科技已达到等级上限</Raven_CentralResearch_MaximumReached>
+  <Raven_CentralLevel_Maximum>中枢已经达到最高等级。</Raven_CentralLevel_Maximum>
+  <Raven_CentralLevel_HubUnavailable>浴日中枢未生成或存储组件不可用。</Raven_CentralLevel_HubUnavailable>
+  <Raven_CentralLevel_MissingMaterials>中枢库存不足以执行升级。</Raven_CentralLevel_MissingMaterials>
+  <Raven_CentralLevel_UpgradeInProgress>浴日中枢正在升级。</Raven_CentralLevel_UpgradeInProgress>
+  <Raven_CentralLevel_VisualUnavailable>升级视觉资源不可用，升级未开始。</Raven_CentralLevel_VisualUnavailable>
+  <Raven_CentralLevel_UpgradeStageSunShrink>太阳核心收束</Raven_CentralLevel_UpgradeStageSunShrink>
+  <Raven_CentralLevel_UpgradeStageDisassembling>旧结构解构</Raven_CentralLevel_UpgradeStageDisassembling>
+  <Raven_CentralLevel_UpgradeStageAssembling>新结构聚合</Raven_CentralLevel_UpgradeStageAssembling>
+  <Raven_CentralLevel_UpgradeStageCompletionBurst>日冕爆发</Raven_CentralLevel_UpgradeStageCompletionBurst>
+  <Raven_CentralLevel_UpgradeStageSunGrow>太阳核心展开</Raven_CentralLevel_UpgradeStageSunGrow>
+  <Raven_CentralLevel_UpgradeStatus>{0} · 总进度 {1}</Raven_CentralLevel_UpgradeStatus>
+  <Raven_CentralLevel_DebugUpgrade_Label>[调试] 直接升级中枢</Raven_CentralLevel_DebugUpgrade_Label>
+  <Raven_CentralLevel_DebugUpgrade_Desc>跳过全部升级材料，升至下一级并播放完整的太阳收束、结构转场、日冕爆发与太阳展开动画。</Raven_CentralLevel_DebugUpgrade_Desc>
+  <Raven_CentralIndustrial_NoTrigger>尚无高级产出</Raven_CentralIndustrial_NoTrigger>
+  <Raven_CentralIndustrialRecipe_HomeEntry>06   工业物品配方</Raven_CentralIndustrialRecipe_HomeEntry>
+  <Raven_CentralIndustrial_Title>工业总览</Raven_CentralIndustrial_Title>
+  <Raven_CentralIndustrial_Description>实际产出遥测与工业里程碑进度。</Raven_CentralIndustrial_Description>
+  <Raven_CentralIndustrial_BackHome>返回主页</Raven_CentralIndustrial_BackHome>
+  <Raven_CentralIndustrial_Interval10Seconds>10秒</Raven_CentralIndustrial_Interval10Seconds>
+  <Raven_CentralIndustrial_Interval1Minute>1分钟</Raven_CentralIndustrial_Interval1Minute>
+  <Raven_CentralIndustrial_Interval10Minutes>10分钟</Raven_CentralIndustrial_Interval10Minutes>
+  <Raven_CentralIndustrial_Interval1Hour>1小时</Raven_CentralIndustrial_Interval1Hour>
+  <Raven_CentralIndustrial_Milestones>工业里程碑</Raven_CentralIndustrial_Milestones>
+  <Raven_CentralIndustrial_ChainHint>首次产出推进连续链</Raven_CentralIndustrial_ChainHint>
+  <Raven_CentralIndustrial_StatusCompleted>已完成</Raven_CentralIndustrial_StatusCompleted>
+  <Raven_CentralIndustrial_StatusCurrent>当前阶段</Raven_CentralIndustrial_StatusCurrent>
+  <Raven_CentralIndustrial_StatusWaiting>等待前置产出</Raven_CentralIndustrial_StatusWaiting>
+  <Raven_CentralIndustrial_Telemetry>周期遥测</Raven_CentralIndustrial_Telemetry>
+  <Raven_CentralIndustrial_InstantPower>瞬时耗电</Raven_CentralIndustrial_InstantPower>
+  <Raven_CentralIndustrial_PeriodEnergy>周期电量均值</Raven_CentralIndustrial_PeriodEnergy>
+  <Raven_CentralIndustrial_PeriodOutput>周期产物均值</Raven_CentralIndustrial_PeriodOutput>
+  <Raven_CentralIndustrial_ActiveMachines>运行设备</Raven_CentralIndustrial_ActiveMachines>
+  <Raven_CentralIndustrial_CurrentProfile>当前参数</Raven_CentralIndustrial_CurrentProfile>
+  <Raven_CentralIndustrial_Trend>产量 / 电力趋势</Raven_CentralIndustrial_Trend>
+  <Raven_CentralIndustrial_ProductOutputs>工业物品产出</Raven_CentralIndustrial_ProductOutputs>
+  <Raven_CentralIndustrial_ProductName>物品</Raven_CentralIndustrial_ProductName>
+  <Raven_CentralIndustrial_ExpectedOutput>预计</Raven_CentralIndustrial_ExpectedOutput>
+  <Raven_CentralIndustrial_ActualOutputColumn>实际均值</Raven_CentralIndustrial_ActualOutputColumn>
+  <Raven_CentralIndustrial_LifetimeOutput>累计</Raven_CentralIndustrial_LifetimeOutput>
+  <Raven_CentralIndustrial_NoProductOutput>暂无工业物品产出记录</Raven_CentralIndustrial_NoProductOutput>
+  <Raven_CentralIndustrial_WaitingSamples>等待采样数据…</Raven_CentralIndustrial_WaitingSamples>
+  <Raven_CentralIndustrial_LiquidOutputs>液体产量</Raven_CentralIndustrial_LiquidOutputs>
+  <Raven_CentralIndustrial_ActualOutput>实际输出 · 近5周期均值</Raven_CentralIndustrial_ActualOutput>
+  <Raven_CentralIndustrial_NoLiquidOutput>暂无液体产出记录</Raven_CentralIndustrial_NoLiquidOutput>
+  <Raven_CentralIndustrial_PeriodAndLifetime>均值 {0}  ·  累计 {1}</Raven_CentralIndustrial_PeriodAndLifetime>
+  <Raven_CentralAbility_HomeEntry>03   中枢能力</Raven_CentralAbility_HomeEntry>
+  <Raven_CentralAbility_Title>中枢能力</Raven_CentralAbility_Title>
+  <Raven_CentralAbility_HeaderStats>已解锁 {0}    槽位 {1}    协议负载 {2} W</Raven_CentralAbility_HeaderStats>
+  <Raven_CentralAbility_TabMatrix>能力矩阵</Raven_CentralAbility_TabMatrix>
+  <Raven_CentralAbility_TabLoadout>协议装配</Raven_CentralAbility_TabLoadout>
+  <Raven_CentralAbility_GoToLoadout>前往装配</Raven_CentralAbility_GoToLoadout>
+  <Raven_CentralAbility_NoSelection>未选择能力节点</Raven_CentralAbility_NoSelection>
+  <Raven_CentralAbility_ResetView>复位</Raven_CentralAbility_ResetView>
+  <Raven_CentralAbility_MatrixHint>ROOT BASELINE // LEVEL ASCENSION</Raven_CentralAbility_MatrixHint>
+  <Raven_CentralAbility_LevelLabel>Lv.{0}</Raven_CentralAbility_LevelLabel>
+  <Raven_CentralAbility_EffectSection>协议效果</Raven_CentralAbility_EffectSection>
+  <Raven_CentralAbility_Power>持续耗电 {0} W</Raven_CentralAbility_Power>
+  <Raven_CentralAbility_FuelDuration>单批燃料维持 {0}</Raven_CentralAbility_FuelDuration>
+  <Raven_CentralAbility_FuelBatch>持续燃料</Raven_CentralAbility_FuelBatch>
+  <Raven_CentralAbility_NoFuel>该能力不消耗持续燃料</Raven_CentralAbility_NoFuel>
+  <Raven_CentralAbility_UnlockSection>等级解锁</Raven_CentralAbility_UnlockSection>
+  <Raven_CentralAbility_UnlockAny>满足研究路径或提交材料路径中的任意一项</Raven_CentralAbility_UnlockAny>
+  <Raven_CentralAbility_UnlockAll>必须同时满足研究路径并提交全部材料</Raven_CentralAbility_UnlockAll>
+  <Raven_CentralAbility_UnlockSingle>满足当前配置的解锁路径</Raven_CentralAbility_UnlockSingle>
+  <Raven_CentralAbility_ResearchPath>研究路径</Raven_CentralAbility_ResearchPath>
+  <Raven_CentralAbility_ResearchRequirement>{0} · 最低 Lv.{1}</Raven_CentralAbility_ResearchRequirement>
+  <Raven_CentralAbility_MaterialPath>提交材料路径</Raven_CentralAbility_MaterialPath>
+  <Raven_CentralAbility_ItemRequirement>{0}    库存 {1} / 需要 {2}</Raven_CentralAbility_ItemRequirement>
+  <Raven_CentralAbility_Unlocked>该等级已经解锁</Raven_CentralAbility_Unlocked>
+  <Raven_CentralAbility_UnlockSequential>需要先解锁下方等级</Raven_CentralAbility_UnlockSequential>
+  <Raven_CentralAbility_UnlockLevel>解锁 Lv.{0}</Raven_CentralAbility_UnlockLevel>
+  <Raven_CentralAbility_UnlockedMessage>中枢能力已解锁：{0} Lv.{1}</Raven_CentralAbility_UnlockedMessage>
+  <Raven_CentralAbility_AvailableProtocols>可装配协议</Raven_CentralAbility_AvailableProtocols>
+  <Raven_CentralAbility_NoUnlockedProtocols>尚未解锁任何可装配协议。</Raven_CentralAbility_NoUnlockedProtocols>
+  <Raven_CentralAbility_CatalogMeta>Lv.{0} · {1}</Raven_CentralAbility_CatalogMeta>
+  <Raven_CentralAbility_Assigned>已装配</Raven_CentralAbility_Assigned>
+  <Raven_CentralAbility_ProtocolSlots>协议槽位 {0}    当前负载 {1} W</Raven_CentralAbility_ProtocolSlots>
+  <Raven_CentralAbility_SlotNumber>SLOT {0}</Raven_CentralAbility_SlotNumber>
+  <Raven_CentralAbility_EmptySlot>空协议槽</Raven_CentralAbility_EmptySlot>
+  <Raven_CentralAbility_ClearSlot>卸下当前协议</Raven_CentralAbility_ClearSlot>
+  <Raven_CentralAbility_FuelRemaining>剩余燃料：{0}</Raven_CentralAbility_FuelRemaining>
+  <Raven_CentralAbility_FuelCompact>燃料</Raven_CentralAbility_FuelCompact>
+  <Raven_CentralAbility_PowerDebugFree>持续耗电 0 W · 调试</Raven_CentralAbility_PowerDebugFree>
+  <Raven_CentralAbility_EffectPawnHediff>中枢地图殖民者获得“{0}”</Raven_CentralAbility_EffectPawnHediff>
+  <Raven_CentralAbility_EffectIndustrialSpeed>鸦液工业生产速度 {0}</Raven_CentralAbility_EffectIndustrialSpeed>
+  <Raven_CentralAbility_EffectPowerEfficiency>全部协议持续耗电降低 {0}</Raven_CentralAbility_EffectPowerEfficiency>
+  <Raven_CentralAbility_EffectBuildingCountPawnBuff>当前渡鸦建筑 {0} / 门槛 {1}；达到后殖民者获得“{2}”</Raven_CentralAbility_EffectBuildingCountPawnBuff>
+  <Raven_CentralAbility_EffectIndustrialInvulnerability>玩家全部渡鸦工业建筑免疫伤害</Raven_CentralAbility_EffectIndustrialInvulnerability>
+  <Raven_CentralAbility_EffectSlotExtension>永久协议槽位 +{0}</Raven_CentralAbility_EffectSlotExtension>
+  <Raven_CentralAbility_InvalidAbility>无效的中枢能力。</Raven_CentralAbility_InvalidAbility>
+  <Raven_CentralAbility_MaximumLevel>该能力已经达到最高等级。</Raven_CentralAbility_MaximumLevel>
+  <Raven_CentralAbility_MissingMaterials>中枢库存不满足该能力的材料路径。</Raven_CentralAbility_MissingMaterials>
+  <Raven_CentralAbility_MissingAnyPath>研究路径尚未完成，中枢库存也不足以提交材料。</Raven_CentralAbility_MissingAnyPath>
+  <Raven_CentralAbility_MissingResearch>缺少研究：{0} Lv.{1}</Raven_CentralAbility_MissingResearch>
+  <Raven_CentralAbility_InvalidSlot>无效的协议槽位。</Raven_CentralAbility_InvalidSlot>
+  <Raven_CentralAbility_NotAssemblable>该能力未解锁或属于永久能力，不能装配。</Raven_CentralAbility_NotAssemblable>
+  <Raven_CentralAbility_AlreadyAssigned>同一根能力不能重复装配。</Raven_CentralAbility_AlreadyAssigned>
+  <Raven_CentralAbility_Status_Locked>未解锁</Raven_CentralAbility_Status_Locked>
+  <Raven_CentralAbility_Status_NotAssigned>未装配</Raven_CentralAbility_Status_NotAssigned>
+  <Raven_CentralAbility_Status_WaitingFuel>等待燃料</Raven_CentralAbility_Status_WaitingFuel>
+  <Raven_CentralAbility_Status_HubUnavailable>中枢离线</Raven_CentralAbility_Status_HubUnavailable>
+  <Raven_CentralAbility_Status_SwitchedOff>中枢已关闭</Raven_CentralAbility_Status_SwitchedOff>
+  <Raven_CentralAbility_Status_BrokenDown>中枢故障</Raven_CentralAbility_Status_BrokenDown>
+  <Raven_CentralAbility_Status_NoPower>电力链路中断</Raven_CentralAbility_Status_NoPower>
+  <Raven_CentralAbility_Status_Standby>等待调度</Raven_CentralAbility_Status_Standby>
+  <Raven_CentralAbility_Status_Running>协议运行中</Raven_CentralAbility_Status_Running>
+  <Raven_CentralAbility_DebugUnlockAll_Label>[调试] 解锁全部中枢能力</Raven_CentralAbility_DebugUnlockAll_Label>
+  <Raven_CentralAbility_DebugUnlockAll_Desc>跳过全部研究与一次性材料要求，逐级解锁所有中枢能力，并正常触发永久槽位扩展和等级 Worker。</Raven_CentralAbility_DebugUnlockAll_Desc>
+  <Raven_CentralAbility_DebugUnlockAll_Completed>已解锁 {0} 个中枢能力等级。</Raven_CentralAbility_DebugUnlockAll_Completed>
+  <Raven_CentralAbility_DebugUnlockAll_Already>所有中枢能力已经解锁。</Raven_CentralAbility_DebugUnlockAll_Already>
+  <Raven_CentralAbility_DebugNoConsumption_Label>[调试] 中枢能力无消耗</Raven_CentralAbility_DebugNoConsumption_Label>
+  <Raven_CentralAbility_DebugNoConsumption_Desc>启用时，已装配能力的燃料进度无条件消耗并自动补满，但不检查或扣除中枢库存，也不会增加浴日中枢的电力负载。状态保存到当前存档。</Raven_CentralAbility_DebugNoConsumption_Desc>
+  <Raven_CentralAbility_DebugNoConsumption_Enabled>中枢能力无消耗已启用。</Raven_CentralAbility_DebugNoConsumption_Enabled>
+  <Raven_CentralAbility_DebugNoConsumption_Disabled>中枢能力无消耗已关闭。</Raven_CentralAbility_DebugNoConsumption_Disabled>
+</LanguageData>

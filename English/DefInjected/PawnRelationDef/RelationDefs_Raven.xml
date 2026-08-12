@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Relation_Dominated.label>[Raven] Master</Raven_Relation_Dominated.label>
+  <Raven_Relation_Dominated.labelFemale>[Raven] Mistress</Raven_Relation_Dominated.labelFemale>
+  <Raven_Relation_AbsoluteMaster.label>[Raven] Absolute Master</Raven_Relation_AbsoluteMaster.label>
+  <Raven_Relation_AbsoluteMaster.labelFemale>[Raven] Absolute Mistress</Raven_Relation_AbsoluteMaster.labelFemale>
+  <Raven_Relation_LoyalServant.label>[Raven] Loyal Servant</Raven_Relation_LoyalServant.label>
+  <Raven_Relation_LoyalServant.labelFemale>[Raven] Loyal Female Servant</Raven_Relation_LoyalServant.labelFemale>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Hediff_ShadowStep.label>Shadow Step</Raven_Hediff_ShadowStep.label>
+  <Raven_Hediff_ShadowStep.description>Drawing on the power of the Shadow Cloak, movement speed is greatly increased and the form becomes elusive.</Raven_Hediff_ShadowStep.description>
+  <RavenHediff_ShadowAttackCooldown.label>Shadow Cooldown</RavenHediff_ShadowAttackCooldown.label>
+  <RavenHediff_ShadowAttackCooldown.description>Just delivered a lethal strike and is regrouping. Movement speed is extremely fast right now, but no attack can be launched again.</RavenHediff_ShadowAttackCooldown.description>
+</LanguageData>

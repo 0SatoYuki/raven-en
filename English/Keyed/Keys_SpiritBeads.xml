@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_AutoInsert>Auto Insert</RavenRace_AutoInsert>
+  <RavenRace_AutoInsertDesc>When enabled, if out of combat and the spirit bead is not inside, it will automatically attempt to insert it.\n(Does not trigger while drafted)</RavenRace_AutoInsertDesc>
+  <RavenRace_InsertBeads>Insert Beads</RavenRace_InsertBeads>
+  <RavenRace_InsertBeadsDesc>Manually insert the spirit egg bead to prepare a powerful attack.</RavenRace_InsertBeadsDesc>
+  <RavenRace_Msg_BeadsPopOut>{0} unequipped their weapon, and the spirit bead slipped out.</RavenRace_Msg_BeadsPopOut>
+  <RavenRace_Text_BeadsInserted>Inserted (Charged)</RavenRace_Text_BeadsInserted>
+  <RavenRace_Text_ClimaxImpact>Climax!</RavenRace_Text_ClimaxImpact>
+  <RavenRace_Settings_SpiritBeads>Spirit Egg Beads (Easter Egg Weapon)</RavenRace_Settings_SpiritBeads>
+  <RavenRace_Settings_EnableGrandClimax>Enable Ability: Grand Climax</RavenRace_Settings_EnableGrandClimax>
+  <RavenRace_Settings_EnableGrandClimaxDesc>Allows the spirit egg bead to use a map-wide powerful crowd-control ability. Disabled by default for balance.</RavenRace_Settings_EnableGrandClimaxDesc>
+  <RavenRace_Msg_GrandClimaxDisabled>This ability is disabled in mod settings.</RavenRace_Msg_GrandClimaxDisabled>
+  <RavenRace_Msg_GrandClimaxUnleashed>{0} unleashed the full potential of the spirit bead, and the battlefield was flooded with lewd aura!</RavenRace_Msg_GrandClimaxUnleashed>
+</LanguageData>

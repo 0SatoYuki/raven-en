@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_CuttingMachine_FilterCommand>Stone filter</RavenRace_CuttingMachine_FilterCommand>
+  <RavenRace_CuttingMachine_FilterCommandDesc>Choose which stone chunk types this cutting machine may process from its virtual conveyor inventory.</RavenRace_CuttingMachine_FilterCommandDesc>
+  <RavenRace_CuttingMachine_Eject>Eject stone blocks</RavenRace_CuttingMachine_Eject>
+  <RavenRace_CuttingMachine_EjectDesc>Eject stone blocks from the cutting machine's virtual product storage without affecting inputs or stored liquid.</RavenRace_CuttingMachine_EjectDesc>
+  <RavenRace_CuttingMachine_Producing>Cutting {0} stone chunks: {1}</RavenRace_CuttingMachine_Producing>
+  <RavenRace_CuttingMachine_Waiting>Waiting for allowed stone chunks</RavenRace_CuttingMachine_Waiting>
+  <RavenRace_CuttingMachine_AllowedCount>Allowed stone types: {0}</RavenRace_CuttingMachine_AllowedCount>
+  <RavenRace_CuttingMachine_StoredProducts>Virtual stone blocks: {0}/{1}</RavenRace_CuttingMachine_StoredProducts>
+  <RavenRace_CuttingMachine_FilterTitle>Cutting machine stone filter</RavenRace_CuttingMachine_FilterTitle>
+  <RavenRace_CuttingMachine_FilterSummary>{0}/{1} cuttable stone types allowed</RavenRace_CuttingMachine_FilterSummary>
+  <RavenRace_CuttingMachine_AllowAll>Allow all</RavenRace_CuttingMachine_AllowAll>
+  <RavenRace_CuttingMachine_DenyAll>Allow none</RavenRace_CuttingMachine_DenyAll>
+  <RavenRace_CuttingMachine_StoneRow>{0}  →  {1} x{2}</RavenRace_CuttingMachine_StoneRow>
+  <RavenRace_CuttingMachine_InputBuffer>Stone buffer: {0}/{1}</RavenRace_CuttingMachine_InputBuffer>
+  <RavenRace_CuttingMachine_SelectRecipe>Select a stone block recipe</RavenRace_CuttingMachine_SelectRecipe>
+  <RavenRace_CuttingMachine_ResearchLocked>Research required: {0}</RavenRace_CuttingMachine_ResearchLocked>
+  <RavenRace_CuttingMachine_NoPower>Not connected to a power grid</RavenRace_CuttingMachine_NoPower>
+  <RavenRace_CuttingMachine_DynamicInput>Filtered stone chunks, up to 10</RavenRace_CuttingMachine_DynamicInput>
+  <RavenRace_CuttingMachine_DynamicProduct>Corresponding stone blocks by chunk type</RavenRace_CuttingMachine_DynamicProduct>
+</LanguageData>

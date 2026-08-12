@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_PatternFloor_A.label>[Raven] Pattern Floor A</Raven_Building_PatternFloor_A.label>
+  <Raven_Building_PatternFloor_A.description>A 3x3 decorative patterned floor tile, style A. It greatly enhances the beauty of the environment.</Raven_Building_PatternFloor_A.description>
+  <Raven_Building_PatternFloor_B.label>[Raven] Pattern Floor B</Raven_Building_PatternFloor_B.label>
+  <Raven_Building_PatternFloor_B.description>A 3x3 decorative patterned floor tile, style B. It greatly enhances the beauty of the environment.</Raven_Building_PatternFloor_B.description>
+  <Raven_Building_PatternFloor_C.label>[Raven] Pattern Floor C</Raven_Building_PatternFloor_C.label>
+  <Raven_Building_PatternFloor_C.description>A 3x3 decorative patterned floor tile, style C. It greatly enhances the beauty of the environment.</Raven_Building_PatternFloor_C.description>
+  <Raven_Building_HotSpringTileHorizontal.label>[Raven] Hot Spring Tile</Raven_Building_HotSpringTileHorizontal.label>
+  <Raven_Building_HotSpringTileHorizontal.description>A hot spring stone border placed along the edge of a cell. Plan continuous runs like walls and rotate it to select the top, right, bottom, or left side. Stack two differently rotated borders in the same cell to form a mitered corner. It does not create hot spring terrain on its own.</Raven_Building_HotSpringTileHorizontal.description>
+  <Raven_Building_HotSpringOuterCornerTile.label>[Raven] Hot Spring Corner Divider Tile</Raven_Building_HotSpringOuterCornerTile.label>
+  <Raven_Building_HotSpringOuterCornerTile.description>An outer corner that joins two hot spring divider tiles. Rotation automatically selects artwork with the correct upper or lower thickness, and it can share a cell with other hot spring tiles.</Raven_Building_HotSpringOuterCornerTile.description>
+  <Raven_Building_HotSpringSpout.label>[Raven] Hot Spring Spout</Raven_Building_HotSpringSpout.label>
+  <Raven_Building_HotSpringSpout.description>A decorative circulation spout for Raven fluid hot springs. Its flow is always visible, it can face any of four directions, and it does not create hot spring terrain.</Raven_Building_HotSpringSpout.description>
+  <Raven_Building_HotSpringDecorationOne.label>[Raven] Hot Spring Bath Kit</Raven_Building_HotSpringDecorationOne.label>
+  <Raven_Building_HotSpringDecorationOne.description>A neatly arranged set of towels, bathing supplies, and care bottles. It can be built directly over Raven fluid hot spring terrain.</Raven_Building_HotSpringDecorationOne.description>
+  <Raven_Building_HotSpringDecorationTwo.label>[Raven] Hot Spring Floral Bucket</Raven_Building_HotSpringDecorationTwo.label>
+  <Raven_Building_HotSpringDecorationTwo.description>A flower-filled bathing bucket draped with a towel. It can be built directly over Raven fluid hot spring terrain.</Raven_Building_HotSpringDecorationTwo.description>
+  <Raven_Building_HotSpringDecorationThree.label>[Raven] Hot Spring Ladle</Raven_Building_HotSpringDecorationThree.label>
+  <Raven_Building_HotSpringDecorationThree.description>A long-handled bath ladle with unique artwork for all four directions. It can be built directly over Raven fluid hot spring terrain.</Raven_Building_HotSpringDecorationThree.description>
+  <Raven_DoorSlopeSingle.label>[Raven] Door Threshold (Single)</Raven_DoorSlopeSingle.label>
+  <Raven_DoorSlopeSingle.description>A smooth transitional slope threshold. Designed to be placed right under a single door, it will never obstruct pawn movement and slightly improves the room's beauty.</Raven_DoorSlopeSingle.description>
+  <Raven_DoorSlopeDouble.label>[Raven] Door Threshold (Double)</Raven_DoorSlopeDouble.label>
+  <Raven_DoorSlopeDouble.description>A smooth transitional slope threshold. Designed specifically for double doors, it will never obstruct pawn movement and slightly improves the room's beauty.</Raven_DoorSlopeDouble.description>
+  <Raven_DoorSlopeMassive.label>[Raven] Hangar Door Threshold (Massive)</Raven_DoorSlopeMassive.label>
+  <Raven_DoorSlopeMassive.description>A smooth transitional slope threshold. Designed specifically for massive hangar doors, it will never obstruct pawn movement and slightly improves the room's beauty.</Raven_DoorSlopeMassive.description>
+</LanguageData>

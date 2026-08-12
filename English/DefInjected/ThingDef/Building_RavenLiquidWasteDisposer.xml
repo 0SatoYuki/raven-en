@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_LiquidWasteDisposer.label>[Raven] Liquid Waste Disposer</Raven_Building_LiquidWasteDisposer.label>
+  <Raven_Building_LiquidWasteDisposer.description>Used to handle liquid waste that is no longer desired for separation or storage. Once connected via a pipe input port, it will directly destroy any liquid that enters its buffer chamber.</Raven_Building_LiquidWasteDisposer.description>
+</LanguageData>

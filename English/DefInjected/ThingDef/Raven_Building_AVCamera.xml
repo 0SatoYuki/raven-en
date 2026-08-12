@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_AVCamera.label>[Raven] Av Camera</Raven_Building_AVCamera.label>
+  <Raven_Building_AVCamera.description>An advanced camera equipped with advanced capture and covert recording features.\n\nAs long as it has power, it silently monitors everything within its field of view. When it detects that creatures within range have engaged in "reproductive activities" and finished, it automatically extracts and compresses the process into extremely precious encrypted footage.\n\nIf placed in a room, the room will be classified as an "AV Studio", and it will be able to produce priceless collector's edition recordings!</Raven_Building_AVCamera.description>
+</LanguageData>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MustPlaceOnWall>Must be placed on a wall or rock.</MustPlaceOnWall>
+  <Raven_DefenseHubBuildTurret>Deploy turret...</Raven_DefenseHubBuildTurret>
+  <Raven_DefenseHubBuildTurretDesc>Select a turret powered by the defense hub, then choose its deployment position.</Raven_DefenseHubBuildTurretDesc>
+  <Raven_DefenseHubConsoleTitle>Defense Hub Console</Raven_DefenseHubConsoleTitle>
+  <Raven_DefenseHubConsoleAutonomousOnline>Autonomous control online: pure raven liquid is powering the array.</Raven_DefenseHubConsoleAutonomousOnline>
+  <Raven_DefenseHubConsoleMannedOnline>Manned control online: an operator is stationed.</Raven_DefenseHubConsoleMannedOnline>
+  <Raven_DefenseHubConsoleOffline>Array idle: station an operator or supply pure raven liquid to activate.</Raven_DefenseHubConsoleOffline>
+  <Raven_DefenseHubConsolePower>Autonomous protocols</Raven_DefenseHubConsolePower>
+  <Raven_DefenseHubConsolePureLiquid>Pure raven liquid</Raven_DefenseHubConsolePureLiquid>
+  <Raven_DefenseHubConsoleManualMode>Manned mode</Raven_DefenseHubConsoleManualMode>
+  <Raven_DefenseHubConsoleTier>Enhancement tier</Raven_DefenseHubConsoleTier>
+  <Raven_DefenseHubConsoleOperations>Array operations</Raven_DefenseHubConsoleOperations>
+  <Raven_DefenseHubConsoleRegister>Register a selected turret</Raven_DefenseHubConsoleRegister>
+  <Raven_DefenseHubConsoleRegisterInvalid>This turret cannot be registered. It must be in range, allied, unmanaged, supported by the hub, and within quota.</Raven_DefenseHubConsoleRegisterInvalid>
+  <Raven_DefenseHubConsoleRegisterSuccess>Registered {0}.</Raven_DefenseHubConsoleRegisterSuccess>
+  <Raven_DefenseHubConsoleScanClaymores>Scan claymores</Raven_DefenseHubConsoleScanClaymores>
+  <Raven_DefenseHubConsoleTurrets>Registered turrets: {0} / {1}</Raven_DefenseHubConsoleTurrets>
+  <Raven_DefenseHubConsoleNoTurrets>No registered turrets. Deploy a new turret or scan idle ones in range.</Raven_DefenseHubConsoleNoTurrets>
+  <Raven_DefenseHubConsoleTurretState>{0} - Cell {1}</Raven_DefenseHubConsoleTurretState>
+  <Raven_DefenseHubConsoleTurretPower>Hub power: {0} W</Raven_DefenseHubConsoleTurretPower>
+  <Raven_DefenseHubConsoleUnregister>Unregister and dismantle</Raven_DefenseHubConsoleUnregister>
+  <Raven_DefenseHubConsoleUnregisterConfirm>Unregister and dismantle {0}? Its plan and automatic rebuilding will also be removed.</Raven_DefenseHubConsoleUnregisterConfirm>
+  <Raven_DefenseHubConsoleHint>Autonomous protocols continuously consume pure raven liquid and idle when it runs dry.</Raven_DefenseHubConsoleHint>
+  <Raven_DefenseHubConsoleManualDetail>Consumes no pure raven liquid. The array is activated only by stationed operators and their skill bonuses.</Raven_DefenseHubConsoleManualDetail>
+  <Raven_DefenseHubConsoleTierDetail>Consumes {0} pure raven liquid daily. Cooldown {1}, damage {2}, durability {3}, accuracy {4}, repair {5}.</Raven_DefenseHubConsoleTierDetail>
+  <Raven_DefenseHubConsoleStatus>Hub status</Raven_DefenseHubConsoleStatus>
+  <Raven_DefenseHubConsolePowerDraw>Total power draw</Raven_DefenseHubConsolePowerDraw>
+  <Raven_DefenseHubConsoleRepairSpeed>Repair speed</Raven_DefenseHubConsoleRepairSpeed>
+  <Raven_DefenseHubConsoleOperators>Operators: {0}</Raven_DefenseHubConsoleOperators>
+  <Raven_DefenseHubConsoleHumanBonusValue>Operator bonus: cooldown {0}, accuracy {1}</Raven_DefenseHubConsoleHumanBonusValue>
+  <Raven_DefenseHubConsoleNone>None</Raven_DefenseHubConsoleNone>
+  <Raven_DefenseHubConsoleOn>On</Raven_DefenseHubConsoleOn>
+  <Raven_DefenseHubConsoleOff>Off</Raven_DefenseHubConsoleOff>
+  <Raven_DefenseHubConsoleStateAlive>Online</Raven_DefenseHubConsoleStateAlive>
+  <Raven_DefenseHubConsoleStateDestroyedPendingRebuild>Awaiting rebuild</Raven_DefenseHubConsoleStateDestroyedPendingRebuild>
+  <Raven_DefenseHubConsoleStateRebuilding>Rebuilding</Raven_DefenseHubConsoleStateRebuilding>
+  <Raven_DefenseHubConsoleStateRebuiltWaitingBind>Awaiting registration</Raven_DefenseHubConsoleStateRebuiltWaitingBind>
+  <Raven_EnterConcealment>Enter concealment</Raven_EnterConcealment>
+  <Raven_ExitConcealment>Exit concealment</Raven_ExitConcealment>
+  <Raven_ExitConcealmentDesc>Leave the current camouflage concealment.</Raven_ExitConcealmentDesc>
+  <Raven_Concealment_Occupied>Occupied</Raven_Concealment_Occupied>
+  <Raven_Concealment_Vacant>Vacant</Raven_Concealment_Vacant>
+  <Raven_Concealment_Hidden>Hidden (AI cannot detect)</Raven_Concealment_Hidden>
+  <Raven_Concealment_Revealed>Revealed! (AI will attack)</Raven_Concealment_Revealed>
+  <Raven_Concealment_SwapWeapon>Swap weapon</Raven_Concealment_SwapWeapon>
+  <Raven_Concealment_SwapWeaponDesc>Select another ranged weapon from the occupant's equipped or backpack slots.</Raven_Concealment_SwapWeaponDesc>
+  <Raven_Message_BeastTrapKill>The beast trap successfully caught and killed {0}.</Raven_Message_BeastTrapKill>
+  <Raven_DefenseHubAutoRepair>Auto repair</Raven_DefenseHubAutoRepair>
+  <Raven_DefenseHubAutoRepairDesc>When enabled, the hub will attempt to rebuild and re-register managed turrets on destruction; when disabled, it unregisters on destruction.</Raven_DefenseHubAutoRepairDesc>
+  <Raven_DefenseHubNoTurretsConfigured>No buildable turret types configured.</Raven_DefenseHubNoTurretsConfigured>
+  <Raven_DefenseHubAtCapacity>Reached management capacity: {0}</Raven_DefenseHubAtCapacity>
+  <Raven_DefenseHubAtTypeCapacity>{0} reached type capacity: {1}</Raven_DefenseHubAtTypeCapacity>
+  <Raven_DefenseHubShowRanges>Show managed turret ranges</Raven_DefenseHubShowRanges>
+  <Raven_DefenseHubShowRangesDesc>Toggle whether to show all managed turrets' attack ranges when the hub is selected.</Raven_DefenseHubShowRangesDesc>
+  <Raven_DefenseHubOutOfBuildRadius>Out of hub build radius: {0}</Raven_DefenseHubOutOfBuildRadius>
+  <Raven_DefenseHubInfo>Array management terminal</Raven_DefenseHubInfo>
+  <Raven_DefenseHubInfoDesc>Open the management terminal panel to view the hub's turret roster and deployment quota.</Raven_DefenseHubInfoDesc>
+  <Raven_DefenseHub_GlobalCount>Hub global load</Raven_DefenseHub_GlobalCount>
+  <Raven_DefenseHubLackBuildCost>Insufficient materials to build {0}: {1}</Raven_DefenseHubLackBuildCost>
+  <Raven_DefenseHubAlreadyManaged>{0} already has a management plan or finished product at this position.</Raven_DefenseHubAlreadyManaged>
+  <Raven_DefenseHubRebuildGiveUp>{0} could not be rebuilt for a long time and was unregistered from the hub management list.</Raven_DefenseHubRebuildGiveUp>
+  <Raven_DefenseHubEjectAll>Eject all</Raven_DefenseHubEjectAll>
+  <Raven_DefenseHubEjectAllDesc>Eject all units from the hub to nearby.</Raven_DefenseHubEjectAllDesc>
+  <Raven_DefenseHubEnter>Enter {0}</Raven_DefenseHubEnter>
+  <Raven_DefenseHubCannotEnterMenu>Cannot enter {0}</Raven_DefenseHubCannotEnterMenu>
+  <Raven_DefenseHubCannotEnter>Cannot enter</Raven_DefenseHubCannotEnter>
+  <Raven_DefenseHubNotPlayerControlled>Only player-controllable units may enter</Raven_DefenseHubNotPlayerControlled>
+  <Raven_DefenseHubMissingEnterJob>JobDef required to enter the hub is not configured.</Raven_DefenseHubMissingEnterJob>
+  <Raven_DefenseHubTurretMissingFrame>{0} has no usable frameDef and cannot be built via the hub. Ensure the turret has a designationCategory set.</Raven_DefenseHubTurretMissingFrame>
+  <Raven_DefenseHubCannotPlaceFrame>Cannot build {0} at this position (terrain incompatible or occupied).</Raven_DefenseHubCannotPlaceFrame>
+  <RavenRace_Defense_Designator_DefenseHubTurret_Description>
+(Powered and managed by the defense hub)</RavenRace_Defense_Designator_DefenseHubTurret_Description>
+  <RavenRace_Defense_Building_Concealment_Message>{0} left concealment due to extreme hunger.</RavenRace_Defense_Building_Concealment_Message>
+  <RavenRace_Defense_Building_Concealment_Message_2>{0} has no available ranged weapon.</RavenRace_Defense_Building_Concealment_Message_2>
+  <RavenRace_Defense_Building_Concealment_Label>Equipment: {0}</RavenRace_Defense_Building_Concealment_Label>
+  <RavenRace_Defense_Building_Concealment_Label_2>Inventory: {0}</RavenRace_Defense_Building_Concealment_Label_2>
+  <RavenRace_Defense_Building_Concealment_Label_3>No ranged weapon available</RavenRace_Defense_Building_Concealment_Label_3>
+  <RavenRace_Defense_Hediff_AnestheticBuildup_Message>{0} was knocked down by anesthetic gas!</RavenRace_Defense_Hediff_AnestheticBuildup_Message>
+  <RavenRace_Defense_CompTrapEffect_LegCrusher_Message>{0}'s Achilles tendon was severed!</RavenRace_Defense_CompTrapEffect_LegCrusher_Message>
+  <RavenRace_Defense_CompTrapEffect_Lego_Message>{0} stepped on a Lego! How brutal!</RavenRace_Defense_CompTrapEffect_Lego_Message>
+  <RavenRace_Defense_Hediff_ConceptionProcess_Message>{0} was forcibly filled with a massive amount of spirit eggs!</RavenRace_Defense_Hediff_ConceptionProcess_Message>
+  <RavenRace_Defense_CompTrigger_Label>Trigger range - ({0:0})</RavenRace_Defense_CompTrigger_Label>
+  <RavenRace_Defense_CompTrigger_Description>Shrink the gas trap's auto-trigger range. Set to 0 to keep only step-trigger.</RavenRace_Defense_CompTrigger_Description>
+  <RavenRace_Defense_CompTrigger_Label_2>Trigger range + ({0:0})</RavenRace_Defense_CompTrigger_Label_2>
+  <RavenRace_Defense_CompTrigger_Description_2>Expand the gas trap's auto-trigger range. Larger ranges trigger earlier.</RavenRace_Defense_CompTrigger_Description_2>
+  <RavenRace_Defense_PatternTurretUtility_Status>Missing targetPattern config</RavenRace_Defense_PatternTurretUtility_Status>
+  <RavenRace_Defense_PatternTurretUtility_Status_2>targetPattern contains empty lines</RavenRace_Defense_PatternTurretUtility_Status_2>
+  <RavenRace_Defense_PatternTurretUtility_Status_3>targetPattern line {0} is empty</RavenRace_Defense_PatternTurretUtility_Status_3>
+  <RavenRace_Defense_PatternTurretUtility_Status_4>targetPattern line {0} length differs from the first line</RavenRace_Defense_PatternTurretUtility_Status_4>
+  <RavenRace_Defense_PatternTurretUtility_Status_5>targetPattern line {0} col {1} contains '{2}', only 0 and 1 allowed</RavenRace_Defense_PatternTurretUtility_Status_5>
+  <RavenRace_Defense_CompFlameTurretEffect_Label>Adjust flame effect</RavenRace_Defense_CompFlameTurretEffect_Label>
+  <RavenRace_Defense_CompFlameTurretEffect_Description>Open the debug window to adjust the position, rotation, and scale of the raven_fire prefab, and export values that can be written back to XML.</RavenRace_Defense_CompFlameTurretEffect_Description>
+  <RavenRace_Defense_Dialog_FlameTurretEffectDebug_Label>Flame turret effect debug</RavenRace_Defense_Dialog_FlameTurretEffectDebug_Label>
+  <RavenRace_Defense_Dialog_FlameTurretEffectDebug_Label_2>Export values:</RavenRace_Defense_Dialog_FlameTurretEffectDebug_Label_2>
+  <RavenRace_Defense_Dialog_FlameTurretEffectDebug_Text>Copy exported values</RavenRace_Defense_Dialog_FlameTurretEffectDebug_Text>
+  <RavenRace_Defense_Dialog_FlameTurretEffectDebug_Message>Flame effect values copied to clipboard.</RavenRace_Defense_Dialog_FlameTurretEffectDebug_Message>
+  <RavenRace_Defense_Dialog_FlameTurretEffectDebug_Text_2>Reset to default</RavenRace_Defense_Dialog_FlameTurretEffectDebug_Text_2>
+  <RavenRace_Defense_Dialog_FlameTurretEffectDebug_Text_3>close</RavenRace_Defense_Dialog_FlameTurretEffectDebug_Text_3>
+</LanguageData>

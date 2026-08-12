@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Blowgun -->
+  <Raven_Projectile_BlowgunDart.label>[Raven] Stimulation Dart</Raven_Projectile_BlowgunDart.label>
+  <Raven_Weapon_Blowgun.label>[Raven] Blowgun</Raven_Weapon_Blowgun.label>
+  <Raven_Weapon_Blowgun.description>A simple but effective blowgun commonly used by Raven assassins. It fires darts coated in a potent stimulation toxin that dissipates into gas upon impact.\n\nThe physical damage caused by this weapon is extremely low, but it can effectively break the enemy's will.</Raven_Weapon_Blowgun.description>
+
+  <!-- Hidden Blade -->
+  <Raven_Weapon_HiddenBlade.label>[Raven] Hidden Blade</Raven_Weapon_HiddenBlade.label>
+  <Raven_Weapon_HiddenBlade.description>A retractable blade mounted under the wrist. It allows the wielder to launch sudden and lethal attacks while concealed.\n\nSpecial Effect: After remaining out of combat for 10 seconds, the next attack will deal 3x damage and have extremely high armor penetration.</Raven_Weapon_HiddenBlade.description>
+  <Raven_Weapon_HiddenBlade.tools.blade.label>[Raven] Blade</Raven_Weapon_HiddenBlade.tools.blade.label>
+
+  <!-- Sniper -->
+  <Raven_Weapon_SilentSniper.label>[Raven] Phantom Sniper Rifle</Raven_Weapon_SilentSniper.label>
+  <Raven_Weapon_SilentSniper.description>A highly sophisticated sniper rifle with an integrated suppressor. It is tailor-made for Raven infiltrators.\n\nSpecial Effect: Staying still accumulates "Steady Aim", significantly increasing shooting accuracy. Moving will lose this bonus.</Raven_Weapon_SilentSniper.description>
+
+  <Raven_Weapon_StandardCleaver.label>[Raven] Standard Cleaver</Raven_Weapon_StandardCleaver.label>
+  <Raven_Weapon_StandardCleaver.description>A Raven Fusang standard issue cleaver.</Raven_Weapon_StandardCleaver.description>
+
+  <!-- Suppression MG -->
+  <Raven_Projectile_Raven FusangSuppressionMGBullet.label>[Raven] Suppression MG Bullet</Raven_Projectile_Raven FusangSuppressionMGBullet.label>
+  <Raven_Weapon_Raven FusangSuppressionMG.label>[Raven] Elite Suppression MG</Raven_Weapon_Raven FusangSuppressionMG.label>
+  <Raven_Weapon_Raven FusangSuppressionMG.description>A highly automated suppression machine gun developed specifically for elite combat units by the Raven Fusang Armory. Its ultra-high fire rate and reinforced rounds make it a moving bullet storm on the battlefield â€” although the damage per shot is low, its extremely high stopping power can pin enemies in place.\n\nSpecial Effect: Staying still accumulates "Steady Aim", dramatically improving accuracy the longer you stand.</Raven_Weapon_Raven FusangSuppressionMG.description>
+</LanguageData>

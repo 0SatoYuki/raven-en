@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_IndustrialSupportColumn.label>[Raven] Industrial Support Column</Raven_IndustrialSupportColumn.label>
+  <Raven_IndustrialSupportColumn.description>A high-strength load-bearing column used in Raven industrial facilities. Its support radius is the same as the Raven grand column, and it does not block sight or pawn movement.</Raven_IndustrialSupportColumn.description>
+  <Raven_Decoration_Stairs.label>[Raven] Stairs</Raven_Decoration_Stairs.label>
+  <Raven_Decoration_Stairs.description>Decorative Raven-style stairs. The texture changes with rotation for three directions, and it does not impede pawn movement.</Raven_Decoration_Stairs.description>
+</LanguageData>

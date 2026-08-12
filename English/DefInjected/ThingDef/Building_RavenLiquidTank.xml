@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_LiquidTank.label>[Raven] Liquid Tank</Raven_Building_LiquidTank.label>
+  <Raven_Building_LiquidTank.description>A sealed storage tank used to temporarily store Raven fluid, clean water, or other liquids. The tank will display different colors and fluid levels depending on the current liquid type and reserve amount.</Raven_Building_LiquidTank.description>
+</LanguageData>

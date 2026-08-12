@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenIndustrialMarker_Set>Set industrial marker</RavenIndustrialMarker_Set>
+  <RavenIndustrialMarker_SetDesc>Select an item or liquid marker for this industrial entity. Current: {0}</RavenIndustrialMarker_SetDesc>
+  <RavenIndustrialMarker_Title>Industrial logistics marker</RavenIndustrialMarker_Title>
+  <RavenIndustrialMarker_Current>Current marker: {0}</RavenIndustrialMarker_Current>
+  <RavenIndustrialMarker_None>None</RavenIndustrialMarker_None>
+  <RavenIndustrialMarker_TabThing>Items</RavenIndustrialMarker_TabThing>
+  <RavenIndustrialMarker_TabLiquid>Liquids</RavenIndustrialMarker_TabLiquid>
+  <RavenIndustrialMarker_Search>Search:</RavenIndustrialMarker_Search>
+  <RavenIndustrialMarker_NoResults>No matching resources</RavenIndustrialMarker_NoResults>
+  <RavenIndustrialMarker_Clear>Clear marker</RavenIndustrialMarker_Clear>
+  <RavenIndustrialMarker_Close>Close</RavenIndustrialMarker_Close>
+</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_CuttingMachine.label>切割机</Raven_Building_CuttingMachine.label>
+  <Raven_Building_CuttingMachine.description>高速加工石块的鸦液工业设备。它会根据筛选设置批量切割多种石块，并产出各自对应的石砖。</Raven_Building_CuttingMachine.description>
+</LanguageData>

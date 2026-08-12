@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_RavenRite_DefaultRitualLabel>渡鸦仪式</RavenRace_RavenRite_DefaultRitualLabel>
+  <RavenRace_RavenRite_DefaultRoleLabel>仪式角色</RavenRace_RavenRite_DefaultRoleLabel>
+  <RavenRace_RavenRite_Selection_Title>选择渡鸦仪式</RavenRace_RavenRite_Selection_Title>
+  <RavenRace_RavenRite_Selection_Subtitle>{0} / {1} 个仪式就绪</RavenRace_RavenRite_Selection_Subtitle>
+  <RavenRace_RavenRite_Selection_Unavailable>不可用：{0}</RavenRace_RavenRite_Selection_Unavailable>
+  <RavenRace_RavenRite_Selection_AvailableStatus>就绪 · 冷却 {0:0.#} 天 · 需要 {1} 个角色</RavenRace_RavenRite_Selection_AvailableStatus>
+  <RavenRace_RavenRite_Selection_TooltipReady>状态：就绪</RavenRace_RavenRite_Selection_TooltipReady>
+  <RavenRace_RavenRite_Selection_TooltipCooldown>冷却：{0:0.#} 天</RavenRace_RavenRite_Selection_TooltipCooldown>
+  <RavenRace_RavenRite_Selection_TooltipRoles>角色：</RavenRace_RavenRite_Selection_TooltipRoles>
+  <RavenRace_RavenRite_Selection_Required>（必填）</RavenRace_RavenRite_Selection_Required>
+  <RavenRace_RavenRite_Selection_TooltipEnter>点击进入角色分配。</RavenRace_RavenRite_Selection_TooltipEnter>
+  <RavenRace_RavenRite_Selection_TooltipUnavailable>状态：不可用</RavenRace_RavenRite_Selection_TooltipUnavailable>
+  <RavenRace_RavenRite_Selection_TooltipReason>原因：{0}</RavenRace_RavenRite_Selection_TooltipReason>
+  <RavenRace_RavenRite_Selection_Footer>选择一项仪式开始。不可用的仪式会显示原因。</RavenRace_RavenRite_Selection_Footer>
+  <RavenRace_RavenRite_Close>关闭</RavenRace_RavenRite_Close>
+  <RavenRace_RavenRite_Promotion_Candidates>候选人（{0}）</RavenRace_RavenRite_Promotion_Candidates>
+  <RavenRace_RavenRite_Promotion_Offerings>归元灵卵（{0}）</RavenRace_RavenRite_Promotion_Offerings>
+  <RavenRace_RavenRite_Promotion_Participants>参与者（{0}）</RavenRace_RavenRite_Promotion_Participants>
+  <RavenRace_RavenRite_Promotion_Required>必填</RavenRace_RavenRite_Promotion_Required>
+  <RavenRace_RavenRite_Promotion_RequireRole>需要指定「{0}」</RavenRace_RavenRite_Promotion_RequireRole>
+  <RavenRace_RavenRite_Promotion_RequireOffering>需要选择一枚灵卵</RavenRace_RavenRite_Promotion_RequireOffering>
+  <RavenRace_RavenRite_Promotion_Ready>就绪 - 角色 {0} 人，参与者 {1} 人</RavenRace_RavenRite_Promotion_Ready>
+  <RavenRace_RavenRite_Promotion_ConcentrationBelowThreshold>金乌浓度尚未达到突破阈值（当前 {0} / 需要 {1}）</RavenRace_RavenRite_Promotion_ConcentrationBelowThreshold>
+  <RavenRace_RavenRite_EmberBlood_BerserkReason>余烬侵蚀</RavenRace_RavenRite_EmberBlood_BerserkReason>
+  <RavenRace_RavenRite_EmberBlood_DeathLabel>注射失败：死亡</RavenRace_RavenRite_EmberBlood_DeathLabel>
+  <RavenRace_RavenRite_EmberBlood_DeathText>{0} 无法承受余烬之血的力量，生命在烈焰中消逝。</RavenRace_RavenRite_EmberBlood_DeathText>
+  <RavenRace_RavenRite_EmberBlood_BerserkMessage>{0} 被余烬之血侵蚀，陷入狂暴！</RavenRace_RavenRite_EmberBlood_BerserkMessage>
+  <RavenRace_RavenRite_PromotionRite_Label>渡鸦晋升仪式</RavenRace_RavenRite_PromotionRite_Label>
+  <RavenRace_RavenRite_PromotionRite_Description>在渡鸦祭坛前举行晋升仪式，指定主持者与参与者。</RavenRace_RavenRite_PromotionRite_Description>
+  <RavenRace_RavenRite_PromotionRite_HostRole>晋升者</RavenRace_RavenRite_PromotionRite_HostRole>
+  <RavenRace_RavenRite_PurificationSuccess_Label>纯化成功</RavenRace_RavenRite_PurificationSuccess_Label>
+  <RavenRace_RavenRite_PurificationSuccess_Text>经过艰苦的试炼，{0} 体内的金乌血脉打破了桎梏，成功迈入了阶段 {1}！\n\n其浓度上限已解锁，并额外获得了 1% 的纯净浓度奖励。</RavenRace_RavenRite_PurificationSuccess_Text>
+  <RavenRace_RavenRite_PurificationFailed_Label>纯化失败</RavenRace_RavenRite_PurificationFailed_Label>
+  <RavenRace_RavenRite_PurificationFailed_Text>仪式结束了。基座的能量耗尽，但 {0} 体内的血脉并未产生质变。除了虚脱，什么也没有发生。</RavenRace_RavenRite_PurificationFailed_Text>
+  <RavenRace_RavenRite_Promotion_Chant_1>听吧，骄阳的后裔，烈日的见证者...</RavenRace_RavenRite_Promotion_Chant_1>
+  <RavenRace_RavenRite_Promotion_Chant_2>烧穿这凡躯的桎梏...</RavenRace_RavenRite_Promotion_Chant_2>
+  <RavenRace_RavenRite_Promotion_Chant_3>让那黑色的血从伤口流尽...</RavenRace_RavenRite_Promotion_Chant_3>
+  <RavenRace_RavenRite_Promotion_Chant_4>起来吧，黑羽中孕育的太阳！</RavenRace_RavenRite_Promotion_Chant_4>
+  <RavenRace_RavenRite_BloodlineRegression_Label>归元回溯</RavenRace_RavenRite_BloodlineRegression_Label>
+  <RavenRace_RavenRite_BloodlineRegression_Description>消耗祭坛暂存的渡鸦灵卵，以其血脉精髓强化发起人。</RavenRace_RavenRite_BloodlineRegression_Description>
+  <RavenRace_RavenRite_BloodlineRegression_InvokerRole>发起人</RavenRace_RavenRite_BloodlineRegression_InvokerRole>
+  <RavenRace_RavenRite_BloodlineRegression_InvokerRequired>需要清醒的渡鸦族殖民者担任发起人。</RavenRace_RavenRite_BloodlineRegression_InvokerRequired>
+  <RavenRace_RavenRite_BloodlineRegression_EggDataUnavailable>灵卵数据不可用。</RavenRace_RavenRite_BloodlineRegression_EggDataUnavailable>
+  <RavenRace_RavenRite_Unknown>未知</RavenRace_RavenRite_Unknown>
+  <RavenRace_RavenRite_BloodlineRegression_EggFather>父亲：{0}</RavenRace_RavenRite_BloodlineRegression_EggFather>
+  <RavenRace_RavenRite_BloodlineRegression_EggMother>  母亲：{0}</RavenRace_RavenRite_BloodlineRegression_EggMother>
+  <RavenRace_RavenRite_BloodlineRegression_EggConcentration>金乌浓度：{0}</RavenRace_RavenRite_BloodlineRegression_EggConcentration>
+  <RavenRace_RavenRite_BloodlineRegression_EggBloodline>血脉：</RavenRace_RavenRite_BloodlineRegression_EggBloodline>
+  <RavenRace_RavenRite_BloodlineRegression_NoBloodlineRecord>无记录</RavenRace_RavenRite_BloodlineRegression_NoBloodlineRecord>
+  <RavenRace_RavenRite_BloodlineRegression_ResearchRequired>前置研究未解锁：血脉回溯理论。</RavenRace_RavenRite_BloodlineRegression_ResearchRequired>
+  <RavenRace_RavenRite_BloodlineRegression_NoEggAvailable>地图上没有可用的渡鸦灵卵。</RavenRace_RavenRite_BloodlineRegression_NoEggAvailable>
+  <RavenRace_RavenRite_BloodlineRegression_AltarNotSpawned>渡鸦祭坛未处于地图上。</RavenRace_RavenRite_BloodlineRegression_AltarNotSpawned>
+  <RavenRace_RavenRite_BloodlineRegression_NoEligibleInvoker>没有可到达祭坛的合格渡鸦族发起人。</RavenRace_RavenRite_BloodlineRegression_NoEligibleInvoker>
+  <RavenRace_RavenRite_BloodlineRegression_SelectedEggUnavailable>选定的渡鸦灵卵已不可用。</RavenRace_RavenRite_BloodlineRegression_SelectedEggUnavailable>
+  <RavenRace_RavenRite_BloodlineRegression_AltarCannotAcceptEgg>渡鸦祭坛暂时无法收纳灵卵。</RavenRace_RavenRite_BloodlineRegression_AltarCannotAcceptEgg>
+  <RavenRace_RavenRite_BloodlineRegression_InvokerCannotReachEgg>发起人无法到达选定的渡鸦灵卵。</RavenRace_RavenRite_BloodlineRegression_InvokerCannotReachEgg>
+  <RavenRace_RavenRite_BloodlineRegression_InvokerInvalid>发起人不符合归元回溯仪式条件。</RavenRace_RavenRite_BloodlineRegression_InvokerInvalid>
+  <RavenRace_RavenRite_BloodlineRegression_NoStoredEgg>未收纳渡鸦灵卵。</RavenRace_RavenRite_BloodlineRegression_NoStoredEgg>
+  <RavenRace_RavenRite_BloodlineRegression_StoredEgg>已收纳：{0}</RavenRace_RavenRite_BloodlineRegression_StoredEgg>
+  <RavenRace_RavenRite_BloodlineRegression_AbsorptionSuccess>{0} 成功吸收了灵卵的血脉精华，体内的力量变得更加纯粹了。</RavenRace_RavenRite_BloodlineRegression_AbsorptionSuccess>
+  <RavenRace_RavenRite_ColonyGroupSqueeze_Label>群体狂欢仪式</RavenRace_RavenRite_ColonyGroupSqueeze_Label>
+  <RavenRace_RavenRite_ColonyGroupSqueeze_Description>发起一场狂欢。主持者带领众人祈颂，仪式完成后自动检索殖民地内积累精力最多的男性，令所有参与仪式的渡鸦女性与其共度良宵。</RavenRace_RavenRite_ColonyGroupSqueeze_Description>
+  <RavenRace_RavenRite_ColonyGroupSqueeze_HostRole>领头女孩</RavenRace_RavenRite_ColonyGroupSqueeze_HostRole>
+  <RavenRace_RavenRite_GreatClimaxSpeech_Label>激昂演说</RavenRace_RavenRite_GreatClimaxSpeech_Label>
+  <RavenRace_RavenRite_GreatClimaxSpeech_Description>领袖发表关于生命与繁衍的激情演说，激发全体信徒的情感共鸣。</RavenRace_RavenRite_GreatClimaxSpeech_Description>
+  <RavenRace_RavenRite_GreatClimaxSpeech_SpeakerRole>演讲者</RavenRace_RavenRite_GreatClimaxSpeech_SpeakerRole>
+  <RavenRace_RavenRite_PhilosophersStone_Label>贤者之石炼成</RavenRace_RavenRite_PhilosophersStone_Label>
+  <RavenRace_RavenRite_PhilosophersStone_Description>消耗齁金魔方、余烬之血、破碎日核与六色炼金鸦液宝石，开启持续一日的炼成仪式。仪式期间全殖民地必须完成至少八十次亲密互动，方可炼成贤者之石。</RavenRace_RavenRite_PhilosophersStone_Description>
+  <RavenRace_RavenRite_PhilosophersStone_HostRole>炼成主持者</RavenRace_RavenRite_PhilosophersStone_HostRole>
+</LanguageData>

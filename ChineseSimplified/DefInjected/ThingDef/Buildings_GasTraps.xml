@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 麻醉陷阱 -->
+  <RavenTrap_Gas_Anesthetic.label>麻醉气体陷阱</RavenTrap_Gas_Anesthetic.label>
+  <RavenTrap_Gas_Anesthetic.description>触发时释放一团麻醉气体，导致吸入者昏迷。</RavenTrap_Gas_Anesthetic.description>
+
+  <!-- 激励陷阱 -->
+  <RavenTrap_Gas_Aphrodisiac.label>激励气体陷阱</RavenTrap_Gas_Aphrodisiac.label>
+  <RavenTrap_Gas_Aphrodisiac.description>触发时释放一团强效激励气体。受害者会不由自主地陷入亢奋与脱力，最终倒地。</RavenTrap_Gas_Aphrodisiac.description>
+</LanguageData>

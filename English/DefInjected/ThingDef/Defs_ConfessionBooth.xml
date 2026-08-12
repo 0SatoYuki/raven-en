@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_ConfessionBooth.label>[Raven] Confession Booth</Raven_Building_ConfessionBooth.label>
+  <Raven_Building_ConfessionBooth.description>A narrow wooden room divided in half by a black partition. One side features a Raven Golden Crow shrine where an assigned female "Nun" sits, while the other side is for the follower.\n\nThere is a hidden confession slot in the partition where followers can unburden their desires and sins to the nun in exchange for a moment of peace and salvation. Confessions can be between the same or opposite genders, with different story texts for each.\n\nHow to use:\n1. Select the building and click "Assign Nun" to bind a female member.\n2. Click "Select Confessor" to assign any colonist, prisoner, or slave (except the nun herself).\n3. Both parties will enter the booth. Once finished, the follower will lose one random negative memory.</Raven_Building_ConfessionBooth.description>
+</LanguageData>

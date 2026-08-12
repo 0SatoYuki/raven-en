@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_LiquidPipe.label>[Raven] Liquid Pipe</Raven_Building_LiquidPipe.label>
+  <Raven_Building_LiquidPipe.description>A dedicated pipe used for transporting clean water, Raven fluid, or other liquids. The pipe unifies the calculations of pumps and storage facilities within the same network and automatically balances input targets.</Raven_Building_LiquidPipe.description>
+</LanguageData>

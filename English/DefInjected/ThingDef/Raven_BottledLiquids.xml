@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Item_BottledWater.label>[Raven] Bottled Water</Raven_Item_BottledWater.label>
+  <Raven_Item_BottledWater.description>Clean water packaged by a Raven bottling machine. Currently using placeholder textures, which will be replaced with dedicated bottled liquid art assets later.</Raven_Item_BottledWater.description>
+  <Raven_Item_BottledRavenLiquid.label>[Raven] Bottled Murky Raven Fluid</Raven_Item_BottledRavenLiquid.label>
+  <Raven_Item_BottledRavenLiquid.description>Murky Raven fluid packaged by a Raven bottling machine. After completing the "Raven Fluid Terrain Modification" research, you can select the shallow or deep raven fluid lake commands in the Raven architect menu to pour it onto natural terrain. Currently using placeholder textures, which will be replaced with dedicated bottled liquid art assets later.</Raven_Item_BottledRavenLiquid.description>
+</LanguageData>

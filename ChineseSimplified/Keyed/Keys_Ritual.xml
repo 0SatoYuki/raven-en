@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 目标检查 -->
+  <RavenRace_Ritual_TargetDestroyed>目标已损毁。</RavenRace_Ritual_TargetDestroyed>
+  <RavenRace_Ritual_NotCradle>目标不是摇篮。</RavenRace_Ritual_NotCradle>
+  <RavenRace_Ritual_CradleEmpty>摇篮中没有灵卵。</RavenRace_Ritual_CradleEmpty>
+  <RavenRace_Ritual_NotSpiritEgg>摇篮中的物品不是灵卵。</RavenRace_Ritual_NotSpiritEgg>
+  <RavenRace_Ritual_TargetInfo>包含灵卵的摇篮</RavenRace_Ritual_TargetInfo>
+  
+  <!-- 仪式结果 -->
+  <RavenRace_Ritual_AbsorptionSuccess>{0} 成功吸收了灵卵的血脉精华，体内的力量变得更加纯粹了。</RavenRace_Ritual_AbsorptionSuccess>
+  
+  <!-- 角色检查 -->
+  <RavenRace_Ritual_RoleMustBeRaven>必须由渡鸦族发起。</RavenRace_Ritual_RoleMustBeRaven>
+
+  <!-- 祭坛提示 -->
+  <RavenRace_Ritual_CradleEmptyLabel>摇篮为空</RavenRace_Ritual_CradleEmptyLabel>
+  
+
+
+  <!-- 这里补充一些 UI 上的提示 -->
+  <RavenRace_Ritual_NoRavens>无可用渡鸦族</RavenRace_Ritual_NoRavens>
+  <RavenRace_Ritual_Unreachable>{0} (无法到达)</RavenRace_Ritual_Unreachable>
+  
+    <!-- C# 硬编码文本 -->
+    <RavenRace_Ritual_LordJob_ColonyGroupSqueeze_Text>狂欢结束，所有女孩都心满意足了。</RavenRace_Ritual_LordJob_ColonyGroupSqueeze_Text>
+    <RavenRace_Ritual_LordJob_ColonyGroupSqueeze_Text_2>目标因意外中断了狂欢，女孩们失望地散去了。</RavenRace_Ritual_LordJob_ColonyGroupSqueeze_Text_2>
+    <RavenRace_Ritual_RavenRiteWorker_ColonyGroupSqueeze_Message>没有可用的成年男性殖民者来共度良宵，狂欢取消！</RavenRace_Ritual_RavenRiteWorker_ColonyGroupSqueeze_Message>
+    <RavenRace_Ritual_RavenRiteWorker_ColonyGroupSqueeze_Message_2>没有渡鸦女性参与仪式，无法进行狂欢！</RavenRace_Ritual_RavenRiteWorker_ColonyGroupSqueeze_Message_2>
+    <RavenRace_Ritual_RavenRiteWorker_ColonyGroupSqueeze_Status>建筑未在地图上</RavenRace_Ritual_RavenRiteWorker_ColonyGroupSqueeze_Status>
+    <RavenRace_Ritual_RavenRiteWorker_ColonyGroupSqueeze_Status_2>殖民地内没有可用的健康成年男性。</RavenRace_Ritual_RavenRiteWorker_ColonyGroupSqueeze_Status_2>
+    <RavenRace_Ritual_RitualRoleFilter_RavenFemale_Status>必须是女性渡鸦族</RavenRace_Ritual_RitualRoleFilter_RavenFemale_Status>
+    <RavenRace_Ritual_RitualRoleFilter_Speaker_Status>缺乏社交能力</RavenRace_Ritual_RitualRoleFilter_Speaker_Status>
+    <!-- C# 手工提取文本 -->
+    <RavenRace_GreatClimaxSpeech_Label>激昂演讲</RavenRace_GreatClimaxSpeech_Label>
+    <RavenRace_GreatClimaxSpeech_ResultBoring>{0} 发表的激情演讲枯燥乏味，措辞老套使人兴致全无。台下观众纷纷打起了哈欠。</RavenRace_GreatClimaxSpeech_ResultBoring>
+    <RavenRace_GreatClimaxSpeech_ResultExcellent>{0} 的演讲简直是情感的交响乐！每一句话都精准地触动着听众的心弦。演讲结束时，好几个情感充沛的女孩直接在原地红了眼眶，全场掌声雷动。</RavenRace_GreatClimaxSpeech_ResultExcellent>
+    <RavenRace_GreatClimaxSpeech_ResultGood>{0} 描绘的美好愿景让听众心潮澎湃，大家都不自觉地露出期待的笑容，迫不及待地想要付诸行动。</RavenRace_GreatClimaxSpeech_ResultGood>
+    <RavenRace_GreatClimaxSpeech_FinishedLetter>演讲结束</RavenRace_GreatClimaxSpeech_FinishedLetter>
+</LanguageData>

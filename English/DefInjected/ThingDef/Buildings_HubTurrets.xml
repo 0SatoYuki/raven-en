@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_HubTurret_Wishdale.label>[Raven] Defense Hub - "Mercy" Heavy Cannon</Raven_HubTurret_Wishdale.label>
+  <Raven_HubTurret_Wishdale.description>"...Its barrel once pointed at compatriots, and also at enemies. Now it has been awakened again, just to fairly bestow that heavy 'Mercy' upon every soul within range. After all, in the face of absolute power, struggling is meaningless."\n\nA siege cannon controlled by the defense hub, possessing unparalleled destructive power and a massive splash radius. Struck targets will fall into a prolonged stun.</Raven_HubTurret_Wishdale.description>
+  <Raven_HubTurret_Weedy.label>[Raven] Defense Hub - "Liquid Nitrogen Cannon"</Raven_HubTurret_Weedy.label>
+  <Raven_HubTurret_Weedy.description>"Don't worry, it's just some engineering equipment. Its main purpose is... right, area control and obstacle clearance. If you happen to be standing in the path of the 'obstacles,' then I can only apologize."\n\nA high-pressure liquid nitrogen turret controlled by the defense hub, capable of forcefully knocking back targets and applying a stun.</Raven_HubTurret_Weedy.description>
+  <Raven_HubTurret_Flame.label>[Raven] Defense Hub - "Foehn" Flame Turret</Raven_HubTurret_Flame.label>
+  <Raven_HubTurret_Flame.description>A stationary flame turret controlled by the defense hub. It can only cover a three-cell wide straight line directly in front of it, used for locking down narrow chokepoints and igniting intruders.</Raven_HubTurret_Flame.description>
+  <Raven_RemoteTurret_Assault.label>[Raven] Remote Turret (Assault)</Raven_RemoteTurret_Assault.label>
+  <Raven_RemoteTurret_Assault.description>A basic assault rifle fire station controlled by the defense hub.</Raven_RemoteTurret_Assault.description>
+  <Raven_RemoteTurret_Minigun.label>[Raven] Remote Turret (Minigun)</Raven_RemoteTurret_Minigun.label>
+  <Raven_RemoteTurret_Minigun.description>A large-caliber heavy minigun fire station controlled by the defense hub, highly suppressive.</Raven_RemoteTurret_Minigun.description>
+</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenTrap_Claymore.label>[Raven] Claymore Wall Guard</RavenTrap_Claymore.label>
+  <RavenTrap_Claymore.description>A directional explosive device designed to protect walls. It only triggers when the attached wall takes damage (anti-sapper mode). When triggered, it sprays lethal shrapnel in a fan-shaped area directly in front of it to clear threats.</RavenTrap_Claymore.description>
+</LanguageData>

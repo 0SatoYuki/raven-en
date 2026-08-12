@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Building_MineralExtractor.label>[Raven] Mineral Extractor</Raven_Building_MineralExtractor.label>
+  <Raven_Building_MineralExtractor.description>Raven fluid industrial equipment used for processing liquid lava and extracting basic minerals. The machine supports four extraction modes: steel, silver, jade, and gold. The casing and decals have been integrated into the official industrial texture structure, allowing for further texture fine-tuning later.</Raven_Building_MineralExtractor.description>
+</LanguageData>

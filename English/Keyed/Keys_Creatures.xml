@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_LetterLabel_ShinyFound>Great Raven's Gift</Raven_LetterLabel_ShinyFound>
+  <Raven_LetterText_ShinyFound>{0} eagerly ran back with something shiny in its beak!\n\nGained: {1}</Raven_LetterText_ShinyFound>
+  <Raven_LetterLabel_ShinyNothing>Great Raven's Empty Return</Raven_LetterLabel_ShinyNothing>
+  <Raven_LetterText_ShinyNothing>{0} searched outside for a long time but found nothing shiny worthy of its eyes, and came back dejected.</Raven_LetterText_ShinyNothing>
+  <Raven_Inspect_ShinySearch>Search for shiny</Raven_Inspect_ShinySearch>
+  <RavenRace_Creatures_Patch_RavenMounting_Description>Dismount the current rider from the mount and force-cancel both drafts to prevent immediate auto-remount.</RavenRace_Creatures_Patch_RavenMounting_Description>
+  <RavenRace_Creatures_CompRavenArchonArmor_Label>Change external gear</RavenRace_Creatures_CompRavenArchonArmor_Label>
+  <RavenRace_Creatures_CompRavenArchonArmor_Label_2>Equip external gear</RavenRace_Creatures_CompRavenArchonArmor_Label_2>
+  <RavenRace_Creatures_CompRavenArchonArmor_Description>Order the current animal to walk to a compatible external gear on the map before installing, and draw an extra gear texture layer.</RavenRace_Creatures_CompRavenArchonArmor_Description>
+  <RavenRace_Creatures_CompRavenArchonArmor_Label_3>Remove external gear</RavenRace_Creatures_CompRavenArchonArmor_Label_3>
+  <RavenRace_Creatures_CompRavenArchonArmor_Description_2>Order the current animal to perform the detach action and place the current external gear back on the ground.</RavenRace_Creatures_CompRavenArchonArmor_Description_2>
+  <RavenRace_Creatures_CompRavenArchonArmor_Label_4>No external gear available</RavenRace_Creatures_CompRavenArchonArmor_Label_4>
+  <RavenRace_Creatures_CompRavenArchonArmor_Message>The target external gear is not on the same map.</RavenRace_Creatures_CompRavenArchonArmor_Message>
+  <RavenRace_Creatures_CompRavenArchonArmor_Message_2>The current animal cannot reach that external gear.</RavenRace_Creatures_CompRavenArchonArmor_Message_2>
+  <RavenRace_Creatures_CompRavenArchonArmor_Status>Archon exclusive armor: </RavenRace_Creatures_CompRavenArchonArmor_Status>
+  <RavenRace_Creatures_CompRavenArchonTreasure_Label>Absorb shiny</RavenRace_Creatures_CompRavenArchonTreasure_Label>
+  <RavenRace_Creatures_CompRavenArchonTreasure_Description>Order the archon to devour the specified gold or gold-made item, converting its value into "Golden Spirit".
+
+Current progress: </RavenRace_Creatures_CompRavenArchonTreasure_Description>
+  <RavenRace_Creatures_CompRavenArchonTreasure_DisabledReason>Golden Spirit is already at maximum</RavenRace_Creatures_CompRavenArchonTreasure_DisabledReason>
+  <RavenRace_Creatures_CompRavenArchonTreasure_Message>Invalid target: must be gold or a gold item.</RavenRace_Creatures_CompRavenArchonTreasure_Message>
+  <RavenRace_Creatures_CompRavenArchonTreasure_Message_2>{0} devoured {1} (value {2:F0}), Golden Spirit greatly enhanced!</RavenRace_Creatures_CompRavenArchonTreasure_Message_2>
+  <RavenRace_Creatures_CompRavenMountable_Label>Designate rider</RavenRace_Creatures_CompRavenMountable_Label>
+  <RavenRace_Creatures_CompRavenMountable_Label_2>Designated rider: </RavenRace_Creatures_CompRavenMountable_Label_2>
+  <RavenRace_Creatures_CompRavenMountable_Description>Select a colonist as this mount's designated rider. When the designated rider is drafted, the mount will automatically approach and attempt to mount.</RavenRace_Creatures_CompRavenMountable_Description>
+  <RavenRace_Creatures_CompRavenMountable_Label_3>Clear designated rider</RavenRace_Creatures_CompRavenMountable_Label_3>
+  <RavenRace_Creatures_CompRavenMountable_Description_2>Clear this mount's current designated auto-mount target.</RavenRace_Creatures_CompRavenMountable_Description_2>
+  <RavenRace_Creatures_CompRavenMountable_Label_4>No rider can be designated</RavenRace_Creatures_CompRavenMountable_Label_4>
+</LanguageData>

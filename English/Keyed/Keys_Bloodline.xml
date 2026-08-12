@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_Bloodline>Bloodline</RavenRace_Bloodline>
+  <RavenRace_BloodlineComposition>Bloodline Composition</RavenRace_BloodlineComposition>
+  <RavenRace_GoldenCrowConcentration>Golden Crow Concentration</RavenRace_GoldenCrowConcentration>
+  <RavenRace_BloodlinePurity>Purity</RavenRace_BloodlinePurity>
+  <RavenRace_Bloodline_Bloodline_Mechanoid>Mechanoid Bloodline</RavenRace_Bloodline_Bloodline_Mechanoid>
+  <RavenRace_Bloodline_Bloodline_Wall>Wall Bloodline</RavenRace_Bloodline_Bloodline_Wall>
+  <RavenRace_Purification>Golden Crow Purification</RavenRace_Purification>
+  <RavenRace_CurrentStage>Current Stage</RavenRace_CurrentStage>
+  <RavenRace_NextStage>Next Stage</RavenRace_NextStage>
+  <RavenRace_Concentration>Concentration</RavenRace_Concentration>
+  <RavenRace_Threshold>Breakthrough Threshold</RavenRace_Threshold>
+  <RavenRace_Abilities>Unlocked Abilities</RavenRace_Abilities>
+  <RavenRace_Traits>Unlocked Traits</RavenRace_Traits>
+  <RavenRace_Bonuses>Stage Bonuses</RavenRace_Bonuses>
+  <RavenRace_ToNextStage>To Next Stage</RavenRace_ToNextStage>
+  <RavenRace_StageComplete>Stage Complete</RavenRace_StageComplete>
+  <RavenRace_FinalStage>Final Stage Reached</RavenRace_FinalStage>
+  <RavenRace_PerformPurificationRitual>Perform Purification Ritual</RavenRace_PerformPurificationRitual>
+  <RavenRace_NoRitualSpot>No suitable ritual site found.</RavenRace_NoRitualSpot>
+  <RavenRace_RitualInProgress>A ritual is already in progress.</RavenRace_RitualInProgress>
+  <RavenRace_NotEnoughConcentration>Golden Crow concentration is too low to perform the ritual.</RavenRace_NotEnoughConcentration>
+  <RavenRace_Bloodline_ITab_Bloodline_Label>Error: Bloodline or purification component not found.</RavenRace_Bloodline_ITab_Bloodline_Label>
+  <RavenRace_Bloodline_ITab_Bloodline_Description>Golden Crow Purity: {0:P2}
+Purification Stage: {1}</RavenRace_Bloodline_ITab_Bloodline_Description>
+</LanguageData>

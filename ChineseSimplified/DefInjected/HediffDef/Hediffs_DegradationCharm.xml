@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Raven_Hediff_Degradation.label>堕化刻印</Raven_Hediff_Degradation.label>
+  <Raven_Hediff_Degradation.description>这张符咒正像饥渴的藤蔓，将它的意志深植于宿主的灵魂。扭曲的心智正在重塑，每一次心跳都伴随着躁动的渴望。理智的堤坝正在崩塌，只待最后一次洪流将其彻底冲垮。</Raven_Hediff_Degradation.description>
+  
+  <Raven_Hediff_Degradation.stages.初染.label>初染 (1%)</Raven_Hediff_Degradation.stages.初染.label>
+  <Raven_Hediff_Degradation.stages.沉沦.label>沉沦 (25%)</Raven_Hediff_Degradation.stages.沉沦.label>
+  <Raven_Hediff_Degradation.stages.烙印.label>烙印 (50%)</Raven_Hediff_Degradation.stages.烙印.label>
+  <Raven_Hediff_Degradation.stages.雌堕.label>重塑 (75%)</Raven_Hediff_Degradation.stages.雌堕.label>
+
+</LanguageData>

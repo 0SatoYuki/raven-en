@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenResearch_IndustrialOptimizationCycle.label>[Raven] Industrial Process Optimization</RavenResearch_IndustrialOptimizationCycle.label>
+  <RavenResearch_IndustrialOptimizationCycle.description>Continuously calibrates the handoff between Raven industrial processes. Each level increases the production speed of all Raven machines.</RavenResearch_IndustrialOptimizationCycle.description>
+  <RavenResearch_IndustrialOptimizationCycle.category>Industrial Repeat Research</RavenResearch_IndustrialOptimizationCycle.category>
+  <RavenResearch_IndustrialAccelerationCycle.label>[Raven] Industrial Cadence Acceleration</RavenResearch_IndustrialAccelerationCycle.label>
+  <RavenResearch_IndustrialAccelerationCycle.description>Synchronizes pumps, processing chambers, and cultivators with tighter control cycles, significantly accelerating industrial production.</RavenResearch_IndustrialAccelerationCycle.description>
+  <RavenResearch_IndustrialAccelerationCycle.category>Industrial Repeat Research</RavenResearch_IndustrialAccelerationCycle.category>
+  <RavenResearch_IndustrialInfiniteIteration.label>[Raven] Infinite Industrial Iteration</RavenResearch_IndustrialInfiniteIteration.label>
+  <RavenResearch_IndustrialInfiniteIteration.description>Continuously iterates Raven industrial control protocols. This research has no level cap, with each level infinitely scaling industrial production speed.</RavenResearch_IndustrialInfiniteIteration.description>
+  <RavenResearch_IndustrialInfiniteIteration.category>Industrial Repeat Research</RavenResearch_IndustrialInfiniteIteration.category>
+</LanguageData>

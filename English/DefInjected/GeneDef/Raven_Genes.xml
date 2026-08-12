@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_Gene_Identifier.label>[Raven] Race Identifier</RavenRace_Gene_Identifier.label>
+  <RavenRace_Gene_Identifier.description>Has no actual effect, it simply tells you this is a Raven. Note that our Raven race's reproduction logic does not use genes; instead, it uses a unique bloodline system passed down through lovin'.</RavenRace_Gene_Identifier.description>
+</LanguageData>

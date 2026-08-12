@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenHediff_InjectorHigh.label>[Raven] Sunlit Radiance</RavenHediff_InjectorHigh.label>
+  <RavenHediff_InjectorHigh.description>Bathing in the gentle radiance of the Sunlit Nexus calms the mind and sharpens thought.</RavenHediff_InjectorHigh.description>
+  <RavenHediff_InjectorHigh_I.label>[Raven] Sunlit Radiance I</RavenHediff_InjectorHigh_I.label>
+  <RavenHediff_InjectorHigh_I.description>Map-wide mood-surge conversion effect of the Sunbathing Nexus. Its name and tooltip dynamically display the currently active tier based on the prevailing mood.</RavenHediff_InjectorHigh_I.description>
+  <RavenHediff_InjectorHigh_II.label>[Raven] Sunlit Radiance Ii</RavenHediff_InjectorHigh_II.label>
+  <RavenHediff_InjectorHigh_II.description>Map-wide mood-surge conversion effect of the Sunbathing Nexus. Its name and tooltip dynamically display the currently active tier based on the prevailing mood.</RavenHediff_InjectorHigh_II.description>
+  <RavenHediff_InjectorHigh_III.label>[Raven] Sunlit Radiance Iii</RavenHediff_InjectorHigh_III.label>
+  <RavenHediff_InjectorHigh_III.description>Map-wide mood-surge conversion effect of the Sunbathing Nexus. Its name and tooltip dynamically display the currently active tier based on the prevailing mood.</RavenHediff_InjectorHigh_III.description>
+</LanguageData>

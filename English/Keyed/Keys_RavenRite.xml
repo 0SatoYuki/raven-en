@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_Core_RitualRoleFilter_ReadyForBreakthrough_Status>This pawn has no purification component.</RavenRace_Core_RitualRoleFilter_ReadyForBreakthrough_Status>
+  <RavenRace_Core_LordJob_RavenRite_Message> concludes successfully.</RavenRace_Core_LordJob_RavenRite_Message>
+  <RavenRace_Core_LordJob_RavenRite_Message_2> is interrupted; the rite fails.</RavenRace_Core_LordJob_RavenRite_Message_2>
+  <RavenRace_Core_TestRiteWorker_Status>The building is not on a map.</RavenRace_Core_TestRiteWorker_Status>
+  <RavenRace_Core_TestRiteWorker_Status_2>No colonists are available to take part in the rite.</RavenRace_Core_TestRiteWorker_Status_2>
+  <RavenRace_Core_CompUseEffect_EmberBlood_Status>No Golden Crow bloodline responds within this pawn.</RavenRace_Core_CompUseEffect_EmberBlood_Status>
+  <RavenRace_Core_CompUseEffect_EmberBlood_Status_2>Golden Crow concentration is already at or above {0:P0}; this lesser medium can no longer resonate.</RavenRace_Core_CompUseEffect_EmberBlood_Status_2>
+  <RavenRace_Core_CompUseEffect_EmberBlood_Message>A miracle! {0} successfully suppresses the violent power, slightly raising Golden Crow concentration (+{1:P0}).</RavenRace_Core_CompUseEffect_EmberBlood_Message>
+  <RavenRace_Core_Comp_RavenRite_Status>: ritualWorkerClass must inherit RavenRiteWorker. Current type: </RavenRace_Core_Comp_RavenRite_Status>
+  <RavenRace_Core_Comp_RavenRite_Status_2>: RavenRite component has no roles configured; at least one is required.</RavenRace_Core_Comp_RavenRite_Status_2>
+  <RavenRace_Core_Comp_RavenRite_Status_3>: a role is missing roleId.</RavenRace_Core_Comp_RavenRite_Status_3>
+  <RavenRace_Core_Comp_RavenRite_Label>Perform Raven Rite</RavenRace_Core_Comp_RavenRite_Label>
+  <RavenRace_Core_Comp_RavenRite_Label_2>[Dev] Reset All Rite Cooldowns</RavenRace_Core_Comp_RavenRite_Label_2>
+  <RavenRace_Core_Comp_RavenRite_Description>Immediately clear cooldown timers for every Raven rite on this building.</RavenRace_Core_Comp_RavenRite_Description>
+  <RavenRace_Core_Comp_RavenRite_Status_4> cooldown: </RavenRace_Core_Comp_RavenRite_Status_4>
+  <RavenRace_Core_Comp_RavenRite_Status_5>Perform </RavenRace_Core_Comp_RavenRite_Status_5>
+  <RavenRace_Core_Comp_RavenRite_Status_6> and assign ritual roles and participants.</RavenRace_Core_Comp_RavenRite_Status_6>
+  <RavenRace_Core_Comp_RavenRite_Status_7>On cooldown; </RavenRace_Core_Comp_RavenRite_Status_7>
+  <RavenRace_Core_Comp_RavenRite_Status_8> remaining before it can be performed again.</RavenRace_Core_Comp_RavenRite_Status_8>
+  <RavenRace_Core_Comp_RavenRite_Status_9>Select a Raven rite to perform at this building. </RavenRace_Core_Comp_RavenRite_Status_9>
+  <RavenRace_Core_Comp_RavenRite_Status_10> rites are available.</RavenRace_Core_Comp_RavenRite_Status_10>
+  <RavenRace_Core_Comp_RavenRite_Message>No Raven rites are available.</RavenRace_Core_Comp_RavenRite_Message>
+  <RavenRace_Core_Comp_RavenRite_Status_11>On cooldown: </RavenRace_Core_Comp_RavenRite_Status_11>
+  <RavenRace_Core_Dialog_PromotionRitual_Text>Select All Participants</RavenRace_Core_Dialog_PromotionRitual_Text>
+  <RavenRace_Core_Dialog_PromotionRitual_Description>Assign every candidate without a role as a participant.</RavenRace_Core_Dialog_PromotionRitual_Description>
+  <RavenRace_Core_Dialog_PromotionRitual_Description_2> is full (</RavenRace_Core_Dialog_PromotionRitual_Description_2>
+  <RavenRace_Core_Dialog_PromotionRitual_Description_3> slots)</RavenRace_Core_Dialog_PromotionRitual_Description_3>
+  <RavenRace_Core_Dialog_PromotionRitual_Text_2>Participant</RavenRace_Core_Dialog_PromotionRitual_Text_2>
+  <RavenRace_Core_Dialog_PromotionRitual_Text_3>✓ Participant</RavenRace_Core_Dialog_PromotionRitual_Text_3>
+  <RavenRace_Core_Dialog_PromotionRitual_Label> · Slot </RavenRace_Core_Dialog_PromotionRitual_Label>
+  <RavenRace_Core_Dialog_PromotionRitual_Label_2>No participants</RavenRace_Core_Dialog_PromotionRitual_Label_2>
+  <RavenRace_Core_Dialog_PromotionRitual_Text_4>Cancel</RavenRace_Core_Dialog_PromotionRitual_Text_4>
+  <RavenRace_Core_Dialog_PromotionRitual_Text_5>Begin Rite</RavenRace_Core_Dialog_PromotionRitual_Text_5>
+  <RavenRace_RavenRite_DefaultRitualLabel>Raven Rite</RavenRace_RavenRite_DefaultRitualLabel>
+  <RavenRace_RavenRite_DefaultRoleLabel>Ritual Role</RavenRace_RavenRite_DefaultRoleLabel>
+  <RavenRace_RavenRite_Selection_Title>Select Raven Rite</RavenRace_RavenRite_Selection_Title>
+  <RavenRace_RavenRite_Selection_Subtitle>{0} of {1} rites ready</RavenRace_RavenRite_Selection_Subtitle>
+  <RavenRace_RavenRite_Selection_Unavailable>Unavailable: {0}</RavenRace_RavenRite_Selection_Unavailable>
+  <RavenRace_RavenRite_Selection_AvailableStatus>Ready - {0:0.#}-day cooldown - {1} role(s) required</RavenRace_RavenRite_Selection_AvailableStatus>
+  <RavenRace_RavenRite_Selection_TooltipReady>Status: Ready</RavenRace_RavenRite_Selection_TooltipReady>
+  <RavenRace_RavenRite_Selection_TooltipCooldown>Cooldown: {0:0.#} days</RavenRace_RavenRite_Selection_TooltipCooldown>
+  <RavenRace_RavenRite_Selection_TooltipRoles>Roles:</RavenRace_RavenRite_Selection_TooltipRoles>
+  <RavenRace_RavenRite_Selection_Required> (required)</RavenRace_RavenRite_Selection_Required>
+  <RavenRace_RavenRite_Selection_TooltipEnter>Click to assign roles.</RavenRace_RavenRite_Selection_TooltipEnter>
+  <RavenRace_RavenRite_Selection_TooltipUnavailable>Status: Unavailable</RavenRace_RavenRite_Selection_TooltipUnavailable>
+  <RavenRace_RavenRite_Selection_TooltipReason>Reason: {0}</RavenRace_RavenRite_Selection_TooltipReason>
+  <RavenRace_RavenRite_Selection_Footer>Select a rite to begin. Unavailable rites show their reason.</RavenRace_RavenRite_Selection_Footer>
+  <RavenRace_RavenRite_Close>Close</RavenRace_RavenRite_Close>
+  <RavenRace_RavenRite_Promotion_Candidates>Candidates ({0})</RavenRace_RavenRite_Promotion_Candidates>
+  <RavenRace_RavenRite_Promotion_Offerings>Regression Spirit Eggs ({0})</RavenRace_RavenRite_Promotion_Offerings>
+  <RavenRace_RavenRite_Promotion_Participants>Participants ({0})</RavenRace_RavenRite_Promotion_Participants>
+  <RavenRace_RavenRite_Promotion_Required>Required</RavenRace_RavenRite_Promotion_Required>
+  <RavenRace_RavenRite_Promotion_RequireRole>Assign “{0}”</RavenRace_RavenRite_Promotion_RequireRole>
+  <RavenRace_RavenRite_Promotion_RequireOffering>Select a spirit egg</RavenRace_RavenRite_Promotion_RequireOffering>
+  <RavenRace_RavenRite_Promotion_Ready>Ready - {0} role holder(s), {1} participant(s)</RavenRace_RavenRite_Promotion_Ready>
+  <RavenRace_RavenRite_Promotion_ConcentrationBelowThreshold>Golden Crow concentration has not reached the breakthrough threshold (current {0} / required {1})</RavenRace_RavenRite_Promotion_ConcentrationBelowThreshold>
+  <RavenRace_RavenRite_EmberBlood_BerserkReason>Ember corruption</RavenRace_RavenRite_EmberBlood_BerserkReason>
+  <RavenRace_RavenRite_EmberBlood_DeathLabel>Injection failed: death</RavenRace_RavenRite_EmberBlood_DeathLabel>
+  <RavenRace_RavenRite_EmberBlood_DeathText>{0} cannot endure the power of Ember Blood and perishes in the flames.</RavenRace_RavenRite_EmberBlood_DeathText>
+  <RavenRace_RavenRite_EmberBlood_BerserkMessage>{0} is corrupted by Ember Blood and flies into a berserk rage!</RavenRace_RavenRite_EmberBlood_BerserkMessage>
+  <RavenRace_RavenRite_PromotionRite_Label>Raven Ascension Rite</RavenRace_RavenRite_PromotionRite_Label>
+  <RavenRace_RavenRite_PromotionRite_Description>Hold an ascension rite before the Raven Altar and assign a host and participants.</RavenRace_RavenRite_PromotionRite_Description>
+  <RavenRace_RavenRite_PromotionRite_HostRole>Ascendant</RavenRace_RavenRite_PromotionRite_HostRole>
+  <RavenRace_RavenRite_PurificationSuccess_Label>Purification successful</RavenRace_RavenRite_PurificationSuccess_Label>
+  <RavenRace_RavenRite_PurificationSuccess_Text>After a grueling trial, {0}'s Golden Crow bloodline breaks its shackles and reaches stage {1}!\n\nIts concentration cap is unlocked, and it gains an additional 1% purity bonus.</RavenRace_RavenRite_PurificationSuccess_Text>
+  <RavenRace_RavenRite_PurificationFailed_Label>Purification failed</RavenRace_RavenRite_PurificationFailed_Label>
+  <RavenRace_RavenRite_PurificationFailed_Text>The rite ends. The altar's energy is spent, but {0}'s bloodline undergoes no transformation. Nothing happens beyond exhaustion.</RavenRace_RavenRite_PurificationFailed_Text>
+  <RavenRace_RavenRite_Promotion_Chant_1>Hear us, heirs of the blazing sun, witnesses of daylight...</RavenRace_RavenRite_Promotion_Chant_1>
+  <RavenRace_RavenRite_Promotion_Chant_2>Burn through the shackles of this mortal frame...</RavenRace_RavenRite_Promotion_Chant_2>
+  <RavenRace_RavenRite_Promotion_Chant_3>Let the black blood drain from the wounds...</RavenRace_RavenRite_Promotion_Chant_3>
+  <RavenRace_RavenRite_Promotion_Chant_4>Rise, sun born amid black feathers!</RavenRace_RavenRite_Promotion_Chant_4>
+  <RavenRace_RavenRite_BloodlineRegression_Label>Bloodline Regression</RavenRace_RavenRite_BloodlineRegression_Label>
+  <RavenRace_RavenRite_BloodlineRegression_Description>Consume a Raven spirit egg stored in the altar to strengthen the invoker with its bloodline essence.</RavenRace_RavenRite_BloodlineRegression_Description>
+  <RavenRace_RavenRite_BloodlineRegression_InvokerRole>Invoker</RavenRace_RavenRite_BloodlineRegression_InvokerRole>
+  <RavenRace_RavenRite_BloodlineRegression_InvokerRequired>A conscious Raven colonist must serve as the invoker.</RavenRace_RavenRite_BloodlineRegression_InvokerRequired>
+  <RavenRace_RavenRite_BloodlineRegression_EggDataUnavailable>Spirit egg data is unavailable.</RavenRace_RavenRite_BloodlineRegression_EggDataUnavailable>
+  <RavenRace_RavenRite_Unknown>Unknown</RavenRace_RavenRite_Unknown>
+  <RavenRace_RavenRite_BloodlineRegression_EggFather>Father: {0}</RavenRace_RavenRite_BloodlineRegression_EggFather>
+  <RavenRace_RavenRite_BloodlineRegression_EggMother>  Mother: {0}</RavenRace_RavenRite_BloodlineRegression_EggMother>
+  <RavenRace_RavenRite_BloodlineRegression_EggConcentration>Golden Crow concentration: {0}</RavenRace_RavenRite_BloodlineRegression_EggConcentration>
+  <RavenRace_RavenRite_BloodlineRegression_EggBloodline>Bloodline:</RavenRace_RavenRite_BloodlineRegression_EggBloodline>
+  <RavenRace_RavenRite_BloodlineRegression_NoBloodlineRecord>No record</RavenRace_RavenRite_BloodlineRegression_NoBloodlineRecord>
+  <RavenRace_RavenRite_BloodlineRegression_ResearchRequired>Required research not completed: Bloodline Regression Theory.</RavenRace_RavenRite_BloodlineRegression_ResearchRequired>
+  <RavenRace_RavenRite_BloodlineRegression_NoEggAvailable>No usable Raven spirit eggs are available on the map.</RavenRace_RavenRite_BloodlineRegression_NoEggAvailable>
+  <RavenRace_RavenRite_BloodlineRegression_AltarNotSpawned>The Raven Altar is not on the map.</RavenRace_RavenRite_BloodlineRegression_AltarNotSpawned>
+  <RavenRace_RavenRite_BloodlineRegression_NoEligibleInvoker>No eligible Raven invoker can reach the altar.</RavenRace_RavenRite_BloodlineRegression_NoEligibleInvoker>
+  <RavenRace_RavenRite_BloodlineRegression_SelectedEggUnavailable>The selected Raven spirit egg is unavailable.</RavenRace_RavenRite_BloodlineRegression_SelectedEggUnavailable>
+  <RavenRace_RavenRite_BloodlineRegression_AltarCannotAcceptEgg>The Raven Altar cannot hold a spirit egg right now.</RavenRace_RavenRite_BloodlineRegression_AltarCannotAcceptEgg>
+  <RavenRace_RavenRite_BloodlineRegression_InvokerCannotReachEgg>The invoker cannot reach the selected Raven spirit egg.</RavenRace_RavenRite_BloodlineRegression_InvokerCannotReachEgg>
+  <RavenRace_RavenRite_BloodlineRegression_InvokerInvalid>The invoker does not meet the Bloodline Regression rite requirements.</RavenRace_RavenRite_BloodlineRegression_InvokerInvalid>
+  <RavenRace_RavenRite_BloodlineRegression_NoStoredEgg>No Raven spirit egg is stored.</RavenRace_RavenRite_BloodlineRegression_NoStoredEgg>
+  <RavenRace_RavenRite_BloodlineRegression_StoredEgg>Stored: {0}</RavenRace_RavenRite_BloodlineRegression_StoredEgg>
+  <RavenRace_RavenRite_BloodlineRegression_AbsorptionSuccess>{0} successfully absorbs the spirit egg's bloodline essence, making their power purer.</RavenRace_RavenRite_BloodlineRegression_AbsorptionSuccess>
+  <RavenRace_RavenRite_ColonyGroupSqueeze_Label>Group Squeezing Revel</RavenRace_RavenRite_ColonyGroupSqueeze_Label>
+  <RavenRace_RavenRite_ColonyGroupSqueeze_Description>Begin a revel. The host leads the prayer; when it ends, the colony's most aroused male is found and all participating Raven women take turns squeezing him without mercy.</RavenRace_RavenRite_ColonyGroupSqueeze_Description>
+  <RavenRace_RavenRite_ColonyGroupSqueeze_HostRole>Lead Girl</RavenRace_RavenRite_ColonyGroupSqueeze_HostRole>
+  <RavenRace_RavenRite_GreatClimaxSpeech_Label>Great Climax Speech</RavenRace_RavenRite_GreatClimaxSpeech_Label>
+  <RavenRace_RavenRite_GreatClimaxSpeech_Description>A leader delivers a passionate speech about desire and reproduction, stirring lustful resonance among all followers.</RavenRace_RavenRite_GreatClimaxSpeech_Description>
+  <RavenRace_RavenRite_GreatClimaxSpeech_SpeakerRole>Speaker</RavenRace_RavenRite_GreatClimaxSpeech_SpeakerRole>
+  <RavenRace_RavenRite_PhilosophersStone_Label>Philosopher's Stone Transmutation</RavenRace_RavenRite_PhilosophersStone_Label>
+  <RavenRace_RavenRite_PhilosophersStone_Description>Consume the Hojokin Cube, Ember Blood, a Fractured Sun Core, and six-color alchemical Raven liquid gems to begin a day-long transmutation rite. The colony must complete at least eighty-one sexual encounters before the Philosopher's Stone can be made.</RavenRace_RavenRite_PhilosophersStone_Description>
+  <RavenRace_RavenRite_PhilosophersStone_HostRole>Transmutation Host</RavenRace_RavenRite_PhilosophersStone_HostRole>
+</LanguageData>

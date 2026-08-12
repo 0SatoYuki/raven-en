@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- 种族名称 -->
+    <RavenRace_RaceName>渡鸦族</RavenRace_RaceName>
+    <RavenRace_GoldenCrowName>三足金乌</RavenRace_GoldenCrowName>
+    
+    <!-- 派系 -->
+    <RavenRace_FusangName>扶桑</RavenRace_FusangName>
+    <RavenRace_FusangDesc>一个在暗影中运作的神秘组织。</RavenRace_FusangDesc>
+    
+    <!-- 设置分类 -->
+    <RavenRace_SettingsCategory>渡鸦族</RavenRace_SettingsCategory>
+
+    <!-- 【新增】开局剧本翻译 -->
+    <RavenRace_ScenPart_StartingPawnKind>强制开局种族: {0}</RavenRace_ScenPart_StartingPawnKind>
+    <RavenRace_ScenPart_ArchonCarry>渡鸦大统领衔来</RavenRace_ScenPart_ArchonCarry>
+    <RavenRace_ScenPart_ArchonCarryMessage>一只渡鸦大统领将你轻轻放下，振翅消失在天际。</RavenRace_ScenPart_ArchonCarryMessage>
+
+    <!-- C# 硬编码文本 -->
+    <RavenRace_Core_CompRavenFeatherDrop_Text>金羽冷却状态:</RavenRace_Core_CompRavenFeatherDrop_Text>
+    <RavenRace_Core_CompRavenFeatherDrop_Text_2>金羽冷却状态:</RavenRace_Core_CompRavenFeatherDrop_Text_2>
+    <RavenRace_Core_CompRavenFeatherDrop_Text_3>金羽冷却状态:</RavenRace_Core_CompRavenFeatherDrop_Text_3>
+    <RavenRace_Core_CompRavenFeatherDrop_Text_4>金羽冷却状态:</RavenRace_Core_CompRavenFeatherDrop_Text_4>
+    <RavenRace_Core_CompRavenFeatherDrop_Status>就绪</RavenRace_Core_CompRavenFeatherDrop_Status>
+    <RavenRace_Core_CompRavenInfusion_Status>{0} (淬毒:{1})</RavenRace_Core_CompRavenInfusion_Status>
+    <RavenRace_Core_CompRavenInfusion_Status_2>激励毒素剩余次数: {0}</RavenRace_Core_CompRavenInfusion_Status_2>
+    <RavenRace_Core_CompRavenInfusion_Label>淬毒次数</RavenRace_Core_CompRavenInfusion_Label>
+    <RavenRace_Core_CompRavenInfusion_Description>淬毒次数</RavenRace_Core_CompRavenInfusion_Description>
+    <RavenRace_Core_CompRavenInfusion_DisabledReason>仅用于显示剩余次数</RavenRace_Core_CompRavenInfusion_DisabledReason>
+    <RavenRace_Core_CompTargetEffect_GainAbilities_Message>{0} 的心智无法承受这种禁忌的知识。</RavenRace_Core_CompTargetEffect_GainAbilities_Message>
+    <RavenRace_Core_CompTargetEffect_GainAbilities_Message_2>{0} 脑海中涌入了大量古老的知识，并领悟了禁忌技能：{1}！</RavenRace_Core_CompTargetEffect_GainAbilities_Message_2>
+    <RavenRace_Core_CompTargetEffect_GainAbilities_Message_3>{0} 早就对这些古老的伎俩了如指掌了。</RavenRace_Core_CompTargetEffect_GainAbilities_Message_3>
+    <RavenRace_Core_CompUseEffect_RavenCoatWeapon_Message>目标无效：必须是近战武器或持有近战武器的人。</RavenRace_Core_CompUseEffect_RavenCoatWeapon_Message>
+    <RavenRace_Core_CompUseEffect_RavenCoatWeapon_Message_2>错误：该武器不支持高级属性 (非复杂物品)</RavenRace_Core_CompUseEffect_RavenCoatWeapon_Message_2>
+    <RavenRace_Core_CompEggLayerUnfertilized_Text>因孕育生命，排卵暂时中止</RavenRace_Core_CompEggLayerUnfertilized_Text>
+    <RavenRace_Core_CompEggLayerUnfertilized_Text_2>未达到繁殖年龄</RavenRace_Core_CompEggLayerUnfertilized_Text_2>
+    <RavenRace_Core_CompEggLayerUnfertilized_Label>DEV: 强制产出未受精灵卵</RavenRace_Core_CompEggLayerUnfertilized_Label>
+    <RavenRace_Core_DebugActions_Message>目标位置不在当前地图范围内。</RavenRace_Core_DebugActions_Message>
+    <RavenRace_Core_DebugActions_Message_2>已生成鸦液湖，覆盖 {0} 个地形格。</RavenRace_Core_DebugActions_Message_2>
+    <RavenRace_Core_DebugActions_Message_3>鼠标位置没有可覆盖的物品或 Pawn。</RavenRace_Core_DebugActions_Message_3>
+    <RavenRace_Core_DebugActions_Message_4>已给 {0} 添加粘液遮罩。</RavenRace_Core_DebugActions_Message_4>
+    <RavenRace_Core_DebugActions_Message_5>已将该灵卵标记为代孕孤儿</RavenRace_Core_DebugActions_Message_5>
+    <RavenRace_Core_DebugActions_Message_6>鼠标位置没有可移除遮罩的物品或 Pawn。</RavenRace_Core_DebugActions_Message_6>
+    <RavenRace_Core_DebugActions_Message_7>已移除 {0} 的粘液遮罩。</RavenRace_Core_DebugActions_Message_7>
+    <RavenRace_Core_DebugActions_Message_8>已给 {0} 个选中目标添加粘液遮罩。</RavenRace_Core_DebugActions_Message_8>
+    <RavenRace_Core_DebugActions_Message_9>已将 {0} 的血脉重置为纯血渡鸦。</RavenRace_Core_DebugActions_Message_9>
+    <RavenRace_Core_DebugActions_Label>赋予 1% {0}</RavenRace_Core_DebugActions_Label>
+    <RavenRace_Core_DebugActions_Message_10>{0} 没有杂交血脉组件。</RavenRace_Core_DebugActions_Message_10>
+    <RavenRace_Core_DebugActions_Message_11>已为 {0} 注入 1% {1}。当前血脉已重新计算。</RavenRace_Core_DebugActions_Message_11>
+    <RavenRace_Core_DebugActions_Message_12>已将 {0} 的金乌血脉浓度强制设置为 {1:P0}</RavenRace_Core_DebugActions_Message_12>
+    <RavenRace_Core_DebugActions_Message_13>左爻好感度 +100</RavenRace_Core_DebugActions_Message_13>
+    <RavenRace_Core_DebugActions_Message_14>已提升 {0} 的浓度 (+5%)。当前浓度: {1:P0} (阶段上限: {2:P0})</RavenRace_Core_DebugActions_Message_14>
+    <RavenRace_Core_DebugActions_Message_15>强制突破成功！{0} 现已进入阶段 {1}。当前浓度: {2:P0}</RavenRace_Core_DebugActions_Message_15>
+    <RavenRace_Core_DebugActions_Message_16>已强制提升 {0} 浓度 (+5%)。当前浓度: {1:P0}</RavenRace_Core_DebugActions_Message_16>
+    <RavenRace_Core_DebugActions_Label_2>选择生成神骸培育舱的位置</RavenRace_Core_DebugActions_Label_2>
+    <RavenRace_Core_DebugActions_Message_17>未找到 Raven_Building_AngelGestator。</RavenRace_Core_DebugActions_Message_17>
+    <RavenRace_Core_DebugActions_Message_18>未找到配方 Make_Raven_Mech_Aegis。</RavenRace_Core_DebugActions_Message_18>
+    <RavenRace_Core_DebugActions_Message_19>生成培育舱失败。</RavenRace_Core_DebugActions_Message_19>
+    <RavenRace_Core_DebugActions_Text>已在 {0} 生成神骸培育舱，并添加机械天使配方；刷出材料 {1} 种，共 {2} 堆。</RavenRace_Core_DebugActions_Text>
+    <RavenRace_Core_DebugActions_Label_3>选择生成艾吉斯和四件专属衣服的位置</RavenRace_Core_DebugActions_Label_3>
+    <RavenRace_Core_DebugActions_Message_20>未找到 PawnKindDef Raven_Mech_Aegis。</RavenRace_Core_DebugActions_Message_20>
+    <RavenRace_Core_DebugActions_Message_21>已生成玩家阵营艾吉斯和 {0} 件专属衣服。</RavenRace_Core_DebugActions_Message_21>
+    <RavenRace_Core_DebugActions_Message_22>成功生成测试用告死黑日刺客大宗师：{0}</RavenRace_Core_DebugActions_Message_22>
+    <!-- C# 硬编码文本 -->
+    <RavenRace_Core_Patch_RavenRitualTargets_Status>渡鸦祭坛</RavenRace_Core_Patch_RavenRitualTargets_Status>
+    <RavenRace_Core_Patch_RavenRitualTargets_Status_2>鼠饼恩情雕像</RavenRace_Core_Patch_RavenRitualTargets_Status_2>
+    <RavenRace_Core_Patch_Pawn_GetGizmos_Label>建立侍奉关系...</RavenRace_Core_Patch_Pawn_GetGizmos_Label>
+    <RavenRace_Core_Patch_Pawn_GetGizmos_Description>指定一个殖民者成为这个角色的专属侍奉者。</RavenRace_Core_Patch_Pawn_GetGizmos_Description>
+    <RavenRace_Core_Patch_Pawn_GetGizmos_Label_2>{0} (正在侍奉 {1})</RavenRace_Core_Patch_Pawn_GetGizmos_Label_2>
+    <RavenRace_Core_Patch_Pawn_GetGizmos_Label_3>没有可用的对象</RavenRace_Core_Patch_Pawn_GetGizmos_Label_3>
+    <RavenRace_Core_Patch_Pawn_GetGizmos_Label_4>解除侍奉关系</RavenRace_Core_Patch_Pawn_GetGizmos_Label_4>
+    <RavenRace_Core_Patch_Pawn_GetGizmos_Description_2>解除与指定侍奉者的主从关系。</RavenRace_Core_Patch_Pawn_GetGizmos_Description_2>
+    <RavenRace_Core_Patch_Pawn_GetGizmos_Label_5>解除对 {0} 的支配</RavenRace_Core_Patch_Pawn_GetGizmos_Label_5>
+    <RavenRace_Core_Patch_Pawn_GetGizmos_Label_6>解除所有侍奉者</RavenRace_Core_Patch_Pawn_GetGizmos_Label_6>
+    <RavenRace_Core_Patch_Pawn_GetGizmos_Description_3>停止对主人的侍奉。</RavenRace_Core_Patch_Pawn_GetGizmos_Description_3>
+    <RavenRace_ClStyling_Building_RavenStylingStation_Label>只有渡鸦族可以使用渡鸦梳妆台。</RavenRace_ClStyling_Building_RavenStylingStation_Label>
+    <RavenRace_ClStyling_Building_RavenStylingStation_Label_2>当前渡鸦没有可用的 CL 外观配置。</RavenRace_ClStyling_Building_RavenStylingStation_Label_2>
+    <RavenRace_ClStyling_Building_RavenStylingStation_Label_3>更改渡鸦外观</RavenRace_ClStyling_Building_RavenStylingStation_Label_3>
+    <RavenRace_ClStyling_Dialog_RavenClStylingStation_Label>渡鸦外观梳妆台 · </RavenRace_ClStyling_Dialog_RavenClStylingStation_Label>
+    <RavenRace_ClStyling_Dialog_RavenClStylingStation_Text>当前预览</RavenRace_ClStyling_Dialog_RavenClStylingStation_Text>
+    <RavenRace_ClStyling_Dialog_RavenClStylingStation_Label_2>显示设置</RavenRace_ClStyling_Dialog_RavenClStylingStation_Label_2>
+    <RavenRace_ClStyling_Dialog_RavenClStylingStation_Text_2>隐藏耳羽</RavenRace_ClStyling_Dialog_RavenClStylingStation_Text_2>
+    <RavenRace_ClStyling_Dialog_RavenClStylingStation_Text_3>没有可编辑的 CL 外观配置</RavenRace_ClStyling_Dialog_RavenClStylingStation_Text_3>
+    <RavenRace_ClStyling_Dialog_RavenClStylingStation_Text_4>头发</RavenRace_ClStyling_Dialog_RavenClStylingStation_Text_4>
+    <RavenRace_ClStyling_PartTab>部件</RavenRace_ClStyling_PartTab>
+    <RavenRace_ClStyling_PartSection>血脉部件</RavenRace_ClStyling_PartSection>
+    <RavenRace_ClStyling_PartLocked>需要先获得该种族血脉</RavenRace_ClStyling_PartLocked>
+    <RavenRace_ClStyling_Part_Wolfein>沃芬</RavenRace_ClStyling_Part_Wolfein>
+    <RavenRace_ClStyling_Part_MoeLotl>萌螈</RavenRace_ClStyling_Part_MoeLotl>
+    <RavenRace_ClStyling_Part_Epona>艾波娜</RavenRace_ClStyling_Part_Epona>
+    <RavenRace_ClStyling_Part_Milira>米莉拉</RavenRace_ClStyling_Part_Milira>
+    <RavenRace_ClStyling_Part_Nivarian>涅瓦莲</RavenRace_ClStyling_Part_Nivarian>
+    <RavenRace_ClStyling_Part_MuGirl>雪牛娘</RavenRace_ClStyling_Part_MuGirl>
+    <RavenRace_ClStyling_Part_Moyo>茉约</RavenRace_ClStyling_Part_Moyo>
+    <RavenRace_ClStyling_Part_SecretaryNexus>书姬</RavenRace_ClStyling_Part_SecretaryNexus>
+    <RavenRace_Core_Building_RavenReliquaryStand_0037ac04>存入物品</RavenRace_Core_Building_RavenReliquaryStand_0037ac04>
+    <RavenRace_Core_Building_RavenReliquaryStand_6a678e52>选择地图上的一件物品，让pawn搬运并存入展示柜。</RavenRace_Core_Building_RavenReliquaryStand_6a678e52>
+    <RavenRace_Core_Building_RavenReliquaryStand_bbdd187f>没有可用的殖民者。</RavenRace_Core_Building_RavenReliquaryStand_bbdd187f>
+    <RavenRace_Core_Building_RavenReliquaryStand_1a35b26f>取出物品</RavenRace_Core_Building_RavenReliquaryStand_1a35b26f>
+    <RavenRace_Core_Building_RavenReliquaryStand_ee7d3303>将展示柜内的物品弹出到地面。</RavenRace_Core_Building_RavenReliquaryStand_ee7d3303>
+    <RavenRace_Core_ServitudeManager_Message>{0} 现在开始侍奉 {1}。</RavenRace_Core_ServitudeManager_Message>
+    <RavenRace_Core_ServitudeManager_Message_2>{0} 解除了与 {1} 的主从关系。</RavenRace_Core_ServitudeManager_Message_2>
+    <RavenRace_Core_Building_RetroPhonograph_Label>开启复古唱片机</RavenRace_Core_Building_RetroPhonograph_Label>
+    <RavenRace_Core_Building_RetroPhonograph_Description>打开唱片机的操作界面，浏览并独立管理收集到的所有特殊音效（开关/音量/试听）。</RavenRace_Core_Building_RetroPhonograph_Description>
+    <RavenRace_Core_Dialog_PhonographPlayer_Label>渡鸦复古唱片机 - 典藏音效库</RavenRace_Core_Dialog_PhonographPlayer_Label>
+    <RavenRace_Core_Dialog_PhonographPlayer_Message>试听音效必须在载入地图后使用。</RavenRace_Core_Dialog_PhonographPlayer_Message>
+    <RavenRace_Core_Dialog_PhonographPlayer_Text>启用</RavenRace_Core_Dialog_PhonographPlayer_Text>
+    <RavenRace_Core_Dialog_PhonographPlayer_Reset>恢复默认设置</RavenRace_Core_Dialog_PhonographPlayer_Reset>
+    <RavenRace_Core_StoryAction_Message>获得了 {0} x{1}</RavenRace_Core_StoryAction_Message>
+    <RavenRace_Core_StoryAction_Message_2>事件 {0} 已触发。</RavenRace_Core_StoryAction_Message_2>
+    <RavenRace_Core_Window_UpdateNews_Text>不再自动弹出</RavenRace_Core_Window_UpdateNews_Text>
+    <RavenRace_Core_Window_UpdateNews_Label>渡鸦交流群: 1084200701</RavenRace_Core_Window_UpdateNews_Label>
+    <RavenRace_Core_Window_UpdateNews_Text_2>阅毕闭入暗影</RavenRace_Core_Window_UpdateNews_Text_2>
+    <RavenRace_Core_Window_UpdateNews_Label_2>感谢您对渡鸦族：暗影中的余烬的支持！</RavenRace_Core_Window_UpdateNews_Label_2>
+    <RavenRace_Core_CompSpiritBeads_DisabledReason>执行中...</RavenRace_Core_CompSpiritBeads_DisabledReason>
+    <RavenRace_Core_CompRavenLiquidShield_Label>关闭鸦液护盾</RavenRace_Core_CompRavenLiquidShield_Label>
+    <RavenRace_Core_CompRavenLiquidShield_Label_2>开启鸦液护盾</RavenRace_Core_CompRavenLiquidShield_Label_2>
+    <RavenRace_Core_CompRavenLiquidShield_Description>切换鸦液护盾。开启和关闭时，护盾会通过材质覆盖进度平滑展开或收束。</RavenRace_Core_CompRavenLiquidShield_Description>
+    <RavenRace_Core_CompRavenLiquidShield_Status>鸦液护盾: 重置中，剩余 {0}</RavenRace_Core_CompRavenLiquidShield_Status>
+    <RavenRace_Core_CompRavenLiquidShield_Status_2>鸦液护盾: {0}，能量 {1:F0}/{2:F0}</RavenRace_Core_CompRavenLiquidShield_Status_2>
+    <RavenRace_Core_Gizmo_RavenLiquidShieldStatus_Description>鸦液护盾状态。上方为护盾能量，下方为护盾显示进度。</RavenRace_Core_Gizmo_RavenLiquidShieldStatus_Description>
+    <RavenRace_Core_CompApparelTrail_Status>斯安威斯坦剩余时间: </RavenRace_Core_CompApparelTrail_Status>
+    <RavenRace_Core_Gizmo_SandevistanToggle_Label>开启斯安威斯坦</RavenRace_Core_Gizmo_SandevistanToggle_Label>
+    <RavenRace_Core_Gizmo_SandevistanToggle_Description>启动斯安威斯坦。当前版本只实现持续时间与状态逻辑。</RavenRace_Core_Gizmo_SandevistanToggle_Description>
+    <RavenRace_Core_CompSoulAltar_Gizmos_Label>主控界面</RavenRace_Core_CompSoulAltar_Gizmos_Label>
+    <RavenRace_Core_CompSoulAltar_Gizmos_Description>打开祭坛连接与状态监控面板。</RavenRace_Core_CompSoulAltar_Gizmos_Description>
+    <RavenRace_Core_CompSoulAltar_Gizmos_65a9be7f>归元回溯</RavenRace_Core_CompSoulAltar_Gizmos_65a9be7f>
+    <RavenRace_Core_CompSoulAltar_Gizmos_53826f49>开始归元回溯仪式，吞噬摇篮中的灵卵以强化血脉。
+
+需要：
+- 祭坛中有灵卵
+- 一名渡鸦族殖民者</RavenRace_Core_CompSoulAltar_Gizmos_53826f49>
+    <RavenRace_Core_CompSoulAltar_Gizmos_fae5ebe0>{0} (无法到达)</RavenRace_Core_CompSoulAltar_Gizmos_fae5ebe0>
+    <RavenRace_Core_CompSoulAltar_Gizmos_795471cf>无可用渡鸦族</RavenRace_Core_CompSoulAltar_Gizmos_795471cf>
+    <RavenRace_Core_CompSoulAltar_Incubation_Message>摇篮为空。</RavenRace_Core_CompSoulAltar_Incubation_Message>
+    <RavenRace_Core_CompSoulAltar_Incubation_Message_2>孵化仪式已启动！</RavenRace_Core_CompSoulAltar_Incubation_Message_2>
+    <RavenRace_Core_Dialog_SoulAltar_eb7d4871>扶桑育生祭坛 - 阵列监控</RavenRace_Core_Dialog_SoulAltar_eb7d4871>
+    <RavenRace_Core_Dialog_SoulAltar_6242c570>状态: [空置] 等待灵卵</RavenRace_Core_Dialog_SoulAltar_6242c570>
+    <RavenRace_Core_Dialog_SoulAltar_37d8dad7>状态: [孵化中] {0:P1}</RavenRace_Core_Dialog_SoulAltar_37d8dad7>
+    <RavenRace_Core_Dialog_SoulAltar_4beb88c5>剩余时间: {0}</RavenRace_Core_Dialog_SoulAltar_4beb88c5>
+    <RavenRace_Core_Dialog_SoulAltar_0280d2dd>状态: [就绪] 等待启动</RavenRace_Core_Dialog_SoulAltar_0280d2dd>
+    <RavenRace_Core_Dialog_SoulAltar_07c98668>当前强化预览:</RavenRace_Core_Dialog_SoulAltar_07c98668>
+    <RavenRace_Core_Dialog_SoulAltar_981a9c44>(仪式进行中 - 强化已固化)</RavenRace_Core_Dialog_SoulAltar_981a9c44>
+    <RavenRace_Core_Dialog_SoulAltar_0d3dbcbd>- 无有效注灵 -</RavenRace_Core_Dialog_SoulAltar_0d3dbcbd>
+    <RavenRace_Core_Dialog_SoulAltar_ec105c57>待搬运物资:</RavenRace_Core_Dialog_SoulAltar_ec105c57>
+    <RavenRace_Core_Dialog_SoulAltar_0718e8e8>所有指定物资已就绪。</RavenRace_Core_Dialog_SoulAltar_0718e8e8>
+    <RavenRace_Core_Dialog_SoulAltar_a9aae5e2>  [技能] {0} +{1} xp</RavenRace_Core_Dialog_SoulAltar_a9aae5e2>
+    <RavenRace_Core_Dialog_SoulAltar_3cb38a2d>  [属性] {0} {1}</RavenRace_Core_Dialog_SoulAltar_3cb38a2d>
+    <RavenRace_Core_Dialog_SoulAltar_5f9706e1>  [特性] {0}</RavenRace_Core_Dialog_SoulAltar_5f9706e1>
+    <RavenRace_Core_Dialog_SoulAltar_c413adf2>孵化中
+{0:P0}</RavenRace_Core_Dialog_SoulAltar_c413adf2>
+    <RavenRace_Core_Dialog_SoulAltar_e51f50fd>启动仪式</RavenRace_Core_Dialog_SoulAltar_e51f50fd>
+    <RavenRace_Core_Dialog_SoulAltar_604cb401>摇篮空置</RavenRace_Core_Dialog_SoulAltar_604cb401>
+    <RavenRace_Core_Dialog_SoulAltar_fa9c1a88>清除指派</RavenRace_Core_Dialog_SoulAltar_fa9c1a88>
+    <RavenRace_Core_RitualRoleFilter_ReadyForBreakthrough_Status>该 Pawn 没有纯化组件</RavenRace_Core_RitualRoleFilter_ReadyForBreakthrough_Status>
+    <RavenRace_Core_RitualRoleFilter_ReadyForBreakthrough_Status_2>金乌浓度尚未达到突破阈值（当前 </RavenRace_Core_RitualRoleFilter_ReadyForBreakthrough_Status_2>
+    <RavenRace_Core_LordJob_RavenRite_Message> 圆满完成。</RavenRace_Core_LordJob_RavenRite_Message>
+    <RavenRace_Core_LordJob_RavenRite_Message_2> 被打断，仪式失败。</RavenRace_Core_LordJob_RavenRite_Message_2>
+    <RavenRace_Core_TestRiteWorker_Status>建筑未在地图上</RavenRace_Core_TestRiteWorker_Status>
+    <RavenRace_Core_TestRiteWorker_Status_2>没有可参与仪式的殖民者</RavenRace_Core_TestRiteWorker_Status_2>
+    <RavenRace_Core_CompUseEffect_EmberBlood_Status>体内没有一丝金乌的血脉响应。</RavenRace_Core_CompUseEffect_EmberBlood_Status>
+    <RavenRace_Core_CompUseEffect_EmberBlood_Status_2>金乌浓度已达到或超过 {0:P0}，该低级媒介无法再引起共鸣。</RavenRace_Core_CompUseEffect_EmberBlood_Status_2>
+    <RavenRace_Core_CompUseEffect_EmberBlood_Message>奇迹发生！{0} 成功压制了狂暴的力量，金乌血脉浓度微弱地提升了 (+{1:P0})。</RavenRace_Core_CompUseEffect_EmberBlood_Message>
+    <RavenRace_Core_Comp_RavenRite_Status>: ritualWorkerClass 必须继承 RavenRiteWorker，当前类型: </RavenRace_Core_Comp_RavenRite_Status>
+    <RavenRace_Core_Comp_RavenRite_Status_2>: RavenRite 组件未配置任何 roles，至少需要一个角色。</RavenRace_Core_Comp_RavenRite_Status_2>
+    <RavenRace_Core_Comp_RavenRite_Status_3>: 某个 role 缺少 roleId。</RavenRace_Core_Comp_RavenRite_Status_3>
+    <RavenRace_Core_Comp_RavenRite_Label>举行渡鸦仪式</RavenRace_Core_Comp_RavenRite_Label>
+    <RavenRace_Core_Comp_RavenRite_Label_2>[Dev] 重置全部仪式冷却</RavenRace_Core_Comp_RavenRite_Label_2>
+    <RavenRace_Core_Comp_RavenRite_Description>立即清除该建筑上所有渡鸦仪式的冷却计时器。</RavenRace_Core_Comp_RavenRite_Description>
+    <RavenRace_Core_Comp_RavenRite_Status_4> 冷却：</RavenRace_Core_Comp_RavenRite_Status_4>
+    <RavenRace_Core_Comp_RavenRite_Status_5>举行</RavenRace_Core_Comp_RavenRite_Status_5>
+    <RavenRace_Core_Comp_RavenRite_Status_6>，指定仪式角色与参与者。</RavenRace_Core_Comp_RavenRite_Status_6>
+    <RavenRace_Core_Comp_RavenRite_Status_7>冷却中，还需 </RavenRace_Core_Comp_RavenRite_Status_7>
+    <RavenRace_Core_Comp_RavenRite_Status_8> 方可再次举行。</RavenRace_Core_Comp_RavenRite_Status_8>
+    <RavenRace_Core_Comp_RavenRite_Status_9>选择要在该建筑举行的渡鸦仪式。当前可举办 </RavenRace_Core_Comp_RavenRite_Status_9>
+    <RavenRace_Core_Comp_RavenRite_Status_10> 种仪式。</RavenRace_Core_Comp_RavenRite_Status_10>
+    <RavenRace_Core_Comp_RavenRite_Message>没有可用的渡鸦仪式</RavenRace_Core_Comp_RavenRite_Message>
+    <RavenRace_Core_Comp_RavenRite_Status_11>冷却中：</RavenRace_Core_Comp_RavenRite_Status_11>
+    <RavenRace_Core_Dialog_PromotionRitual_Text>全选参与者</RavenRace_Core_Dialog_PromotionRitual_Text>
+    <RavenRace_Core_Dialog_PromotionRitual_Description>将所有未分配职位的候选人设为参与者</RavenRace_Core_Dialog_PromotionRitual_Description>
+    <RavenRace_Core_Dialog_PromotionRitual_Description_2> 已满 (</RavenRace_Core_Dialog_PromotionRitual_Description_2>
+    <RavenRace_Core_Dialog_PromotionRitual_Description_3> 人)</RavenRace_Core_Dialog_PromotionRitual_Description_3>
+    <RavenRace_Core_Dialog_PromotionRitual_Text_2>参与者</RavenRace_Core_Dialog_PromotionRitual_Text_2>
+    <RavenRace_Core_Dialog_PromotionRitual_Text_3>✓ 参与者</RavenRace_Core_Dialog_PromotionRitual_Text_3>
+    <RavenRace_Core_Dialog_PromotionRitual_Label> · 槽位 </RavenRace_Core_Dialog_PromotionRitual_Label>
+    <RavenRace_Core_Dialog_PromotionRitual_Label_2>暂无参与者</RavenRace_Core_Dialog_PromotionRitual_Label_2>
+    <RavenRace_Core_Dialog_PromotionRitual_Text_4>取消</RavenRace_Core_Dialog_PromotionRitual_Text_4>
+    <RavenRace_Core_Dialog_PromotionRitual_Text_5>开始仪式</RavenRace_Core_Dialog_PromotionRitual_Text_5>
+    <RavenRace_Core_CompAbilityEffect_BuddhaPalm_Message>如来神掌需要选定自己前方的方向。</RavenRace_Core_CompAbilityEffect_BuddhaPalm_Message>
+    <RavenRace_Core_CompAbilityEffect_StarSuckAura_Message>吸星大法只能对自己展开。</RavenRace_Core_CompAbilityEffect_StarSuckAura_Message>
+    <RavenRace_Core_WorldComponent_OperatorManager_Message>与左爻的关系达到了新的阶段：【{0}】。现在可以在通讯台领取一份特殊的回礼。</RavenRace_Core_WorldComponent_OperatorManager_Message>
+    <RavenRace_Core_Dialog_GiftGiving_Label>发送支援物资给左爻</RavenRace_Core_Dialog_GiftGiving_Label>
+    <RavenRace_Core_Dialog_GiftGiving_Label_2>预计好感度变化: </RavenRace_Core_Dialog_GiftGiving_Label_2>
+    <RavenRace_Core_Dialog_GiftGiving_Text>确认发送</RavenRace_Core_Dialog_GiftGiving_Text>
+    <RavenRace_Core_Dialog_RequestReward_Label>领取信任回礼</RavenRace_Core_Dialog_RequestReward_Label>
+    <RavenRace_Core_Dialog_RequestReward_Label_2>当前没有可领取的回礼。</RavenRace_Core_Dialog_RequestReward_Label_2>
+    <RavenRace_Core_Dialog_RequestReward_Text>领取</RavenRace_Core_Dialog_RequestReward_Text>
+    <RavenRace_Core_Dialog_RequestReward_Message>一份特殊的回礼</RavenRace_Core_Dialog_RequestReward_Message>
+    <RavenRace_Core_Dialog_RequestReward_Message_2>左爻送来了一份礼物：{0}。
+
+{1}</RavenRace_Core_Dialog_RequestReward_Message_2>
+    <RavenRace_Core_Dialog_UnderwearCollection_Label>左爻的秘密衣橱</RavenRace_Core_Dialog_UnderwearCollection_Label>
+    <RavenRace_Core_CompAVRecord_Status>主演: {0} &amp; {1}
+类别: 情感影片</RavenRace_Core_CompAVRecord_Status>
+    <RavenRace_Core_CompAVRecord_Status_2>{0}
+
+{1}</RavenRace_Core_CompAVRecord_Status_2>
+    <RavenRace_Core_CompTV_AV_Label>开启情感频道</RavenRace_Core_CompTV_AV_Label>
+    <RavenRace_Core_CompTV_AV_Description>激活扶桑影业加密波段。播放具有强烈情感张力的影像，诱发观众的情感共鸣与浪漫冲动。</RavenRace_Core_CompTV_AV_Description>
+    <RavenRace_Core_Building_RavenBathtub_Message>渡鸦黏液浴缸遭到清水污染，已自动排空！请确保接入的是纯正的鸦液管道。</RavenRace_Core_Building_RavenBathtub_Message>
+    <RavenRace_Core_Building_RavenBathtub_Label>允许自动填充鸦液</RavenRace_Core_Building_RavenBathtub_Label>
+    <RavenRace_Core_Building_RavenBathtub_Description>开启后，殖民地里的搬运工会自动寻找鸦液（每次搬运50份）来将浴缸填满。你也可以直接接通鸦液水泵管网进行自动填充。</RavenRace_Core_Building_RavenBathtub_Description>
+    <RavenRace_Core_Building_RavenBathtub_Label_2>浴缸需要充满鸦液才能使用</RavenRace_Core_Building_RavenBathtub_Label_2>
+    <RavenRace_Core_Building_RavenBathtub_Label_3>无法到达浴缸</RavenRace_Core_Building_RavenBathtub_Label_3>
+    <RavenRace_Core_Building_RavenBathtub_Label_4>浴缸已满</RavenRace_Core_Building_RavenBathtub_Label_4>
+    <RavenRace_Core_Building_RavenBathtub_Label_5>泡黏液浴</RavenRace_Core_Building_RavenBathtub_Label_5>
+    <RavenRace_Core_Building_ConfessionBooth_Status>忏悔室已满。</RavenRace_Core_Building_ConfessionBooth_Status>
+    <RavenRace_Core_Building_ConfessionBooth_Label>终止忏悔</RavenRace_Core_Building_ConfessionBooth_Label>
+    <RavenRace_Core_Building_ConfessionBooth_Description>立刻将里面的人拉出来中止仪式。</RavenRace_Core_Building_ConfessionBooth_Description>
+    <RavenRace_Core_Building_ConfessionBooth_Label_2>选择忏悔者...</RavenRace_Core_Building_ConfessionBooth_Label_2>
+    <RavenRace_Core_Building_ConfessionBooth_7eea95cd>当前修女：{0}
+点击选择一名非征召状态的殖民者、囚犯或奴隶进行忏悔；同性与异性忏悔均可进行。</RavenRace_Core_Building_ConfessionBooth_7eea95cd>
+    <RavenRace_Core_Building_ConfessionBooth_Label_3>修女 {0} 当前无法履行职责（倒地/崩溃/被征召）</RavenRace_Core_Building_ConfessionBooth_Label_3>
+    <RavenRace_Core_Building_ConfessionBooth_Label_4>{0}：无法到达忏悔室</RavenRace_Core_Building_ConfessionBooth_Label_4>
+    <RavenRace_Core_Building_ConfessionBooth_Label_5>没有可用的忏悔者</RavenRace_Core_Building_ConfessionBooth_Label_5>
+    <RavenRace_Core_Building_ConfessionBooth_Message>{0} 请求了一次忏悔，仪式已启动，等待人员就位。</RavenRace_Core_Building_ConfessionBooth_Message>
+    <RavenRace_Core_Building_ConfessionBooth_Text>{0} 向 {1} 倾诉了积压已久的罪恶，感到前所未有的空灵与解脱。</RavenRace_Core_Building_ConfessionBooth_Text>
+    <RavenRace_Core_CompAssignableToPawn_Nun_Status>必须是女性才能担任修女。</RavenRace_Core_CompAssignableToPawn_Nun_Status>
+    <RavenRace_Core_CompAssignableToPawn_Nun_Status_2>婴儿无法担任修女（无法行动）。</RavenRace_Core_CompAssignableToPawn_Nun_Status_2>
+    <RavenRace_Core_CompAbilityEffect_DevourPawn_Message>这种极致的吞噬技巧只能用来吞噬类人生物的躯体。</RavenRace_Core_CompAbilityEffect_DevourPawn_Message>
+    <RavenRace_Core_CompAbilityEffect_DevourPawn_Message_2>无效目标：你的体内空间还不能把你自己翻转吞进去。</RavenRace_Core_CompAbilityEffect_DevourPawn_Message_2>
+    <RavenRace_Core_CompAbilityEffect_DevourPawn_Message_3>体内深处的空间已经被猎物彻底填满了，塞不下更多了！</RavenRace_Core_CompAbilityEffect_DevourPawn_Message_3>
+    <RavenRace_Core_HediffComp_DevouredPawnHolder_Status>塞入: </RavenRace_Core_HediffComp_DevouredPawnHolder_Status>
+    <RavenRace_Core_HediffComp_DevouredPawnHolder_Status_2>空虚</RavenRace_Core_HediffComp_DevouredPawnHolder_Status_2>
+    <RavenRace_Core_HediffComp_DevouredPawnHolder_Label>排出猎物</RavenRace_Core_HediffComp_DevouredPawnHolder_Label>
+    <RavenRace_Core_HediffComp_DevouredPawnHolder_Description>伴随着体内的剧烈蠕动与一阵水声，将猎物连同黏液一起强制排出体外。猎物将陷入深度麻醉中。</RavenRace_Core_HediffComp_DevouredPawnHolder_Description>
+    <RavenRace_Core_HediffComp_DevouredPawnHolder_Message>{0} 被喷了出来，浑身泥泞地陷入了昏迷。</RavenRace_Core_HediffComp_DevouredPawnHolder_Message>
+    <RavenRace_Core_Projectile_DevourPull_Message>{0} 的肉体猛地一阵蠕动，将猎物死死绞入了{1}……</RavenRace_Core_Projectile_DevourPull_Message>
+    <RavenRace_Core_CompMasturbatorCup_Label>捡起 </RavenRace_Core_CompMasturbatorCup_Label>
+    <RavenRace_Core_CompMasturbatorCup_Status>绑定目标: {0} {1}</RavenRace_Core_CompMasturbatorCup_Status>
+    <RavenRace_Core_CompMasturbatorCup_Label_2>绑定目标</RavenRace_Core_CompMasturbatorCup_Label_2>
+    <RavenRace_Core_CompMasturbatorCup_Description>与地图上的任意目标建立量子纠缠连接。点击后用鼠标选择。</RavenRace_Core_CompMasturbatorCup_Description>
+    <RavenRace_Core_CompMasturbatorCup_Label_3>开始次元连接</RavenRace_Core_CompMasturbatorCup_Label_3>
+    <RavenRace_Core_CompMasturbatorCup_Description_2>强制 {0}</RavenRace_Core_CompMasturbatorCup_Description_2>
+    <RavenRace_Core_CompMasturbatorCup_Label_4>断开连接</RavenRace_Core_CompMasturbatorCup_Label_4>
+    <RavenRace_Core_CompMasturbatorCup_Description_3>切断当前的量子纠缠，允许重新绑定其他目标。</RavenRace_Core_CompMasturbatorCup_Description_3>
+    <RavenRace_Core_CompMasturbatorCup_Message>连接已断开。</RavenRace_Core_CompMasturbatorCup_Message>
+    <RavenRace_Core_CompMasturbatorCup_Message_2>成功绑定目标: {0}</RavenRace_Core_CompMasturbatorCup_Message_2>
+    <RavenRace_Core_CompMasturbatorCup_Message_3>目标 {0} 当前不在任何地图上，无法连接。</RavenRace_Core_CompMasturbatorCup_Message_3>
+    <RavenRace_Core_CompMasturbatorCup_Message_4>{0} 激活了次元装置...</RavenRace_Core_CompMasturbatorCup_Message_4>
+    <RavenRace_Core_JobDriver_DimensionalClimax_Message>{0} 在次元刺激下彻底失去了意识。</RavenRace_Core_JobDriver_DimensionalClimax_Message>
+    <RavenRace_Core_Building_RavenBookcase_Label>调书脊大小/间距</RavenRace_Core_Building_RavenBookcase_Label>
+    <RavenRace_Core_Building_RavenBookcase_Description>缩放:{0:F3}  间距:{1:F3}</RavenRace_Core_Building_RavenBookcase_Description>
+    <RavenRace_Core_Building_RavenBookcase_Label_2>调分段起点偏移</RavenRace_Core_Building_RavenBookcase_Label_2>
+    <RavenRace_Core_Building_RavenBookcase_Description_2>共 {0} 段，段0为第一本坐标起点</RavenRace_Core_Building_RavenBookcase_Description_2>
+    <RavenRace_Core_Building_RavenBookcase_Label_3>输出调参日志</RavenRace_Core_Building_RavenBookcase_Label_3>
+    <RavenRace_Core_Building_RavenBookcase_Description_3>输出全部参数到 Player.log</RavenRace_Core_Building_RavenBookcase_Description_3>
+    <RavenRace_Core_Building_RavenBookcase_Message>已输出渡鸦书架调参数据到日志。</RavenRace_Core_Building_RavenBookcase_Message>
+    <RavenRace_Core_Building_RavenBookcase_Text>重置为默认值</RavenRace_Core_Building_RavenBookcase_Text>
+    <RavenRace_Core_Building_RavenBookcase_Label_4>分段列表</RavenRace_Core_Building_RavenBookcase_Label_4>
+    <RavenRace_Core_Building_RavenBookcase_Text_2>+ 第{0}本起 新建段</RavenRace_Core_Building_RavenBookcase_Text_2>
+    <RavenRace_Core_Building_RavenBookcase_Message_2>起始索引 {0} 已存在。</RavenRace_Core_Building_RavenBookcase_Message_2>
+    <RavenRace_Core_Building_RavenBookcase_Text_3>清零本段偏移</RavenRace_Core_Building_RavenBookcase_Text_3>
+    <RavenRace_Core_Building_RavenBookcase_Text_4>复制上一段偏移</RavenRace_Core_Building_RavenBookcase_Text_4>
+    <RavenRace_Core_Building_RavenBookcase_Text_5>重置全部分段（仅保留段0）</RavenRace_Core_Building_RavenBookcase_Text_5>
+    <RavenRace_Core_Recipe_AdministerMiracleHeal_Message>{0} 的伤口在药物作用下迅速愈合了。</RavenRace_Core_Recipe_AdministerMiracleHeal_Message>
+    <RavenRace_Core_Recipe_AdministerMiracleHeal_Message_2>{0} 身上没有可愈合的普通伤口。</RavenRace_Core_Recipe_AdministerMiracleHeal_Message_2>
+    <RavenRace_Core_Building_SakeCup_Message>渡鸦漆质酒器遭到清水污染，已自动排空！请确保接入的是纯正的鸦液管道。</RavenRace_Core_Building_SakeCup_Message>
+    <RavenRace_Core_Building_SakeCup_Description>开启后，殖民地里的搬运工会自动寻找鸦液来将酒器填满。
+
+提示：如果你已经将其连接到了【鸦液水泵】的管道网络中，强烈建议关闭此开关以释放搬运工的劳动力，管道会自动将其注满。</RavenRace_Core_Building_SakeCup_Description>
+    <RavenRace_Core_Building_SakeCup_Label>灌满...</RavenRace_Core_Building_SakeCup_Label>
+    <RavenRace_Core_Building_SakeCup_Description_2>选择一名殖民者，用其自身的体液将酒器彻底灌满。</RavenRace_Core_Building_SakeCup_Description_2>
+    <RavenRace_Core_Building_SakeCup_Label_2>饮用...</RavenRace_Core_Building_SakeCup_Label_2>
+    <RavenRace_Core_Building_SakeCup_Description_3>选择一名殖民者喝下这碗特制的“美酒”，进入极乐乌有乡。</RavenRace_Core_Building_SakeCup_Description_3>
+    <RavenRace_Core_Building_SakeCup_Label_3>{0}: 无法到达</RavenRace_Core_Building_SakeCup_Label_3>
+    <RavenRace_Core_Building_SakeCup_Label_4>无可用人员</RavenRace_Core_Building_SakeCup_Label_4>
+    <RavenRace_Core_HediffComp_NemesisPhaseWalk_Status>充能: </RavenRace_Core_HediffComp_NemesisPhaseWalk_Status>
+    <RavenRace_Core_HediffComp_NemesisPhaseWalk_Status_2>相位就绪</RavenRace_Core_HediffComp_NemesisPhaseWalk_Status_2>
+    <RavenRace_CustomPawn_CompAbilityEffect_RainbowBeam_Message>{0} 体内开始孕育一枚渡鸦灵卵。</RavenRace_CustomPawn_CompAbilityEffect_RainbowBeam_Message>
+    <RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message>{0} 已永久解锁！</RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message>
+    <RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message_2>解锁失败：需要 {0} x{1}。</RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message_2>
+    <RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message_3>解锁失败：物品扣除异常，缺少 {0} 个。</RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message_3>
+    <RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message_4>{0} x{1} 已消耗，{2} 已永久解锁！</RavenRace_CustomPawn_SpecialPawnWorker_ConsumeItem_Message_4>
+    <RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Label>无预览</RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Label>
+    <RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Status>该角色暂无详细介绍。</RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Status>
+    <RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Message>无法在此处召唤：地点不可站立。</RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Message>
+    <RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Message_2>{0} 已在指定位置召唤。</RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Message_2>
+    <RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Message_3>召唤失败，该角色可能已在场上或已死亡。</RavenRace_CustomPawn_Dialog_SpecialPawnDetail_Message_3>
+    <RavenRace_CustomPawn_Dialog_SpecialPawnRoster_Label>特殊角色名册</RavenRace_CustomPawn_Dialog_SpecialPawnRoster_Label>
+    <RavenRace_CustomPawn_Dialog_SpecialPawnRoster_Label_2>暂无特殊角色</RavenRace_CustomPawn_Dialog_SpecialPawnRoster_Label_2>
+    <RavenRace_Core_HediffComp_FluidAccelerator_Label>喷射特殊体液</RavenRace_Core_HediffComp_FluidAccelerator_Label>
+    <RavenRace_Core_HediffComp_FluidAccelerator_Description>手动激发液体促进器，向周围大范围喷射特殊体液泡沫，能够有效扑灭周围的火焰。</RavenRace_Core_HediffComp_FluidAccelerator_Description>
+    <RavenRace_Core_HediffComp_FluidAccelerator_DisabledReason>冷却中: </RavenRace_Core_HediffComp_FluidAccelerator_DisabledReason>
+    <!-- DebugAction 显示文本 -->
+    <RavenRace_DebugAction_Category>渡鸦族</RavenRace_DebugAction_Category>
+    <RavenRace_DebugAction_GenerateLiquidLake>T: 鸦液湖：点位生成</RavenRace_DebugAction_GenerateLiquidLake>
+    <RavenRace_DebugAction_AddSlimeOverlay>T: 粘液遮罩：点选添加</RavenRace_DebugAction_AddSlimeOverlay>
+    <RavenRace_DebugAction_MarkSurrogateItem>T: 赋予物品代孕标记</RavenRace_DebugAction_MarkSurrogateItem>
+    <RavenRace_DebugAction_RemoveSlimeOverlay>T: 粘液遮罩：点选移除</RavenRace_DebugAction_RemoveSlimeOverlay>
+    <RavenRace_DebugAction_AddSlimeOverlayToSelected>粘液遮罩：覆盖所有选中物</RavenRace_DebugAction_AddSlimeOverlayToSelected>
+    <RavenRace_DebugAction_SetGoldenCrow10>T: 设置金乌浓度 (10%)</RavenRace_DebugAction_SetGoldenCrow10>
+    <RavenRace_DebugAction_ResetPureRaven>T: 重置为纯血渡鸦</RavenRace_DebugAction_ResetPureRaven>
+    <RavenRace_DebugAction_AddHybridBloodline>赋予 1% 异种血脉...</RavenRace_DebugAction_AddHybridBloodline>
+    <RavenRace_DebugAction_AddZuoYaoFavor>左爻：好感度+100</RavenRace_DebugAction_AddZuoYaoFavor>
+    <RavenRace_DebugAction_AddGoldenCrowLimited>T: 金乌浓度 +5% (受阈值限制)</RavenRace_DebugAction_AddGoldenCrowLimited>
+    <RavenRace_DebugAction_AddGoldenCrowForced>T: 金乌浓度 +5% (无视限制并自动突破)</RavenRace_DebugAction_AddGoldenCrowForced>
+    <RavenRace_DebugAction_SpawnAegisGestator>机械天使：点位生成培育舱+配方材料</RavenRace_DebugAction_SpawnAegisGestator>
+    <RavenRace_DebugAction_SpawnAegisWithApparel>机械天使：点位生成艾吉斯+四件衣服</RavenRace_DebugAction_SpawnAegisWithApparel>
+    <RavenRace_DebugAction_SpawnDeathSunAssassin>生成: 告死黑日刺客</RavenRace_DebugAction_SpawnDeathSunAssassin>
+    <RavenRace_DebugAction_SpawnNearestHaulDrone>T: 无人机：在最近基站生成搬运无人机</RavenRace_DebugAction_SpawnNearestHaulDrone>
+    <RavenRace_DebugAction_SpawnDroneStressScene>T: 无人机：生成物流压测场景</RavenRace_DebugAction_SpawnDroneStressScene>
+    <RavenRace_DebugAction_ValidateDroneStorageCells>无人机：验证物流箱格子规则</RavenRace_DebugAction_ValidateDroneStorageCells>
+    <RavenRace_DebugAction_RavenIndustrialRecipeTuning>鸦液工业：全局参数...</RavenRace_DebugAction_RavenIndustrialRecipeTuning>
+    <RavenRace_DebugAction_IncreaseDegradation>T: 堕化符咒进度 +10%</RavenRace_DebugAction_IncreaseDegradation>
+</LanguageData>

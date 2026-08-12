@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenRace_Settings_Base>Base</RavenRace_Settings_Base>
+  <RavenRace_Settings_Bloodline>Bloodline</RavenRace_Settings_Bloodline>
+  <RavenRace_Settings_Reproduction>Reproduction</RavenRace_Settings_Reproduction>
+  <RavenRace_Settings_Industry>Industry</RavenRace_Settings_Industry>
+  <RavenRace_Settings_Defense>Defense</RavenRace_Settings_Defense>
+  <RavenRace_Settings_Buildings>Buildings</RavenRace_Settings_Buildings>
+  <RavenRace_Settings_EnableDebugMode>Enable Debug Mode</RavenRace_Settings_EnableDebugMode>
+  <RavenRace_Settings_EnableVerboseLogging>Enable Verbose Logging</RavenRace_Settings_EnableVerboseLogging>
+  <RavenRace_Settings_BaseHatchingDays>Base Hatching Days</RavenRace_Settings_BaseHatchingDays>
+  <RavenRace_Settings_EnableForceLovinPregnancy>Enable Force Lovin Pregnancy</RavenRace_Settings_EnableForceLovinPregnancy>
+  <RavenRace_Settings_ForcedLovinPregnancyRate>Force Lovin Pregnancy Rate</RavenRace_Settings_ForcedLovinPregnancyRate>
+  <RavenRace_Settings_IgnoreFertilityForPregnancy>Ignore Fertility Check</RavenRace_Settings_IgnoreFertilityForPregnancy>
+  <RavenRace_Settings_IgnoreFertilityForPregnancyDesc>If enabled, force lovin will always cause pregnancy regardless of fertility.</RavenRace_Settings_IgnoreFertilityForPregnancyDesc>
+  <RavenRace_Settings_EnableSameSexForceLovin>Enable Same-Sex Force Lovin</RavenRace_Settings_EnableSameSexForceLovin>
+  <RavenRace_Settings_EnableSameSexForceLovinDesc>Allows using the Force Lovin ability on same-sex targets. May cause special mood interactions.</RavenRace_Settings_EnableSameSexForceLovinDesc>
+  <RavenRace_Settings_PrisonerInteractions>Prisoner &amp; Slave Interactions</RavenRace_Settings_PrisonerInteractions>
+  <RavenRace_Settings_ForceLovinResistanceReduction>Resistance Reduction</RavenRace_Settings_ForceLovinResistanceReduction>
+  <RavenRace_Settings_ForceLovinWillReduction>Will Reduction</RavenRace_Settings_ForceLovinWillReduction>
+  <RavenRace_Settings_ForceLovinCertaintyReduction>Certainty Reduction</RavenRace_Settings_ForceLovinCertaintyReduction>
+  <RavenRace_Settings_ForceLovinBreakLoyaltyChance>Break Loyalty Chance</RavenRace_Settings_ForceLovinBreakLoyaltyChance>
+  <RavenRace_Settings_ForceLovinInstantRecruitChance>Instant Recruit/Enslave Chance</RavenRace_Settings_ForceLovinInstantRecruitChance>
+  <RavenRace_Settings_ForceLovinCooldownDays>Skill Cooldown</RavenRace_Settings_ForceLovinCooldownDays>
+  <RavenRace_Settings_RavenFatherDeterminesEgg>Father Determines Egg-laying</RavenRace_Settings_RavenFatherDeterminesEgg>
+  <RavenRace_Settings_RavenFatherDeterminesEggDesc>If enabled, when the father is Raven race, offspring are always eggs regardless of mother's race.</RavenRace_Settings_RavenFatherDeterminesEggDesc>
+  <RavenRace_Settings_EnableMalePregnancyEgg>[Easter] Enable Male Pregnancy Eggs</RavenRace_Settings_EnableMalePregnancyEgg>
+  <RavenRace_Settings_EnableMalePregnancyEggDesc>If enabled, males will carry and lay eggs whenever one parent is Raven race.</RavenRace_Settings_EnableMalePregnancyEggDesc>
+  <RavenRace_Settings_ForceRavenDescendant>Force Raven Descendant</RavenRace_Settings_ForceRavenDescendant>
+  <RavenRace_Settings_ForceRavenDescendantDesc>If enabled, offspring are always Raven race if one parent is Raven.</RavenRace_Settings_ForceRavenDescendantDesc>
+  <RavenRace_Settings_EnableEggProjectileMode>Enable Spirit Egg Projectile Mode</RavenRace_Settings_EnableEggProjectileMode>
+  <RavenRace_Settings_EnableEggProjectileModeDesc>Removing spirit eggs becomes a targeted projectile mode. Eggs become non-lethal projectiles.</RavenRace_Settings_EnableEggProjectileModeDesc>
+  <RavenRace_Settings_DefenseSystem>Defense System</RavenRace_Settings_DefenseSystem>
+  <RavenRace_Settings_DefenseDebug>Enable Trap Debugging</RavenRace_Settings_DefenseDebug>
+  <RavenRace_Settings_DefenseDebugDesc>Shows trigger radius and status when traps are selected.</RavenRace_Settings_DefenseDebugDesc>
+  <RavenRace_Settings_FriendlyFireSafe>Friendly Fire Safe</RavenRace_Settings_FriendlyFireSafe>
+  <RavenRace_Settings_FriendlyFireSafeDesc>If enabled, traps skip colonists and allies. If disabled, anyone triggers them.</RavenRace_Settings_FriendlyFireSafeDesc>
+  <RavenRace_Settings_TrapDamageMultiplier>Trap Damage Multiplier</RavenRace_Settings_TrapDamageMultiplier>
+  <RavenRace_Settings_RisingWallSize>Rising Wall Size</RavenRace_Settings_RisingWallSize>
+  <RavenRace_Settings_DefenseHubRadius>Defense Hub Build Radius</RavenRace_Settings_DefenseHubRadius>
+  <RavenRace_Settings_DefenseHubRadiusDesc>Maximum distance for defense hub auto-build and maintenance. Default 30 tiles.</RavenRace_Settings_DefenseHubRadiusDesc>
+  <RavenRace_Settings_DefenseHubRepairSpeed>Repair Speed Multiplier</RavenRace_Settings_DefenseHubRepairSpeed>
+  <RavenRace_Settings_DefenseHubRepairSpeedDesc>Controls auto-repair speed. Higher values repair faster. Default 1.0x.</RavenRace_Settings_DefenseHubRepairSpeedDesc>
+  <RavenRace_Settings_WindowTitle>Raven Race Settings</RavenRace_Settings_WindowTitle>
+  <RavenRace_Settings_OpenPanel>Open Raven Race Settings Panel</RavenRace_Settings_OpenPanel>
+  <RavenRace_Settings_OpenPanelHint>Click the button above to open the settings panel. Settings are saved automatically when the window closes.</RavenRace_Settings_OpenPanelHint>
+  <RavenRace_Settings_ShowSpecialPawnRoster>Show special pawn roster below</RavenRace_Settings_ShowSpecialPawnRoster>
+  <RavenRace_Settings_AutoSaveHint>Settings are saved automatically when this window closes.</RavenRace_Settings_AutoSaveHint>
+  <RavenRace_Settings_Settings_Base_SuccessChance>Success Chance</RavenRace_Settings_Settings_Base_SuccessChance>
+  <RavenRace_Settings_UpdateNewsMoanSound>Update News Moan Sound (Off by Default)</RavenRace_Settings_UpdateNewsMoanSound>
+  <RavenRace_Settings_Group_UpdateNews>Update News</RavenRace_Settings_Group_UpdateNews>
+  <RavenRace_Settings_Group_Debug>Debug</RavenRace_Settings_Group_Debug>
+  <RavenRace_Settings_Group_Sounds>Sounds</RavenRace_Settings_Group_Sounds>
+  <RavenRace_Settings_Group_EasterEggs>Easter Eggs</RavenRace_Settings_Group_EasterEggs>
+  <RavenRace_Settings_Group_MechanicalAngel>Mechanical Angel</RavenRace_Settings_Group_MechanicalAngel>
+  <RavenRace_Settings_Group_Servitude>Servitude System</RavenRace_Settings_Group_Servitude>
+  <RavenRace_Settings_Group_BedSharing>Bed Sharing</RavenRace_Settings_Group_BedSharing>
+  <RavenRace_Settings_Group_EmberBlood>Ember Blood</RavenRace_Settings_Group_EmberBlood>
+  <RavenRace_Settings_Group_Feather>Golden Feather</RavenRace_Settings_Group_Feather>
+  <RavenRace_Settings_Group_GreatRaven>Great Raven</RavenRace_Settings_Group_GreatRaven>
+  <RavenRace_Settings_Group_CentralHubUI>Sunlit Nexus UI</RavenRace_Settings_Group_CentralHubUI>
+  <RavenRace_Settings_Group_Purification>Purification Ritual</RavenRace_Settings_Group_Purification>
+  <RavenRace_Settings_Group_Altar>Soul Altar</RavenRace_Settings_Group_Altar>
+  <RavenRace_Settings_Group_Hatching>Hatching</RavenRace_Settings_Group_Hatching>
+  <RavenRace_Settings_Group_ForceLovin>Force Lovin</RavenRace_Settings_Group_ForceLovin>
+  <RavenRace_Settings_Group_Targets>Valid Targets</RavenRace_Settings_Group_Targets>
+  <RavenRace_Settings_Group_Prisoners>Prisoners &amp; Slaves</RavenRace_Settings_Group_Prisoners>
+  <RavenRace_Settings_Group_Advanced>Advanced Birth</RavenRace_Settings_Group_Advanced>
+  <RavenRace_Settings_Group_SpiritEgg>Spirit Egg Warmth</RavenRace_Settings_Group_SpiritEgg>
+  <RavenRace_Settings_Group_Mission>Mission Parameters</RavenRace_Settings_Group_Mission>
+  <RavenRace_Settings_Group_Traps>Trap Parameters</RavenRace_Settings_Group_Traps>
+  <RavenRace_Settings_Group_DefenseHub>Defense Hub</RavenRace_Settings_Group_DefenseHub>
+  <RavenRace_Settings_Group_Incense>Incense Burner</RavenRace_Settings_Group_Incense>
+  <RavenRace_Settings_Group_TV>Television</RavenRace_Settings_Group_TV>
+  <RavenRace_Settings_Group_Bathtub>Slime Bathtub</RavenRace_Settings_Group_Bathtub>
+  <RavenRace_Settings_Group_Confession>Confession Booth</RavenRace_Settings_Group_Confession>
+  <RavenRace_Settings_Group_SmartArm>Smart Mechanical Arm</RavenRace_Settings_Group_SmartArm>
+  <RavenRace_Settings_Group_VisualEffects>Visual Effects</RavenRace_Settings_Group_VisualEffects>
+  <RavenRace_Settings_EnableRavenLiquidCoveredVisuals>Show "Covered in Raven Liquid" overlay</RavenRace_Settings_EnableRavenLiquidCoveredVisuals>
+  <RavenRace_Settings_EnableRavenLiquidCoveredVisualsDesc>When disabled, the white slime overlay from Raven Liquid coverage is hidden, but stat penalties and bonuses still apply. Existing coverage is not removed.</RavenRace_Settings_EnableRavenLiquidCoveredVisualsDesc>
+  <RavenRace_Settings_EnableBlackSunCloakVisuals>Show Black Sun Cloak smoke trail</RavenRace_Settings_EnableBlackSunCloakVisuals>
+  <RavenRace_Settings_EnableBlackSunCloakVisualsDesc>When disabled, the Black Sun Cloak no longer displays the black smoke particle trail. Shadow Step, attack cooldown, and threat-disabling mechanics are unaffected.</RavenRace_Settings_EnableBlackSunCloakVisualsDesc>
+  <RavenRace_Settings_AltarEffectRadius>Altar Effect Radius</RavenRace_Settings_AltarEffectRadius>
+  <RavenRace_Settings_AltarVisualEffects>Enable Altar Visual Effects</RavenRace_Settings_AltarVisualEffects>
+  <RavenRace_Settings_CentralHubFontScale>Sunlit Nexus Text Size</RavenRace_Settings_CentralHubFontScale>
+  <RavenRace_Settings_CentralHubFontScaleDesc>Adjusts text in the Sunlit Nexus management terminal from 100% to 125% in 5% steps. The default is 100%; window and button sizes are unchanged.</RavenRace_Settings_CentralHubFontScaleDesc>
+  <RavenRace_Settings_ModActiveShort>Active</RavenRace_Settings_ModActiveShort>
+  <RavenRace_Settings_ModInactiveShort>Missing</RavenRace_Settings_ModInactiveShort>
+  <RavenRace_Settings_EnableCompatToggle>Enable this bloodline compatibility</RavenRace_Settings_EnableCompatToggle>
+  <RavenRace_Settings_Group_Cleanup>Bloodline Cleanup</RavenRace_Settings_Group_Cleanup>
+  <RavenRace_Settings_CleanupBloodlineHediffs>Remove Leaked Bloodline Hediffs</RavenRace_Settings_CleanupBloodlineHediffs>
+  <RavenRace_Settings_CleanupBloodlineHediffsDesc>Scan all Raven pawns and remove Wolfein moon/night-strength hediffs that were incorrectly assigned without the bloodline. Use only when anomalies are observed.</RavenRace_Settings_CleanupBloodlineHediffsDesc>
+  <RavenRace_Settings_CleanupNotPlaying>This feature requires being in-game.</RavenRace_Settings_CleanupNotPlaying>
+  <RavenRace_Settings_CleanupDone>Cleanup complete. Removed {0} leaked hediff(s).</RavenRace_Settings_CleanupDone>
+  <Days>days</Days>
+  <Hours>hours</Hours>
+  <RavenRace_Settings_Altar>Altar</RavenRace_Settings_Altar>
+  <RavenRace_Settings_Fusang>Fusang</RavenRace_Settings_Fusang>
+  <RavenRace_Settings_Operator>Operator</RavenRace_Settings_Operator>
+  <RavenRace_Settings_Debug>Debug</RavenRace_Settings_Debug>
+  <RavenRace_Settings_BaseDesc>Base settings for the Raven Race mod.</RavenRace_Settings_BaseDesc>
+  <RavenRace_Settings_BloodlineDesc>Bloodline system settings.</RavenRace_Settings_BloodlineDesc>
+  <RavenRace_Settings_AltarDesc>Incubation parameters for the Birth Altar.</RavenRace_Settings_AltarDesc>
+  <RavenRace_Settings_FusangDesc>Fusang organization service and communication parameters.</RavenRace_Settings_FusangDesc>
+  <RavenRace_Settings_IndustryDesc>Raven liquid industry and Sunlit Nexus settings.</RavenRace_Settings_IndustryDesc>
+  <RavenRace_Settings_DebugDesc>Developer debug tools. Enabling debug mode unlocks extra features.</RavenRace_Settings_DebugDesc>
+  <RavenRace_Settings_ReproductionDesc>Adjust Raven-specific reproduction behavior, force-lovin parameters, and special interactions with prisoners.</RavenRace_Settings_ReproductionDesc>
+  <RavenRace_Settings_ComingSoon>This feature will be configurable in a later version...</RavenRace_Settings_ComingSoon>
+  <RavenRace_AbilityTomeLearned>{0} has learned and mastered the "Force Lovin" ability!</RavenRace_AbilityTomeLearned>
+  <RavenRace_AbilityTomeAlreadyKnown>{0} has already mastered this ability.</RavenRace_AbilityTomeAlreadyKnown>
+  <RavenRace_Settings_MiliraFlight>Milira Flight Ability</RavenRace_Settings_MiliraFlight>
+  <RavenRace_Settings_MiliraFlight_Tooltip>Ravens with Milira bloodline gain true flight ability.</RavenRace_Settings_MiliraFlight_Tooltip>
+  <RavenRace_Settings_EnableMiliraFlight>Enable flight for hybrid Ravens</RavenRace_Settings_EnableMiliraFlight>
+  <RavenRace_Settings_EnableMiliraFlight_Desc>If enabled, any Raven with Milira bloodline will automatically gain the flight ability interface.</RavenRace_Settings_EnableMiliraFlight_Desc>
+  <RavenRace_Settings_MiliraFlight_Note>Note: For true "wall-phasing/deep-water flight", installing [Phoenix Race True Flight Patch] is recommended.</RavenRace_Settings_MiliraFlight_Note>
+  <RavenRace_Settings_MoyoCultivation>Moyo Cultivation Ability</RavenRace_Settings_MoyoCultivation>
+  <RavenRace_Settings_MoyoActive>Status: Active (Moyo mod detected)</RavenRace_Settings_MoyoActive>
+  <RavenRace_Settings_MoyoInactive>Status: Inactive (Moyo mod not found)</RavenRace_Settings_MoyoInactive>
+  <RavenRace_Settings_AutoHandled>Settings will be handled automatically based on character bloodline.</RavenRace_Settings_AutoHandled>
+  <RavenRace_Settings_MasturbatorCup>Masturbator Cup (Easter item)</RavenRace_Settings_MasturbatorCup>
+  <RavenRace_Settings_EnableDimensionalSex>Enable: Dimensional Sex</RavenRace_Settings_EnableDimensionalSex>
+  <RavenRace_Settings_EnableDimensionalSexDesc>Allows the masturbator cup to quantum-bind with any target on the map and perform remote forced sex. This is a cheat-tier powerful control feature.</RavenRace_Settings_EnableDimensionalSexDesc>
+  <RavenRace_Msg_OxytocinReaction>{0} used oxytocin; their body reacts violently!</RavenRace_Msg_OxytocinReaction>
+  <RavenRace_Msg_OxytocinNoEffect>Oxytocin has no effect on this creature.</RavenRace_Msg_OxytocinNoEffect>
+  <RavenRace_Msg_RapidOvulationBirth>{0} laid an unfertilized spirit egg under pharmaceutical stimulation.</RavenRace_Msg_RapidOvulationBirth>
+  <RavenRace_Settings_Settings_Base_a32b3ed1>=== Update Log Control ===</RavenRace_Settings_Settings_Base_a32b3ed1>
+  <RavenRace_Settings_Settings_Base_Text>Auto-pop up the latest update log on game load</RavenRace_Settings_Settings_Base_Text>
+  <RavenRace_Settings_Settings_Base_Description>When enabled, if the mod has an update note you haven't seen, it will auto-notify on loading a save.</RavenRace_Settings_Settings_Base_Description>
+  <RavenRace_Settings_Settings_Base_Text_2>Open Embers Comms Terminal (Update Log)</RavenRace_Settings_Settings_Base_Text_2>
+  <RavenRace_Settings_Settings_Base_Text_3>Enable easter egg sounds (master switch)</RavenRace_Settings_Settings_Base_Text_3>
+  <RavenRace_Settings_Settings_Base_Description_2>When enabled, all easter egg sounds will load in-game.\nFor detailed independent sound management, adjust it in the [Raven Retro Phonograph] panel.</RavenRace_Settings_Settings_Base_Description_2>
+  <RavenRace_Settings_Settings_Base_Text_4>Enable random sounds for all lovin' actions</RavenRace_Settings_Settings_Base_Text_4>
+  <RavenRace_Settings_Settings_Base_Description_3>When enabled, not only vanilla lovin but also Force Lovin, Mechanical Angel extraction, and other actions have a chance to play goofy lovin' sounds. (Requires the master switch above to be on as well)</RavenRace_Settings_Settings_Base_Description_3>
+  <RavenRace_Settings_Settings_Base_dbe5fa56>=== Easter Event Settings ===</RavenRace_Settings_Settings_Base_dbe5fa56>
+  <RavenRace_Settings_Settings_Base_42434343>=== Mechanical Angel Settings ===</RavenRace_Settings_Settings_Base_42434343>
+  <RavenRace_Settings_Settings_Base_Text_6>Raven-liquid feeding lust threshold</RavenRace_Settings_Settings_Base_Text_6>
+  <RavenRace_Settings_Settings_Base_Description_5>When Aegis's lust falls below this value, she will prioritize seeking Raven liquid on the map to feed on, rather than extracting from her master or idling.</RavenRace_Settings_Settings_Base_Description_5>
+  <RavenRace_Settings_Settings_Base_66b34233>=== Servitude System Settings ===</RavenRace_Settings_Settings_Base_66b34233>
+  <RavenRace_Settings_Settings_Base_Text_7>Show servitude master-attendant links</RavenRace_Settings_Settings_Base_Text_7>
+  <RavenRace_Settings_Settings_Base_Text_8>Show servitude interaction message popups</RavenRace_Settings_Settings_Base_Text_8>
+  <RavenRace_Settings_Settings_Base_Description_6>When enabled, interactions triggered by attendants will send letter notifications on the right side of the screen.</RavenRace_Settings_Settings_Base_Description_6>
+  <RavenRace_Settings_Settings_Base_Text_9>Servitude interaction base trigger rate</RavenRace_Settings_Settings_Base_Text_9>
+  <RavenRace_Settings_Settings_Base_Text_10>Servitude interaction cooldown multiplier</RavenRace_Settings_Settings_Base_Text_10>
+  <RavenRace_Settings_Settings_Base_bfbc59f2>=== Beds &amp; Co-sleeping ===</RavenRace_Settings_Settings_Base_bfbc59f2>
+  <RavenRace_Settings_Settings_Base_6e001b55>=== Ember Blood Probability Settings ===</RavenRace_Settings_Settings_Base_6e001b55>
+  <RavenRace_Settings_Settings_Base_Text_11>Death chance</RavenRace_Settings_Settings_Base_Text_11>
+  <RavenRace_Settings_Settings_Base_Text_12>Madness chance: {0:P0} (max available: {1:P0})</RavenRace_Settings_Settings_Base_Text_12>
+  <RavenRace_Settings_Settings_Base_Text_13>Remaining success chance: {0:P0}</RavenRace_Settings_Settings_Base_Text_13>
+  <RavenRace_Settings_Settings_Base_cfe73f4c>=== Broken-Wing Golden Feather Settings ===</RavenRace_Settings_Settings_Base_cfe73f4c>
+  <RavenRace_Settings_Settings_Base_Text_14>Show Golden Feather cooldown status</RavenRace_Settings_Settings_Base_Text_14>
+  <RavenRace_Settings_Settings_Base_Description_7>Show the Golden Feather drop cooldown in the Pawn's inspect panel.</RavenRace_Settings_Settings_Base_Description_7>
+  <RavenRace_Settings_Settings_Base_Text_15>Mood threshold (very low &lt;X / very high &gt;1-X)</RavenRace_Settings_Settings_Base_Text_15>
+  <RavenRace_Settings_Settings_Base_Text_16>Drop chance per check</RavenRace_Settings_Settings_Base_Text_16>
+  <RavenRace_Settings_Settings_Base_Text_17>Drop cooldown</RavenRace_Settings_Settings_Base_Text_17>
+  <RavenRace_Settings_Settings_Base_a7ae2075>=== Great Raven Settings ===</RavenRace_Settings_Settings_Base_a7ae2075>
+  <RavenRace_Settings_Settings_Base_Text_18>Enable "Find Shiny" feature</RavenRace_Settings_Settings_Base_Text_18>
+  <RavenRace_Settings_Settings_Base_Description_8>When enabled, tamed Great Ravens will periodically bring back gold items.</RavenRace_Settings_Settings_Base_Description_8>
+  <RavenRace_Settings_Settings_Base_Text_19>Search interval</RavenRace_Settings_Settings_Base_Text_19>
+  <RavenRace_Settings_Settings_Base_dc0c8354>Treasure-find chance config (independent 0-100%)</RavenRace_Settings_Settings_Base_dc0c8354>
+  <RavenRace_Settings_Settings_Base_Text_20>Gold discovery chance</RavenRace_Settings_Settings_Base_Text_20>
+  <RavenRace_Settings_Settings_Base_Text_21>Gold item discovery chance</RavenRace_Settings_Settings_Base_Text_21>
+  <RavenRace_Settings_Settings_Base_Text_22>Glittery cube discovery chance</RavenRace_Settings_Settings_Base_Text_22>
+  <RavenRace_Settings_Settings_Base_73f8e4e2>Note: If none of the chances trigger, the Great Raven returns empty-handed and notifies.</RavenRace_Settings_Settings_Base_73f8e4e2>
+  <RavenRace_Settings_Settings_Bloodline_d4fde445>=== purificationritesettings ===</RavenRace_Settings_Settings_Bloodline_d4fde445>
+  <RavenRace_Settings_Settings_Bloodline_Text>Purification ritual success chance</RavenRace_Settings_Settings_Bloodline_Text>
+  <RavenRace_Settings_Settings_Bloodline_Text_2>Purification ritual progress time (ticks, 1 sec = 60)</RavenRace_Settings_Settings_Bloodline_Text_2>
+  <RavenRace_Settings_Settings_Buildings_ebc6480c>=== Incense Burner Settings ===</RavenRace_Settings_Settings_Buildings_ebc6480c>
+  <RavenRace_Settings_Settings_Buildings_Text>Incense atmosphere triggers lovin' behavior</RavenRace_Settings_Settings_Buildings_Text>
+  <RavenRace_Settings_Settings_Buildings_Description>When enabled, only Ravens within the incense burner's range will lose control to the fragrance and cast "Force Lovin" on nearby opposite-sex (or same-sex) targets.</RavenRace_Settings_Settings_Buildings_Description>
+  <RavenRace_Settings_Settings_Buildings_Text_2>Force Lovin chance (per check)</RavenRace_Settings_Settings_Buildings_Text_2>
+  <RavenRace_Settings_Settings_Buildings_Text_3>Force-interrupt work</RavenRace_Settings_Settings_Buildings_Text_3>
+  <RavenRace_Settings_Settings_Buildings_Description_2>When enabled, affected pawns are interrupted regardless of what they're doing and immediately go into heat. Off: only triggers when idling.</RavenRace_Settings_Settings_Buildings_Description_2>
+  <RavenRace_Settings_Settings_Buildings_Text_4>Exclude minors</RavenRace_Settings_Settings_Buildings_Text_4>
+  <RavenRace_Settings_Settings_Buildings_Description_3>When enabled, incense-induced heat automatically skips characters below adult development stage.</RavenRace_Settings_Settings_Buildings_Description_3>
+  <RavenRace_Settings_Settings_Buildings_Text_5>Exclude direct blood relatives</RavenRace_Settings_Settings_Buildings_Text_5>
+  <RavenRace_Settings_Settings_Buildings_Description_4>When enabled, affected pawns will never initiate forced lovin' with their direct relatives.</RavenRace_Settings_Settings_Buildings_Description_4>
+  <RavenRace_Settings_Settings_Buildings_e0fac4df>=== TV Function Settings ===</RavenRace_Settings_Settings_Buildings_e0fac4df>
+  <RavenRace_Settings_Settings_Buildings_Text_6>AV broadcast lovin' trigger rate</RavenRace_Settings_Settings_Buildings_Text_6>
+  <RavenRace_Settings_Settings_Buildings_Text_7>TV recreation attraction multiplier</RavenRace_Settings_Settings_Buildings_Text_7>
+  <RavenRace_Settings_Settings_Buildings_Description_5>Higher values make pawns prioritize TV more. At 100x they will almost exclusively watch TV.</RavenRace_Settings_Settings_Buildings_Description_5>
+  <RavenRace_Settings_Settings_Buildings_Text_8>Disable TV recreation tolerance</RavenRace_Settings_Settings_Buildings_Text_8>
+  <RavenRace_Settings_Settings_Buildings_Description_6>When enabled, TV recreation tolerance is always 0; the recreation gained does not decay with repeated use.</RavenRace_Settings_Settings_Buildings_Description_6>
+  <RavenRace_Settings_Settings_Buildings_91edb188>Note: With TV AV mode on, when at least two viewers are present simultaneously, lovin' may occur ignoring conditions.</RavenRace_Settings_Settings_Buildings_91edb188>
+  <RavenRace_Settings_Settings_Buildings_a3329aa5>=== Slime Bathtub Settings ===</RavenRace_Settings_Settings_Buildings_a3329aa5>
+  <RavenRace_Settings_Settings_Buildings_Text_9>Bathtub recreation attraction multiplier</RavenRace_Settings_Settings_Buildings_Text_9>
+  <RavenRace_Settings_Settings_Buildings_Description_7>Higher values make pawns prioritize slime baths more. At 100x pawns become bathtub bums.</RavenRace_Settings_Settings_Buildings_Description_7>
+  <RavenRace_Settings_Settings_Buildings_Text_10>Disable slime bathtub recreation tolerance</RavenRace_Settings_Settings_Buildings_Text_10>
+  <RavenRace_Settings_Settings_Buildings_Description_8>When enabled, bathtub recreation tolerance is always 0; the recreation gained does not decay with repeated use.</RavenRace_Settings_Settings_Buildings_Description_8>
+  <RavenRace_Settings_Settings_Buildings_404df0fb>=== Confession Booth Settings ===</RavenRace_Settings_Settings_Buildings_404df0fb>
+  <RavenRace_Settings_Settings_Buildings_Text_11>Confession duration</RavenRace_Settings_Settings_Buildings_Text_11>
+  <RavenRace_Settings_Settings_Buildings_Description_9>The time two people spend "venting sin" inside the confession booth once they enter.</RavenRace_Settings_Settings_Buildings_Description_9>
+  <RavenRace_Settings_Settings_Buildings_bcbf9652>=== Smart Mechanical Arm Settings ===</RavenRace_Settings_Settings_Buildings_bcbf9652>
+  <RavenRace_Settings_Settings_Buildings_Text_12>Guaranteed minimum treatment quality</RavenRace_Settings_Settings_Buildings_Text_12>
+  <RavenRace_Settings_Settings_Buildings_Description_10>As long as the bed is connected to a smart mechanical arm, no matter how poor the doctor, the final treatment quality will not fall below this value.</RavenRace_Settings_Settings_Buildings_Description_10>
+  <RavenRace_Settings_Settings_Buildings_Text_13>Guaranteed minimum surgery success rate</RavenRace_Settings_Settings_Buildings_Text_13>
+  <RavenRace_Settings_Settings_Buildings_Description_11>When a surgery fails its roll, a check is made. If the probability below this setting triggers, the mechanical arm forcibly corrects the fatal error, guaranteeing success! (100% means never fails)</RavenRace_Settings_Settings_Buildings_Description_11>
+  <RavenRace_Settings_Settings_Defense_47303027>=== Defense Hub Settings ===</RavenRace_Settings_Settings_Defense_47303027>
+  <RavenRace_Settings_Settings_Operator_3db85245>Operator · Zuo Yao Favor Settings</RavenRace_Settings_Settings_Operator_3db85245>
+  <RavenRace_Settings_Settings_Operator_96ec1170>Favor is now automatically linked to the Fusang faction relationship.\n\nZuo Yao's portrait is now fully driven by Live2D; static expression set switching is no longer available.</RavenRace_Settings_Settings_Operator_96ec1170>
+  <RavenRace_Settings_Settings_Reproduction_Text>Enable forced lovin' with mechanoids</RavenRace_Settings_Settings_Reproduction_Text>
+  <RavenRace_Settings_Settings_Reproduction_Description>Allow using Force Lovin on mechanoid units. Ordinary mechanoids cannot become pregnant; Aegis can carry a spirit egg while her bionic gestation chamber is intact.</RavenRace_Settings_Settings_Reproduction_Description>
+  <RavenRace_Settings_Settings_Reproduction_Text_2>Enable lovin' with buildings (Easter egg)</RavenRace_Settings_Settings_Reproduction_Text_2>
+  <RavenRace_Settings_Settings_Reproduction_Description_2>Allow casting Force Lovin at any wall. Walls cannot get pregnant, but if a Raven is the mother, there is a chance of offspring with dense-wall bloodline.</RavenRace_Settings_Settings_Reproduction_Description_2>
+  <RavenRace_Settings_Settings_Reproduction_9039b6c1>Spirit Egg Warmth Settings</RavenRace_Settings_Settings_Reproduction_9039b6c1>
+  <RavenRace_Settings_Settings_Reproduction_Text_3>Time for full warmth</RavenRace_Settings_Settings_Reproduction_Text_3>
+  <RavenRace_Settings_Settings_Reproduction_Description_3>Keeping a spirit egg inside the body warms it; a perfectly warmed spirit egg gains a speed bonus when incubated in a cradle.</RavenRace_Settings_Settings_Reproduction_Description_3>
+  <RavenRace_Settings_AllowRavenBedSharing>Allow Ravens to ignore cultural precepts and share beds (bed hog)</RavenRace_Settings_AllowRavenBedSharing>
+  <RavenRace_Settings_AllowRavenBedSharingDesc>When enabled, assigning beds: if the bed belongs to a Raven, or the pawn being assigned is a Raven, cultural DLC precepts like "Precept: Premarital sex / Spouse-exclusive" are ignored, and no red prohibition icon appears.</RavenRace_Settings_AllowRavenBedSharingDesc>
+</LanguageData>

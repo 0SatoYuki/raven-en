@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Wall.label>[Raven] Wall</Raven_Wall.label>
+  <Raven_Wall.description>A heavy wall forged from a composite of Raven Darkfeather Steel and iron. The interior structure is filled with energy-absorbing material to effectively resist explosions and blunt impacts, and its matte surface aesthetic is favored by the Raven race.</Raven_Wall.description>
+  <Raven_Terrain_Tile.label>[Raven] Floor Tile</Raven_Terrain_Tile.label>
+  <Raven_Terrain_Tile.description>Floor tiles made of highly polished Raven alloy. Its surface is extremely smooth with natural stain resistance. It is very easy to clean and holds extremely high decorative value.</Raven_Terrain_Tile.description>
+  <Raven_WallDiagonal.label>[Raven] Diagonal Wall</Raven_WallDiagonal.label>
+  <Raven_WallDiagonal.description>An elegant Raven-style diagonal wall for building more streamlined architectural structures. Just as sturdy as a standard Raven wall, it is made of solid Raven Darkfeather Steel.</Raven_WallDiagonal.description>
+  <Raven_Fence.label>[Raven] Fence</Raven_Fence.label>
+  <Raven_Fence.description>A fine fence polished from Raven Darkfeather Steel, used for penning animals or decorating courtyards. Sturdy in structure, it retains the Raven race's characteristic cold matte black.</Raven_Fence.description>
+  <Raven_GoldenLeafGreenbelt.label>[Raven] Golden Leaf Greenbelt</Raven_GoldenLeafGreenbelt.label>
+  <Raven_GoldenLeafGreenbelt.description>A fine greenbelt made from the Raven race's golden leaves.</Raven_GoldenLeafGreenbelt.description>
+  <Raven_DoorSingle.label>[Raven] Single Door</Raven_DoorSingle.label>
+  <Raven_DoorSingle.description>A single-cell door with a top door frame. Its special slide-rail design gives it a striking three-dimensional look when opening and closing.</Raven_DoorSingle.description>
+  <Raven_DoorDouble.label>[Raven] Double Door</Raven_DoorDouble.label>
+  <Raven_DoorDouble.description>A spacious double-cell door with a sturdy top blast-proof door frame.</Raven_DoorDouble.description>
+  <Raven_DoorDouble_Variant.label>[Raven] Double Door (Wide Frame Variant)</Raven_DoorDouble_Variant.label>
+  <Raven_DoorDouble_Variant.description>A spacious double-cell door using a new reinforced blast-proof door frame variant, looking more solemn and imposing.</Raven_DoorDouble_Variant.description>
+  <Raven_DoorMassive.label>[Raven] Massive Hangar Door</Raven_DoorMassive.label>
+  <Raven_DoorMassive.description>An extremely massive three-cell door. Its top rail door frame can withstand extremely high-intensity physical impacts.</Raven_DoorMassive.description>
+  <Raven_DoorMassive_Variant.label>[Raven] Massive Hangar Door (Wide Frame Variant)</Raven_DoorMassive_Variant.label>
+  <Raven_DoorMassive_Variant.description>An extremely massive three-cell door using a new structurally reinforced hangar door frame, giving it a more dominating appearance.</Raven_DoorMassive_Variant.description>
+  <Raven_FenceGate.label>[Raven] Fence Gate</Raven_FenceGate.label>
+  <Raven_FenceGate.description>A fine fence gate polished from Raven Darkfeather Steel. Animals cannot pass through, but colonists and handlers can easily open and close it.</Raven_FenceGate.description>
+  <Raven_DoorPlaque.label>[Raven] Door Plaque</Raven_DoorPlaque.label>
+  <Raven_DoorPlaque.description>A fine decorative plaque. It does not impede pawn movement.</Raven_DoorPlaque.description>
+  <Raven_Column.label>[Raven] Grand Column</Raven_Column.label>
+  <Raven_Column.description>A high-strength load-bearing column cast from Raven Darkfeather Steel. Its unique internal load-bearing structure allows it to support a much larger roof area than ordinary columns (radius 14.9). It does not block line of sight or movement.</Raven_Column.description>
+</LanguageData>

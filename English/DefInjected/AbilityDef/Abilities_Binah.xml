@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Ability_Binah_PillarShot.label>[Raven] Pillar Shot</Raven_Ability_Binah_PillarShot.label>
+  <Raven_Ability_Binah_PillarShot.description>Fires 8 pillars of tyranny that spread outward to attack enemies.</Raven_Ability_Binah_PillarShot.description>
+  <Raven_Ability_Binah_Shockwave.label>[Raven] Shockwave</Raven_Ability_Binah_Shockwave.label>
+  <Raven_Ability_Binah_Shockwave.description>Releases a golden shockwave around the caster, dealing massive area damage and stunning enemies.</Raven_Ability_Binah_Shockwave.description>
+  <Raven_Ability_Binah_DegradationPillar.label>[Raven] Pillar of Degradation</Raven_Ability_Binah_DegradationPillar.label>
+  <Raven_Ability_Binah_DegradationPillar.description>Fires a Pillar of Degradation leaving a trail of fairy dust toward the target.</Raven_Ability_Binah_DegradationPillar.description>
+  <Raven_Ability_Binah_DegradationLock.label>[Raven] Degradation Lock</Raven_Ability_Binah_DegradationLock.label>
+  <Raven_Ability_Binah_DegradationLock.description>Binds the target with chains of Degradation Lock, greatly reducing their mobility.</Raven_Ability_Binah_DegradationLock.description>
+</LanguageData>

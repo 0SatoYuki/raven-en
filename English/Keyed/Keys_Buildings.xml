@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_HotSpringTile_CantPlaceOnImpassable>Raven hot spring tiles cannot be placed on impassable cells.</Raven_HotSpringTile_CantPlaceOnImpassable>
+  <RavenRace_Extractor_OnlyRaven>Only ravens are accepted.</RavenRace_Extractor_OnlyRaven>
+  <RavenRace_Extractor_Extracting>Extracting: {0}</RavenRace_Extractor_Extracting>
+  <RavenRace_Extractor_Finished_Safe>Extraction complete: {0} left the device weakly, ember blood has coagulated.</RavenRace_Extractor_Finished_Safe>
+  <RavenRace_Extractor_InCooldown>{0} is in an ember-depleted state and cannot withstand another extraction.</RavenRace_Extractor_InCooldown>
+  <RavenRace_EnterExtractor>Enter Ember Extractor</RavenRace_EnterExtractor>
+  <RavenRace_InsertPerson>Insert person</RavenRace_InsertPerson>
+  <RavenRace_WatchAV>Watch AV</RavenRace_WatchAV>
+  <RavenRace_WatchAV_Desc>When enabled, the TV will play adult content. Viewers gain a special entertainment experience and may trigger primal urges.</RavenRace_WatchAV_Desc>
+  <Raven_WatchingAV>Watching AV</Raven_WatchingAV>
+  <Raven_Message_IncenseEffect>{0} developed a strong urge toward {1} under the incense effect...</Raven_Message_IncenseEffect>
+  <RavenRace_Buildings_Building_RavenTrashCan_Text>Allow destroying toxic waste</RavenRace_Buildings_Building_RavenTrashCan_Text>
+  <RavenRace_Buildings_Building_RavenTrashCan_Text_2>Allow destroying toxic waste</RavenRace_Buildings_Building_RavenTrashCan_Text_2>
+  <RavenRace_Buildings_Building_RavenTrashCan_6ad52e66>Requires Biotech DLC</RavenRace_Buildings_Building_RavenTrashCan_6ad52e66>
+  <RavenRace_Buildings_Building_RavenTrashCan_Text_3>Allow destroying rotting items</RavenRace_Buildings_Building_RavenTrashCan_Text_3>
+  <RavenRace_Buildings_Building_RavenTrashCan_Text_4>Allow destroying rotting items</RavenRace_Buildings_Building_RavenTrashCan_Text_4>
+  <RavenRace_Buildings_Building_RavenTrashCan_Settings>Destroy settings</RavenRace_Buildings_Building_RavenTrashCan_Settings>
+  <RavenRace_Buildings_Building_RavenTrashCan_Settings_Desc>Open the trash can destroy filter panel to configure destroyable item types and max value.</RavenRace_Buildings_Building_RavenTrashCan_Settings_Desc>
+  <RavenRace_Buildings_WorkGiver_Destroyer_Text>No available raven trash can</RavenRace_Buildings_WorkGiver_Destroyer_Text>
+  <RavenRace_Buildings_WorkGiver_Destroyer_NotAcceptable>This item is not within the destroy filter range</RavenRace_Buildings_WorkGiver_Destroyer_NotAcceptable>
+  <RavenRace_TrashCan_Title>Raven Trash Can · Destroy Settings</RavenRace_TrashCan_Title>
+  <RavenRace_TrashCan_SectionCategories>Destroy categories</RavenRace_TrashCan_SectionCategories>
+  <RavenRace_TrashCan_DeadmansApparel>Allow destroying deadman's apparel</RavenRace_TrashCan_DeadmansApparel>
+  <RavenRace_TrashCan_DeadmansApparel_Desc>When enabled, the trash can will destroy apparel stripped from corpses (with 'worn by corpse' tag).</RavenRace_TrashCan_DeadmansApparel_Desc>
+  <RavenRace_TrashCan_BiocodedWeapons>Allow destroying biocoded weapons</RavenRace_TrashCan_BiocodedWeapons>
+  <RavenRace_TrashCan_BiocodedWeapons_Desc>When enabled, the trash can will destroy biocoded weapons (unusable by others).</RavenRace_TrashCan_BiocodedWeapons_Desc>
+  <RavenRace_TrashCan_SectionValueFilter>Value limit</RavenRace_TrashCan_SectionValueFilter>
+  <RavenRace_TrashCan_MaxItemValue>Max item value</RavenRace_TrashCan_MaxItemValue>
+  <RavenRace_TrashCan_MaxItemValue_Desc>Only destroy items whose total value (market × stack) ≤ this value. 0 means no limit.</RavenRace_TrashCan_MaxItemValue_Desc>
+  <RavenRace_MechanicalAngel_Patch_AegisCoreSystems_Message>Aegis lust energy insufficient, unable to perform divine healing.</RavenRace_MechanicalAngel_Patch_AegisCoreSystems_Message>
+  <RavenRace_MechanicalAngel_Patch_Building_MechGestator_ExtractAegis_Label>Awaken Mechanical Angel (Access denied: you are not her creator)</RavenRace_MechanicalAngel_Patch_Building_MechGestator_ExtractAegis_Label>
+  <RavenRace_MechanicalAngel_Patch_Building_MechGestator_ExtractAegis_Label_2>Awaken Mechanical Angel (Pod occupied)</RavenRace_MechanicalAngel_Patch_Building_MechGestator_ExtractAegis_Label_2>
+  <RavenRace_MechanicalAngel_Patch_Building_MechGestator_ExtractAegis_Label_3>Awaken Mechanical Angel</RavenRace_MechanicalAngel_Patch_Building_MechGestator_ExtractAegis_Label_3>
+  <RavenRace_MechanicalAngel_CompAegisCore_Message>Aegis' lust core is near depletion, underlying protocols collapsed, entering an uncontrollable lust rampage!</RavenRace_MechanicalAngel_CompAegisCore_Message>
+  <RavenRace_MechanicalAngel_CompAegisCore_Message_2>Aegis' lust energy has been replenished, exiting the lust rampage state.</RavenRace_MechanicalAngel_CompAegisCore_Message_2>
+  <RavenRace_MechanicalAngel_CompAegisCore_Label>Allow active extraction</RavenRace_MechanicalAngel_CompAegisCore_Label>
+  <RavenRace_MechanicalAngel_CompAegisCore_Description>When enabled, if Aegis' lust is too low, she will automatically seek her master for extraction. When disabled, she will only seek the nearest colonist for rampage extraction.</RavenRace_MechanicalAngel_CompAegisCore_Description>
+  <RavenRace_MechanicalAngel_CompAegisCore_Label_2>Allow consuming raven liquid</RavenRace_MechanicalAngel_CompAegisCore_Label_2>
+  <RavenRace_MechanicalAngel_CompAegisCore_Description_2>When enabled, if Aegis' lust falls below threshold, she will automatically seek raven liquid on the map and greedily consume it to replenish energy.</RavenRace_MechanicalAngel_CompAegisCore_Description_2>
+  <RavenRace_MechanicalAngel_CompAegisCore_Label_3>Change weapon...</RavenRace_MechanicalAngel_CompAegisCore_Label_3>
+  <RavenRace_MechanicalAngel_CompAegisCore_Description_3>Order Aegis to pick up weapons on the ground or strip weapons from others.</RavenRace_MechanicalAngel_CompAegisCore_Description_3>
+  <RavenRace_MechanicalAngel_JobDriver_AegisLustCharge_Message>Aegis finished extracting fluids from {0}, lust energy is full.</RavenRace_MechanicalAngel_JobDriver_AegisLustCharge_Message>
+  <RavenRace_Buildings_RavenLiquidLakeGenerator_Message>Raven liquid lake terrain def not found.</RavenRace_Buildings_RavenLiquidLakeGenerator_Message>
+  <RavenRace_Buildings_CompRavenLiquidPipe_Label>Drain pipe section</RavenRace_Buildings_CompRavenLiquidPipe_Label>
+  <RavenRace_Buildings_CompRavenLiquidPipe_Description>Drain the entire pipe section connected to the current pipe carrying the same liquid.</RavenRace_Buildings_CompRavenLiquidPipe_Description>
+  <RavenRace_Buildings_CompRavenLiquidPipe_Text>Pipe liquid: {0}</RavenRace_Buildings_CompRavenLiquidPipe_Text>
+  <RavenRace_Buildings_CompRavenLiquidPipe_Text_2>Pipe liquid: none</RavenRace_Buildings_CompRavenLiquidPipe_Text_2>
+  <RavenRace_Buildings_CompRavenLiquidPipe_Message>Drained {0} cells of pipe.</RavenRace_Buildings_CompRavenLiquidPipe_Message>
+  <RavenRace_Buildings_CompRavenLiquidPump_Status>Pumping liquid: {0}
+Pump status: {1}
+Production rate: {2:F0} units/second</RavenRace_Buildings_CompRavenLiquidPump_Status>
+  <RavenRace_Buildings_CompRavenLiquidStorage_Label>Empty liquid</RavenRace_Buildings_CompRavenLiquidStorage_Label>
+  <RavenRace_Buildings_CompRavenLiquidStorage_Description>Empty all liquid from this storage facility.</RavenRace_Buildings_CompRavenLiquidStorage_Description>
+  <RavenRace_Conveyor_MachineBuffer_EjectLabel>Empty machine buffers</RavenRace_Conveyor_MachineBuffer_EjectLabel>
+  <RavenRace_Conveyor_MachineBuffer_EjectDesc>Eject solid items from the conveyor input buffer, output buffer, and internal product storage, then discard the machine's internal liquids. This does not cancel the active production batch. A connected liquid network may refill the machine.</RavenRace_Conveyor_MachineBuffer_EjectDesc>
+  <RavenRace_Conveyor_MachineBuffer_EjectMessage>Machine buffers emptied: {0} solid items ejected and {1} liquid discarded.</RavenRace_Conveyor_MachineBuffer_EjectMessage>
+  <RavenRace_Buildings_CompRavenLiquidStorage_7903be73>Fill {0}</RavenRace_Buildings_CompRavenLiquidStorage_7903be73>
+  <RavenRace_Buildings_CompRavenLiquidStorage_c7d5a68e>Fill the storage tank directly with {0}, used to test liquid layer rendering.</RavenRace_Buildings_CompRavenLiquidStorage_c7d5a68e>
+  <RavenRace_Buildings_Gizmo_RavenLiquidTankFillDebug_Status>God-mode debug: drag to directly set tank liquid level. Empty tank dragged high defaults to raven liquid.</RavenRace_Buildings_Gizmo_RavenLiquidTankFillDebug_Status>
+  <RavenRace_Buildings_MapComponent_RavenLiquidNetwork_Message>Liquid pipe network detected mixed liquids, cleared the network and stopped output.</RavenRace_Buildings_MapComponent_RavenLiquidNetwork_Message>
+  <RavenRace_Buildings_PlaceWorker_RavenLiquidPipeOverlay_Status>This cell already has a raven liquid pipe.</RavenRace_Buildings_PlaceWorker_RavenLiquidPipeOverlay_Status>
+  <RavenRace_Buildings_PlaceWorker_RavenLiquidPump_Status>Raven liquid pump must be placed on water or raven liquid lake terrain.</RavenRace_Buildings_PlaceWorker_RavenLiquidPump_Status>
+  <RavenRace_Buildings_RavenPipeLiquidUtility_Status>none</RavenRace_Buildings_RavenPipeLiquidUtility_Status>
+  <RavenRace_Buildings_Building_AltarInfuser_Label>Eject item</RavenRace_Buildings_Building_AltarInfuser_Label>
+  <RavenRace_Buildings_Building_AltarInfuser_Description>Take out the currently inserted item.</RavenRace_Buildings_Building_AltarInfuser_Description>
+  <RavenRace_Buildings_Building_AltarInfuser_Label_2>Cancel assignment</RavenRace_Buildings_Building_AltarInfuser_Label_2>
+  <RavenRace_Buildings_Building_AltarInfuser_Description_2>Cancel pending haul of {0}.</RavenRace_Buildings_Building_AltarInfuser_Description_2>
+  <RavenRace_Buildings_Building_Cradle_Label>Auto-load</RavenRace_Buildings_Building_Cradle_Label>
+  <RavenRace_Buildings_Building_Cradle_Description>If enabled, colonists will automatically haul spirit eggs to this cradle.</RavenRace_Buildings_Building_Cradle_Description>
+  <RavenRace_Buildings_Building_Cradle_Label_2>Clear infuser blueprints</RavenRace_Buildings_Building_Cradle_Label_2>
+  <RavenRace_Buildings_Building_Cradle_Label_3>Plan infusers</RavenRace_Buildings_Building_Cradle_Label_3>
+  <RavenRace_Buildings_Building_Cradle_Description_2>Click to plan missing infuser blueprints.
+If all positions already have blueprints or buildings, clicking clears blueprints.</RavenRace_Buildings_Building_Cradle_Description_2>
+  <RavenRace_Buildings_Building_Cradle_Label_4>Clear resonance pillar blueprints</RavenRace_Buildings_Building_Cradle_Label_4>
+  <RavenRace_Buildings_Building_Cradle_Label_5>Plan resonance pillars</RavenRace_Buildings_Building_Cradle_Label_5>
+  <RavenRace_Buildings_Building_Cradle_Description_3>One-click plan/cancel resonance pillar blueprints.</RavenRace_Buildings_Building_Cradle_Description_3>
+  <RavenRace_Buildings_Building_Cradle_Label_6>Clear injector blueprints</RavenRace_Buildings_Building_Cradle_Label_6>
+  <RavenRace_Buildings_Building_Cradle_Label_7>Plan injectors</RavenRace_Buildings_Building_Cradle_Label_7>
+  <RavenRace_Buildings_Building_Cradle_Description_4>One-click plan/cancel injector blueprints.</RavenRace_Buildings_Building_Cradle_Description_4>
+  <RavenRace_Buildings_Building_Cradle_Label_8>DEV: Build all</RavenRace_Buildings_Building_Cradle_Label_8>
+  <RavenRace_Buildings_Building_Cradle_Description_5>Instantly spawn all supporting facilities (debug use)</RavenRace_Buildings_Building_Cradle_Description_5>
+  <RavenRace_Buildings_Building_Cradle_Label_9>Eject spirit egg</RavenRace_Buildings_Building_Cradle_Label_9>
+  <RavenRace_Buildings_Building_Cradle_Description_6>Take the spirit egg out of the cradle.</RavenRace_Buildings_Building_Cradle_Description_6>
+  <RavenRace_Buildings_Building_Cradle_Label_10>DEV: Instant hatch</RavenRace_Buildings_Building_Cradle_Label_10>
+  <RavenRace_Buildings_Building_Cradle_Description_7>Instantly hatch (debug use)</RavenRace_Buildings_Building_Cradle_Description_7>
+  <RavenRace_Buildings_Building_Cradle_Message>Blueprint planned.</RavenRace_Buildings_Building_Cradle_Message>
+  <RavenRace_Buildings_Building_Cradle_Message_2>Blueprint cleared.</RavenRace_Buildings_Building_Cradle_Message_2>
+  <RavenRace_Buildings_Building_Cradle_Message_3>DEV: Altar components spawned.</RavenRace_Buildings_Building_Cradle_Message_3>
+  <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Status>Producing: {0}</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Status>
+  <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Status_2>Power outage paused: {0}</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Status_2>
+  <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Label>recipe</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Label>
+  <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Description>Open the recipe selection and production status panel for {0}.</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Description>
+  <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Label_2>Eject products</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Label_2>
+  <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Description_2>Eject products accumulated inside {0} to near the interaction cell.</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Description_2>
+  <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message>Ingredient deduction failed, cannot start production.</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message>
+  <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_2>Production batch aborted; consumed liquids will not be refunded.</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_2>
+  <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_3>No products inside {0}.</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_3>
+  <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_4>Ejected {0} products.</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_4>
+  <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_5>Failed to output products to drone logistics box.</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_5>
+  <RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_6>Product storage failed.</RavenRace_Buildings_CompRavenFillingMachineRecipeProcessor_Message_6>
+  <RavenRace_Buildings_RavenMachineRecipeDef_Status>No solid material</RavenRace_Buildings_RavenMachineRecipeDef_Status>
+  <RavenRace_Buildings_RavenMachineRecipeDef_Status_2>noneproduct</RavenRace_Buildings_RavenMachineRecipeDef_Status_2>
+  <RavenRace_Buildings_RavenThingIngredientCount_Status>unknownmaterial</RavenRace_Buildings_RavenThingIngredientCount_Status>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_1d71f0a4>Liquid recipe device</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_1d71f0a4>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label>Recipe selection · Liquid processing · Product storage</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text>Recipe list</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_2>Production status</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_2>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_3>Power</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_3>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_4>liquid</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_4>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_5>Material box</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_5>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_2>No recipes available.</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_2>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_6>Ingredients: {0}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_6>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_7>Solid: {0}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_7>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_8>product: {0}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_8>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_9>Time: {0}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_9>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_3>Drone logistics box</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_3>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_10>Select material box</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_10>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_11>Select output box</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_11>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_4>Clear material box</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_4>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_5>No available drone logistics box nearby</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_5>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_6>Clear output box</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_6>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status>No drone logistics box selected.</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_2>{0}: current recipe requires no solid material.</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_2>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_3>Output box: unselected, products go to internal storage.</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_3>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_4>{0}: current recipe has no valid product.</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_4>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_5>{0}: output {1}, box has {2}</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_5>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_12>Internal products</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_12>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_7>No products yet</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Label_7>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_13>close</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Text_13>
+  <RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_6>Unselected</RavenRace_Buildings_Dialog_RavenFillingMachineRecipes_Status_6>
+  <RavenRace_Drone_DroneDebugActions_Message>Target position is not within the current map bounds.</RavenRace_Drone_DroneDebugActions_Message>
+  <RavenRace_Drone_DroneDebugActions_Message_2>No drone station found.</RavenRace_Drone_DroneDebugActions_Message_2>
+  <RavenRace_Drone_DroneDebugActions_Message_3>Hauling drone spawn failed; ensure the station is on and operating drones are within capacity.</RavenRace_Drone_DroneDebugActions_Message_3>
+  <RavenRace_Drone_DroneDebugActions_Message_4>Spawned hauling drone at the nearest operable station.</RavenRace_Drone_DroneDebugActions_Message_4>
+  <RavenRace_Drone_DroneDebugActions_Message_5>Drone station or logistics box Def not found.</RavenRace_Drone_DroneDebugActions_Message_5>
+  <RavenRace_Drone_DroneDebugActions_Message_6>No base item found for stress testing.</RavenRace_Drone_DroneDebugActions_Message_6>
+  <RavenRace_Drone_DroneDebugActions_Message_7>Stress-test station spawn failed.</RavenRace_Drone_DroneDebugActions_Message_7>
+  <RavenRace_Drone_DroneDebugActions_Message_8>Base hauling drone Def not found.</RavenRace_Drone_DroneDebugActions_Message_8>
+  <RavenRace_Drone_DroneDebugActions_Message_9>Drone stress test scene complete: stations {0}, logistics boxes {1}, station stock {2}, dispatched {3}/{4}, loose items {5}.</RavenRace_Drone_DroneDebugActions_Message_9>
+  <RavenRace_Drone_Building_RavenDroneRequesterChest_Label>Configure drone logistics</RavenRace_Drone_Building_RavenDroneRequesterChest_Label>
+  <RavenRace_Drone_Building_RavenDroneRequesterChest_Description>Configure this drone logistics box's work mode and request settings, and view or eject box contents.</RavenRace_Drone_Building_RavenDroneRequesterChest_Description>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label>Drone logistics box</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_2>Logistics mode</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_2>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text>Request list</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_2>Add request group</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_2>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_3>Target</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_3>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_3>Mode</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_3>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_4>Request group</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_4>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_5>Stock + in transit</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_5>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_4>Search</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_4>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_5>Virtual stock</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_5>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_6>Eject a group</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_6>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Message>Cannot eject virtual stock.</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Message>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_6>Saved in real-time; game will not pause.</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Label_6>
+  <RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_7>close</RavenRace_Drone_Dialog_RavenDroneRequesterConfig_Text_7>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status>Passive supply</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_2>Active supply</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_2>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_3>Storage</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_3>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_4>Request</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_4>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_5>Buffer</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_5>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_6>Export to vanilla storage</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_6>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_7>unknown</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_7>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_8>Only supply items exceeding the maintain target; does not actively empty.</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_8>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_9>Continuously empties own stock, prioritizing storage boxes.</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_9>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_10>Accepts general items, active supply box items, and gathered loose items.</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_10>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_11>Actively requests specified items; only accepts requested items.</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_11>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_12>Both requests and supplies; only supplies stock exceeding the maintain target.</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_12>
+  <RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_13>Continuously moves own virtual stock into allowed vanilla storage zones or shelves within the same network coverage.</RavenRace_Drone_DroneLogisticsBoxModeUtility_Status_13>
+  <RavenRace_Drone_Building_RavenDroneStation_Label>Drone inventory</RavenRace_Drone_Building_RavenDroneStation_Label>
+  <RavenRace_Drone_Building_RavenDroneStation_Description>Set the drone count the station should maintain, and view or eject internal drone items.</RavenRace_Drone_Building_RavenDroneStation_Description>
+  <RavenRace_Drone_Dialog_RavenDroneStationInventory_Label>Drone station inventory</RavenRace_Drone_Dialog_RavenDroneStationInventory_Label>
+  <RavenRace_Drone_Dialog_RavenDroneStationInventory_Text>Type</RavenRace_Drone_Dialog_RavenDroneStationInventory_Text>
+  <RavenRace_Drone_Dialog_RavenDroneStationInventory_Text_2>Eject this slot</RavenRace_Drone_Dialog_RavenDroneStationInventory_Text_2>
+  <RavenRace_Drone_Dialog_RavenDroneStationInventory_Message>Ejected drone </RavenRace_Drone_Dialog_RavenDroneStationInventory_Message>
+  <RavenRace_Drone_Dialog_RavenDroneStationInventory_Message_2> units.</RavenRace_Drone_Dialog_RavenDroneStationInventory_Message_2>
+  <RavenRace_Drone_Dialog_RavenDroneStationInventory_Label_2>Colonists restock to target from reachable storage or ground drone items; drones will not haul drone items.</RavenRace_Drone_Dialog_RavenDroneStationInventory_Label_2>
+  <RavenRace_Drone_Dialog_RavenDroneStationInventory_Label_3>No available drone Def</RavenRace_Drone_Dialog_RavenDroneStationInventory_Label_3>
+  <RavenRace_Buildings_Building_RavenDefenseHub_7f032cb5>Scan and link claymores</RavenRace_Buildings_Building_RavenDefenseHub_7f032cb5>
+  <RavenRace_Buildings_Building_RavenDefenseHub_86f6030e>Scan claymores within the hub's control radius that belong to you and are not yet managed by another hub.
+
+Once linked, destroyed claymores will be added to the defense hub rebuild plan for automatic rebuilding.</RavenRace_Buildings_Building_RavenDefenseHub_86f6030e>
+  <RavenRace_Buildings_Building_RavenDefenseHub_489483f5>The current defense hub config has no claymore option registered; cannot link.</RavenRace_Buildings_Building_RavenDefenseHub_489483f5>
+  <RavenRace_Buildings_Building_RavenDefenseHub_80663d74>Link aborted: reached the hub's per-type management cap for claymores ({0}).</RavenRace_Buildings_Building_RavenDefenseHub_80663d74>
+  <RavenRace_Buildings_Building_RavenDefenseHub_90c68ccb>Link aborted: defense hub reached total management load cap ({0}).</RavenRace_Buildings_Building_RavenDefenseHub_90c68ccb>
+  <RavenRace_Buildings_Building_RavenDefenseHub_Message>Successfully scanned and linked {0} wild claymores to the management network!</RavenRace_Buildings_Building_RavenDefenseHub_Message>
+  <RavenRace_Buildings_Building_RavenDefenseHub_Message_2>Scan finished. No idle linkable claymores found within sensing range.</RavenRace_Buildings_Building_RavenDefenseHub_Message_2>
+  <RavenRace_Buildings_Building_PatternTurret_Message>Target is not within this turret's custom attack range.</RavenRace_Buildings_Building_PatternTurret_Message>
+  <RavenRace_Buildings_Building_PatternTurret_Message_2>Target cell is not within this turret's custom attack range.</RavenRace_Buildings_Building_PatternTurret_Message_2>
+  <RavenRace_Buildings_CompSunRaiserInjectorEffects_Label>Map-wide glow</RavenRace_Buildings_CompSunRaiserInjectorEffects_Label>
+  <RavenRace_Buildings_CompSunRaiserInjectorEffects_Description>When enabled, the building consumes an extra {0}W of power, forcing the entire map's lighting to 100%, bright as day even at night or in anomalous darkness.</RavenRace_Buildings_CompSunRaiserInjectorEffects_Description>
+  <RavenRace_Buildings_CompRavenComputerDesk_Label>Mode: {0}</RavenRace_Buildings_CompRavenComputerDesk_Label>
+  <RavenRace_Buildings_CompRavenComputerDesk_Description>Click to switch entertainment mode. Current mode provides</RavenRace_Buildings_CompRavenComputerDesk_Description>
+  <RavenRace_Buildings_CompRavenComputerDesk_Description_2>passive relaxation entertainment.</RavenRace_Buildings_CompRavenComputerDesk_Description_2>
+  <RavenRace_Buildings_CompRavenComputerDesk_Description_3>active brain-game entertainment.</RavenRace_Buildings_CompRavenComputerDesk_Description_3>
+  <RavenRace_Common_Unselected>Unselected</RavenRace_Common_Unselected>
+  <RavenRace_FillingMachine_WaitingStart>Waiting to start: {0}</RavenRace_FillingMachine_WaitingStart>
+  <RavenRace_FillingMachine_WaitingReason>Waiting: {0}</RavenRace_FillingMachine_WaitingReason>
+  <RavenRace_FillingMachine_ProducingProgress>Producing: {0} {1:P0}</RavenRace_FillingMachine_ProducingProgress>
+  <RavenRace_FillingMachine_StoredProducts>Products: {0}</RavenRace_FillingMachine_StoredProducts>
+  <RavenRace_FillingMachine_NoProducts>Products: none</RavenRace_FillingMachine_NoProducts>
+  <RavenRace_Conveyor_Placement_BlockedByMachine>Pipes and conveyors cannot be placed within an industrial machine's footprint.</RavenRace_Conveyor_Placement_BlockedByMachine>
+  <RavenRace_Conveyor_Placement_BlockedByConveyor>An industrial machine cannot be placed over pipes or conveyors. Remove or cancel the conflicting line first.</RavenRace_Conveyor_Placement_BlockedByConveyor>
+</LanguageData>

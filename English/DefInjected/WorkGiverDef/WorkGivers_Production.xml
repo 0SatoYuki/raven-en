@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_DoBillsSunRaiserInjector.label>[Raven] Construct At Raven Sun Raiser</Raven_DoBillsSunRaiserInjector.label>
+  <Raven_DoBillsSunRaiserInjector.verb>construct</Raven_DoBillsSunRaiserInjector.verb>
+  <Raven_DoBillsSunRaiserInjector.gerund>constructing</Raven_DoBillsSunRaiserInjector.gerund>
+  <Raven_DoBillsSewingBench.label>[Raven] Craft At Raven Sewing Bench</Raven_DoBillsSewingBench.label>
+  <Raven_DoBillsSewingBench.verb>craft</Raven_DoBillsSewingBench.verb>
+  <Raven_DoBillsSewingBench.gerund>crafting</Raven_DoBillsSewingBench.gerund>
+  <Raven_DoBillsDuskWorkbench.label>[Raven] Craft At Raven Dusk Workbench</Raven_DoBillsDuskWorkbench.label>
+  <Raven_DoBillsDuskWorkbench.verb>craft</Raven_DoBillsDuskWorkbench.verb>
+  <Raven_DoBillsDuskWorkbench.gerund>crafting</Raven_DoBillsDuskWorkbench.gerund>
+  <Raven_DoBillsSculpt_Tablet.label>[Raven] Sculpt At Raven Drawing Tablet</Raven_DoBillsSculpt_Tablet.label>
+  <Raven_DoBillsCoffeeMachine.label>[Raven] Brew At Raven Coffee Machine</Raven_DoBillsCoffeeMachine.label>
+  <Raven_DoBillsBakery.label>[Raven] Bake At Raven Bakery</Raven_DoBillsBakery.label>
+  <Raven_DoBillsSculpt_ComputerDeskVariant.label>[Raven] Sculpt At Raven Computer Desk (Variant)</Raven_DoBillsSculpt_ComputerDeskVariant.label>
+</LanguageData>

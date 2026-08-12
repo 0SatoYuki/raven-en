@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RavenIndustrialBlueprint_HomeEntry>05   工业蓝图</RavenIndustrialBlueprint_HomeEntry>
+  <RavenIndustrialBlueprint_Title>工业蓝图</RavenIndustrialBlueprint_Title>
+  <RavenIndustrialBlueprint_Back>返回首页</RavenIndustrialBlueprint_Back>
+  <RavenIndustrialBlueprint_LocalTab>本地蓝图</RavenIndustrialBlueprint_LocalTab>
+  <RavenIndustrialBlueprint_NetworkTab>网络蓝图</RavenIndustrialBlueprint_NetworkTab>
+  <RavenIndustrialBlueprint_Search>搜索蓝图名称、说明或来源地图</RavenIndustrialBlueprint_Search>
+  <RavenIndustrialBlueprint_New>新建蓝图</RavenIndustrialBlueprint_New>
+  <RavenIndustrialBlueprint_Refresh>刷新</RavenIndustrialBlueprint_Refresh>
+  <RavenIndustrialBlueprint_LocalEmpty>还没有本地工业蓝图</RavenIndustrialBlueprint_LocalEmpty>
+  <RavenIndustrialBlueprint_CardSummary>{0} × {1} · {2} 个工业实体</RavenIndustrialBlueprint_CardSummary>
+  <RavenIndustrialBlueprint_Edit>编辑蓝图</RavenIndustrialBlueprint_Edit>
+  <RavenIndustrialBlueprint_Place>放置</RavenIndustrialBlueprint_Place>
+  <RavenIndustrialBlueprint_Delete>删除</RavenIndustrialBlueprint_Delete>
+  <RavenIndustrialBlueprint_DeleteConfirm>确定永久删除工业蓝图“{0}”吗？</RavenIndustrialBlueprint_DeleteConfirm>
+  <RavenIndustrialBlueprint_NewTitle>新建工业蓝图</RavenIndustrialBlueprint_NewTitle>
+  <RavenIndustrialBlueprint_Name>蓝图名称</RavenIndustrialBlueprint_Name>
+  <RavenIndustrialBlueprint_Description>简短说明</RavenIndustrialBlueprint_Description>
+  <RavenIndustrialBlueprint_StartCapture>开始框选</RavenIndustrialBlueprint_StartCapture>
+  <RavenIndustrialBlueprint_NameRequired>蓝图名称不能为空。</RavenIndustrialBlueprint_NameRequired>
+  <RavenIndustrialBlueprint_CaptureLabel>框选工业蓝图</RavenIndustrialBlueprint_CaptureLabel>
+  <RavenIndustrialBlueprint_CaptureDesc>框选完整工业建筑并保存为蓝图，最大范围 {0} × {0}。</RavenIndustrialBlueprint_CaptureDesc>
+  <RavenIndustrialBlueprint_CaptureMouse>拖动选择工业蓝图范围</RavenIndustrialBlueprint_CaptureMouse>
+  <RavenIndustrialBlueprint_EmptySelection>框选范围为空。</RavenIndustrialBlueprint_EmptySelection>
+  <RavenIndustrialBlueprint_CaptureSuccess>工业蓝图“{0}”已保存。</RavenIndustrialBlueprint_CaptureSuccess>
+  <RavenIndustrialBlueprint_RealCoverUnavailable>当前相机无法生成真实封面，已保留结构预览。</RavenIndustrialBlueprint_RealCoverUnavailable>
+  <RavenIndustrialBlueprint_PlaceLabel>放置工业蓝图</RavenIndustrialBlueprint_PlaceLabel>
+  <RavenIndustrialBlueprint_PlaceDesc>选择左下角锚点，支持左右镜像。</RavenIndustrialBlueprint_PlaceDesc>
+  <RavenIndustrialBlueprint_PlaceMouse>{0} · {1} × {2}</RavenIndustrialBlueprint_PlaceMouse>
+  <RavenIndustrialBlueprint_PlaceSuccess>已创建 {0} 个施工计划。</RavenIndustrialBlueprint_PlaceSuccess>
+  <RavenIndustrialBlueprint_PlaceFinishedSuccess>上帝模式已直接建成 {0} 个工业建筑。</RavenIndustrialBlueprint_PlaceFinishedSuccess>
+  <RavenIndustrialBlueprint_PlaceFailed>工业蓝图放置失败。</RavenIndustrialBlueprint_PlaceFailed>
+  <RavenIndustrialBlueprint_MirrorHorizontal>水平镜像</RavenIndustrialBlueprint_MirrorHorizontal>
+  <RavenIndustrialBlueprint_ResetTransform>重置左右镜像</RavenIndustrialBlueprint_ResetTransform>
+  <RavenIndustrialBlueprint_EditTitle>编辑工业蓝图</RavenIndustrialBlueprint_EditTitle>
+  <RavenIndustrialBlueprint_LayoutTab>虚拟空间</RavenIndustrialBlueprint_LayoutTab>
+  <RavenIndustrialBlueprint_CoverTab>封面</RavenIndustrialBlueprint_CoverTab>
+  <RavenIndustrialBlueprint_Save>保存蓝图</RavenIndustrialBlueprint_Save>
+  <RavenIndustrialBlueprint_Undo>撤销</RavenIndustrialBlueprint_Undo>
+  <RavenIndustrialBlueprint_Redo>重做</RavenIndustrialBlueprint_Redo>
+  <RavenIndustrialBlueprint_DeleteEntityConfirm>删除“{0}”吗？引用它的端口将解除绑定。</RavenIndustrialBlueprint_DeleteEntityConfirm>
+  <RavenIndustrialBlueprint_DeleteLinkedTitle>删除关联实体</RavenIndustrialBlueprint_DeleteLinkedTitle>
+  <RavenIndustrialBlueprint_DeleteLinkedConfirm>“{0}”属于包含 {1} 个实体的绑定组。请选择删除方式。</RavenIndustrialBlueprint_DeleteLinkedConfirm>
+  <RavenIndustrialBlueprint_DeleteOnly>仅删除并解除绑定</RavenIndustrialBlueprint_DeleteOnly>
+  <RavenIndustrialBlueprint_DeleteLinkedGroup>删除整个关联组</RavenIndustrialBlueprint_DeleteLinkedGroup>
+  <RavenIndustrialBlueprint_LayoutValid>{0} × {1} · {2} 个实体 · 布局有效</RavenIndustrialBlueprint_LayoutValid>
+  <RavenIndustrialBlueprint_CoverLayers>封面图层</RavenIndustrialBlueprint_CoverLayers>
+  <RavenIndustrialBlueprint_AddText>添加文字</RavenIndustrialBlueprint_AddText>
+  <RavenIndustrialBlueprint_AddThingIcon>物品贴图</RavenIndustrialBlueprint_AddThingIcon>
+  <RavenIndustrialBlueprint_AddLiquidIcon>液体贴图</RavenIndustrialBlueprint_AddLiquidIcon>
+  <RavenIndustrialBlueprint_SelectThingIcon>选择物品贴图</RavenIndustrialBlueprint_SelectThingIcon>
+  <RavenIndustrialBlueprint_SelectLiquidIcon>选择液体贴图</RavenIndustrialBlueprint_SelectLiquidIcon>
+  <RavenIndustrialBlueprint_IconNoResults>没有符合搜索条件的贴图</RavenIndustrialBlueprint_IconNoResults>
+  <RavenIndustrialBlueprint_IconSize>贴图尺寸：{0}%</RavenIndustrialBlueprint_IconSize>
+  <RavenIndustrialBlueprint_CoverSelect>选择或添加文字、物品或液体图层后进行编辑。</RavenIndustrialBlueprint_CoverSelect>
+  <RavenIndustrialBlueprint_Text>文字内容</RavenIndustrialBlueprint_Text>
+  <RavenIndustrialBlueprint_FontSize>字号：{0}</RavenIndustrialBlueprint_FontSize>
+  <RavenIndustrialBlueprint_OpenFolder>打开蓝图本地文件夹</RavenIndustrialBlueprint_OpenFolder>
+  <RavenIndustrialBlueprint_OpenFolderFailed>无法打开蓝图文件夹：{0}</RavenIndustrialBlueprint_OpenFolderFailed>
+  <RavenIndustrialBlueprint_NetworkUnavailable>网络蓝图服务尚未接入</RavenIndustrialBlueprint_NetworkUnavailable>
+  <RavenIndustrialBlueprint_NetworkLoading>正在读取网络蓝图...</RavenIndustrialBlueprint_NetworkLoading>
+  <RavenIndustrialBlueprint_NetworkEmpty>当前筛选下没有网络蓝图</RavenIndustrialBlueprint_NetworkEmpty>
+  <RavenIndustrialBlueprint_NetworkSelect>从左侧选择一份网络蓝图</RavenIndustrialBlueprint_NetworkSelect>
+  <RavenIndustrialBlueprint_NetworkMeta>{0} · {1} 赞 · {2} 下载</RavenIndustrialBlueprint_NetworkMeta>
+  <RavenIndustrialBlueprint_NetworkDependencies>依赖模组：{0}</RavenIndustrialBlueprint_NetworkDependencies>
+  <RavenIndustrialBlueprint_Download>下载到本地</RavenIndustrialBlueprint_Download>
+  <RavenIndustrialBlueprint_DownloadSuccess>网络蓝图“{0}”已导入本地。</RavenIndustrialBlueprint_DownloadSuccess>
+  <RavenIndustrialBlueprint_Sort_Latest>最新</RavenIndustrialBlueprint_Sort_Latest>
+  <RavenIndustrialBlueprint_Sort_Hot>热门</RavenIndustrialBlueprint_Sort_Hot>
+  <RavenIndustrialBlueprint_Sort_Downloads>下载</RavenIndustrialBlueprint_Sort_Downloads>
+  <RavenIndustrialBlueprint_Sort_Mine>我的</RavenIndustrialBlueprint_Sort_Mine>
+  <RavenIndustrialBlueprint_PrevPage>上一页</RavenIndustrialBlueprint_PrevPage>
+  <RavenIndustrialBlueprint_NextPage>下一页</RavenIndustrialBlueprint_NextPage>
+  <RavenIndustrialBlueprint_SteamUnavailable>Steam 尚未初始化，无法执行需要身份的蓝图操作。</RavenIndustrialBlueprint_SteamUnavailable>
+  <RavenIndustrialBlueprint_SteamInvalid>当前 SteamID 无效，无法执行网络蓝图操作。</RavenIndustrialBlueprint_SteamInvalid>
+  <RavenIndustrialBlueprint_CodeImport>蓝图码导入</RavenIndustrialBlueprint_CodeImport>
+  <RavenIndustrialBlueprint_CodeImportTitle>通过蓝图码导入</RavenIndustrialBlueprint_CodeImportTitle>
+  <RavenIndustrialBlueprint_CodeInput>蓝图码</RavenIndustrialBlueprint_CodeInput>
+  <RavenIndustrialBlueprint_PasteCode>粘贴剪贴板中的蓝图码</RavenIndustrialBlueprint_PasteCode>
+  <RavenIndustrialBlueprint_QueryCode>查询蓝图</RavenIndustrialBlueprint_QueryCode>
+  <RavenIndustrialBlueprint_CodeImportHint>输入别人分享的蓝图码，查询确认后下载到本地蓝图库。</RavenIndustrialBlueprint_CodeImportHint>
+  <RavenIndustrialBlueprint_CodeDetailMeta>作者：{0}
+尺寸：{1} × {2} · {3} 个实体 · {4} 次下载</RavenIndustrialBlueprint_CodeDetailMeta>
+  <RavenIndustrialBlueprint_CodeTitle>工业蓝图码</RavenIndustrialBlueprint_CodeTitle>
+  <RavenIndustrialBlueprint_CodeShareHint>把这段代码发送给其他玩家，对方可以在工业蓝图页直接导入。</RavenIndustrialBlueprint_CodeShareHint>
+  <RavenIndustrialBlueprint_CopyCode>复制蓝图码</RavenIndustrialBlueprint_CopyCode>
+  <RavenIndustrialBlueprint_CodeCopied>已复制蓝图码：{0}</RavenIndustrialBlueprint_CodeCopied>
+  <RavenIndustrialBlueprint_CodeAlreadyImported>蓝图码 {0} 已经存在于本地蓝图库。</RavenIndustrialBlueprint_CodeAlreadyImported>
+  <RavenIndustrialBlueprint_Upload>上传到网络</RavenIndustrialBlueprint_Upload>
+  <RavenIndustrialBlueprint_ShowCode>查看并复制蓝图码</RavenIndustrialBlueprint_ShowCode>
+  <RavenIndustrialBlueprint_UploadConfirm>确定上传“{0}”吗？上传成功后会立即公开，并消耗今天的一次上传额度。</RavenIndustrialBlueprint_UploadConfirm>
+  <RavenIndustrialBlueprint_UploadSuccess>蓝图已上传，代码为 {0}。今天还可上传 {1} 次。</RavenIndustrialBlueprint_UploadSuccess>
+  <RavenIndustrialBlueprint_UpdateSuccess>网络蓝图 {0} 已更新。今天还可上传 {1} 次。</RavenIndustrialBlueprint_UpdateSuccess>
+  <RavenIndustrialBlueprint_Reupload>更新网络蓝图</RavenIndustrialBlueprint_Reupload>
+  <RavenIndustrialBlueprint_ReuploadConfirm>确定更新“{0}”吗？更新会保留原蓝图码，并消耗今天的一次上传额度。</RavenIndustrialBlueprint_ReuploadConfirm>
+  <RavenIndustrialBlueprint_Quota>今日上传：{0} / {1}</RavenIndustrialBlueprint_Quota>
+</LanguageData>

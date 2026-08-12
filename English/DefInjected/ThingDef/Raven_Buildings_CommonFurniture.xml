@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Table1x1t.label>[Raven] Table (1X1)</Raven_Table1x1t.label>
+  <Raven_Table1x1t.description>A small Raven-style table, perfect for solo or duo dining. Its refined design blends Raven Golden Crow patterns with a streamlined structure.</Raven_Table1x1t.description>
+  <Raven_Table2x2t.label>[Raven] Table (2X2)</Raven_Table2x2t.label>
+  <Raven_Table2x2t.description>A medium Raven-style square table for multiple diners. The tabletop is inlaid with Raven Golden Crow patterns on Raven Darkfeather Steel, elegant and generous.</Raven_Table2x2t.description>
+  <Raven_Table2x3t.label>[Raven] Long Table (2X3)</Raven_Table2x3t.label>
+  <Raven_Table2x3t.description>A large Raven-style long table for group meals or important meetings. The spacious tabletop can hold lavish food and various ritual items.</Raven_Table2x3t.description>
+  <Raven_Table1x2t.label>[Raven] Long Table (1X2)</Raven_Table1x2t.label>
+  <Raven_Table1x2t.description>A small Raven-style long table for intimate gatherings or private meetings. The tabletop holds a moderate amount of food and ritual items.</Raven_Table1x2t.description>
+  <Raven_DiningChair.label>[Raven] Dining Chair</Raven_DiningChair.label>
+  <Raven_DiningChair.description>An exquisite Raven-style dining chair blending Eastern aesthetics with industrial precision. Its streamlined backrest is framed in Raven Darkfeather Steel and filled with soft fabric, making it both beautiful and comfortable.</Raven_DiningChair.description>
+  <Raven_Sofa_1x1s.label>[Raven] Single Sofa</Raven_Sofa_1x1s.label>
+  <Raven_Sofa_1x1s.description>A luxurious single sofa designed specifically for the Raven physique. Framed in Raven Darkfeather Steel and filled with premium soft fabric, it perfectly accommodates the Raven wing structure. Its comfort and beauty far exceed standard luxury armchairs.</Raven_Sofa_1x1s.description>
+  <Raven_Sofa_2x1s.label>[Raven] Double Sofa</Raven_Sofa_2x1s.label>
+  <Raven_Sofa_2x1s.description>A spacious and soft double sofa designed for Raven communal living and socializing. Crafted with exquisite materials, it provides ultimate relaxation and perfectly supports two people seated at once.</Raven_Sofa_2x1s.description>
+  <Raven_Banner.label>[Raven] War Banner</Raven_Banner.label>
+  <Raven_Banner.description>A vertically hung Raven war banner embroidered with an exquisite Raven Golden Crow totem. It is not only a symbol of Raven honor and secrecy, but its fine craftsmanship also greatly enhances the surrounding beauty. Pawns can pass directly through it without obstruction.</Raven_Banner.description>
+  <Raven_StandingLamp.label>[Raven] Standing Lamp</Raven_StandingLamp.label>
+  <Raven_StandingLamp.description>An electric standing lamp designed by the Raven race. The column is cast in Raven Darkfeather Steel, and the lampshade resembles a Raven Golden Crow spreading its wings, emitting a warm amber glow. Requires power.</Raven_StandingLamp.description>
+  <Raven_WallLamp.label>[Raven] Wall Lamp</Raven_WallLamp.label>
+  <Raven_WallLamp.description>An electric wall lamp designed by the Raven race. The body is made of Raven Darkfeather Steel with delicate Raven Golden Crow wing decorations. Slightly weaker than the standing lamp but saves space. Requires power.</Raven_WallLamp.description>
+  <Raven_Bed.label>[Raven] Single Bed</Raven_Bed.label>
+  <Raven_Bed.description>A Raven-style single bed with a Raven Darkfeather Steel frame and a soft black fabric mattress. The built-in micro-environment regulator ensures the sleeper is undisturbed by outside noise and always sleeps at the most comfortable temperature. Beautiful and comfortable, it's a standard furnishing in Raven dwellings.</Raven_Bed.description>
+  <Raven_DoubleBed.label>[Raven] Double Bed</Raven_DoubleBed.label>
+  <Raven_DoubleBed.description>A Raven-style double bed with a spacious surface for two. The frame features flowing lines, with a Raven Darkfeather Steel skeleton and satin-smooth fabric, showcasing the Raven race's penchant for pleasure. The built-in micro-environment regulator ensures sleepers are undisturbed by outside noise and always sleep at the perfect temperature.</Raven_DoubleBed.description>
+  <Raven_Crib.label>[Raven] Crib</Raven_Crib.label>
+  <Raven_Crib.description>A safe and comfortable Raven-style crib. Made of Raven Darkfeather Steel and soft fabric, it provides superb protection and an excellent sleeping environment for infants. The built-in micro-environment regulator keeps the infant at the most comfortable temperature, undisturbed by outside noise.</Raven_Crib.description>
+  <Raven_Dresser.label>[Raven] Dresser</Raven_Dresser.label>
+  <Raven_Dresser.description>A Raven-style low cabinet, its surface carved with exquisite Raven Golden Crow feather patterns. Can be placed beside a bed to provide a comfort bonus. (Placing multiple dressers does not stack the effect.)</Raven_Dresser.description>
+  <Raven_EndTable.label>[Raven] End Table</Raven_EndTable.label>
+  <Raven_EndTable.description>A compact end table that gives sleepers a place to store personal items. Must be placed adjacent to the head of a bed to provide a comfort bonus.</Raven_EndTable.description>
+  <Raven_WardrobeSmallc.label>[Raven] Wardrobe (1X1)</Raven_WardrobeSmallc.label>
+  <Raven_WardrobeSmallc.description>A small standing cabinet designed for storing clothing. Clothes stored inside will not deteriorate and are perfectly hidden behind the cabinet doors.</Raven_WardrobeSmallc.description>
+  <Raven_WardrobeLargec.label>[Raven] Large Wardrobe (2X1)</Raven_WardrobeLargec.label>
+  <Raven_WardrobeLargec.description>A spacious double-door wardrobe that can neatly store a large amount of clothing. Clothes stored inside will not deteriorate and are perfectly hidden behind the cabinet doors.</Raven_WardrobeLargec.description>
+  <Raven_GoTable.label>[Raven] Go Table</Raven_GoTable.label>
+  <Raven_GoTable.description>An exquisite Go table. Go is an ancient and profound strategy game that hones players' wisdom through the interplay of black and white stones. Requires an adjacent chair to use.</Raven_GoTable.description>
+  <Raven_FoldingScreen.label>[Raven] Folding Screen</Raven_FoldingScreen.label>
+  <Raven_FoldingScreen.description>An exquisite 2x1 folding screen painted with ancient Raven mythology. It can be used to divide rooms, provide privacy, and greatly enhance the environment's beauty.</Raven_FoldingScreen.description>
+  <Raven_Building_Vase.label>[Raven] Vase</Raven_Building_Vase.label>
+  <Raven_Building_Vase.description>An exquisite Raven-style vase, its body painted with fine dark-gold textures. Holding unknown delicate flowers, it is perfect for decorating rooms to boost their beauty.</Raven_Building_Vase.description>
+  <Raven_ThroneGrand.label>[Raven] Fusang Throne</Raven_ThroneGrand.label>
+  <Raven_ThroneGrand.description>A magnificent supreme throne designed for highly prestigious Raven leaders or transcendent meditators. Inlaid with Raven Corona Steel, it can vastly focus spiritual power. Its performance far exceeds that of a standard imperial grand throne.</Raven_ThroneGrand.description>
+  <Raven_ToolBox.label>[Raven] Toolbox</Raven_ToolBox.label>
+  <Raven_ToolBox.description>A miniature high-tech toolbox that can be placed on a table. Though compact, it contains a large number of precision instruments. When connected to a workbench, it provides a higher work speed bonus than a traditional tool cabinet. A workbench can be connected to at most two toolboxes (or tool cabinets).</Raven_ToolBox.description>
+  <Raven_HospitalBed.label>[Raven] Hospital Bed</Raven_HospitalBed.label>
+  <Raven_HospitalBed.description>A top-tier medical bed designed for high-risk surgeries and critical care of the Raven race. Integrating blood filtration and cell repair feedback systems, its treatment quality and surgery success rate bonuses far exceed standard medical beds.</Raven_HospitalBed.description>
+  <Raven_SmartArm.label>[Raven] Smart Surgical Arm</Raven_SmartArm.label>
+  <Raven_SmartArm.description>A smart surgical mechanical arm featuring a high-precision AI assist program. It must be placed next to a medical bed to function.\n\nJokingly called "the surgical assist device even a dragon girl can use." Once powered on, this mechanical arm will forcibly intervene when a surgery hits a fatal error. Even if the lead surgeon has zero experience, it guarantees a highly successful baseline for surgery and treatment quality!</Raven_SmartArm.description>
+  <Raven_WorkChair.label>[Raven] Work Chair</Raven_WorkChair.label>
+  <Raven_WorkChair.description>An ergonomic Raven work chair. With a design similar to a single sofa, it provides excellent comfort and is perfect for long hours of work.</Raven_WorkChair.description>
+  <Raven_CurvedTV.label>[Raven] Curved Tv</Raven_CurvedTV.label>
+  <Raven_CurvedTV.description>An advanced TV with an immersive curved screen. It provides a wider field of view and a better viewing experience than standard flat-screen TVs.</Raven_CurvedTV.description>
+  <Raven_Candlestand.label>[Raven] Candlestick</Raven_Candlestand.label>
+  <Raven_Candlestand.description>A decorative candlestick that can be placed on a tabletop. When fueled with wood, a flame will appear over the candlestick body.</Raven_Candlestand.description>
+  <Raven_SolemnScreen.label>[Raven] Solemn Screen</Raven_SolemnScreen.label>
+  <Raven_SolemnScreen.description>A massive 5x1 screen, used to divide spaces or act as a backdrop decoration. It feels solemn and magnificent.</Raven_SolemnScreen.description>
+  <Raven_CourtyardLamp.label>[Raven] Courtyard Lamp</Raven_CourtyardLamp.label>
+  <Raven_CourtyardLamp.description>An electric lamp used to illuminate courtyards or outdoor areas.</Raven_CourtyardLamp.description>
+  <Raven_Rug_Totem_3x3r.label>[Raven] Totem Rug (3X3)</Raven_Rug_Totem_3x3r.label>
+  <Raven_Rug_Totem_3x3r.description>A wide dark-colored rug with a Raven Golden Crow totem embroidered in the center. Extremely soft to the touch, it is perfect for decorating halls or bedrooms.</Raven_Rug_Totem_3x3r.description>
+  <Raven_Rug_Wood_3x3r.label>[Raven] Wood Rug (3X3)</Raven_Rug_Wood_3x3r.label>
+  <Raven_Rug_Wood_3x3r.description>A rug mimicking the texture of Raven wood flooring, providing a warm and comfortable feel underfoot.</Raven_Rug_Wood_3x3r.description>
+  <Raven_Rug_StoneA_3x3r.label>[Raven] Stone Rug A (3X3)</Raven_Rug_StoneA_3x3r.label>
+  <Raven_Rug_StoneA_3x3r.description>A rug mimicking the texture of Raven stone floor A, combining the cold look of stone with the softness of fabric.</Raven_Rug_StoneA_3x3r.description>
+  <Raven_Rug_StoneB_3x3r.label>[Raven] Stone Rug B (3X3)</Raven_Rug_StoneB_3x3r.label>
+  <Raven_Rug_StoneB_3x3r.description>A rug mimicking the texture of Raven stone floor B, featuring darker patterns that exude solemnity.</Raven_Rug_StoneB_3x3r.description>
+  <Raven_Rug_CarpetGoldA_3x3r.label>[Raven] Gold-Inlaid Rug A (3X3)</Raven_Rug_CarpetGoldA_3x3r.label>
+  <Raven_Rug_CarpetGoldA_3x3r.description>A rug mimicking the texture of Raven gold-inlaid carpet A, with gorgeous golden patterns showing distinction.</Raven_Rug_CarpetGoldA_3x3r.description>
+  <Raven_Rug_CarpetGoldB_3x3r.label>[Raven] Gold-Inlaid Rug B (3X3)</Raven_Rug_CarpetGoldB_3x3r.label>>
+  <Raven_Rug_CarpetGoldB_3x3r.description>A rug mimicking the texture of Raven gold-inlaid carpet B, featuring an elaborate golden totem pattern for a prestigious look.</Raven_Rug_CarpetGoldB_3x3r.description>
+</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raven_Bookcase.label>[Raven] Bookcase</Raven_Bookcase.label>
+  <Raven_Bookcase.description>A Raven-style bookcase. It is currently using the vanilla bookcase as a placeholder, but it fully retains the vanilla bookcase's book storage and reading bonus logic.</Raven_Bookcase.description>
+</LanguageData>
